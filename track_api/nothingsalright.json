@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Nothing's Alright",
+        "releaseYear": 2023,
+        "duration": 188,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 89,
+        "artistName": "WitchGang",
+        "ageRating": "E",
+        "albumArtFilename": "klirziy8idvnuqnf--512x512-b4a2516463c2.jpg",
+        "recordingCode": "TCAHQ2330818",
+        "songUUID": "e00a9db2-341a-4d27-9f88-d429fdee5d55",
+        "trackIndex": "108"
+    },
+    "_activeDate": "2023-12-19T23:59:00.000Z",
+    "lastModified": "2024-09-14T02:01:12.543Z"
+}

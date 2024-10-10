@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Oxytocin",
+        "releaseYear": 2021,
+        "duration": 187,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 125,
+        "artistName": "Billie Eilish",
+        "ageRating": "E",
+        "albumArtFilename": "qxqfgga7uumgg1xj-512x512-5490df403d0c.jpg",
+        "recordingCode": "USUM72104675",
+        "songUUID": "6d4fbded-7438-4697-9ffb-ec29eab8b231",
+        "trackIndex": "174"
+    },
+    "_activeDate": "2024-04-23T08:00:00.000Z",
+    "lastModified": "2024-09-19T02:29:09.507Z"
+}

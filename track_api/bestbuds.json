@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Best Buds",
+        "releaseYear": 2019,
+        "duration": 166,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 152,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "kpd4ylhcw36tr0ut-512x512-36682219830a.jpg",
+        "songUUID": "a40a6819-29d4-47d2-9a2f-2f368b64ab55",
+        "trackIndex": "165"
+    },
+    "_activeDate": "2024-02-01T14:33:35.052Z",
+    "lastModified": "2024-09-18T06:25:40.339Z"
+}

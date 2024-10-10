@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Big Poppa",
+        "releaseYear": 1994,
+        "duration": 255,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 169,
+        "artistName": "The Notorious B.I.G.",
+        "ageRating": "T",
+        "albumArtFilename": "oioxxxtslgrpcwiz-512x512-72a067e95e4a.jpg",
+        "recordingCode": "USRH11604386",
+        "songUUID": "c91f2a04-6a79-4d3e-a355-88cfb989f521",
+        "trackIndex": "317"
+    },
+    "_activeDate": "2024-09-12T13:30:00.000Z",
+    "lastModified": "2024-09-23T03:52:34.427Z"
+}

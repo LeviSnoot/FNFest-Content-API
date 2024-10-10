@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Scenario",
+        "releaseYear": 1991,
+        "duration": 256,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 5,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 102,
+        "artistName": "A Tribe Called Quest ft. Leaders Of The New School",
+        "ageRating": "T",
+        "albumArtFilename": "jg8bbngmx4lb3pbk-512x512-1af5132452d1.jpg",
+        "recordingCode": "USJI12100076",
+        "songUUID": "959ec217-c510-4dcc-8fb9-a83cda47a5bd",
+        "trackIndex": "162"
+    },
+    "_activeDate": "2024-01-31T21:18:59.401Z",
+    "lastModified": "2024-09-18T08:35:48.866Z"
+}

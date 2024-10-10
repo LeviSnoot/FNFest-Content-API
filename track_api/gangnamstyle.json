@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Gangnam Style",
+        "releaseYear": 2012,
+        "duration": 221,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 132,
+        "artistName": "PSY",
+        "ageRating": "E",
+        "albumArtFilename": "6nvouolqttdklzou-512x512-5a4d49a61ef1.jpg",
+        "recordingCode": "USUM71210283",
+        "songUUID": "9912cbe8-b1e7-4977-b407-1b066d5a1ccf",
+        "trackIndex": "91"
+    },
+    "_activeDate": "2023-11-08T22:11:48.093Z",
+    "lastModified": "2024-09-19T03:45:02.551Z"
+}

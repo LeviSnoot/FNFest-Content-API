@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Numb",
+        "releaseYear": 2003,
+        "duration": 187,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Rock"
+        ],
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "albumName": "Meteora",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 110,
+        "artistName": "Linkin Park",
+        "ageRating": "E",
+        "albumArtFilename": "0o4fntpnuwyu1bqf-512x512-6f1cd4a9229d.jpg",
+        "recordingCode": "USWB11201339",
+        "songUUID": "148122c5-ec39-4caf-a5e2-1d8ac9fa00d9",
+        "trackIndex": "18"
+    },
+    "_activeDate": "2023-10-09T21:15:40.001Z",
+    "lastModified": "2024-09-18T06:50:09.216Z"
+}

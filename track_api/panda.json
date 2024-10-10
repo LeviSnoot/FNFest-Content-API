@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Panda",
+        "releaseYear": 2015,
+        "duration": 229,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 5,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 145,
+        "artistName": "Desiigner",
+        "ageRating": "T",
+        "albumArtFilename": "mdllyoxljxni0rru-512x512-b0e62cdce531.jpg",
+        "recordingCode": "USUM71601095 ",
+        "songUUID": "63feef41-bb2d-4b34-a669-21427540ae0f",
+        "trackIndex": "293"
+    },
+    "_activeDate": "2024-08-08T13:30:00.000Z",
+    "lastModified": "2024-09-23T06:27:32.167Z"
+}

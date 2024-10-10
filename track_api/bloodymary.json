@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Bloody Mary",
+        "releaseYear": 2011,
+        "duration": 247,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 1,
+            "bass": 4
+        },
+        "BPM": 100,
+        "artistName": "Lady Gaga",
+        "ageRating": "E",
+        "albumArtFilename": "swyzmcoklt5fcp84-512x512-87033a56a293.jpg",
+        "recordingCode": "USUM71106449",
+        "songUUID": "c3823abf-426c-4efe-9545-e4373031d974",
+        "trackIndex": "147"
+    },
+    "_activeDate": "2024-01-22T16:00:56.596Z",
+    "lastModified": "2024-09-18T06:22:18.195Z"
+}

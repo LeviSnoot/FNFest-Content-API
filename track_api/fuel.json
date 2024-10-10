@@ -1,0 +1,32 @@
+{
+    "track": {
+        "ci": 4.106,
+        "trackTitle": "Fuel",
+        "releaseYear": 1997,
+        "duration": 267,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 5,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 107,
+        "artistName": "Metallica",
+        "ageRating": "E",
+        "albumArtFilename": "8mwwgfrd21qjrwcd-512x512-cf49bccdf7d8.jpg",
+        "recordingCode": "GBJ330300240",
+        "songUUID": "3d8ea68e-a6e3-4c70-bfd8-7cf5d2869978",
+        "trackIndex": "231"
+    },
+    "_activeDate": "2024-06-13T08:00:00.000Z",
+    "lastModified": "2024-09-19T06:05:08.858Z"
+}

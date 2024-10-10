@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Flickering Flame",
+        "releaseYear": 2023,
+        "duration": 134,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 98,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "diksfmgauvmhdbnf-512x512-5129a4f378e6.jpg",
+        "songUUID": "a9196bbc-5e96-4674-bd30-3d9d99afc9ee",
+        "trackIndex": "94"
+    },
+    "_activeDate": "2023-11-03T14:25:37.646Z",
+    "lastModified": "2024-09-14T02:49:27.493Z"
+}

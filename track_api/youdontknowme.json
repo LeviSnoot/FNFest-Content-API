@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "You Don't Know Me",
+        "releaseYear": 2023,
+        "duration": 185,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 5,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 6,
+            "bass": 4
+        },
+        "BPM": 135,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "bpgkozyjm4qbbhmm-512x512-2f31db04577f.jpg",
+        "songUUID": "1b59011c-9029-4e4d-8acd-49f9e9945d92",
+        "trackIndex": "81"
+    },
+    "_activeDate": "2023-11-02T18:18:42.760Z",
+    "lastModified": "2024-09-14T02:37:10.997Z"
+}

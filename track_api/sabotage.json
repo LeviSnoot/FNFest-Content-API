@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Sabotage",
+        "releaseYear": 1994,
+        "duration": 180,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 168,
+        "artistName": "Beastie Boys",
+        "ageRating": "E",
+        "albumArtFilename": "xkamsyz2nw3ez1md-512x512-6c30d884f2b1.jpg",
+        "recordingCode": "USCA29400112",
+        "songUUID": "8336a687-eaf9-4efe-a017-635b307f3f38",
+        "trackIndex": "214"
+    },
+    "_activeDate": "2024-06-06T13:30:00.000Z",
+    "lastModified": "2024-09-19T06:26:09.674Z"
+}

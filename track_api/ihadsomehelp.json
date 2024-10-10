@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "I Had Some Help",
+        "releaseYear": 2024,
+        "duration": 180,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 128,
+        "artistName": "Post Malone ft. Morgan Wallen",
+        "ageRating": "E",
+        "albumArtFilename": "ebtpshkgsmfqwwpm-512x512-a6919add031e.jpg",
+        "recordingCode": "USUM72404993",
+        "songUUID": "dd7250e9-8bd3-4afd-89e4-902ba0efebed",
+        "trackIndex": "248"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-09-19T06:28:12.360Z"
+}

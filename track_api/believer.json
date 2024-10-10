@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Believer",
+        "releaseYear": 2017,
+        "duration": 206,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Pop"
+        ],
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "albumName": "Evolve",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 125,
+        "artistName": "Imagine Dragons",
+        "ageRating": "E",
+        "albumArtFilename": "imnrzoyfi8etx6yo-512x512-95ea06bc3f6a.jpg",
+        "recordingCode": "USUM71700626",
+        "songUUID": "cd548fe9-9c16-45bc-9e0c-690d8fa4e0e0",
+        "trackIndex": "54"
+    },
+    "_activeDate": "2023-12-22T00:00:00.000Z",
+    "lastModified": "2024-09-14T02:07:07.412Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Breed",
+        "releaseYear": 1991,
+        "duration": 184,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 158,
+        "artistName": "Nirvana",
+        "ageRating": "E",
+        "albumArtFilename": "pvnoyyapku7aau1a-512x512-69c9fb5a174f.jpg",
+        "recordingCode": "USGF19942504",
+        "songUUID": "bd8c3280-ed27-4be7-98ee-442a80a334ce",
+        "trackIndex": "201"
+    },
+    "_activeDate": "2024-04-04T14:10:03.699Z",
+    "lastModified": "2024-09-19T03:52:13.569Z"
+}

@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Bring Me To Life",
+        "releaseYear": 2003,
+        "duration": 242,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "albumName": "Fallen ",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 95,
+        "artistName": "Evanescence",
+        "ageRating": "E",
+        "albumArtFilename": "3fgvzmhbwk6x9lkc-512x512-74f320d93463.jpg",
+        "recordingCode": "USWU30200093",
+        "songUUID": "6c5fcefa-d863-4f41-b5ae-ceaf8afe4651",
+        "trackIndex": "12"
+    },
+    "_activeDate": "2023-10-09T20:54:45.424Z",
+    "lastModified": "2024-09-19T03:57:04.748Z"
+}

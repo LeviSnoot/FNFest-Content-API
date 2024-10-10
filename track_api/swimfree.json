@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Swim Free",
+        "releaseYear": 2024,
+        "duration": 192,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 6,
+            "vocals": 4,
+            "proGuitar": 5,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 142,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "cqcvlz7xrgsdqbzn-512x512-b9c122f8dfee.jpg",
+        "songUUID": "d80f48c1-76f9-4c68-a325-6f53abc81a54",
+        "trackIndex": "152"
+    },
+    "_activeDate": "2024-03-08T09:00:00.000Z",
+    "lastModified": "2024-09-18T07:01:04.221Z"
+}

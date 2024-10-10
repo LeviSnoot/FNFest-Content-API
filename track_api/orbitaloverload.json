@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Orbital Overload",
+        "releaseYear": 2021,
+        "duration": 225,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 5,
+            "vocals": 2,
+            "proGuitar": 4,
+            "guitar": 5,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 98,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "s2nez35j0qnvvrxo-512x512-43486b10edc4.jpg",
+        "songUUID": "b626bcc5-0707-406a-9850-5d8b5caf5318",
+        "trackIndex": "288"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-09-23T06:26:52.135Z"
+}

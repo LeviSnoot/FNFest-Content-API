@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Beyond the Flame",
+        "releaseYear": 2024,
+        "duration": 270,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 5,
+            "vocals": 2,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 6,
+            "bass": 4
+        },
+        "BPM": 90,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "1zdjkpgzyzltqki0-512x512-be5f13f0940d.jpg",
+        "songUUID": "912f6323-5761-422e-85b8-42f1058d8d5a",
+        "trackIndex": "333"
+    },
+    "_activeDate": "2024-09-04T08:00:00.000Z",
+    "lastModified": "2024-09-23T03:50:48.361Z"
+}

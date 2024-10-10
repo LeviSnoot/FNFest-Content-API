@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Applause",
+        "releaseYear": 2013,
+        "duration": 213,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 140,
+        "artistName": "Lady Gaga",
+        "ageRating": "E",
+        "albumArtFilename": "yrvtxegemshqnes8-512x512-13092ae017f1.jpg",
+        "recordingCode": "USUM71310271",
+        "songUUID": "01fa904c-11b2-44aa-b327-fc7dec089036",
+        "trackIndex": "130"
+    },
+    "_activeDate": "2024-01-10T18:44:53.907Z",
+    "lastModified": "2024-09-18T03:29:05.555Z"
+}

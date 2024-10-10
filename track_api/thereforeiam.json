@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Therefore I Am",
+        "releaseYear": 2020,
+        "duration": 176,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 0,
+            "guitar": 1,
+            "drums": 1,
+            "bass": 2
+        },
+        "BPM": 94,
+        "artistName": "Billie Eilish",
+        "ageRating": "E",
+        "albumArtFilename": "qxqfgga7uumgg1xj-512x512-095e85caff6b.jpg",
+        "recordingCode": "USUM72021500",
+        "songUUID": "347014f4-1de1-4bbe-99a5-09a89a4d59c2",
+        "trackIndex": "135"
+    },
+    "_activeDate": "2024-04-23T08:00:00.000Z",
+    "lastModified": "2024-09-19T02:21:56.017Z"
+}

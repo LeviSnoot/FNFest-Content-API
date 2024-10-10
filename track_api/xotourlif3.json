@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "XO Tour Llif3 ",
+        "releaseYear": 2017,
+        "duration": 191,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 155,
+        "artistName": "Lil Uzi Vert",
+        "ageRating": "E",
+        "albumArtFilename": "258k0njeblbptlbq-512x512-461c2704f989.jpg",
+        "recordingCode": "USAT21703456",
+        "songUUID": "7f2134d0-29f4-48e7-8a99-58ba3b4a30b3",
+        "trackIndex": "184"
+    },
+    "_activeDate": "2024-03-14T14:27:33.678Z",
+    "lastModified": "2024-09-19T02:09:34.081Z"
+}

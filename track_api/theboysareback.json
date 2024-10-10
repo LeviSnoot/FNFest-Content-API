@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Boys Are Back In Town",
+        "releaseYear": 1976,
+        "duration": 290,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 4
+        },
+        "BPM": 160,
+        "artistName": "Thin Lizzy",
+        "ageRating": "T",
+        "albumArtFilename": "ov6ieyvtvw0q3kja-512x512-ec4239f7f5e8.jpg",
+        "recordingCode": "GBF087600063",
+        "songUUID": "3910f423-ecc7-49e7-92f6-362171b787fd",
+        "trackIndex": "274"
+    },
+    "_activeDate": "2024-07-25T13:30:00.000Z",
+    "lastModified": "2024-09-20T02:37:47.844Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Me Too",
+        "releaseYear": 2016,
+        "duration": 185,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 124,
+        "artistName": "Meghan Trainor",
+        "ageRating": "E",
+        "albumArtFilename": "xdokxxv9x4hovbz6-512x512-d73c8e094b35.jpg",
+        "recordingCode": "USSM11601177",
+        "songUUID": "c60619ee-188a-4696-8f57-353a397a2fdb",
+        "trackIndex": "144"
+    },
+    "_activeDate": "2024-01-22T15:51:45.734Z",
+    "lastModified": "2024-09-18T06:38:59.579Z"
+}

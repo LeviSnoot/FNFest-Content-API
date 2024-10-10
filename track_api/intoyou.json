@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Into You",
+        "releaseYear": 2016,
+        "duration": 246,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Pop"
+        ],
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "albumName": "Dangerous Woman",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 1,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 108,
+        "artistName": "Ariana Grande",
+        "ageRating": "E",
+        "albumArtFilename": "f42b3iv6hb7j7t7e-512x512-53ce887cfdac.jpg",
+        "recordingCode": "USUM71601827",
+        "songUUID": "2c1af80a-e8c2-4a42-b4cf-9f821fa5ba51",
+        "trackIndex": "128"
+    },
+    "_activeDate": "2023-10-10T18:10:16.091Z",
+    "lastModified": "2024-09-18T02:29:41.319Z"
+}

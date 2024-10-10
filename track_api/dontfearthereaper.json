@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "(Don't Fear) The Reaper",
+        "releaseYear": 1976,
+        "duration": 322,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Rock"
+        ],
+        "key": "A",
+        "majorMinor": "Minor",
+        "albumName": "Agents of Fortune",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 5,
+            "vocals": 2,
+            "proGuitar": 4,
+            "guitar": 5,
+            "drums": 6,
+            "bass": 5
+        },
+        "BPM": 141,
+        "artistName": "Blue \u00d6yster Cult",
+        "ageRating": "E",
+        "albumArtFilename": "ctzomncwaembo4i9-512x512-4f2be6de1f0e.png",
+        "recordingCode": "USSM17600477",
+        "songUUID": "75d14ea0-99b6-41a6-8c68-bca89bddded7",
+        "trackIndex": "20"
+    },
+    "_activeDate": "2023-10-09T21:22:07.220Z",
+    "lastModified": "2024-09-18T07:58:19.251Z"
+}

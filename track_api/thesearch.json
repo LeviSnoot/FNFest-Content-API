@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "The Search",
+        "releaseYear": 2019,
+        "duration": 205,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "RapHipHop"
+        ],
+        "key": "D",
+        "majorMinor": "Minor",
+        "albumName": "The Search",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 120,
+        "artistName": "NF",
+        "ageRating": "T",
+        "albumArtFilename": "bgogktegczolxlj3-512x512-391386a75a82.jpg",
+        "recordingCode": "USUM71907048",
+        "songUUID": "8fd6c98f-0c8c-4632-9daa-0b3f49e8ff34",
+        "trackIndex": "56"
+    },
+    "_activeDate": "2023-12-19T23:59:00.000Z",
+    "lastModified": "2024-09-14T00:41:28.402Z"
+}

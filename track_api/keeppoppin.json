@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Keep Poppin",
+        "releaseYear": 2021,
+        "duration": 230,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 5,
+            "proDrums": 3,
+            "vocals": 1,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 116,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "esauibizrkcw2h0l-512x512-3bc89c6d9ffe.jpg",
+        "songUUID": "688d5487-d2af-476b-89ac-58672fa64256",
+        "trackIndex": "287"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-09-23T06:22:28.760Z"
+}
