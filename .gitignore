@@ -11,11 +11,10 @@ venv/
 ENV/
 VENV/
 
-# Ignore output directory from local script
-track_api_test/
-
-# Ignore json file from local script
-fnfest_content_api_test.json
+# Ignore test files/directories
+fetch_and_reformat_local.py
+api/track_api_test/
+api/fnfest_content_api_test.json
 
 # Ignore system files
 .DS_Store

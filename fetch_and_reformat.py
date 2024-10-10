@@ -4,8 +4,8 @@ import os
 from datetime import datetime, timezone
 
 API_URL = 'https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks'
-OUTPUT_DIR = 'track_api'
-MAIN_FILE = 'fnfest_content_api.json'
+OUTPUT_DIR = 'api/track_api'
+MAIN_FILE = 'api/fnfest_content_api.json'
 
 def fetch_available_jam_tracks():
     try:
