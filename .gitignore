@@ -1,0 +1,27 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+env/
+venv/
+.env/
+.venv/
+ENV/
+VENV/
+
+# Ignore output directory from local script
+track_api_test/
+
+# Ignore json file from local script
+fnfest_content_api_test.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.swp
