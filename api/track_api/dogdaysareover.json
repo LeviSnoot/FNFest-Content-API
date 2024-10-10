@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Dog Days Are Over",
+        "releaseYear": 2009,
+        "duration": 254,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Major",
+        "albumName": "Florence + The Machine",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 150,
+        "artistName": "Florence + The Machine",
+        "ageRating": "E",
+        "albumArtFilename": "fyh5z8qcfuxehnvw-512x512-de151fb04fa6.jpg",
+        "recordingCode": "GBUM70900209",
+        "songUUID": "478688cf-a0c4-4401-8b59-af8dafa2820d",
+        "trackIndex": "102"
+    },
+    "_activeDate": "2023-12-19T00:00:00.000Z",
+    "lastModified": "2024-09-14T02:05:36.219Z"
+}

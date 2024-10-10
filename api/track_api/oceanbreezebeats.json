@@ -1,0 +1,31 @@
+{
+    "track": {
+        "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-93821749786e.jpg",
+        "trackTitle": "Ocean Breeze Beats",
+        "releaseYear": 2024,
+        "duration": 243,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Keyboard",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 124,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "xiuiv86rerbnlnof-512x512-2e1a19a7a7a0.jpg",
+        "songUUID": "a6dcff43-5929-4f2d-b162-de8d8e12c073",
+        "trackIndex": "310"
+    },
+    "_activeDate": "2024-07-12T08:00:00.000Z",
+    "lastModified": "2024-10-08T14:53:14.219Z"
+}

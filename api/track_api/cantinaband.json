@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Cantina Band",
+        "releaseYear": 2017,
+        "duration": 169,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 5,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 131,
+        "artistName": "John Williams, London Symphony Orchestra",
+        "ageRating": "E",
+        "albumArtFilename": "vo7fcgauzexehay1-512x512-b33fdda364d9.jpg",
+        "recordingCode": "USWD11785411",
+        "songUUID": "606ede66-05d6-4ca7-a66d-25e44cc08f18",
+        "trackIndex": "198"
+    },
+    "_activeDate": "2024-03-28T16:52:45.485Z",
+    "lastModified": "2024-09-19T03:51:11.504Z"
+}

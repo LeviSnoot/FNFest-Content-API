@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "abcdefu",
+        "releaseYear": 2021,
+        "duration": 171,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 122,
+        "artistName": "GAYLE",
+        "ageRating": "E",
+        "albumArtFilename": "tfzxaismsu2xsqpi-512x512-6856316633af.jpg",
+        "recordingCode": "USAT22203082",
+        "songUUID": "c56335d8-d61d-4e31-a6f0-9252db7faa10",
+        "trackIndex": "63"
+    },
+    "_activeDate": "2024-07-18T13:30:00.000Z",
+    "lastModified": "2024-09-19T08:36:38.395Z"
+}

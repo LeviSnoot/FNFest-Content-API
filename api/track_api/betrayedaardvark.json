@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Eyes Closed",
+        "releaseYear": 2024,
+        "duration": 198,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 174,
+        "artistName": "Imagine Dragons",
+        "ageRating": "E",
+        "albumArtFilename": "bsyewlvdpqnzhqsb-512x512-e66a396b55ad.jpg",
+        "recordingCode": "USUM72402448",
+        "songUUID": "7665c1c4-0600-41fa-99ac-ce9ce01fc36a",
+        "trackIndex": "177"
+    },
+    "_activeDate": "2024-04-04T23:50:00.000Z",
+    "lastModified": "2024-09-19T01:31:46.759Z"
+}

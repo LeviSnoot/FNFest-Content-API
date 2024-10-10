@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Zombie",
+        "releaseYear": 1994,
+        "duration": 313,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 84,
+        "artistName": "The Cranberries",
+        "ageRating": "E",
+        "albumArtFilename": "83liwzwa0sdzc3gc-512x512-d575d0c4869a.jpg",
+        "recordingCode": "USIR29400443",
+        "songUUID": "59f5f576-f01e-4cd1-924a-d743cd7a2b05",
+        "trackIndex": "73"
+    },
+    "_activeDate": "2024-02-22T09:00:00.000Z",
+    "lastModified": "2024-09-14T02:04:16.817Z"
+}

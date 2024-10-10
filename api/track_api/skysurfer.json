@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Sky Surfer (Neon Rush Remix)",
+        "releaseYear": 2024,
+        "duration": 309,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 5,
+            "bass": 5
+        },
+        "BPM": 140,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "xiuayjmaats2atwu-512x512-c6d4a57f7781.jpg",
+        "songUUID": "a71d13f6-322f-478b-a644-5c427f0a892b",
+        "trackIndex": "195"
+    },
+    "_activeDate": "2024-04-09T10:00:00.000Z",
+    "lastModified": "2024-06-13T19:11:20.350Z"
+}

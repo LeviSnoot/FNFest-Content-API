@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Killing In The Name",
+        "releaseYear": 1992,
+        "duration": 319,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 5,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 90,
+        "artistName": "Rage Against The Machine",
+        "ageRating": "T",
+        "albumArtFilename": "b8dshwiqtjgwztoo-512x512-4cd245824cb1.jpg",
+        "recordingCode": "USSM19200317",
+        "songUUID": "c9b4862a-6cff-4fff-8de1-fca38c53ff2a",
+        "trackIndex": "202"
+    },
+    "_activeDate": "2024-04-04T14:11:28.799Z",
+    "lastModified": "2024-09-19T03:53:16.234Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Say So",
+        "releaseYear": 2019,
+        "duration": 241,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 1,
+            "bass": 2
+        },
+        "BPM": 111,
+        "artistName": "Doja Cat",
+        "ageRating": "T",
+        "albumArtFilename": "vkd5bojdhww1tifm-512x512-009a338214b6.jpg",
+        "recordingCode": "USRC11903455",
+        "songUUID": "89067ea3-c4f7-48a9-9cc2-0fb7faff7c28",
+        "trackIndex": "69"
+    },
+    "_activeDate": "2024-06-13T08:00:00.000Z",
+    "lastModified": "2024-09-13T06:12:52.078Z"
+}

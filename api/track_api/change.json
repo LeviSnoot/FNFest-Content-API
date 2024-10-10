@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Change",
+        "releaseYear": 2024,
+        "duration": 187,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 90,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "im23fifqs1nz8zvh-512x512-96936e749c87.jpg",
+        "songUUID": "05fd0b80-eab8-479e-b86c-525fc6e81dcf",
+        "trackIndex": "181"
+    },
+    "_activeDate": "2024-04-23T08:00:00.000Z",
+    "lastModified": "2024-09-19T02:32:17.914Z"
+}

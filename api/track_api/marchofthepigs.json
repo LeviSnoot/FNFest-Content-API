@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "March Of The Pigs",
+        "releaseYear": 1994,
+        "duration": 235,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 6,
+            "proDrums": 6,
+            "vocals": 2,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 6,
+            "bass": 4
+        },
+        "BPM": 134,
+        "artistName": "Nine Inch Nails",
+        "ageRating": "E",
+        "albumArtFilename": "nnn5nmxdpsrcvgak-512x512-06b5b283ddd9.jpg",
+        "recordingCode": "USIR19400528",
+        "songUUID": "b5eae600-bc0b-4893-8fb9-799f17afbb05",
+        "trackIndex": "103"
+    },
+    "_activeDate": "2023-11-08T22:17:09.798Z",
+    "lastModified": "2024-09-14T02:53:03.456Z"
+}

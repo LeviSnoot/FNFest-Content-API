@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "WHATS POPPIN",
+        "releaseYear": 2020,
+        "duration": 144,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 145,
+        "artistName": "Jack Harlow",
+        "ageRating": "T",
+        "albumArtFilename": "jzen7cin8nzqvmaw-512x512-2f6ada751920.jpg",
+        "recordingCode": "USAT22007728",
+        "songUUID": "bde15bc8-3aeb-49c9-b5f0-d3ab8b239e66",
+        "trackIndex": "157"
+    },
+    "_activeDate": "2024-01-29T16:53:04.032Z",
+    "lastModified": "2024-09-18T07:02:47.432Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Unsainted",
+        "releaseYear": 2019,
+        "duration": 264,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 6,
+            "vocals": 4,
+            "proGuitar": 5,
+            "guitar": 4,
+            "drums": 6,
+            "bass": 4
+        },
+        "BPM": 102,
+        "artistName": "Slipknot",
+        "ageRating": "E",
+        "albumArtFilename": "klwikr5dubsxnxrq-512x512-dee8d0dd4633.jpg",
+        "recordingCode": "NLA321900092",
+        "songUUID": "7585ae3e-30f4-434a-b150-fe3486e10290",
+        "trackIndex": "266"
+    },
+    "_activeDate": "2024-07-25T13:30:00.000Z",
+    "lastModified": "2024-09-20T02:37:00.505Z"
+}

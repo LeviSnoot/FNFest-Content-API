@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Born This Way",
+        "releaseYear": 2011,
+        "duration": 265,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 4
+        },
+        "BPM": 124,
+        "artistName": "Lady Gaga",
+        "ageRating": "E",
+        "albumArtFilename": "swyzmcoklt5fcp84-512x512-44713dccabd8.jpg",
+        "recordingCode": "USUM71100638",
+        "songUUID": "be167671-e0ec-4c12-a708-eebcc9bb6cd5",
+        "trackIndex": "126"
+    },
+    "_activeDate": "2023-12-11T13:54:38.596Z",
+    "lastModified": "2024-09-18T03:27:05.653Z"
+}

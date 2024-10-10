@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Too Sweet",
+        "releaseYear": 2024,
+        "duration": 254,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 117,
+        "artistName": "Hozier",
+        "ageRating": "T",
+        "albumArtFilename": "9985aknkxrjbktwu-512x512-c0e9a80e7148.jpg",
+        "recordingCode": "USSM12401865",
+        "songUUID": "3d8705d7-98e4-4298-9fa1-2cc1267996e5",
+        "trackIndex": "273"
+    },
+    "_activeDate": "2024-07-03T13:30:00.000Z",
+    "lastModified": "2024-09-19T08:29:04.183Z"
+}

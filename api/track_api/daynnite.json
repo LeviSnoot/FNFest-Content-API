@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Day 'N' Nite",
+        "releaseYear": 2008,
+        "duration": 224,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 138,
+        "artistName": "Kid Cudi",
+        "ageRating": "T",
+        "albumArtFilename": "unslw6fiprz5630h-512x512-c64246ef7b46.jpg",
+        "recordingCode": "USUM70957500",
+        "songUUID": "8cc9154f-202c-43bb-b8ae-e598bb7ddc10",
+        "trackIndex": "292"
+    },
+    "_activeDate": "2024-08-08T13:30:00.000Z",
+    "lastModified": "2024-09-23T06:12:12.684Z"
+}

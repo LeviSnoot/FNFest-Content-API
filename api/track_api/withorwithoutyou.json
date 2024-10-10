@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "With Or Without You",
+        "releaseYear": 1987,
+        "duration": 301,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 1,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 110,
+        "artistName": "U2",
+        "ageRating": "E",
+        "albumArtFilename": "1lnpxjbzkozanhyh-512x512-9ff9b9c829e9.jpg",
+        "recordingCode": "GBAAN8790003",
+        "songUUID": "14fe366e-6b72-4a24-8859-73ff675272b6",
+        "trackIndex": "118"
+    },
+    "_activeDate": "2023-11-29T15:31:35.632Z",
+    "lastModified": "2024-09-14T02:58:47.336Z"
+}
