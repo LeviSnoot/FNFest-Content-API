@@ -19,6 +19,10 @@ def generate_link_tree(api_dir, output_file):
                 file_list.append({'name': url_path, 'url': f'{API_DIR}/{url_path}'})
                 print(f"Added file to list: {url_path}")
 
+    # Sort the file list alphabetically by the 'name' key
+    file_list = sorted(file_list, key=lambda x: x['name'])
+    print("Sorted file list alphabetically.")
+
     # Ensure the output directory exists
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     print(f"Output directory ensured: {os.path.dirname(output_file)}")

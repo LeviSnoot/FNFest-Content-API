@@ -52,6 +52,12 @@ jobs:
     - name: Build Jekyll site
       run: bundle exec jekyll build
 
+    - name: Remove unwanted files from _site
+      run: |
+        rm -f _site/fetch_and_reformat.py
+        rm -f _site/link_tree.py
+        rm -f _site/requirements.txt
+
     - name: List Jekyll site directory
       run: ls -la _site
 
@@ -63,5 +69,6 @@ jobs:
       with:
         branch: gh-pages
         folder: _site
+        clean: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
