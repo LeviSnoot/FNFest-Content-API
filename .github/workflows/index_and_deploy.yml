@@ -59,7 +59,9 @@ jobs:
       run: ls -la
 
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site
+        branch: gh-pages
+        folder: _site
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
