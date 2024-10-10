@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Next Semester",
+        "releaseYear": 2024,
+        "duration": 236,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 5,
+            "bass": 3
+        },
+        "BPM": 175,
+        "artistName": "Twenty One Pilots",
+        "ageRating": "E",
+        "albumArtFilename": "8dr9tvydqa2q5pnf-512x512-a4fc963f0628.jpg",
+        "recordingCode": "USAT22402063",
+        "songUUID": "fba4b371-7cd0-4056-b03c-d4d886d03420",
+        "trackIndex": "221"
+    },
+    "_activeDate": "2024-03-29T19:37:50.167Z",
+    "lastModified": "2024-09-19T05:57:29.913Z"
+}

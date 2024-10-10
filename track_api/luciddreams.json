@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Lucid Dreams",
+        "releaseYear": 2018,
+        "duration": 258,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "RapHipHop"
+        ],
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "albumName": "Goodbye & Good Riddance",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 84,
+        "artistName": "Juice WRLD",
+        "ageRating": "E",
+        "albumArtFilename": "cmqd38ic5njgvtfw-512x512-5e5302b95b1e.jpg",
+        "recordingCode": "USUG11801302",
+        "songUUID": "787cb69b-df7d-4b09-9c82-83142fcc994b",
+        "trackIndex": "55"
+    },
+    "_activeDate": "2023-10-17T17:38:01.238Z",
+    "lastModified": "2024-09-18T07:07:02.391Z"
+}

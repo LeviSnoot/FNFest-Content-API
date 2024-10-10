@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Surround Sound",
+        "releaseYear": 2022,
+        "duration": 234,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 6,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 152,
+        "artistName": "JID ft. 21 Savage & Baby Tate",
+        "ageRating": "T",
+        "albumArtFilename": "wdfsb87lid87hugv-512x512-f27ea5001391.jpg",
+        "recordingCode": "USUM72123570",
+        "songUUID": "3a64f05a-5687-4818-9038-cad3666da1b9",
+        "trackIndex": "155"
+    },
+    "_activeDate": "2024-01-29T16:26:27.427Z",
+    "lastModified": "2024-09-18T06:43:02.243Z"
+}

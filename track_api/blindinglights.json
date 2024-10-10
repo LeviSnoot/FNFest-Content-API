@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Blinding Lights",
+        "releaseYear": 2020,
+        "duration": 204,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "RnB"
+        ],
+        "key": "F",
+        "majorMinor": "Minor",
+        "albumName": "After Hours",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 171,
+        "artistName": "The Weeknd",
+        "ageRating": "E",
+        "albumArtFilename": "dwiqbfganihcdqkl-512x512-9b9092b2f9ef.jpg",
+        "recordingCode": "USUG11904206",
+        "songUUID": "b01d890d-1ce2-438a-a028-ae2e8b387347",
+        "trackIndex": "93"
+    },
+    "_activeDate": "2023-10-09T18:52:29.258Z",
+    "lastModified": "2024-09-19T03:49:07.172Z"
+}

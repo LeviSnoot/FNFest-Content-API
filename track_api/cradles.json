@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Cradles",
+        "releaseYear": 2019,
+        "duration": 214,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Pop"
+        ],
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "albumName": "Cradles",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 1,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 80,
+        "artistName": "Sub Urban",
+        "ageRating": "E",
+        "albumArtFilename": "1slpnaremhahk2lv-512x512-093c5f98d881.jpg",
+        "recordingCode": "GB2LD1800949",
+        "songUUID": "60de5a55-5c66-4f17-9f00-525e20d929cf",
+        "trackIndex": "29"
+    },
+    "_activeDate": "2024-01-19T00:00:00.000Z",
+    "lastModified": "2024-09-14T00:44:19.684Z"
+}

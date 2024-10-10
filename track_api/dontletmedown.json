@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Don't Let Me Down",
+        "releaseYear": 2016,
+        "duration": 209,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 1,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 160,
+        "artistName": "The Chainsmokers ft. Daya",
+        "ageRating": "E",
+        "albumArtFilename": "ecajdkqlk44frjeg-512x512-8240ce443bf2.jpg",
+        "recordingCode": "USQX91600011",
+        "songUUID": "b6be9180-b235-4fdb-ab55-126cf19b8817",
+        "trackIndex": "325"
+    },
+    "_activeDate": "2024-07-31T17:59:12.127Z",
+    "lastModified": "2024-09-23T06:13:12.177Z"
+}

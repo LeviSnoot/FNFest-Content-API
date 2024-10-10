@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Don't You Worry Child",
+        "releaseYear": 2012,
+        "duration": 213,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 129,
+        "artistName": "Swedish House Mafia ft. John Martin",
+        "ageRating": "E",
+        "albumArtFilename": "tdrzpoqteflnlmpn-512x512-850a0626045c.jpg",
+        "recordingCode": "GBAAA1200728",
+        "songUUID": "89cb7b81-26e9-4dc3-bc39-23efcf2cc8de",
+        "trackIndex": "176"
+    },
+    "_activeDate": "2024-03-13T13:09:02.874Z",
+    "lastModified": "2024-09-19T01:28:05.908Z"
+}

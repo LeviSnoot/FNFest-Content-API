@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Mood",
+        "releaseYear": 2020,
+        "duration": 143,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 91,
+        "artistName": "24kGoldn ft. iann dior",
+        "ageRating": "E",
+        "albumArtFilename": "lnlfgngeoku0cxf4-512x512-fac70d0a32b6.jpg",
+        "recordingCode": "USQX92003833",
+        "songUUID": "7561d244-0093-47fd-b1b9-f8fc086974a0",
+        "trackIndex": "161"
+    },
+    "_activeDate": "2024-01-31T20:26:07.103Z",
+    "lastModified": "2024-09-18T08:33:24.981Z"
+}

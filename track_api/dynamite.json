@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Dynamite",
+        "releaseYear": 2020,
+        "duration": 199,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 1,
+            "vocals": 4,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 1,
+            "bass": 3
+        },
+        "BPM": 114,
+        "artistName": "BTS ",
+        "ageRating": "E",
+        "albumArtFilename": "vhrehxelvjlnnajl-512x512-b05f2955a110.jpg",
+        "recordingCode": "QM7282022872",
+        "songUUID": "90272563-7be2-4b84-9d8e-c932a49e6b73",
+        "trackIndex": "243"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-09-19T07:15:33.316Z"
+}

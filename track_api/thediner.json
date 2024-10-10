@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "THE DINER",
+        "releaseYear": 2024,
+        "duration": 174,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 0,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 1,
+            "bass": 1
+        },
+        "BPM": 125,
+        "artistName": "Billie Eilish",
+        "ageRating": "E",
+        "albumArtFilename": "j3hqdyzl5i7ep1wl-512x512-2a779c5fac42.jpg",
+        "recordingCode": "USUM72401989",
+        "songUUID": "b04e7a87-bca1-4e3a-8054-45a9f80a6442",
+        "trackIndex": "220"
+    },
+    "_activeDate": "2024-04-19T18:00:00.000Z",
+    "lastModified": "2024-09-19T06:01:57.260Z"
+}

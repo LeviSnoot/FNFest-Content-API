@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Stressed Out",
+        "releaseYear": 2015,
+        "duration": 209,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Pop"
+        ],
+        "key": "A",
+        "majorMinor": "Minor",
+        "albumName": "Blurryface",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 85,
+        "artistName": "Twenty One Pilots",
+        "ageRating": "E",
+        "albumArtFilename": "11lx5pmkaczdytdf-640x640-ea4c680b60d4.jpg",
+        "recordingCode": "USAT21500597",
+        "songUUID": "b73dcf3d-cdd0-4816-ba6f-d992332e5635",
+        "trackIndex": "40"
+    },
+    "_activeDate": "2023-10-10T15:17:52.235Z",
+    "lastModified": "2024-09-19T05:53:37.860Z"
+}

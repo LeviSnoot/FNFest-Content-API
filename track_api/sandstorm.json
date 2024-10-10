@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Sandstorm",
+        "releaseYear": 1999,
+        "duration": 227,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 6,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 3,
+            "guitar": 5,
+            "drums": 4,
+            "bass": 5
+        },
+        "BPM": 136,
+        "artistName": "Darude",
+        "ageRating": "E",
+        "albumArtFilename": "gallgih5m9chlkxm-512x512-1618ff5f0b94.jpg",
+        "recordingCode": "FIHDQ2300029",
+        "songUUID": "2364c2e8-0613-41e8-b6ab-818852461e11",
+        "trackIndex": "127"
+    },
+    "_activeDate": "2023-12-13T19:18:08.908Z",
+    "lastModified": "2024-09-18T07:13:01.100Z"
+}

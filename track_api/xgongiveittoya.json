@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "X Gon' Give It To Ya",
+        "releaseYear": 2002,
+        "duration": 216,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 5,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 95,
+        "artistName": "DMX",
+        "ageRating": "E",
+        "albumArtFilename": "vzu7oyin0gbq8kza-512x512-e413fd4c2260.jpg",
+        "recordingCode": "USDJ20201346",
+        "songUUID": "9a1dcca5-4719-49dc-87e9-330be8ea2984",
+        "trackIndex": "142"
+    },
+    "_activeDate": "2024-01-22T15:40:18.843Z",
+    "lastModified": "2024-09-18T07:14:21.997Z"
+}

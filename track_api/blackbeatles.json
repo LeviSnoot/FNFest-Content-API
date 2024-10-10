@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Black Beatles",
+        "releaseYear": 2016,
+        "duration": 267,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 146,
+        "artistName": "Rae Sremmurd ft. Gucci Mane",
+        "ageRating": "T",
+        "albumArtFilename": "heo0pzx0ovwbpmzj-512x512-e38c44fb0d49.jpg",
+        "recordingCode": "USUM71603313",
+        "songUUID": "d98aba7a-35d9-4c53-9d57-bc216da59716",
+        "trackIndex": "291"
+    },
+    "_activeDate": "2024-08-08T13:30:00.000Z",
+    "lastModified": "2024-09-23T03:53:34.096Z"
+}

@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Buddy Holly",
+        "releaseYear": 1994,
+        "duration": 164,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Rock"
+        ],
+        "key": "Ab",
+        "majorMinor": "Major",
+        "albumName": "Weezer (The Blue Album)",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 121,
+        "artistName": "Weezer",
+        "ageRating": "E",
+        "albumArtFilename": "d5yc9zpe97um68u6-512x512-4b4d755393ab.jpg",
+        "recordingCode": "USGF19562907",
+        "songUUID": "d1ada213-50df-4a62-b1a2-5dc6f38953d5",
+        "trackIndex": "25"
+    },
+    "_activeDate": "2023-12-19T00:00:00.000Z",
+    "lastModified": "2024-09-14T01:57:12.562Z"
+}

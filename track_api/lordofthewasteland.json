@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Lord of the Wasteland",
+        "releaseYear": 2024,
+        "duration": 212,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 133,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "1bui5ftl8vsgud2o-512x512-8c999e27a8f8.jpg",
+        "songUUID": "adef3b4f-747a-4c4f-a2ab-e6f0f1a51aaa",
+        "trackIndex": "245"
+    },
+    "_activeDate": "2024-05-24T08:00:00.000Z",
+    "lastModified": "2024-09-19T06:07:41.000Z"
+}

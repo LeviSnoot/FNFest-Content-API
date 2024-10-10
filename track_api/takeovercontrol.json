@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Take Over Control",
+        "releaseYear": 2010,
+        "duration": 228,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 130,
+        "artistName": "Afrojack ft. Eva Simons",
+        "ageRating": "E",
+        "albumArtFilename": "7i9hss0ukhwvund2-512x512-7ba367bded5f.jpg",
+        "recordingCode": "NLC281011180",
+        "songUUID": "96c5e339-c5f8-4e9e-a9f7-1ebed93399ec",
+        "trackIndex": "279"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-10-02T15:39:44.821Z"
+}

@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Feel It Still",
+        "releaseYear": 2017,
+        "duration": 165,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Rock"
+        ],
+        "key": "Db",
+        "majorMinor": "Minor",
+        "albumName": "Woodstock",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 158,
+        "artistName": "Portugal. The Man",
+        "ageRating": "E",
+        "albumArtFilename": "xxafw0szeszowbzu-512x512-081cfea63b37.jpg",
+        "recordingCode": "USAT21700437",
+        "songUUID": "a770c520-6af7-4439-98a0-c85f90113eae",
+        "trackIndex": "50"
+    },
+    "_activeDate": "2023-10-10T18:24:42.235Z",
+    "lastModified": "2024-09-18T06:54:37.414Z"
+}

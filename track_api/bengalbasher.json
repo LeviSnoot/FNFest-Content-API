@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Return of the Tiger",
+        "releaseYear": 2023,
+        "duration": 248,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 5,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 132,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "yg4jgqd8zfpiygyd-512x512-7aa1bcdb726f.jpg",
+        "songUUID": "453f59e6-8e2f-4b7e-a390-7b3d5499fc18",
+        "trackIndex": "89"
+    },
+    "_activeDate": "2023-11-03T14:17:50.677Z",
+    "lastModified": "2024-09-18T03:23:23.397Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Stick Season",
+        "releaseYear": 2022,
+        "duration": 184,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 0,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 0,
+            "bass": 4
+        },
+        "BPM": 118,
+        "artistName": "Noah Kahan",
+        "ageRating": "T",
+        "albumArtFilename": "8vuru5uze8sdbejg-512x512-c2ca689c5ae0.jpg",
+        "recordingCode": " USUM72212470",
+        "songUUID": "fa77a968-00e7-41a3-8c24-332d2518903c",
+        "trackIndex": "321"
+    },
+    "_activeDate": "2024-08-22T13:30:00.000Z",
+    "lastModified": "2024-09-23T06:33:30.975Z"
+}

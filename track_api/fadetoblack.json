@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Fade to Black",
+        "releaseYear": 1984,
+        "duration": 412,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 1,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 113,
+        "artistName": "Metallica",
+        "ageRating": "T",
+        "albumArtFilename": "ic3zit5iz7opnhrw-512x512-8186073b0a55.jpg",
+        "recordingCode": "QMKHM1600064",
+        "songUUID": "3325d6df-0edf-495d-bad5-d6c86b54e5b3",
+        "trackIndex": "240"
+    },
+    "_activeDate": "2024-08-01T13:30:00.000Z",
+    "lastModified": "2024-09-20T02:39:50.246Z"
+}

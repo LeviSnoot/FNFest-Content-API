@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Save Your Tears",
+        "releaseYear": 2020,
+        "duration": 219,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "RnB"
+        ],
+        "key": "C",
+        "majorMinor": "Major",
+        "albumName": "After Hours",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 0,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 1,
+            "bass": 1
+        },
+        "BPM": 118,
+        "artistName": "The Weeknd",
+        "ageRating": "E",
+        "albumArtFilename": "mybrx597ew0doulr-512x512-c447caa16835.jpg",
+        "recordingCode": "USUG12000658",
+        "songUUID": "a3bb8291-2714-4a4a-aed8-8c4305d3afb9",
+        "trackIndex": "05"
+    },
+    "_activeDate": "2023-12-17T01:20:00.000Z",
+    "lastModified": "2024-09-13T07:02:21.979Z"
+}

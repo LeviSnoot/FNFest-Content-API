@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "I Still Haven't Found What I'm Looking For",
+        "releaseYear": 1987,
+        "duration": 271,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 101,
+        "artistName": "U2",
+        "ageRating": "E",
+        "albumArtFilename": "1lnpxjbzkozanhyh-512x512-c6d6579c436c.jpg",
+        "recordingCode": "GBAAN8790002",
+        "songUUID": "543393a2-9e08-433a-b8a7-702265de9b83",
+        "trackIndex": "117"
+    },
+    "_activeDate": "2023-11-29T15:27:03.429Z",
+    "lastModified": "2024-09-14T02:57:36.218Z"
+}

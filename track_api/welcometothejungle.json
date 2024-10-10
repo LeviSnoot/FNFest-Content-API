@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Welcome To The Jungle",
+        "releaseYear": 1987,
+        "duration": 274,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 124,
+        "artistName": "Guns N' Roses",
+        "ageRating": "T",
+        "albumArtFilename": "sdg1w0obgx0m9f0h-512x512-568091543e5d.jpg",
+        "recordingCode": "USGF18714801",
+        "songUUID": "565f869f-93b4-4b9a-a13f-cb0125803c37",
+        "trackIndex": "272"
+    },
+    "_activeDate": "2024-08-08T13:30:00.000Z",
+    "lastModified": "2024-09-20T02:43:34.611Z"
+}

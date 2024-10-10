@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Business",
+        "releaseYear": 2020,
+        "duration": 167,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 120,
+        "artistName": "Ti\u00ebsto",
+        "ageRating": "E",
+        "albumArtFilename": "tt9wtkwt9ogfzish-512x512-b55239e56fdc.jpg",
+        "recordingCode": "CYA112000624",
+        "songUUID": "407e540b-4f5f-4676-b278-476bf2567876",
+        "trackIndex": "345"
+    },
+    "_activeDate": "2024-10-03T13:30:00.000Z",
+    "lastModified": "2024-10-10T04:39:00.359Z"
+}

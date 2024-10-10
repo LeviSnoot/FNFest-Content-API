@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Hey Brother",
+        "releaseYear": 2013,
+        "duration": 257,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 125,
+        "artistName": "Avicii",
+        "ageRating": "E",
+        "albumArtFilename": "tuj3ro8qdzogygwp-512x512-d216b666ccaf.jpg",
+        "recordingCode": "CH3131340084",
+        "songUUID": "e15c0a01-d112-44af-adff-419bc9cb3732",
+        "trackIndex": "258"
+    },
+    "_activeDate": "2024-07-11T13:30:00.000Z",
+    "lastModified": "2024-09-19T08:30:51.207Z"
+}
