@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Wherever I May Roam",
+        "releaseYear": 1991,
+        "duration": 383,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 132,
+        "artistName": "Metallica",
+        "ageRating": "E",
+        "albumArtFilename": "ahs3ob6evstyh9l3-512x512-fd3927d19a60.jpg",
+        "recordingCode": "QMKHM1900005",
+        "songUUID": "f2d033d5-31cb-403c-9824-39eb60823b08",
+        "trackIndex": "234"
+    },
+    "_activeDate": "2024-06-13T08:00:00.000Z",
+    "lastModified": "2024-09-19T06:35:49.616Z"
+}

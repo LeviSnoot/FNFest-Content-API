@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Savage",
+        "releaseYear": 2020,
+        "duration": 146,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 169,
+        "artistName": "Megan Thee Stallion",
+        "ageRating": "T",
+        "albumArtFilename": "2xtzfbodqpk2i7ma-512x512-29b5a2cf19d8.jpg",
+        "recordingCode": "QMCE32000105",
+        "songUUID": "d883e684-098e-4352-9fa1-873838c5f306",
+        "trackIndex": "242"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-09-19T05:58:38.220Z"
+}

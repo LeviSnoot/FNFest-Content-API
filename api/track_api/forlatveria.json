@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "For Latveria",
+        "releaseYear": 2024,
+        "duration": 213,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 1,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 123,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "abil3mugtnjourfa-512x512-e86794ee7f9e.jpg",
+        "songUUID": "e02acb52-4c47-4677-b097-a1b6e56d0982",
+        "trackIndex": "318"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-09-23T06:16:24.774Z"
+}

@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Inferno Island (Molten Mix)",
+        "releaseYear": 2024,
+        "duration": 181,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 0,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 123,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "sgrz1vl0itrrogcw-512x512-063f2c671df6.jpg",
+        "songUUID": "ce3d7bd8-c5cc-4c32-81a5-082f2463de70",
+        "trackIndex": "290"
+    },
+    "_activeDate": "2024-07-23T08:00:00.000Z",
+    "lastModified": "2024-09-27T05:28:33.352Z"
+}

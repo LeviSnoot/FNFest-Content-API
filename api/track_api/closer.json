@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Closer",
+        "releaseYear": 2016,
+        "duration": 249,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 95,
+        "artistName": "The Chainsmokers ft. Halsey",
+        "ageRating": "E",
+        "albumArtFilename": "0kxmqfe5qntvocud-512x512-5af1b9420d1e.jpg",
+        "recordingCode": "USQX91601347",
+        "songUUID": "f299aae4-3fd6-46d1-a549-696bffc78eae",
+        "trackIndex": "62"
+    },
+    "_activeDate": "2023-10-25T13:36:05.540Z",
+    "lastModified": "2024-09-18T06:31:49.130Z"
+}

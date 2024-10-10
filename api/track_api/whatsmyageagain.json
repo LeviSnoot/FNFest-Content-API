@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "What's My Age Again?",
+        "releaseYear": 1999,
+        "duration": 149,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Major",
+        "albumName": "Enema of the State",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 155,
+        "artistName": "blink-182",
+        "ageRating": "T",
+        "albumArtFilename": "tq37jndowmy1nw8i-512x512-0e656a86e495.jpg",
+        "recordingCode": "USMC19959788",
+        "songUUID": "fd9f3e14-9521-4d37-abd4-3a0e1e4c6033",
+        "trackIndex": "19"
+    },
+    "_activeDate": "2023-10-09T21:17:00.379Z",
+    "lastModified": "2024-09-18T06:30:09.781Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Bandit",
+        "releaseYear": 2024,
+        "duration": 143,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 130,
+        "artistName": "Don Toliver",
+        "ageRating": "T",
+        "albumArtFilename": "z0z5yuit3lfwalkl-512x512-0503c6b455e6.jpg",
+        "recordingCode": "USAT21703413",
+        "songUUID": "5a4db549-8a35-4d8e-9ca6-b7936f2992fd",
+        "trackIndex": "217"
+    },
+    "_activeDate": "2024-05-30T13:30:00.000Z",
+    "lastModified": "2024-09-19T06:17:57.049Z"
+}

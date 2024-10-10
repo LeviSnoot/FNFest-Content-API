@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Wolves",
+        "releaseYear": 2017,
+        "duration": 199,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 125,
+        "artistName": "Selena Gomez w/ Marshmello",
+        "ageRating": "E",
+        "albumArtFilename": "c4k4umzz46qwnzfh-512x512-4b2c6cfa033f.jpg",
+        "recordingCode": "USUM71712103",
+        "songUUID": "090a05dc-95cc-4c92-ba46-6c3eb125079f",
+        "trackIndex": "77"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-09-19T01:24:53.637Z"
+}

@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Down with the Sickness",
+        "releaseYear": 2000,
+        "duration": 286,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Rock"
+        ],
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "albumName": "The Sickness",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 90,
+        "artistName": "Disturbed",
+        "ageRating": "T",
+        "albumArtFilename": "r185natclok4bf1e-512x512-281ee83cd3d0.jpg",
+        "recordingCode": "USGI10000005",
+        "songUUID": "ad5abf1e-bc34-4aac-9052-d2dafffaf752",
+        "trackIndex": "07"
+    },
+    "_activeDate": "2023-10-09T20:30:11.688Z",
+    "lastModified": "2024-09-18T06:45:22.782Z"
+}

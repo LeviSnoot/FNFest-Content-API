@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Lux \u00c6terna",
+        "releaseYear": 2023,
+        "duration": 203,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 5,
+            "proDrums": 5,
+            "vocals": 2,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 130,
+        "artistName": "Metallica",
+        "ageRating": "E",
+        "albumArtFilename": "qgmhs5hd9eowcqiv-512x512-28633692f677.jpg",
+        "recordingCode": "QMKHM2200021",
+        "songUUID": "69094450-73b6-481c-9adb-edb3a9e17b07",
+        "trackIndex": "236"
+    },
+    "_activeDate": "2024-06-20T13:30:00.000Z",
+    "lastModified": "2024-09-19T06:46:53.352Z"
+}

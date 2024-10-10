@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Shivers",
+        "releaseYear": 2021,
+        "duration": 209,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 141,
+        "artistName": "Ed Sheeran",
+        "ageRating": "E",
+        "albumArtFilename": "tcpw4aox4edrgvc9-512x512-776406f6f095.jpg",
+        "recordingCode": "GBAHS2100671",
+        "songUUID": "18c68cb2-7327-4a8d-861c-73a238d70306",
+        "trackIndex": "160"
+    },
+    "_activeDate": "2024-01-31T20:08:07.930Z",
+    "lastModified": "2024-09-18T07:04:09.730Z"
+}

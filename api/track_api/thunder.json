@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Thunder",
+        "releaseYear": 2017,
+        "duration": 188,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Pop"
+        ],
+        "key": "C",
+        "majorMinor": "Major",
+        "albumName": "Evolve",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 84,
+        "artistName": "Imagine Dragons",
+        "ageRating": "E",
+        "albumArtFilename": "kpohymojtu08lftx-512x512-016ded9b240d.jpg",
+        "recordingCode": "USUM71704167",
+        "songUUID": "138f9fc9-9308-4124-9163-788de65d8c54",
+        "trackIndex": "44"
+    },
+    "_activeDate": "2023-12-18T00:00:00.000Z",
+    "lastModified": "2024-09-14T00:23:49.395Z"
+}

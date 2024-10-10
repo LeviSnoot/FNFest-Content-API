@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Happier Than Ever - Edit",
+        "releaseYear": 2021,
+        "duration": 152,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 108,
+        "artistName": "Billie Eilish",
+        "ageRating": "T",
+        "albumArtFilename": "qxqfgga7uumgg1xj-512x512-ff1da4370d10.jpg",
+        "recordingCode": "USUM72106987",
+        "songUUID": "54a2b46e-7fc7-4ec9-869f-e011fd8b41a6",
+        "trackIndex": "171"
+    },
+    "_activeDate": "2024-04-23T08:00:00.000Z",
+    "lastModified": "2024-09-19T02:26:28.594Z"
+}

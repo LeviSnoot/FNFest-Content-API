@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "good 4 u",
+        "releaseYear": 2021,
+        "duration": 182,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Pop"
+        ],
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "albumName": "Sour",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 169,
+        "artistName": "Olivia Rodrigo",
+        "ageRating": "E",
+        "albumArtFilename": "5apobcpx1yvfllrt-512x512-9e02b08f7707.jpg",
+        "recordingCode": "USUG12101253",
+        "songUUID": "4c19fac2-41e4-4894-852b-41ef555b512f",
+        "trackIndex": "08"
+    },
+    "_activeDate": "2023-10-09T20:40:41.694Z",
+    "lastModified": "2024-09-14T02:50:53.392Z"
+}

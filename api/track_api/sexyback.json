@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "SexyBack",
+        "releaseYear": 2006,
+        "duration": 235,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 117,
+        "artistName": "Justin Timberlake ft. Timbaland",
+        "ageRating": "T",
+        "albumArtFilename": "9rouoafa2fzoozcq-512x512-2e48f6ab50a5.jpg",
+        "recordingCode": "USJI10600283",
+        "songUUID": "082d9c93-9f10-4f85-a44e-790836bd57d9",
+        "trackIndex": "342"
+    },
+    "_activeDate": "2024-09-26T13:30:00.000Z",
+    "lastModified": "2024-09-24T20:45:30.450Z"
+}

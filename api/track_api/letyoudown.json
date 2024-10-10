@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Let You Down",
+        "releaseYear": 2017,
+        "duration": 205,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 148,
+        "artistName": "NF",
+        "ageRating": "E",
+        "albumArtFilename": "vigov0u2yzeoh8mi-512x512-1fd589bfd4ce.jpg",
+        "recordingCode": "USUM71708226",
+        "songUUID": "bc4525b5-fa96-4ba5-ab7f-af6d992c595b",
+        "trackIndex": "268"
+    },
+    "_activeDate": "2024-07-18T13:30:00.000Z",
+    "lastModified": "2024-09-20T01:36:28.639Z"
+}

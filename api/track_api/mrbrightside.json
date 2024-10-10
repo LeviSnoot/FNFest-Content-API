@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Mr. Brightside",
+        "releaseYear": 2004,
+        "duration": 226,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Rock"
+        ],
+        "key": "Db",
+        "majorMinor": "Major",
+        "albumName": "Hot Fuss",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 3,
+            "drums": 5,
+            "bass": 2
+        },
+        "BPM": 148,
+        "artistName": "The Killers",
+        "ageRating": "E",
+        "albumArtFilename": "fsncprpk4rtykrbs-512x512-4fd7561b257c.jpg",
+        "recordingCode": "USIR20400274",
+        "songUUID": "5b393f6f-bb8a-48a1-a0f0-d49f6afaef4c",
+        "trackIndex": "16"
+    },
+    "_activeDate": "2023-12-18T00:00:00.000Z",
+    "lastModified": "2024-09-14T00:38:40.635Z"
+}

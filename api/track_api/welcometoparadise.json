@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Welcome to Paradise",
+        "releaseYear": 1994,
+        "duration": 270,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 6,
+            "vocals": 2,
+            "proGuitar": 4,
+            "guitar": 5,
+            "drums": 6,
+            "bass": 5
+        },
+        "BPM": 91,
+        "artistName": "Green Day",
+        "ageRating": "E",
+        "albumArtFilename": "hxgcbghz24dib61d-512x512-a77c7dff6e98.jpg",
+        "recordingCode": "USRE19900149",
+        "songUUID": "92cee62f-cdd4-42cc-b192-0196eeacbf3f",
+        "trackIndex": "121"
+    },
+    "_activeDate": "2023-12-01T15:42:40.032Z",
+    "lastModified": "2024-09-18T02:08:16.253Z"
+}

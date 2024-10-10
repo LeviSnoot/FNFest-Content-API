@@ -1,0 +1,34 @@
+{
+    "track": {
+        "trackTitle": "Heartbreaker",
+        "releaseYear": 1979,
+        "duration": 216,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Rock"
+        ],
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 156,
+        "artistName": "Pat Benatar",
+        "ageRating": "E",
+        "albumArtFilename": "kxh5db73ifalfrcj-512x512-e0ab894df412.jpg",
+        "recordingCode": "USCH38400033",
+        "songUUID": "78929160-dd59-4436-9676-439eba20f5cd",
+        "trackIndex": "83"
+    },
+    "_activeDate": "2023-12-19T16:00:00.000Z",
+    "lastModified": "2024-09-14T02:08:20.095Z"
+}
