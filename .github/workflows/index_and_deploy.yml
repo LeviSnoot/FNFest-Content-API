@@ -33,10 +33,20 @@ jobs:
       with:
         ruby-version: '2.7.0'
 
-    - name: Install Jekyll and Bundler
-      run: |
-        gem install jekyll bundler
-        bundle install
+    - name: Update RubyGems
+      run: gem update --system
+
+    - name: Install ffi
+      run: gem install ffi -v 1.17.0
+
+    - name: Install Bundler
+      run: gem install bundler -v 2.4.22
+
+    - name: Install Jekyll
+      run: gem install jekyll
+
+    - name: Install Jekyll dependencies
+      run: bundle install
 
     - name: Build Jekyll site
       run: bundle exec jekyll build
