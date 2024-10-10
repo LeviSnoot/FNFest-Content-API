@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Bulls On Parade",
+        "releaseYear": 1996,
+        "duration": 237,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 169,
+        "artistName": "Rage Against The Machine",
+        "ageRating": "T",
+        "albumArtFilename": "rcdbce6iqqpkpzzz-512x512-ec1485d476af.jpg",
+        "recordingCode": "USSM19502563",
+        "songUUID": "b3add7d0-ac1e-4bd7-b6b1-0674fd937ca4",
+        "trackIndex": "211"
+    },
+    "_activeDate": "2024-05-30T13:30:00.000Z",
+    "lastModified": "2024-09-19T06:14:01.601Z"
+}

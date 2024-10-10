@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "The Middle",
+        "releaseYear": 2018,
+        "duration": 185,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "DanceElectronic"
+        ],
+        "key": "G",
+        "majorMinor": "Major",
+        "albumName": "The Middle",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 107,
+        "artistName": "Zedd, Maren Morris & Grey",
+        "ageRating": "E",
+        "albumArtFilename": "aoyejpqylulmhgxr-512x512-f2a976872b5a.jpg",
+        "recordingCode": "USUM71800463",
+        "songUUID": "d4c2b30d-5151-40d0-9b48-068132d822ba",
+        "trackIndex": "43"
+    },
+    "_activeDate": "2023-10-10T15:25:36.420Z",
+    "lastModified": "2024-09-18T08:26:52.090Z"
+}

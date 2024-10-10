@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Sucker",
+        "releaseYear": 2019,
+        "duration": 185,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "genres": [
+            "Pop"
+        ],
+        "key": "Db",
+        "majorMinor": "Minor",
+        "albumName": "Happiness Begins",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 138,
+        "artistName": "Jonas Brothers",
+        "ageRating": "E",
+        "albumArtFilename": "aovwmuuokwrwb5pt-512x512-8c5c7fc18639.jpg",
+        "recordingCode": "USUG11900515",
+        "songUUID": "71068019-2ba9-4163-b359-eead05fe8bb1",
+        "trackIndex": "41"
+    },
+    "_activeDate": "2023-10-10T15:21:51.674Z",
+    "lastModified": "2024-09-18T08:23:54.748Z"
+}

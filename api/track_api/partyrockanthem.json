@@ -1,0 +1,35 @@
+{
+    "track": {
+        "trackTitle": "Party Rock Anthem",
+        "releaseYear": 2011,
+        "duration": 265,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "genres": [
+            "DanceElectronic"
+        ],
+        "key": "F",
+        "majorMinor": "Minor",
+        "albumName": "Sorry for Party Rocking",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 130,
+        "artistName": "LMFAO ft. Lauren Bennett & GoonRock",
+        "ageRating": "E",
+        "albumArtFilename": "swwkk9br3yfen87i-512x512-ed6d80bcbf73.jpg",
+        "recordingCode": "USUM71100061",
+        "songUUID": "93c4974b-e1da-4d14-918a-d20d2fa609c6",
+        "trackIndex": "10"
+    },
+    "_activeDate": "2023-12-19T23:59:00.000Z",
+    "lastModified": "2024-09-14T00:36:23.075Z"
+}

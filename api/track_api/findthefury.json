@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Find the Fury",
+        "releaseYear": 2024,
+        "duration": 167,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 5,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 105,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "4j2aco2yqwecotv0-512x512-1d7f381e9c2b.jpg",
+        "songUUID": "b89002fd-7168-47a9-b869-dd4610d453aa",
+        "trackIndex": "199"
+    },
+    "_activeDate": "2024-04-23T08:00:00.000Z",
+    "lastModified": "2024-09-19T03:28:01.634Z"
+}

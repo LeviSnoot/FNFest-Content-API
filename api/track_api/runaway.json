@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Runaway",
+        "releaseYear": 2024,
+        "duration": 167,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 3,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 120,
+        "artistName": "WitchGang",
+        "ageRating": "E",
+        "albumArtFilename": "o573qffsvtzfuj5q-512x512-f942af1428ed.jpg",
+        "recordingCode": "TCAIA2472218",
+        "songUUID": "2f7d2426-e716-4864-8350-d310daefa776",
+        "trackIndex": "182"
+    },
+    "_activeDate": "2024-04-23T08:00:00.000Z",
+    "lastModified": "2024-09-19T02:33:42.801Z"
+}

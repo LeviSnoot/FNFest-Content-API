@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Hold Me Closer",
+        "releaseYear": 2022,
+        "duration": 203,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 4,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 126,
+        "artistName": "Elton John & Britney Spears",
+        "ageRating": "E",
+        "albumArtFilename": "ebggmevwgwq1qyz6-512x512-b814bda847ba.jpg",
+        "recordingCode": "GBUM72205030",
+        "songUUID": "2093f273-320c-4c4d-b25c-59497ec5a88b",
+        "trackIndex": "129"
+    },
+    "_activeDate": "2024-01-10T18:34:02.519Z",
+    "lastModified": "2024-09-18T02:32:16.759Z"
+}

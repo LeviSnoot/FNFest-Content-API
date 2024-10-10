@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "CAIRO",
+        "releaseYear": 2022,
+        "duration": 200,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 115,
+        "artistName": "Karol G, Ovy On The Drums",
+        "ageRating": "T",
+        "albumArtFilename": "tkklukhh6cnsk892-512x512-17d8b98a5abc.jpg",
+        "recordingCode": "USUM72409593",
+        "songUUID": "c174559e-53ed-492f-85bb-b3dba1056982",
+        "trackIndex": "306"
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-09-23T06:03:37.485Z"
+}

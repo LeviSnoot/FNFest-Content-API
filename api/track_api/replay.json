@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Replay",
+        "releaseYear": 2009,
+        "duration": 188,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 91,
+        "artistName": "Iyaz",
+        "ageRating": "E",
+        "albumArtFilename": "gtdjm3m8znvruycn-512x512-9d636a8fdc9a.jpg",
+        "recordingCode": "USRE10901161",
+        "songUUID": "70119bd3-dce6-47f2-adf4-d0c075a95988",
+        "trackIndex": "295"
+    },
+    "_activeDate": "2024-08-22T13:30:00.000Z",
+    "lastModified": "2024-09-23T06:31:04.326Z"
+}

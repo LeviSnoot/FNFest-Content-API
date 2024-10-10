@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "We Like To Party! (The Vengabus)",
+        "releaseYear": 1998,
+        "duration": 225,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 136,
+        "artistName": "Vengaboys",
+        "ageRating": "E",
+        "albumArtFilename": "jcrfpiwse9u08ug1-512x512-a8be45bfa799.jpg",
+        "recordingCode": "NLC529811130",
+        "songUUID": "1b5f4b4e-22a1-4e9c-9890-28d2ba53ffa2",
+        "trackIndex": "253"
+    },
+    "_activeDate": "2024-06-27T13:30:00.000Z",
+    "lastModified": "2024-09-19T07:09:36.454Z"
+}

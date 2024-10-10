@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "8-Bit Beat",
+        "releaseYear": 2019,
+        "duration": 128,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 6,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 170,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "aj7aduwzwssfsqb2-512x512-4de27159729b.jpg",
+        "songUUID": "28f71a2f-ad55-48f8-aab1-6f4d920fcd22",
+        "trackIndex": "166"
+    },
+    "_activeDate": "2024-02-01T14:35:35.768Z",
+    "lastModified": "2024-09-19T06:19:49.871Z"
+}

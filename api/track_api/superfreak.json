@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Super Freak",
+        "releaseYear": 1981,
+        "duration": 198,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 132,
+        "artistName": "Rick James",
+        "ageRating": "E",
+        "albumArtFilename": "tojqnydc6qx98uiz-512x512-cd67f26a1a34.jpg",
+        "recordingCode": "USMO18100048",
+        "songUUID": "2781b580-0e32-45c9-ba63-e8b054e838b8",
+        "trackIndex": "133"
+    },
+    "_activeDate": "2024-01-10T18:56:24.085Z",
+    "lastModified": "2024-09-18T08:31:23.123Z"
+}

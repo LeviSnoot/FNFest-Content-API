@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Take Me Higher",
+        "releaseYear": 2022,
+        "duration": 193,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 156,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "t5uuxqhudwkgz7qv-512x512-506845b63fd3.jpg",
+        "songUUID": "d94d20ff-0213-4a62-8a4d-3b71bb5a1393",
+        "trackIndex": "61"
+    },
+    "_activeDate": "2023-10-24T13:47:20.785Z",
+    "lastModified": "2024-09-13T07:21:53.165Z"
+}

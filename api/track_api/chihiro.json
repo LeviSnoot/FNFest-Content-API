@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "CHIHIRO",
+        "releaseYear": 2024,
+        "duration": 305,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 110,
+        "artistName": "Billie Eilish",
+        "ageRating": "E",
+        "albumArtFilename": "j3hqdyzl5i7ep1wl-512x512-76912d823757.jpg",
+        "recordingCode": "USUM72401988",
+        "songUUID": "cb7e8f81-77f7-4014-893c-12c52b8ffeab",
+        "trackIndex": "218"
+    },
+    "_activeDate": "2024-05-17T18:00:00.000Z",
+    "lastModified": "2024-09-19T05:59:34.924Z"
+}

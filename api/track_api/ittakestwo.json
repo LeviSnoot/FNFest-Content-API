@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "It Takes Two",
+        "releaseYear": 1988,
+        "duration": 245,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 112,
+        "artistName": "Rob Base & DJ EZ Rock",
+        "ageRating": "E",
+        "albumArtFilename": "5iidtymhwllhpgli-512x512-c4b5c50e531e.jpg",
+        "recordingCode": "USAR19800588",
+        "songUUID": "a7c163fa-7dfd-4ae8-b3f7-f3cf7159f8ac",
+        "trackIndex": "148"
+    },
+    "_activeDate": "2024-06-13T08:00:00.000Z",
+    "lastModified": "2024-09-18T06:40:20.572Z"
+}

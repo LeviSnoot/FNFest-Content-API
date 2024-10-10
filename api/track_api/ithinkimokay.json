@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "I Think I'm OKAY",
+        "releaseYear": 2019,
+        "duration": 174,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Major",
+        "albumName": "",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 120,
+        "artistName": "mgk, YUNGBLUD & Travis Barker",
+        "ageRating": "T",
+        "albumArtFilename": "ithinkimokay-art-300x300-6801b1e6ad92.jpg",
+        "recordingCode": "USUM71909844",
+        "songUUID": "6d76c200-48b1-42d0-bb6f-c4615b424c85",
+        "trackIndex": "86"
+    },
+    "_activeDate": "2023-11-02T18:36:15.175Z",
+    "lastModified": "2024-09-18T08:03:59.135Z"
+}
