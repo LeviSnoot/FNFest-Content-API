@@ -15,6 +15,9 @@ def generate_link_tree(api_dir, output_file):
                 url_path = relative_path.replace(os.sep, '/')
                 file_list.append({'name': url_path, 'url': f'{API_DIR}/{url_path}'})
 
+    # Ensure the output directory exists
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
     with open(output_file, 'w') as f:
         yaml.dump(file_list, f)
 
