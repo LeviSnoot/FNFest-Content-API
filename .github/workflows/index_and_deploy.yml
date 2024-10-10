@@ -5,6 +5,7 @@ on:
     workflows: ["Fetch and Beautify Fortnite Festival Content API"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
   build:
