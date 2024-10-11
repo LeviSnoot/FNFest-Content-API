@@ -1,0 +1,31 @@
+{
+    "track": {
+        "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-ca60491ecb29.jpg",
+        "trackTitle": "Inferno Island",
+        "releaseYear": 2024,
+        "duration": 226,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 5,
+            "proDrums": 5,
+            "vocals": 1,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 123,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "ohgou12h18cs2zua-512x512-bb90e4fedeef.jpg",
+        "songUUID": "622ee86c-767b-4902-a9de-6941126d7ba1",
+        "trackIndex": "309"
+    },
+    "_activeDate": "2024-10-11T08:00:00.000Z",
+    "lastModified": "2024-10-10T05:20:09.207Z"
+}
