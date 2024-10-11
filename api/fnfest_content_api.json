@@ -9252,8 +9252,8 @@
             "songUUID": "a6dcff43-5929-4f2d-b162-de8d8e12c073",
             "trackIndex": "310"
         },
-        "_activeDate": "2024-07-12T08:00:00.000Z",
-        "lastModified": "2024-10-08T14:53:14.219Z"
+        "_activeDate": "2024-10-11T08:00:00.000Z",
+        "lastModified": "2024-10-10T05:21:21.865Z"
     },
     "sayitaintso": {
         "track": {
@@ -9409,5 +9409,160 @@
         },
         "_activeDate": "2024-10-10T13:30:00.000Z",
         "lastModified": "2024-10-10T04:26:50.525Z"
+    },
+    "tropicalheat": {
+        "track": {
+            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-80618ad20076.jpg",
+            "trackTitle": "Tropical Heat",
+            "releaseYear": 2024,
+            "duration": 253,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 5,
+                "vocals": 1,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 5,
+                "bass": 3
+            },
+            "BPM": 125,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "infernoisland-art-512x512-8bda0fef5668.jpg",
+            "songUUID": "878c3cff-5006-49f9-a356-bfd8faa4eb23",
+            "trackIndex": "313"
+        },
+        "_activeDate": "2024-10-11T08:00:00.000Z",
+        "lastModified": "2024-10-10T05:24:24.855Z"
+    },
+    "paradisepulse": {
+        "track": {
+            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-02e0129913be.jpg",
+            "trackTitle": "Paradise Pulse",
+            "releaseYear": 2024,
+            "duration": 243,
+            "iconBass": "Keyboard",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Keyboard",
+            "key": "G",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 1,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 125,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "diniibeas2fp0z7j-512x512-95454d4d8045.jpg",
+            "songUUID": "b31860a6-f39f-462d-95dc-c9c5f578b50a",
+            "trackIndex": "311"
+        },
+        "_activeDate": "2024-10-11T08:00:00.000Z",
+        "lastModified": "2024-10-10T05:23:01.637Z"
+    },
+    "infernoisland2": {
+        "track": {
+            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-ca60491ecb29.jpg",
+            "trackTitle": "Inferno Island",
+            "releaseYear": 2024,
+            "duration": 226,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 5,
+                "proDrums": 5,
+                "vocals": 1,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 5,
+                "bass": 4
+            },
+            "BPM": 123,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "ohgou12h18cs2zua-512x512-bb90e4fedeef.jpg",
+            "songUUID": "622ee86c-767b-4902-a9de-6941126d7ba1",
+            "trackIndex": "309"
+        },
+        "_activeDate": "2024-10-11T08:00:00.000Z",
+        "lastModified": "2024-10-10T05:20:09.207Z"
+    },
+    "sizzlinsunshine": {
+        "track": {
+            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-e23b4756193b.jpg",
+            "trackTitle": "Sizzlin' Sunshine",
+            "releaseYear": 2024,
+            "duration": 253,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Keyboard",
+            "key": "A",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 125,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "jlf6ty8dyuephj2s-512x512-ba53afe1ad5c.jpg",
+            "songUUID": "ce5438ea-3333-4212-8fdc-db84df1c26ed",
+            "trackIndex": "312"
+        },
+        "_activeDate": "2024-10-11T08:00:00.000Z",
+        "lastModified": "2024-10-10T05:23:37.749Z"
+    },
+    "nightmareschoice": {
+        "track": {
+            "tb": "https://cdn2.unrealengine.com/4mdmtnrtjcwejh3d-thumbnail-64x64-d74ddbbce518.jpg",
+            "trackTitle": "Nightmare's Choice",
+            "releaseYear": 2024,
+            "duration": 199,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 156,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "4mdmtnrtjcwejh3d-512x512-ccaa46a0856b.jpg",
+            "songUUID": "53dd4555-6a0f-4cee-9f70-17ac781a0adb",
+            "trackIndex": "335"
+        },
+        "_activeDate": "2024-10-11T08:00:00.000Z",
+        "lastModified": "2024-10-08T14:51:26.062Z"
     }
 }

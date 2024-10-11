@@ -1,0 +1,31 @@
+{
+    "track": {
+        "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-02e0129913be.jpg",
+        "trackTitle": "Paradise Pulse",
+        "releaseYear": 2024,
+        "duration": 243,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 1,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 125,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "diniibeas2fp0z7j-512x512-95454d4d8045.jpg",
+        "songUUID": "b31860a6-f39f-462d-95dc-c9c5f578b50a",
+        "trackIndex": "311"
+    },
+    "_activeDate": "2024-10-11T08:00:00.000Z",
+    "lastModified": "2024-10-10T05:23:01.637Z"
+}
