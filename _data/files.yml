@@ -260,6 +260,8 @@
   url: api/track_api/imawinner.json
 - name: track_api/infernoisland.json
   url: api/track_api/infernoisland.json
+- name: track_api/infernoisland2.json
+  url: api/track_api/infernoisland2.json
 - name: track_api/intheend.json
   url: api/track_api/intheend.json
 - name: track_api/intoyou.json
@@ -336,6 +338,8 @@
   url: api/track_api/nevergiveup.json
 - name: track_api/nextsemester.json
   url: api/track_api/nextsemester.json
+- name: track_api/nightmareschoice.json
+  url: api/track_api/nightmareschoice.json
 - name: track_api/nothingelsematters.json
   url: api/track_api/nothingelsematters.json
 - name: track_api/nothingsalright.json
@@ -362,6 +366,8 @@
   url: api/track_api/panda.json
 - name: track_api/paradisecity.json
   url: api/track_api/paradisecity.json
+- name: track_api/paradisepulse.json
+  url: api/track_api/paradisepulse.json
 - name: track_api/partyrockanthem.json
   url: api/track_api/partyrockanthem.json
 - name: track_api/pealikeme.json
@@ -438,6 +444,8 @@
   url: api/track_api/sillybros.json
 - name: track_api/singlesoon.json
   url: api/track_api/singlesoon.json
+- name: track_api/sizzlinsunshine.json
+  url: api/track_api/sizzlinsunshine.json
 - name: track_api/skysurfer.json
   url: api/track_api/skysurfer.json
 - name: track_api/somp.json
@@ -532,6 +540,8 @@
   url: api/track_api/toxicity.json
 - name: track_api/transparentsoul.json
   url: api/track_api/transparentsoul.json
+- name: track_api/tropicalheat.json
+  url: api/track_api/tropicalheat.json
 - name: track_api/tusa.json
   url: api/track_api/tusa.json
 - name: track_api/undone.json
