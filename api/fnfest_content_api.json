@@ -7715,7 +7715,6 @@
     },
     "fallguys": {
         "track": {
-            "tb": "https://cdn2.unrealengine.com/grgslg6puolgw2dc-128x128-c9e7fc0a9432.jpg",
             "trackTitle": "Everybody Falls (Chill Mix)",
             "releaseYear": 2024,
             "duration": 214,
@@ -7739,7 +7738,8 @@
             "ageRating": "E",
             "albumArtFilename": "ejxurqq0a50qctea-512x512-f4d1e9ab8623.jpg",
             "songUUID": "cc04ef54-0586-4891-94ef-0ac57b50abec",
-            "trackIndex": "197"
+            "trackIndex": "197",
+            "thumbnail": "https://cdn2.unrealengine.com/grgslg6puolgw2dc-128x128-c9e7fc0a9432.jpg"
         },
         "_activeDate": "2024-08-06T08:00:00.000Z",
         "lastModified": "2024-09-27T05:28:08.350Z"
@@ -9226,7 +9226,6 @@
     },
     "oceanbreezebeats": {
         "track": {
-            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-93821749786e.jpg",
             "trackTitle": "Ocean Breeze Beats",
             "releaseYear": 2024,
             "duration": 243,
@@ -9250,7 +9249,8 @@
             "ageRating": "E",
             "albumArtFilename": "xiuiv86rerbnlnof-512x512-2e1a19a7a7a0.jpg",
             "songUUID": "a6dcff43-5929-4f2d-b162-de8d8e12c073",
-            "trackIndex": "310"
+            "trackIndex": "310",
+            "thumbnail": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-93821749786e.jpg"
         },
         "_activeDate": "2024-10-11T08:00:00.000Z",
         "lastModified": "2024-10-10T05:21:21.865Z"
@@ -9412,7 +9412,6 @@
     },
     "tropicalheat": {
         "track": {
-            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-80618ad20076.jpg",
             "trackTitle": "Tropical Heat",
             "releaseYear": 2024,
             "duration": 253,
@@ -9436,14 +9435,14 @@
             "ageRating": "E",
             "albumArtFilename": "infernoisland-art-512x512-8bda0fef5668.jpg",
             "songUUID": "878c3cff-5006-49f9-a356-bfd8faa4eb23",
-            "trackIndex": "313"
+            "trackIndex": "313",
+            "thumbnail": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-80618ad20076.jpg"
         },
         "_activeDate": "2024-10-11T08:00:00.000Z",
         "lastModified": "2024-10-10T05:24:24.855Z"
     },
     "paradisepulse": {
         "track": {
-            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-02e0129913be.jpg",
             "trackTitle": "Paradise Pulse",
             "releaseYear": 2024,
             "duration": 243,
@@ -9467,14 +9466,14 @@
             "ageRating": "E",
             "albumArtFilename": "diniibeas2fp0z7j-512x512-95454d4d8045.jpg",
             "songUUID": "b31860a6-f39f-462d-95dc-c9c5f578b50a",
-            "trackIndex": "311"
+            "trackIndex": "311",
+            "thumbnail": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-02e0129913be.jpg"
         },
         "_activeDate": "2024-10-11T08:00:00.000Z",
         "lastModified": "2024-10-10T05:23:01.637Z"
     },
     "infernoisland2": {
         "track": {
-            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-ca60491ecb29.jpg",
             "trackTitle": "Inferno Island",
             "releaseYear": 2024,
             "duration": 226,
@@ -9498,14 +9497,14 @@
             "ageRating": "E",
             "albumArtFilename": "ohgou12h18cs2zua-512x512-bb90e4fedeef.jpg",
             "songUUID": "622ee86c-767b-4902-a9de-6941126d7ba1",
-            "trackIndex": "309"
+            "trackIndex": "309",
+            "thumbnail": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-ca60491ecb29.jpg"
         },
         "_activeDate": "2024-10-11T08:00:00.000Z",
         "lastModified": "2024-10-10T05:20:09.207Z"
     },
     "sizzlinsunshine": {
         "track": {
-            "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-e23b4756193b.jpg",
             "trackTitle": "Sizzlin' Sunshine",
             "releaseYear": 2024,
             "duration": 253,
@@ -9529,14 +9528,14 @@
             "ageRating": "E",
             "albumArtFilename": "jlf6ty8dyuephj2s-512x512-ba53afe1ad5c.jpg",
             "songUUID": "ce5438ea-3333-4212-8fdc-db84df1c26ed",
-            "trackIndex": "312"
+            "trackIndex": "312",
+            "thumbnail": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-e23b4756193b.jpg"
         },
         "_activeDate": "2024-10-11T08:00:00.000Z",
         "lastModified": "2024-10-10T05:23:37.749Z"
     },
     "nightmareschoice": {
         "track": {
-            "tb": "https://cdn2.unrealengine.com/4mdmtnrtjcwejh3d-thumbnail-64x64-d74ddbbce518.jpg",
             "trackTitle": "Nightmare's Choice",
             "releaseYear": 2024,
             "duration": 199,
@@ -9560,7 +9559,8 @@
             "ageRating": "E",
             "albumArtFilename": "4mdmtnrtjcwejh3d-512x512-ccaa46a0856b.jpg",
             "songUUID": "53dd4555-6a0f-4cee-9f70-17ac781a0adb",
-            "trackIndex": "335"
+            "trackIndex": "335",
+            "thumbnail": "https://cdn2.unrealengine.com/4mdmtnrtjcwejh3d-thumbnail-64x64-d74ddbbce518.jpg"
         },
         "_activeDate": "2024-10-11T08:00:00.000Z",
         "lastModified": "2024-10-08T14:51:26.062Z"

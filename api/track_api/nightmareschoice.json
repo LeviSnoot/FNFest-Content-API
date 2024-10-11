@@ -1,6 +1,5 @@
 {
     "track": {
-        "tb": "https://cdn2.unrealengine.com/4mdmtnrtjcwejh3d-thumbnail-64x64-d74ddbbce518.jpg",
         "trackTitle": "Nightmare's Choice",
         "releaseYear": 2024,
         "duration": 199,
@@ -24,7 +23,8 @@
         "ageRating": "E",
         "albumArtFilename": "4mdmtnrtjcwejh3d-512x512-ccaa46a0856b.jpg",
         "songUUID": "53dd4555-6a0f-4cee-9f70-17ac781a0adb",
-        "trackIndex": "335"
+        "trackIndex": "335",
+        "thumbnail": "https://cdn2.unrealengine.com/4mdmtnrtjcwejh3d-thumbnail-64x64-d74ddbbce518.jpg"
     },
     "_activeDate": "2024-10-11T08:00:00.000Z",
     "lastModified": "2024-10-08T14:51:26.062Z"

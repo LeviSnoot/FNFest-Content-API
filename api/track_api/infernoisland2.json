@@ -1,6 +1,5 @@
 {
     "track": {
-        "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-ca60491ecb29.jpg",
         "trackTitle": "Inferno Island",
         "releaseYear": 2024,
         "duration": 226,
@@ -24,7 +23,8 @@
         "ageRating": "E",
         "albumArtFilename": "ohgou12h18cs2zua-512x512-bb90e4fedeef.jpg",
         "songUUID": "622ee86c-767b-4902-a9de-6941126d7ba1",
-        "trackIndex": "309"
+        "trackIndex": "309",
+        "thumbnail": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-ca60491ecb29.jpg"
     },
     "_activeDate": "2024-10-11T08:00:00.000Z",
     "lastModified": "2024-10-10T05:20:09.207Z"

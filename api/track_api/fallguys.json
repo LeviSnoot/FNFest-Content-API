@@ -1,6 +1,5 @@
 {
     "track": {
-        "tb": "https://cdn2.unrealengine.com/grgslg6puolgw2dc-128x128-c9e7fc0a9432.jpg",
         "trackTitle": "Everybody Falls (Chill Mix)",
         "releaseYear": 2024,
         "duration": 214,
@@ -24,7 +23,8 @@
         "ageRating": "E",
         "albumArtFilename": "ejxurqq0a50qctea-512x512-f4d1e9ab8623.jpg",
         "songUUID": "cc04ef54-0586-4891-94ef-0ac57b50abec",
-        "trackIndex": "197"
+        "trackIndex": "197",
+        "thumbnail": "https://cdn2.unrealengine.com/grgslg6puolgw2dc-128x128-c9e7fc0a9432.jpg"
     },
     "_activeDate": "2024-08-06T08:00:00.000Z",
     "lastModified": "2024-09-27T05:28:08.350Z"
