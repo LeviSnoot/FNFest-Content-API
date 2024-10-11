@@ -51,7 +51,8 @@ def beautify_and_translate(data):
         "au": "albumArtFilename",
         "isrc": "recordingCode",
         "su": "songUUID",
-        "ti": "trackIndex"
+        "ti": "trackIndex",
+        "tb": "thumbnail"
     }
 
     intensity_mapping = {
