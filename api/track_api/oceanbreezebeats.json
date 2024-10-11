@@ -1,6 +1,5 @@
 {
     "track": {
-        "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-93821749786e.jpg",
         "trackTitle": "Ocean Breeze Beats",
         "releaseYear": 2024,
         "duration": 243,
@@ -24,7 +23,8 @@
         "ageRating": "E",
         "albumArtFilename": "xiuiv86rerbnlnof-512x512-2e1a19a7a7a0.jpg",
         "songUUID": "a6dcff43-5929-4f2d-b162-de8d8e12c073",
-        "trackIndex": "310"
+        "trackIndex": "310",
+        "thumbnail": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-93821749786e.jpg"
     },
     "_activeDate": "2024-10-11T08:00:00.000Z",
     "lastModified": "2024-10-10T05:21:21.865Z"

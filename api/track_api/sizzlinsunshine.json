@@ -1,6 +1,5 @@
 {
     "track": {
-        "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-e23b4756193b.jpg",
         "trackTitle": "Sizzlin' Sunshine",
         "releaseYear": 2024,
         "duration": 253,
@@ -24,7 +23,8 @@
         "ageRating": "E",
         "albumArtFilename": "jlf6ty8dyuephj2s-512x512-ba53afe1ad5c.jpg",
         "songUUID": "ce5438ea-3333-4212-8fdc-db84df1c26ed",
-        "trackIndex": "312"
+        "trackIndex": "312",
+        "thumbnail": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-e23b4756193b.jpg"
     },
     "_activeDate": "2024-10-11T08:00:00.000Z",
     "lastModified": "2024-10-10T05:23:37.749Z"
