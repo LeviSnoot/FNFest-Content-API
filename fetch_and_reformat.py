@@ -52,7 +52,7 @@ def beautify_and_translate(data):
         "isrc": "recordingCode",
         "su": "songUUID",
         "ti": "trackIndex",
-        "tb": "thumbnail"
+        "tb": "thumbFilename"
     }
 
     intensity_mapping = {
@@ -101,6 +101,10 @@ def beautify_and_translate(data):
         # Format the 'au' value
         if 'albumArtFilename' in track:
             track['albumArtFilename'] = os.path.basename(track['albumArtFilename'])
+
+        # Format the 'tb' value
+        if 'thumbFilename' in track:
+            track['thumbFilename'] = os.path.basename(track['thumbFilename'])
 
         # Remove excluded keys
         for key in keys_to_exclude:
