@@ -22,7 +22,16 @@
   </div>
 </header>
   <div class="container">
-    <ul>
+    <div class="controls">
+      <input type="text" id="search-bar" placeholder="Search...">
+      <select id="sort-dropdown">
+        <option value="default">Sort By</option>
+        <option value="asc">Ascending</option>
+        <option value="desc">Descending</option>
+      </select>
+    </div>
+    <ul id="list">
+      <ul>
   
     <li><a href="api/fnfest_content_api.json">fnfest_content_api.json</a></li>
   
@@ -634,11 +643,13 @@
   
 </ul>
 
+    </ul>
   </div>
   <footer>
   <p>This project is not affiliated with, endorsed by, or in any way associated with Epic Games or Fortnite. All product names, trademarks, and registered trademarks are property of their respective owners.</p>
 </footer>
   <script src="/FNFest-Content-API/assets/js/bold_list_items.js"></script>
   <script src="/FNFest-Content-API/assets/js/theme_toggle.js"></script>
+  <script src="/FNFest-Content-API/assets/js/filter_sort.js"></script>
 </body>
 </html>
