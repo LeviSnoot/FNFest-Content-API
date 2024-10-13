@@ -12,10 +12,21 @@
 <body>
   {% include header.html %}
   <div class="container">
-    {{ content }}
+    <div class="controls">
+      <input type="text" id="search-bar" placeholder="Search...">
+      <select id="sort-dropdown">
+        <option value="default">Sort By</option>
+        <option value="asc">Ascending</option>
+        <option value="desc">Descending</option>
+      </select>
+    </div>
+    <ul id="list">
+      {{ content }}
+    </ul>
   </div>
   {% include footer.html %}
   <script src="{{ '/assets/js/bold_list_items.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/theme_toggle.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/filter_sort.js' | relative_url }}"></script>
 </body>
 </html>
