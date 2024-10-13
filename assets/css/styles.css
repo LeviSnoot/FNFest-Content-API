@@ -1,22 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
 
+:root {
+  --background-color: #f0f0f0;
+  --text-color: #000;
+  --header-background-color: #aa4caf;
+  --header-text-color: #fff;
+  --link-color: #aa4caf;
+  --link-hover-color: #aa4caf;
+  --container-background-color: #fff;
+  --container-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  --li-background-color: #f9f9f9;
+  --li-border-color: #ddd;
+}
+
+[data-theme="dark"] {
+  --background-color: #121212;
+  --text-color: #fff;
+  --header-background-color: #333;
+  --header-text-color: #fff;
+  --link-color: #bb86fc;
+  --link-hover-color: #bb86fc;
+  --container-background-color: #333;
+  --container-box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  --li-background-color: #444;
+  --li-border-color: #555;
+}
+
 body {
   font-family: "Radio Canada Big", sans-serif;
-  background-color: #f0f0f0;
+  background-color: var(--background-color);
+  color: var(--text-color);
   margin: 0;
   padding: 0;
 }
 
 header {
   text-align: center;
-  background-color: #aa4caf;
-  color: white;
+  background-color: var(--header-background-color);
+  color: var(--header-text-color);
   padding: 1rem 0;
 }
 
 footer {
   text-align: center;
-  
+  max-width: 40vw;
+  margin: 0 auto;
 }
 
 h1 {
@@ -30,31 +58,39 @@ h1, h2 {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 60vw;
   max-height: calc(80vh - 4rem); /* Adjust based on header/footer height */
   margin: 2rem auto;
   padding: 4rem;
-  background-color: white;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--container-background-color);
+  box-shadow: var(--container-box-shadow);
   flex: 1;
   overflow-y: auto;
-  border-radius: 10px
+  border-radius: 10px;
 }
 
 ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15vw, 1fr));
+  gap: 0.1rem 1rem;
   list-style-type: disc;
   padding: 0;
+  margin: 0;
 }
 
 li {
-  margin: 0.5rem 0;
+  background-color: var(--li-background-color);
+  padding: 0.5rem;
+  border: 1px solid var(--li-border-color);
+  border-radius: 4px;
 }
 
 a {
-  color: #aa4caf;
+  color: var(--link-color);
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: var(--link-hover-color);
 }
