@@ -2,18 +2,22 @@ document.addEventListener("DOMContentLoaded", function() {
   const searchBar = document.getElementById('search-bar');
   const sortDropdown = document.getElementById('sort-dropdown');
   const list = document.getElementById('list');
-  const listItems = Array.from(list.getElementsByTagName('li'));
+  let listItems = Array.from(list.getElementsByTagName('li'));
+
+  function renderListItems(items) {
+    list.innerHTML = '';
+    items.forEach(item => list.appendChild(item));
+  }
+
+  renderListItems(listItems);
 
   searchBar.addEventListener('input', function() {
     const filter = searchBar.value.toLowerCase();
-    listItems.forEach(item => {
+    const filteredItems = listItems.filter(item => {
       const text = item.textContent.toLowerCase();
-      if (text.includes(filter)) {
-        item.style.display = '';
-      } else {
-        item.style.display = 'none';
-      }
+      return text.includes(filter);
     });
+    renderListItems(filteredItems);
   });
 
   sortDropdown.addEventListener('change', function() {
@@ -30,6 +34,6 @@ document.addEventListener("DOMContentLoaded", function() {
       }
     });
 
-    sortedItems.forEach(item => list.appendChild(item));
+    renderListItems(sortedItems);
   });
 });
