@@ -41,6 +41,28 @@ header {
   padding: 1rem 0;
 }
 
+.theme-switch {
+  display: flex;
+  align-items: center;
+}
+
+.theme-switch input {
+  display: none;
+}
+
+.theme-switch label {
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: var(--header-text-color);
+  margin: 0 0.5rem;
+}
+
+.theme-switch .fa-sun,
+.theme-switch .fa-moon {
+  font-size: 1.5rem;
+  color: var(--header-text-color);
+}
+
 footer {
   text-align: center;
   max-width: 40vw;
