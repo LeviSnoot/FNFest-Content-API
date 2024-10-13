@@ -1,40 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-  --background-color: #f0f0f0;
-  --text-color: #000;
-  --header-background-color: #aa4caf;
+  --background-color: hsla(283, 75%, 74%, 1);
+  --background-gradient: radial-gradient(circle at 1% 93%, hsla(255, 96%, 91%, 1) 0%, transparent 77%), radial-gradient(circle at 58% 46%, hsla(230, 94%, 62%, 1) 0%, transparent 58%), radial-gradient(circle at 7% 61%, hsla(280, 72%, 45%, 1) 6%, transparent 56%), radial-gradient(circle at 3% 38%, hsla(249, 92%, 45%, 1) 19%, transparent 82%), radial-gradient(circle at 61% 42%, hsla(263, 95%, 63%, 1) 0%, transparent 80%);
+  --background-blend-mode: normal, normal, normal, normal, normal;
+  --text-color: #333;
+  --header-background-color: hsla(0, 0%, 00%, 0.3);
   --header-text-color: #fff;
-  --link-color: #aa4caf;
-  --link-hover-color: #aa4caf;
-  --container-background-color: #fff;
+  --link-color: #5555bf;
+  --link-hover-color: #5555bf;
+  --container-background-color: hsla(0, 0%, 70%, 0.5);
   --container-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  --li-background-color: #f9f9f9;
-  --li-border-color: #ddd;
-  --input-background-color: #fff;
-  --input-text-color: #000;
+  --li-background-color: hsla(0, 0%, 90%, 0.3);
+  --input-background-color: hsla(0, 0%, 100%, 0.6);
+  --input-text-color: #555;
   --input-border-color: #ddd;
 }
 
 [data-theme="dark"] {
-  --background-color: #121212;
-  --text-color: #fff;
-  --header-background-color: #333;
-  --header-text-color: #fff;
-  --link-color: #bb86fc;
-  --link-hover-color: #bb86fc;
-  --container-background-color: #333;
-  --container-box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
-  --li-background-color: #444;
-  --li-border-color: #555;
+  --background-color: hsla(272, 30%, 11%, 1);
+  --background-gradient: radial-gradient(circle at 9% 38%, hsla(259, 41%, 7%, 1) 18%, transparent 74%), radial-gradient(circle at 95% 16%, hsla(275, 51%, 20%, 1) 15%, transparent 62%), radial-gradient(circle at 63% 85%, hsla(311, 65%, 13%, 1) 5%, transparent 87%), radial-gradient(circle at 75% 92%, hsla(291, 45%, 34%, 1) 8%, transparent 77%), radial-gradient(circle at 32% 99%, hsla(200, 35%, 26%, 1) 11%, transparent 87%);
+  --background-blend-mode: normal, normal, normal, normal, normal;
+  --text-color: #e0e0e0;
+  --header-background-color: hsla(0, 0%, 20%, 0.5);
+  --header-text-color: #eee;
+  --link-color: #8688fc;
+  --link-hover-color: #8688fc;
+  --container-background-color: hsla(0, 0%, 20%, 0.7);
+  --container-box-shadow: 0 0 30px rgba(255, 255, 255, 0.1);
+  --li-background-color: hsla(0, 0%, 27%, 0.2);
   --input-background-color: #333;
-  --input-text-color: #fff;
+  --input-text-color: #aaa;
   --input-border-color: #555;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  font-family: "Radio Canada Big", sans-serif;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
   background-color: var(--background-color);
+  background-image: var(--background-gradient);
+  background-blend-mode: var(--background-blend-mode);
   color: var(--text-color);
   margin: 0;
   padding: 0;
@@ -46,6 +57,7 @@ header {
   align-items: center;
   background-color: var(--header-background-color);
   color: var(--header-text-color);
+  box-shadow: var(--container-box-shadow);
   padding: 1rem 0;
 }
 
@@ -74,13 +86,15 @@ header {
 
 footer {
   text-align: center;
-  max-width: 40vw;
+  font-style: italic;
+  font-weight: 500;
   margin: 0 auto;
+  max-width: 40vw;
 }
 
 h1 {
   font-size: 7rem;
-  font-weight: 700;
+  font-weight: 900;
   font-style: italic;
 }
 
@@ -91,7 +105,7 @@ h1, h2 {
 
 .container {
   max-width: 60vw;
-  max-height: calc(80vh - 4rem); /* Adjust based on header/footer height */
+  max-height: calc(80vh - 6rem); /* Adjust based on header/footer height */
   margin: 2rem auto;
   padding: 4rem;
   background-color: var(--container-background-color);
@@ -108,19 +122,21 @@ h1, h2 {
 }
 
 #search-bar {
+  font-weight: 800;
   flex: 1;
   padding: 0.5rem;
-  border: 1px solid var(--input-border-color);
-  border-radius: 4px;
+  border-radius: 6px;
+  border: 0px;
   margin-right: 1rem;
   background-color: var(--input-background-color);
   color: var(--input-text-color);
 }
 
 #sort-dropdown {
+  font-weight: 800;
   padding: 0.5rem;
-  border: 1px solid var(--input-border-color);
-  border-radius: 4px;
+  border: 0px;
+  border-radius: 6px;
   background-color: var(--input-background-color);
   color: var(--input-text-color);
 }
@@ -135,10 +151,10 @@ ul {
 }
 
 li {
+  font-weight: 600;
   background-color: var(--li-background-color);
-  padding: 0.5rem;
-  border: 1px solid var(--li-border-color);
-  border-radius: 4px;
+  padding: 0.7rem;
+  border-radius: 8px;
 }
 
 a {
