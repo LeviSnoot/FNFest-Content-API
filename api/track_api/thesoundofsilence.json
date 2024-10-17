@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Sound of Silence",
+        "releaseYear": 2015,
+        "duration": 253,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 0,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 1,
+            "bass": 1
+        },
+        "BPM": 84,
+        "artistName": "Disturbed",
+        "ageRating": "E",
+        "albumArtFilename": "xxrtnopr5kud2w7o-512x512-7591716fdd72.jpg",
+        "recordingCode": "USRE11500180",
+        "songUUID": "672ac999-c07a-4b01-997a-22f485d6c404",
+        "trackIndex": "346"
+    },
+    "_activeDate": "2024-10-17T13:30:00.000Z",
+    "lastModified": "2024-10-15T14:51:49.580Z"
+}

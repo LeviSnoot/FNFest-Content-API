@@ -9595,5 +9595,129 @@
         },
         "_activeDate": "2024-10-16T23:58:00.000Z",
         "lastModified": "2024-10-15T14:41:11.011Z"
+    },
+    "somebodytoldme": {
+        "track": {
+            "trackTitle": "Somebody Told Me",
+            "releaseYear": 2004,
+            "duration": 201,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 3
+            },
+            "BPM": 138,
+            "artistName": "The Killers",
+            "ageRating": "E",
+            "albumArtFilename": "xb8yjsvt4r2yuyvs-512x512-d21e48ada1a1.jpg",
+            "recordingCode": "USIR20400195",
+            "songUUID": "c74f9cd9-25d3-4367-b5fd-4e454e0c1c42",
+            "trackIndex": "339"
+        },
+        "_activeDate": "2024-10-17T13:30:00.000Z",
+        "lastModified": "2024-10-15T15:22:43.331Z"
+    },
+    "thesoundofsilence": {
+        "track": {
+            "trackTitle": "The Sound of Silence",
+            "releaseYear": 2015,
+            "duration": 253,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 0,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 1,
+                "bass": 1
+            },
+            "BPM": 84,
+            "artistName": "Disturbed",
+            "ageRating": "E",
+            "albumArtFilename": "xxrtnopr5kud2w7o-512x512-7591716fdd72.jpg",
+            "recordingCode": "USRE11500180",
+            "songUUID": "672ac999-c07a-4b01-997a-22f485d6c404",
+            "trackIndex": "346"
+        },
+        "_activeDate": "2024-10-17T13:30:00.000Z",
+        "lastModified": "2024-10-15T14:51:49.580Z"
+    },
+    "nightmare": {
+        "track": {
+            "trackTitle": "Nightmare",
+            "releaseYear": 2010,
+            "duration": 370,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 4,
+                "proDrums": 5,
+                "vocals": 2,
+                "proGuitar": 5,
+                "guitar": 5,
+                "drums": 5,
+                "bass": 6
+            },
+            "BPM": 130,
+            "artistName": "Avenged Sevenfold",
+            "ageRating": "T",
+            "albumArtFilename": "yx8lxazycxvoa9oc-512x512-6cd9dd17403f.jpg",
+            "recordingCode": "USWB11001186",
+            "songUUID": "ec4bccd2-d1a6-439a-992c-f0f0a667ad83",
+            "trackIndex": "301"
+        },
+        "_activeDate": "2024-10-17T13:30:00.000Z",
+        "lastModified": "2024-10-16T12:22:53.998Z"
+    },
+    "imnotokay": {
+        "track": {
+            "trackTitle": "I'm Not Okay (I Promise)",
+            "releaseYear": 2004,
+            "duration": 191,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 3
+            },
+            "BPM": 90,
+            "artistName": "My Chemical Romance",
+            "ageRating": "E",
+            "albumArtFilename": "fuiym90lwlyoapqg-512x512-823eb203838b.jpg",
+            "recordingCode": "USRE10400660",
+            "songUUID": "c4149b7e-1db0-4d5e-b632-b9bbc478cba9",
+            "trackIndex": "338"
+        },
+        "_activeDate": "2024-10-15T18:13:00.000Z",
+        "lastModified": "2024-10-15T18:11:21.821Z"
     }
 }
