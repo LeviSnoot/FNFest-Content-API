@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Somebody Told Me",
+        "releaseYear": 2004,
+        "duration": 201,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 138,
+        "artistName": "The Killers",
+        "ageRating": "E",
+        "albumArtFilename": "xb8yjsvt4r2yuyvs-512x512-d21e48ada1a1.jpg",
+        "recordingCode": "USIR20400195",
+        "songUUID": "c74f9cd9-25d3-4367-b5fd-4e454e0c1c42",
+        "trackIndex": "339"
+    },
+    "_activeDate": "2024-10-17T13:30:00.000Z",
+    "lastModified": "2024-10-15T15:22:43.331Z"
+}
