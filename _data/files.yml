@@ -178,6 +178,8 @@
   url: api/track_api/fadetoblack.json
 - name: track_api/fallguys.json
   url: api/track_api/fallguys.json
+- name: track_api/feather.json
+  url: api/track_api/feather.json
 - name: track_api/feelgoodinc.json
   url: api/track_api/feelgoodinc.json
 - name: track_api/feelitstill.json
