@@ -260,6 +260,8 @@
   url: api/track_api/ihadsomehelp.json
 - name: track_api/imawinner.json
   url: api/track_api/imawinner.json
+- name: track_api/imnotokay.json
+  url: api/track_api/imnotokay.json
 - name: track_api/infernoisland.json
   url: api/track_api/infernoisland.json
 - name: track_api/infernoisland2.json
@@ -340,6 +342,8 @@
   url: api/track_api/nevergiveup.json
 - name: track_api/nextsemester.json
   url: api/track_api/nextsemester.json
+- name: track_api/nightmare.json
+  url: api/track_api/nightmare.json
 - name: track_api/nightmareschoice.json
   url: api/track_api/nightmareschoice.json
 - name: track_api/nothingelsematters.json
@@ -450,6 +454,8 @@
   url: api/track_api/sizzlinsunshine.json
 - name: track_api/skysurfer.json
   url: api/track_api/skysurfer.json
+- name: track_api/somebodytoldme.json
+  url: api/track_api/somebodytoldme.json
 - name: track_api/somp.json
   url: api/track_api/somp.json
 - name: track_api/song2.json
@@ -522,6 +528,8 @@
   url: api/track_api/thereforeiam.json
 - name: track_api/thesearch.json
   url: api/track_api/thesearch.json
+- name: track_api/thesoundofsilence.json
+  url: api/track_api/thesoundofsilence.json
 - name: track_api/theunforgiven.json
   url: api/track_api/theunforgiven.json
 - name: track_api/thewawylifegoes.json
