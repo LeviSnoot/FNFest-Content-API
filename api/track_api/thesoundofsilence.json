@@ -15,7 +15,7 @@
             "vocals": 2,
             "proGuitar": 2,
             "guitar": 3,
-            "drums": 1,
+            "drums": 0,
             "bass": 1
         },
         "BPM": 84,
@@ -27,5 +27,5 @@
         "trackIndex": "346"
     },
     "_activeDate": "2024-10-17T13:30:00.000Z",
-    "lastModified": "2024-10-15T14:51:49.580Z"
+    "lastModified": "2024-10-17T14:53:47.167Z"
 }
