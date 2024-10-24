@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Unholy",
+        "releaseYear": 2022,
+        "duration": 159,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 1,
+            "bass": 1
+        },
+        "BPM": 131,
+        "artistName": "Sam Smith w/ Kim Petras",
+        "ageRating": "T",
+        "albumArtFilename": "xov1of53mhws33uz-512x512-9c40956e0a51.jpg",
+        "recordingCode": "GBUM72205415",
+        "songUUID": "c3a8ebd0-9be5-4d02-8d60-07a02d1cf299",
+        "trackIndex": "350"
+    },
+    "_activeDate": "2024-10-24T13:30:00.000Z",
+    "lastModified": "2024-10-22T17:11:24.081Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "MONTERO (Call Me By Your Name)",
+        "releaseYear": 2021,
+        "duration": 140,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 90,
+        "artistName": "Lil Nas X",
+        "ageRating": "T",
+        "albumArtFilename": "g0vzoyqbnzzxco3d-512x512-07dd6dad78f3.jpg",
+        "recordingCode": "USSM12100532",
+        "songUUID": "7b354f74-49ac-43b6-9246-10a7bbf70600",
+        "trackIndex": "286"
+    },
+    "_activeDate": "2024-10-24T13:30:00.000Z",
+    "lastModified": "2024-10-22T17:07:21.970Z"
+}

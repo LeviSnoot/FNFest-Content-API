@@ -9719,5 +9719,129 @@
         },
         "_activeDate": "2024-10-15T18:13:00.000Z",
         "lastModified": "2024-10-15T18:11:21.821Z"
+    },
+    "thespins": {
+        "track": {
+            "trackTitle": "The Spins",
+            "releaseYear": 2010,
+            "duration": 203,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 1,
+                "bass": 1
+            },
+            "BPM": 127,
+            "artistName": "Mac Miller, Empire of the Sun",
+            "ageRating": "T",
+            "albumArtFilename": "10xc57msabpuiirp-512x512-46b848af77de.jpg",
+            "recordingCode": "USA2P2015959",
+            "songUUID": "1eaa7932-f44f-4003-a460-d8fe11ba43b3",
+            "trackIndex": "334"
+        },
+        "_activeDate": "2024-10-24T13:30:00.000Z",
+        "lastModified": "2024-10-22T17:10:09.047Z"
+    },
+    "unholy": {
+        "track": {
+            "trackTitle": "Unholy",
+            "releaseYear": 2022,
+            "duration": 159,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 1,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 1,
+                "bass": 1
+            },
+            "BPM": 131,
+            "artistName": "Sam Smith w/ Kim Petras",
+            "ageRating": "T",
+            "albumArtFilename": "xov1of53mhws33uz-512x512-9c40956e0a51.jpg",
+            "recordingCode": "GBUM72205415",
+            "songUUID": "c3a8ebd0-9be5-4d02-8d60-07a02d1cf299",
+            "trackIndex": "350"
+        },
+        "_activeDate": "2024-10-24T13:30:00.000Z",
+        "lastModified": "2024-10-22T17:11:24.081Z"
+    },
+    "montero": {
+        "track": {
+            "trackTitle": "MONTERO (Call Me By Your Name)",
+            "releaseYear": 2021,
+            "duration": 140,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 0
+            },
+            "BPM": 90,
+            "artistName": "Lil Nas X",
+            "ageRating": "T",
+            "albumArtFilename": "g0vzoyqbnzzxco3d-512x512-07dd6dad78f3.jpg",
+            "recordingCode": "USSM12100532",
+            "songUUID": "7b354f74-49ac-43b6-9246-10a7bbf70600",
+            "trackIndex": "286"
+        },
+        "_activeDate": "2024-10-24T13:30:00.000Z",
+        "lastModified": "2024-10-22T17:07:21.970Z"
+    },
+    "stargazing": {
+        "track": {
+            "trackTitle": "Stargazing",
+            "releaseYear": 2024,
+            "duration": 172,
+            "iconBass": "Keyboard",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 0,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 1,
+                "bass": 0
+            },
+            "BPM": 124,
+            "artistName": "Myles Smith",
+            "ageRating": "E",
+            "albumArtFilename": "numhdudil764nydi-512x512-9b26f4b8f034.jpg",
+            "recordingCode": "GBARL2400510",
+            "songUUID": "50135fd6-bbbd-4864-9807-b6c1944971ec",
+            "trackIndex": "222"
+        },
+        "_activeDate": "2024-10-24T13:30:00.000Z",
+        "lastModified": "2024-10-22T17:08:41.867Z"
     }
 }

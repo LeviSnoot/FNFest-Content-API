@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Stargazing",
+        "releaseYear": 2024,
+        "duration": 172,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 0,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 124,
+        "artistName": "Myles Smith",
+        "ageRating": "E",
+        "albumArtFilename": "numhdudil764nydi-512x512-9b26f4b8f034.jpg",
+        "recordingCode": "GBARL2400510",
+        "songUUID": "50135fd6-bbbd-4864-9807-b6c1944971ec",
+        "trackIndex": "222"
+    },
+    "_activeDate": "2024-10-24T13:30:00.000Z",
+    "lastModified": "2024-10-22T17:08:41.867Z"
+}
