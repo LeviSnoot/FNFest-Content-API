@@ -328,6 +328,8 @@
   url: api/track_api/migente.json
 - name: track_api/miserybusiness.json
   url: api/track_api/miserybusiness.json
+- name: track_api/montero.json
+  url: api/track_api/montero.json
 - name: track_api/mood.json
   url: api/track_api/mood.json
 - name: track_api/moveslikejagger.json
@@ -462,6 +464,8 @@
   url: api/track_api/song2.json
 - name: track_api/sowhat.json
   url: api/track_api/sowhat.json
+- name: track_api/stargazing.json
+  url: api/track_api/stargazing.json
 - name: track_api/starships.json
   url: api/track_api/starships.json
 - name: track_api/stickseason.json
@@ -530,6 +534,8 @@
   url: api/track_api/thesearch.json
 - name: track_api/thesoundofsilence.json
   url: api/track_api/thesoundofsilence.json
+- name: track_api/thespins.json
+  url: api/track_api/thespins.json
 - name: track_api/theunforgiven.json
   url: api/track_api/theunforgiven.json
 - name: track_api/thewawylifegoes.json
@@ -556,6 +562,8 @@
   url: api/track_api/tusa.json
 - name: track_api/undone.json
   url: api/track_api/undone.json
+- name: track_api/unholy.json
+  url: api/track_api/unholy.json
 - name: track_api/unsainted.json
   url: api/track_api/unsainted.json
 - name: track_api/uptownfunk.json
