@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Crank That (Soulja Boy)",
+        "releaseYear": 2007,
+        "duration": 226,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 0,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 140,
+        "artistName": "Soulja Boy Tell 'Em",
+        "ageRating": "E",
+        "albumArtFilename": "pp9tgal7l5qsinzg-512x512-194677bbb051.jpg",
+        "recordingCode": " USUM70742048",
+        "songUUID": "e0ee34e0-e391-4b6b-8ea3-ea14e1a406fd",
+        "trackIndex": "382"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:30:06.335Z"
+}

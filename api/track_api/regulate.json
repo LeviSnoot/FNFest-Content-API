@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Regulate",
+        "releaseYear": 1994,
+        "duration": 246,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 95,
+        "artistName": "Warren G ft. Nate Dogg",
+        "ageRating": "T",
+        "albumArtFilename": "55m5orksa36j32jk-512x512-a0224928d784.jpg",
+        "recordingCode": "USPR39401610",
+        "songUUID": "96939cfd-126d-4531-833e-4538d6d554be",
+        "trackIndex": "265"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:36:07.079Z"
+}

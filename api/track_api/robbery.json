@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Robbery",
+        "releaseYear": 2019,
+        "duration": 245,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 160,
+        "artistName": "Juice WRLD",
+        "ageRating": "T",
+        "albumArtFilename": "yortvxovxvvikvwn-512x512-b42b64b292b3.jpg",
+        "recordingCode": "USUG11900303",
+        "songUUID": "9411d4a4-dfcf-4a24-be2c-fadb03e0e1e5",
+        "trackIndex": "394"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:37:19.279Z"
+}

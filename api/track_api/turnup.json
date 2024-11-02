@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Turn Up",
+        "releaseYear": 2021,
+        "duration": 198,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 92,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "nttvowakp42cz6qe-512x512-d144e95d23ce.jpg",
+        "songUUID": "7c2169f4-e8e8-45ce-b7b2-64795545e9d8",
+        "trackIndex": "374"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:45:26.891Z"
+}

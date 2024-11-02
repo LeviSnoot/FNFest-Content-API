@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Ballin'",
+        "releaseYear": 2019,
+        "duration": 185,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 97,
+        "artistName": "Mustard ft. Roddy Ricch",
+        "ageRating": "T",
+        "albumArtFilename": "mrp8jd2cvrfweqgu-512x512-d82c68b2769a.jpg",
+        "recordingCode": "USUM71911816",
+        "songUUID": "9a3d36ce-3d3a-4e86-b78f-5d89313ea79b",
+        "trackIndex": "395"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:18:51.116Z"
+}

@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Bunny Bounce (Murda Beatz Remix)",
+        "releaseYear": 2024,
+        "duration": 145,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 113,
+        "artistName": "Epic Games ft. Murda Beatz",
+        "ageRating": "T",
+        "albumArtFilename": "epsm92ljgqkcdlif-512x512-ac14559c4fd8.jpg",
+        "songUUID": "fa6b3e9d-1590-4ec9-a080-3613e47f0697",
+        "trackIndex": "353"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:28:47.067Z"
+}

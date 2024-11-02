@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Larry's Place",
+        "releaseYear": 2020,
+        "duration": 127,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 5,
+            "vocals": 2,
+            "proGuitar": 6,
+            "guitar": 5,
+            "drums": 5,
+            "bass": 2
+        },
+        "BPM": 150,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "qkokmq2vpadtaxl4-512x512-6c70db8b4669.jpg",
+        "songUUID": "40bdd0a1-e4d9-43b2-9a9e-c53c03735517",
+        "trackIndex": "376"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:32:35.813Z"
+}
