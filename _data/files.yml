@@ -26,6 +26,8 @@
   url: api/track_api/badguy.json
 - name: track_api/badromance.json
   url: api/track_api/badromance.json
+- name: track_api/ballin.json
+  url: api/track_api/ballin.json
 - name: track_api/bandit.json
   url: api/track_api/bandit.json
 - name: track_api/barbiegirl.json
@@ -34,6 +36,8 @@
   url: api/track_api/basketcase.json
 - name: track_api/battery.json
   url: api/track_api/battery.json
+- name: track_api/beautiful.json
+  url: api/track_api/beautiful.json
 - name: track_api/beautifulday.json
   url: api/track_api/beautifulday.json
 - name: track_api/beforeiforget.json
@@ -76,6 +80,8 @@
   url: api/track_api/bornthisway.json
 - name: track_api/boulevardofbrokendreams.json
   url: api/track_api/boulevardofbrokendreams.json
+- name: track_api/bounceback.json
+  url: api/track_api/bounceback.json
 - name: track_api/bouncinback.json
   url: api/track_api/bouncinback.json
 - name: track_api/boysaliarpt2.json
@@ -94,6 +100,8 @@
   url: api/track_api/buddyholly.json
 - name: track_api/bullsonparade.json
   url: api/track_api/bullsonparade.json
+- name: track_api/bunnybouncemurdabeatz.json
+  url: api/track_api/bunnybouncemurdabeatz.json
 - name: track_api/buryafriend.json
   url: api/track_api/buryafriend.json
 - name: track_api/bustamove.json
@@ -134,6 +142,8 @@
   url: api/track_api/countingstars.json
 - name: track_api/cradles.json
   url: api/track_api/cradles.json
+- name: track_api/crankthat.json
+  url: api/track_api/crankthat.json
 - name: track_api/creaturesinheaven.json
   url: api/track_api/creaturesinheaven.json
 - name: track_api/dakiti.json
@@ -156,6 +166,8 @@
   url: api/track_api/dragula.json
 - name: track_api/dreamer.json
   url: api/track_api/dreamer.json
+- name: track_api/dropitlikeitshot.json
+  url: api/track_api/dropitlikeitshot.json
 - name: track_api/dynamite.json
   url: api/track_api/dynamite.json
 - name: track_api/dynamite2.json
@@ -294,6 +306,8 @@
   url: api/track_api/killinginthename.json
 - name: track_api/kissmemore.json
   url: api/track_api/kissmemore.json
+- name: track_api/larrysplace.json
+  url: api/track_api/larrysplace.json
 - name: track_api/lessthan.json
   url: api/track_api/lessthan.json
 - name: track_api/letyoudown.json
@@ -302,6 +316,8 @@
   url: api/track_api/lightemup.json
 - name: track_api/likeag6.json
   url: api/track_api/likeag6.json
+- name: track_api/limitlessmurdabeatz.json
+  url: api/track_api/limitlessmurdabeatz.json
 - name: track_api/lordofthewasteland.json
   url: api/track_api/lordofthewasteland.json
 - name: track_api/lovinonme.json
@@ -312,6 +328,8 @@
   url: api/track_api/lunch.json
 - name: track_api/luxaeterna.json
   url: api/track_api/luxaeterna.json
+- name: track_api/magentaride.json
+  url: api/track_api/magentaride.json
 - name: track_api/makedamnsure.json
   url: api/track_api/makedamnsure.json
 - name: track_api/makeitknown.json
@@ -398,12 +416,16 @@
   url: api/track_api/qlona.json
 - name: track_api/rainonme.json
   url: api/track_api/rainonme.json
+- name: track_api/regulate.json
+  url: api/track_api/regulate.json
 - name: track_api/replay.json
   url: api/track_api/replay.json
 - name: track_api/ridethelightning.json
   url: api/track_api/ridethelightning.json
 - name: track_api/ridewitme.json
   url: api/track_api/ridewitme.json
+- name: track_api/robbery.json
+  url: api/track_api/robbery.json
 - name: track_api/roses.json
   url: api/track_api/roses.json
 - name: track_api/rubysoho.json
@@ -464,6 +486,10 @@
   url: api/track_api/song2.json
 - name: track_api/sowhat.json
   url: api/track_api/sowhat.json
+- name: track_api/spiesmarshmello.json
+  url: api/track_api/spiesmarshmello.json
+- name: track_api/spiesmurdabeatz.json
+  url: api/track_api/spiesmurdabeatz.json
 - name: track_api/stargazing.json
   url: api/track_api/stargazing.json
 - name: track_api/starships.json
@@ -558,6 +584,8 @@
   url: api/track_api/transparentsoul.json
 - name: track_api/tropicalheat.json
   url: api/track_api/tropicalheat.json
+- name: track_api/turnup.json
+  url: api/track_api/turnup.json
 - name: track_api/tusa.json
   url: api/track_api/tusa.json
 - name: track_api/undone.json
@@ -618,6 +646,8 @@
   url: api/track_api/youdontknowwhatyouvegot.json
 - name: track_api/youngblood.json
   url: api/track_api/youngblood.json
+- name: track_api/youngwildandfree.json
+  url: api/track_api/youngwildandfree.json
 - name: track_api/youreallmine.json
   url: api/track_api/youreallmine.json
 - name: track_api/yourlove9pm.json
