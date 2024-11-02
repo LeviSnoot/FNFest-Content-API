@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Beautiful",
+        "releaseYear": 2003,
+        "duration": 297,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 101,
+        "artistName": "Snoop Dogg ft. Pharrell & Uncle Charlie Wilson",
+        "ageRating": "T",
+        "albumArtFilename": "3dn7rna3erodb79s-512x512-0cd55a1e41b9.jpg",
+        "recordingCode": "USUM72412205",
+        "songUUID": "0d400ff6-e49c-473c-a67a-b53233b30ee3",
+        "trackIndex": "396"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:25:29.896Z"
+}

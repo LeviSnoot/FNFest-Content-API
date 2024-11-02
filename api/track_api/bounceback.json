@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Bounce Back",
+        "releaseYear": 2016,
+        "duration": 225,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 163,
+        "artistName": "Big Sean",
+        "ageRating": "T",
+        "albumArtFilename": "ieggoo0lxp6is2hi-512x512-80c5ad4855fb.jpg",
+        "recordingCode": "USUM71614504",
+        "songUUID": "3f6fb972-7528-4c22-aa9b-2dce74c92a17",
+        "trackIndex": "384"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:26:37.066Z"
+}

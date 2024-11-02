@@ -2966,7 +2966,7 @@
             "duration": 187,
             "iconBass": "Bass",
             "iconDrum": "Drum",
-            "iconGuitar": "Guitar",
+            "iconGuitar": "Keyboard",
             "iconVocals": "Vocals",
             "genres": [
                 "Rock"
@@ -2991,8 +2991,8 @@
             "songUUID": "148122c5-ec39-4caf-a5e2-1d8ac9fa00d9",
             "trackIndex": "18"
         },
-        "_activeDate": "2023-10-09T21:15:40.001Z",
-        "lastModified": "2024-09-18T06:50:09.216Z"
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T13:22:18.018Z"
     },
     "shivers": {
         "track": {
@@ -6655,8 +6655,8 @@
             "songUUID": "628e316b-e41d-4dc1-aa7e-548df1c0d85e",
             "trackIndex": "232"
         },
-        "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-19T06:33:18.532Z"
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T14:19:45.409Z"
     },
     "nevergiveup": {
         "track": {
@@ -8604,8 +8604,8 @@
             "songUUID": "a44b1f46-7370-41b1-94e4-10f86ef664e5",
             "trackIndex": "322"
         },
-        "_activeDate": "2024-08-29T13:30:00.000Z",
-        "lastModified": "2024-09-20T02:52:49.613Z"
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T13:08:33.350Z"
     },
     "beyondtheflame": {
         "track": {
@@ -9843,5 +9843,463 @@
         },
         "_activeDate": "2024-10-24T13:30:00.000Z",
         "lastModified": "2024-10-22T17:08:41.867Z"
+    },
+    "spiesmurdabeatz": {
+        "track": {
+            "trackTitle": "Spies! (Murda Beatz Remix)",
+            "releaseYear": 2024,
+            "duration": 155,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "B",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 5,
+                "proGuitar": 3,
+                "guitar": 4,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 124,
+            "artistName": "Epic Games ft. Murda Beatz",
+            "ageRating": "T",
+            "albumArtFilename": "l78nrjuqdpuaqjnu-512x512-09619e8eabfa.jpg",
+            "songUUID": "1c0483b4-77c8-4006-9cc1-af28809667fe",
+            "trackIndex": "351"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:42:28.549Z"
+    },
+    "turnup": {
+        "track": {
+            "trackTitle": "Turn Up",
+            "releaseYear": 2021,
+            "duration": 198,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Keyboard",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 1,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 92,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "nttvowakp42cz6qe-512x512-d144e95d23ce.jpg",
+            "songUUID": "7c2169f4-e8e8-45ce-b7b2-64795545e9d8",
+            "trackIndex": "374"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:45:26.891Z"
+    },
+    "youngwildandfree": {
+        "track": {
+            "trackTitle": "Young, Wild & Free",
+            "releaseYear": 2011,
+            "duration": 209,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 5,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 95,
+            "artistName": "Snoop Dogg & Wiz Khalifa ft. Bruno Mars",
+            "ageRating": "T",
+            "albumArtFilename": "yjhyd922mizmevs7-512x512-4bf1ccde500b.jpg",
+            "recordingCode": "USAT21102233",
+            "songUUID": "0f97c733-55fc-48a4-a6f3-01bd4cbf4891",
+            "trackIndex": "393"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:47:13.533Z"
+    },
+    "dropitlikeitshot": {
+        "track": {
+            "trackTitle": "Drop It Like It's Hot",
+            "releaseYear": 2004,
+            "duration": 271,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 0,
+                "vocals": 4,
+                "proGuitar": 0,
+                "guitar": 1,
+                "drums": 0,
+                "bass": 0
+            },
+            "BPM": 92,
+            "artistName": "Snoop Dogg ft. Pharrell",
+            "ageRating": "T",
+            "albumArtFilename": "cpqv4ypfi5n6kgpn-512x512-9f5f0f69ffc5.jpg",
+            "recordingCode": "USUYG1293813",
+            "songUUID": "668dc614-c1cf-4f2b-a4d1-a296c80a6ae8",
+            "trackIndex": "387"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:31:22.986Z"
+    },
+    "larrysplace": {
+        "track": {
+            "trackTitle": "Larry's Place",
+            "releaseYear": 2020,
+            "duration": 127,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 5,
+                "vocals": 2,
+                "proGuitar": 6,
+                "guitar": 5,
+                "drums": 5,
+                "bass": 2
+            },
+            "BPM": 150,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "qkokmq2vpadtaxl4-512x512-6c70db8b4669.jpg",
+            "songUUID": "40bdd0a1-e4d9-43b2-9a9e-c53c03735517",
+            "trackIndex": "376"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:32:35.813Z"
+    },
+    "spiesmarshmello": {
+        "track": {
+            "trackTitle": "Spies! (Marshmello Remix)",
+            "releaseYear": 2024,
+            "duration": 102,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Keyboard",
+            "key": "Eb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 97,
+            "artistName": "Epic Games ft. Marshmello",
+            "ageRating": "E",
+            "albumArtFilename": "661myftixaomass8-512x512-35642ed44b45.jpg",
+            "songUUID": "f68649ff-568b-4277-ac5b-d257ee537ee0",
+            "trackIndex": "436"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:40:35.529Z"
+    },
+    "ballin": {
+        "track": {
+            "trackTitle": "Ballin'",
+            "releaseYear": 2019,
+            "duration": 185,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 5,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 97,
+            "artistName": "Mustard ft. Roddy Ricch",
+            "ageRating": "T",
+            "albumArtFilename": "mrp8jd2cvrfweqgu-512x512-d82c68b2769a.jpg",
+            "recordingCode": "USUM71911816",
+            "songUUID": "9a3d36ce-3d3a-4e86-b78f-5d89313ea79b",
+            "trackIndex": "395"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:18:51.116Z"
+    },
+    "bunnybouncemurdabeatz": {
+        "track": {
+            "trackTitle": "Bunny Bounce (Murda Beatz Remix)",
+            "releaseYear": 2024,
+            "duration": 145,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 113,
+            "artistName": "Epic Games ft. Murda Beatz",
+            "ageRating": "T",
+            "albumArtFilename": "epsm92ljgqkcdlif-512x512-ac14559c4fd8.jpg",
+            "songUUID": "fa6b3e9d-1590-4ec9-a080-3613e47f0697",
+            "trackIndex": "353"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:28:47.067Z"
+    },
+    "crankthat": {
+        "track": {
+            "trackTitle": "Crank That (Soulja Boy)",
+            "releaseYear": 2007,
+            "duration": 226,
+            "iconBass": "Keyboard",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 0,
+                "vocals": 4,
+                "proGuitar": 0,
+                "guitar": 0,
+                "drums": 2,
+                "bass": 0
+            },
+            "BPM": 140,
+            "artistName": "Soulja Boy Tell 'Em",
+            "ageRating": "E",
+            "albumArtFilename": "pp9tgal7l5qsinzg-512x512-194677bbb051.jpg",
+            "recordingCode": " USUM70742048",
+            "songUUID": "e0ee34e0-e391-4b6b-8ea3-ea14e1a406fd",
+            "trackIndex": "382"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:30:06.335Z"
+    },
+    "limitlessmurdabeatz": {
+        "track": {
+            "trackTitle": "Limitless (Murda Beatz Remix)",
+            "releaseYear": 2024,
+            "duration": 162,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 4,
+                "bass": 0
+            },
+            "BPM": 142,
+            "artistName": "Epic Games ft. Murda Beatz",
+            "ageRating": "T",
+            "albumArtFilename": "krond8kwkcj9osfu-512x512-c6ed713bfff3.jpg",
+            "songUUID": "27c0fca9-e344-4d39-bb7b-9cbc2ca7bd2a",
+            "trackIndex": "352"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:33:26.258Z"
+    },
+    "magentaride": {
+        "track": {
+            "trackTitle": "Magenta Ride",
+            "releaseYear": 2017,
+            "duration": 189,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Keyboard",
+            "key": "D",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 96,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "e47xfcutlc0wh7oo-512x512-226ac5400851.jpg",
+            "songUUID": "dad9265a-f6e3-46f9-a2aa-da5f28965ebe",
+            "trackIndex": "375"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:34:40.485Z"
+    },
+    "regulate": {
+        "track": {
+            "trackTitle": "Regulate",
+            "releaseYear": 1994,
+            "duration": 246,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 95,
+            "artistName": "Warren G ft. Nate Dogg",
+            "ageRating": "T",
+            "albumArtFilename": "55m5orksa36j32jk-512x512-a0224928d784.jpg",
+            "recordingCode": "USPR39401610",
+            "songUUID": "96939cfd-126d-4531-833e-4538d6d554be",
+            "trackIndex": "265"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:36:07.079Z"
+    },
+    "robbery": {
+        "track": {
+            "trackTitle": "Robbery",
+            "releaseYear": 2019,
+            "duration": 245,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 0
+            },
+            "BPM": 160,
+            "artistName": "Juice WRLD",
+            "ageRating": "T",
+            "albumArtFilename": "yortvxovxvvikvwn-512x512-b42b64b292b3.jpg",
+            "recordingCode": "USUG11900303",
+            "songUUID": "9411d4a4-dfcf-4a24-be2c-fadb03e0e1e5",
+            "trackIndex": "394"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:37:19.279Z"
+    },
+    "beautiful": {
+        "track": {
+            "trackTitle": "Beautiful",
+            "releaseYear": 2003,
+            "duration": 297,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "B",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 101,
+            "artistName": "Snoop Dogg ft. Pharrell & Uncle Charlie Wilson",
+            "ageRating": "T",
+            "albumArtFilename": "3dn7rna3erodb79s-512x512-0cd55a1e41b9.jpg",
+            "recordingCode": "USUM72412205",
+            "songUUID": "0d400ff6-e49c-473c-a67a-b53233b30ee3",
+            "trackIndex": "396"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:25:29.896Z"
+    },
+    "bounceback": {
+        "track": {
+            "trackTitle": "Bounce Back",
+            "releaseYear": 2016,
+            "duration": 225,
+            "iconBass": "Keyboard",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 5,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 4,
+                "bass": 1
+            },
+            "BPM": 163,
+            "artistName": "Big Sean",
+            "ageRating": "T",
+            "albumArtFilename": "ieggoo0lxp6is2hi-512x512-80c5ad4855fb.jpg",
+            "recordingCode": "USUM71614504",
+            "songUUID": "3f6fb972-7528-4c22-aa9b-2dce74c92a17",
+            "trackIndex": "384"
+        },
+        "_activeDate": "2024-11-02T06:00:00.000Z",
+        "lastModified": "2024-10-29T20:26:37.066Z"
     }
 }

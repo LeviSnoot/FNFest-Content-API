@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Young, Wild & Free",
+        "releaseYear": 2011,
+        "duration": 209,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 95,
+        "artistName": "Snoop Dogg & Wiz Khalifa ft. Bruno Mars",
+        "ageRating": "T",
+        "albumArtFilename": "yjhyd922mizmevs7-512x512-4bf1ccde500b.jpg",
+        "recordingCode": "USAT21102233",
+        "songUUID": "0f97c733-55fc-48a4-a6f3-01bd4cbf4891",
+        "trackIndex": "393"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:47:13.533Z"
+}

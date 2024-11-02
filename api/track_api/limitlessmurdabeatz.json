@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Limitless (Murda Beatz Remix)",
+        "releaseYear": 2024,
+        "duration": 162,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 142,
+        "artistName": "Epic Games ft. Murda Beatz",
+        "ageRating": "T",
+        "albumArtFilename": "krond8kwkcj9osfu-512x512-c6ed713bfff3.jpg",
+        "songUUID": "27c0fca9-e344-4d39-bb7b-9cbc2ca7bd2a",
+        "trackIndex": "352"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:33:26.258Z"
+}

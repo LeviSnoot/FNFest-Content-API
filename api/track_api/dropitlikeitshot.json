@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Drop It Like It's Hot",
+        "releaseYear": 2004,
+        "duration": 271,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 0,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 1,
+            "drums": 0,
+            "bass": 0
+        },
+        "BPM": 92,
+        "artistName": "Snoop Dogg ft. Pharrell",
+        "ageRating": "T",
+        "albumArtFilename": "cpqv4ypfi5n6kgpn-512x512-9f5f0f69ffc5.jpg",
+        "recordingCode": "USUYG1293813",
+        "songUUID": "668dc614-c1cf-4f2b-a4d1-a296c80a6ae8",
+        "trackIndex": "387"
+    },
+    "_activeDate": "2024-11-02T06:00:00.000Z",
+    "lastModified": "2024-10-29T20:31:22.986Z"
+}
