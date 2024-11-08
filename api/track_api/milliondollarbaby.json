@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "MILLION DOLLAR BABY",
+        "releaseYear": 2024,
+        "duration": 126,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 138,
+        "artistName": "Tommy Richman",
+        "ageRating": "E",
+        "albumArtFilename": "djwhqjvootwixenb-512x512-e4ce28242ee6.jpg",
+        "recordingCode": "QM24S2402770",
+        "songUUID": "37479695-0c71-447b-bbc3-c5042b891843",
+        "trackIndex": "417"
+    },
+    "_activeDate": "2024-11-07T14:30:00.000Z",
+    "lastModified": "2024-11-04T16:45:51.348Z"
+}

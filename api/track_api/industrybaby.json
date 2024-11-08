@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Industry Baby",
+        "releaseYear": 2021,
+        "duration": 216,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "albumName": "Montero ",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 150,
+        "artistName": "Lil Nas X ft. Jack Harlow",
+        "ageRating": "T",
+        "albumArtFilename": "wqfrivnsedrgbufm-512x512-53294c7fb561.jpg",
+        "recordingCode": "USSM12104539",
+        "songUUID": "4e966027-7b8d-4d69-b297-52f759f833e0",
+        "trackIndex": "09"
+    },
+    "_activeDate": "2024-11-07T14:30:00.000Z",
+    "lastModified": "2024-11-04T16:40:41.924Z"
+}

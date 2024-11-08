@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Super Bass",
+        "releaseYear": 2010,
+        "duration": 203,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 127,
+        "artistName": "Nicki Minaj",
+        "ageRating": "T",
+        "albumArtFilename": "cqlmvxqn3mnhszek-512x512-dc8534543d88.jpg",
+        "recordingCode": "USCM51100104",
+        "songUUID": "98ffa3f2-4db8-45de-bc77-8ac3f131b162",
+        "trackIndex": "412"
+    },
+    "_activeDate": "2024-11-07T14:30:00.000Z",
+    "lastModified": "2024-11-04T16:46:44.937Z"
+}

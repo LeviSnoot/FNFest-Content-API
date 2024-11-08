@@ -9902,7 +9902,7 @@
             "trackIndex": "374"
         },
         "_activeDate": "2024-11-02T06:00:00.000Z",
-        "lastModified": "2024-11-02T12:14:48.881Z"
+        "lastModified": "2024-11-05T18:49:34.838Z"
     },
     "youngwildandfree": {
         "track": {
@@ -10301,5 +10301,161 @@
         },
         "_activeDate": "2024-11-02T06:00:00.000Z",
         "lastModified": "2024-11-02T12:17:23.434Z"
+    },
+    "milliondollarbaby": {
+        "track": {
+            "trackTitle": "MILLION DOLLAR BABY",
+            "releaseYear": 2024,
+            "duration": 126,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 3
+            },
+            "BPM": 138,
+            "artistName": "Tommy Richman",
+            "ageRating": "E",
+            "albumArtFilename": "djwhqjvootwixenb-512x512-e4ce28242ee6.jpg",
+            "recordingCode": "QM24S2402770",
+            "songUUID": "37479695-0c71-447b-bbc3-c5042b891843",
+            "trackIndex": "417"
+        },
+        "_activeDate": "2024-11-07T14:30:00.000Z",
+        "lastModified": "2024-11-04T16:45:51.348Z"
+    },
+    "industrybaby": {
+        "track": {
+            "trackTitle": "Industry Baby",
+            "releaseYear": 2021,
+            "duration": 216,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Eb",
+            "majorMinor": "Minor",
+            "albumName": "Montero ",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 0,
+                "guitar": 0,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 150,
+            "artistName": "Lil Nas X ft. Jack Harlow",
+            "ageRating": "T",
+            "albumArtFilename": "wqfrivnsedrgbufm-512x512-53294c7fb561.jpg",
+            "recordingCode": "USSM12104539",
+            "songUUID": "4e966027-7b8d-4d69-b297-52f759f833e0",
+            "trackIndex": "09"
+        },
+        "_activeDate": "2024-11-07T14:30:00.000Z",
+        "lastModified": "2024-11-04T16:40:41.924Z"
+    },
+    "forthenight": {
+        "track": {
+            "trackTitle": "For The Night",
+            "releaseYear": 2020,
+            "duration": 196,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 126,
+            "artistName": "Pop Smoke w/ Lil Baby & DaBaby",
+            "ageRating": "T",
+            "albumArtFilename": "1ik481ipnhxgz3cw-512x512-5d6a8a2f0952.jpg",
+            "recordingCode": "USUM72013356",
+            "songUUID": "a0a47dbb-655d-4caa-a036-a874048aa39d",
+            "trackIndex": "413"
+        },
+        "_activeDate": "2024-11-07T14:30:00.000Z",
+        "lastModified": "2024-11-07T16:46:48.591Z"
+    },
+    "superbass": {
+        "track": {
+            "trackTitle": "Super Bass",
+            "releaseYear": 2010,
+            "duration": 203,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "B",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 5,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 127,
+            "artistName": "Nicki Minaj",
+            "ageRating": "T",
+            "albumArtFilename": "cqlmvxqn3mnhszek-512x512-dc8534543d88.jpg",
+            "recordingCode": "USCM51100104",
+            "songUUID": "98ffa3f2-4db8-45de-bc77-8ac3f131b162",
+            "trackIndex": "412"
+        },
+        "_activeDate": "2024-11-07T14:30:00.000Z",
+        "lastModified": "2024-11-04T16:46:44.937Z"
+    },
+    "walkthisway": {
+        "track": {
+            "trackTitle": "Walk This Way",
+            "releaseYear": 1986,
+            "duration": 315,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 4,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 106,
+            "artistName": "Run DMC ft. Aerosmith",
+            "ageRating": "T",
+            "albumArtFilename": "osinqsilqi2u2d15-512x512-91f359ee8cf5.jpg",
+            "recordingCode": "USRC11301965",
+            "songUUID": "1461f4f0-4cf4-4fb6-93ea-5f3933801b94",
+            "trackIndex": "415"
+        },
+        "_activeDate": "2024-11-07T14:30:00.000Z",
+        "lastModified": "2024-11-04T16:48:53.027Z"
     }
 }
