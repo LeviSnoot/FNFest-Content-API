@@ -214,6 +214,8 @@
   url: api/track_api/fly.json
 - name: track_api/forlatveria.json
   url: api/track_api/forlatveria.json
+- name: track_api/forthenight.json
+  url: api/track_api/forthenight.json
 - name: track_api/forwhomthebelltolls.json
   url: api/track_api/forwhomthebelltolls.json
 - name: track_api/fridayiminlove.json
@@ -274,6 +276,8 @@
   url: api/track_api/imawinner.json
 - name: track_api/imnotokay.json
   url: api/track_api/imnotokay.json
+- name: track_api/industrybaby.json
+  url: api/track_api/industrybaby.json
 - name: track_api/infernoisland.json
   url: api/track_api/infernoisland.json
 - name: track_api/infernoisland2.json
@@ -344,6 +348,8 @@
   url: api/track_api/metoo.json
 - name: track_api/migente.json
   url: api/track_api/migente.json
+- name: track_api/milliondollarbaby.json
+  url: api/track_api/milliondollarbaby.json
 - name: track_api/miserybusiness.json
   url: api/track_api/miserybusiness.json
 - name: track_api/montero.json
@@ -510,6 +516,8 @@
   url: api/track_api/sucker.json
 - name: track_api/suddenlyisee.json
   url: api/track_api/suddenlyisee.json
+- name: track_api/superbass.json
+  url: api/track_api/superbass.json
 - name: track_api/superfreak.json
   url: api/track_api/superfreak.json
 - name: track_api/surroundsound.json
@@ -600,6 +608,8 @@
   url: api/track_api/vampire.json
 - name: track_api/walkemdown.json
   url: api/track_api/walkemdown.json
+- name: track_api/walkthisway.json
+  url: api/track_api/walkthisway.json
 - name: track_api/waytoofast.json
   url: api/track_api/waytoofast.json
 - name: track_api/welcometoparadise.json
