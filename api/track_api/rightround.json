@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Right Round",
+        "releaseYear": 2009,
+        "duration": 207,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 125,
+        "artistName": "Flo Rida, Kesha",
+        "ageRating": "T",
+        "albumArtFilename": "iyzazjtcal10nrzb-512x512-fe6c32c6bcd1.jpg",
+        "recordingCode": "USAT20900156",
+        "songUUID": "38e73578-97c3-4bc5-9ae3-67ffbb4dee8b",
+        "trackIndex": "422"
+    },
+    "_activeDate": "2024-11-14T14:30:00.000Z",
+    "lastModified": "2024-11-13T19:48:48.249Z"
+}

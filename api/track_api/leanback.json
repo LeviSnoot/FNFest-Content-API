@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Lean Back",
+        "releaseYear": 2004,
+        "duration": 252,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 5,
+            "proGuitar": 4,
+            "guitar": 3,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 95,
+        "artistName": "Terror Squad ft. Remy & Fat Joe",
+        "ageRating": "T",
+        "albumArtFilename": "x02yig074eer1xrz-512x512-05f55809bbc3.jpg",
+        "recordingCode": "USUR10400289",
+        "songUUID": "f4f06137-ca47-44d2-aace-cef4ea357326",
+        "trackIndex": "421"
+    },
+    "_activeDate": "2024-11-14T14:30:00.000Z",
+    "lastModified": "2024-11-13T19:48:20.441Z"
+}

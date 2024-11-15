@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "In Ha Mood",
+        "releaseYear": 2023,
+        "duration": 124,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 141,
+        "artistName": "Ice Spice",
+        "ageRating": "T",
+        "albumArtFilename": "bm7krspplzdm3bkm-512x512-0ba86aca7902.jpg",
+        "recordingCode": "USUG12404913",
+        "songUUID": "b53ae7cc-e098-48b6-aa3a-f4d2a4c88752",
+        "trackIndex": "424"
+    },
+    "_activeDate": "2024-11-14T14:30:00.000Z",
+    "lastModified": "2024-11-13T19:48:07.641Z"
+}
