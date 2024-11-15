@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Oh Shhh...",
+        "releaseYear": 2024,
+        "duration": 166,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 143,
+        "artistName": "Ice Spice ft. Travis Scott",
+        "ageRating": "T",
+        "albumArtFilename": "g5zxa2cwjslimosv-512x512-fcb0741e2c78.jpg",
+        "recordingCode": "USUG12404926",
+        "songUUID": "b5c318d0-00b2-4391-9293-90ae4cab7f0f",
+        "trackIndex": "423"
+    },
+    "_activeDate": "2024-11-14T14:30:00.000Z",
+    "lastModified": "2024-11-13T19:48:36.864Z"
+}

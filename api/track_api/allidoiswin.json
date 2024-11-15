@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "All I Do Is Win",
+        "releaseYear": 2010,
+        "duration": 230,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 150,
+        "artistName": "DJ Khaled ft. T-Pain, Ludacris, Snoop Dogg & Rick Ross",
+        "ageRating": "T",
+        "albumArtFilename": "3xl7clgbj2txrvdc-512x512-f7783107dbe3.jpg",
+        "recordingCode": "USKO11000189",
+        "songUUID": "71af3bfd-094b-4acb-a163-6057a8345db8",
+        "trackIndex": "418"
+    },
+    "_activeDate": "2024-11-14T14:30:00.000Z",
+    "lastModified": "2024-11-13T19:47:39.697Z"
+}
