@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Armed And Dangerous",
+        "releaseYear": 2018,
+        "duration": 182,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 130,
+        "artistName": "Juice WRLD",
+        "ageRating": "T",
+        "albumArtFilename": "rsfq6nrfqwhqyutm-512x512-b9e0bb0d79d7.jpg",
+        "recordingCode": " USUG12407288",
+        "songUUID": "43e5ddab-82fe-43b1-bad9-f7127f2deb35",
+        "trackIndex": "428"
+    },
+    "_activeDate": "2024-11-21T14:30:00.000Z",
+    "lastModified": "2024-11-19T16:53:33.066Z"
+}
