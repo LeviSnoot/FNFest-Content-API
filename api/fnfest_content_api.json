@@ -10612,5 +10612,129 @@
         },
         "_activeDate": "2024-11-14T14:30:00.000Z",
         "lastModified": "2024-11-13T19:48:36.864Z"
+    },
+    "armedanddangerous": {
+        "track": {
+            "trackTitle": "Armed And Dangerous",
+            "releaseYear": 2018,
+            "duration": 182,
+            "iconBass": "Keyboard",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 130,
+            "artistName": "Juice WRLD",
+            "ageRating": "T",
+            "albumArtFilename": "rsfq6nrfqwhqyutm-512x512-b9e0bb0d79d7.jpg",
+            "recordingCode": " USUG12407288",
+            "songUUID": "43e5ddab-82fe-43b1-bad9-f7127f2deb35",
+            "trackIndex": "428"
+        },
+        "_activeDate": "2024-11-21T14:30:00.000Z",
+        "lastModified": "2024-11-19T16:53:33.066Z"
+    },
+    "wishingwell": {
+        "track": {
+            "trackTitle": "Wishing Well",
+            "releaseYear": 2020,
+            "duration": 196,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 150,
+            "artistName": "Juice WRLD",
+            "ageRating": "E",
+            "albumArtFilename": "7ujv65ot1gifjd67-512x512-4b958f29cc8c.jpg",
+            "recordingCode": "USUG12202467",
+            "songUUID": "fc2ac531-13b0-4120-957b-bb1fa9ff0fc6",
+            "trackIndex": "427"
+        },
+        "_activeDate": "2024-11-21T14:30:00.000Z",
+        "lastModified": "2024-11-21T15:01:50.778Z"
+    },
+    "beautifulthings": {
+        "track": {
+            "trackTitle": "Beautiful Things",
+            "releaseYear": 2024,
+            "duration": 181,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 140,
+            "artistName": "Benson Boone",
+            "ageRating": "E",
+            "albumArtFilename": "lrl6eyn78imy3spx-512x512-3f85661856b5.jpg",
+            "recordingCode": "USWB12307016",
+            "songUUID": "0b8f9b65-8283-4188-9bab-e6e563a6eeec",
+            "trackIndex": "440"
+        },
+        "_activeDate": "2024-11-21T14:30:00.000Z",
+        "lastModified": "2024-11-19T16:54:39.983Z"
+    },
+    "myhouse": {
+        "track": {
+            "trackTitle": "My House",
+            "releaseYear": 2015,
+            "duration": 194,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 1,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 1,
+                "bass": 0
+            },
+            "BPM": 94,
+            "artistName": "Flo Rida",
+            "ageRating": "T",
+            "albumArtFilename": "ya73q0xxf7w7siep-512x512-a9d8586dcf55.jpg",
+            "recordingCode": "USAT21500384",
+            "songUUID": "20b954ff-ac66-4b05-ac79-b3e269aa348f",
+            "trackIndex": "439"
+        },
+        "_activeDate": "2024-11-21T14:30:00.000Z",
+        "lastModified": "2024-11-19T16:55:49.404Z"
     }
 }

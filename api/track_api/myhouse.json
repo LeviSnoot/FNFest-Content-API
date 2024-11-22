@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "My House",
+        "releaseYear": 2015,
+        "duration": 194,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 94,
+        "artistName": "Flo Rida",
+        "ageRating": "T",
+        "albumArtFilename": "ya73q0xxf7w7siep-512x512-a9d8586dcf55.jpg",
+        "recordingCode": "USAT21500384",
+        "songUUID": "20b954ff-ac66-4b05-ac79-b3e269aa348f",
+        "trackIndex": "439"
+    },
+    "_activeDate": "2024-11-21T14:30:00.000Z",
+    "lastModified": "2024-11-19T16:55:49.404Z"
+}

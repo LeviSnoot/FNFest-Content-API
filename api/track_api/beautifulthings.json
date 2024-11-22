@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Beautiful Things",
+        "releaseYear": 2024,
+        "duration": 181,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 140,
+        "artistName": "Benson Boone",
+        "ageRating": "E",
+        "albumArtFilename": "lrl6eyn78imy3spx-512x512-3f85661856b5.jpg",
+        "recordingCode": "USWB12307016",
+        "songUUID": "0b8f9b65-8283-4188-9bab-e6e563a6eeec",
+        "trackIndex": "440"
+    },
+    "_activeDate": "2024-11-21T14:30:00.000Z",
+    "lastModified": "2024-11-19T16:54:39.983Z"
+}

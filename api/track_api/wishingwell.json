@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Wishing Well",
+        "releaseYear": 2020,
+        "duration": 196,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 150,
+        "artistName": "Juice WRLD",
+        "ageRating": "E",
+        "albumArtFilename": "7ujv65ot1gifjd67-512x512-4b958f29cc8c.jpg",
+        "recordingCode": "USUG12202467",
+        "songUUID": "fc2ac531-13b0-4120-957b-bb1fa9ff0fc6",
+        "trackIndex": "427"
+    },
+    "_activeDate": "2024-11-21T14:30:00.000Z",
+    "lastModified": "2024-11-21T15:01:50.778Z"
+}
