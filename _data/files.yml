@@ -22,6 +22,8 @@
   url: api/track_api/applause.json
 - name: track_api/apple.json
   url: api/track_api/apple.json
+- name: track_api/armedanddangerous.json
+  url: api/track_api/armedanddangerous.json
 - name: track_api/astronoutintheocean.json
   url: api/track_api/astronoutintheocean.json
 - name: track_api/badguy.json
@@ -42,6 +44,8 @@
   url: api/track_api/beautiful.json
 - name: track_api/beautifulday.json
   url: api/track_api/beautifulday.json
+- name: track_api/beautifulthings.json
+  url: api/track_api/beautifulthings.json
 - name: track_api/beforeiforget.json
   url: api/track_api/beforeiforget.json
 - name: track_api/beggin.json
@@ -368,6 +372,8 @@
   url: api/track_api/mrbrightside.json
 - name: track_api/myexesbestfriend.json
   url: api/track_api/myexesbestfriend.json
+- name: track_api/myhouse.json
+  url: api/track_api/myhouse.json
 - name: track_api/myohmy.json
   url: api/track_api/myohmy.json
 - name: track_api/nevergiveup.json
@@ -646,6 +652,8 @@
   url: api/track_api/whereverimayroam.json
 - name: track_api/winterfestwish.json
   url: api/track_api/winterfestwish.json
+- name: track_api/wishingwell.json
+  url: api/track_api/wishingwell.json
 - name: track_api/withorwithoutyou.json
   url: api/track_api/withorwithoutyou.json
 - name: track_api/wolves.json
