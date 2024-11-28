@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Lean Wit Me",
+        "releaseYear": 2018,
+        "duration": 179,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 82,
+        "artistName": "Juice WRLD",
+        "ageRating": "T",
+        "albumArtFilename": "du5quw7v45kpfick-512x512-757bd0087948.jpg",
+        "recordingCode": "USUG12202301",
+        "songUUID": "9886906e-7cde-4e39-a4ee-1897cb824078",
+        "trackIndex": "426"
+    },
+    "_activeDate": "2024-11-27T14:30:00.000Z",
+    "lastModified": "2024-11-26T20:14:38.318Z"
+}

@@ -10736,5 +10736,191 @@
         },
         "_activeDate": "2024-11-21T14:30:00.000Z",
         "lastModified": "2024-11-19T16:55:49.404Z"
+    },
+    "wildones": {
+        "track": {
+            "trackTitle": "Wild Ones",
+            "releaseYear": 2012,
+            "duration": 234,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 127,
+            "artistName": "Flo Rida ft. Sia",
+            "ageRating": "T",
+            "albumArtFilename": "jr9jicewojjux4k8-512x512-6c4b899e3241.jpg",
+            "recordingCode": "USAT21104103",
+            "songUUID": "d6f62588-6a00-4c4e-8f0b-08badcb257ab",
+            "trackIndex": "431"
+        },
+        "_activeDate": "2024-11-27T14:30:00.000Z",
+        "lastModified": "2024-11-26T20:17:45.339Z"
+    },
+    "backstreetsback": {
+        "track": {
+            "trackTitle": "Everybody (Backstreet's Back)",
+            "releaseYear": 1997,
+            "duration": 228,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 108,
+            "artistName": "Backstreet Boys",
+            "ageRating": "E",
+            "albumArtFilename": "p1rfqaf7yfkhilkj-512x512-937a1b792d8b.jpg",
+            "recordingCode": "USJI19710083",
+            "songUUID": "6201d7b0-8ca5-47b9-a228-754ac8c48096",
+            "trackIndex": "432"
+        },
+        "_activeDate": "2024-11-27T14:30:00.000Z",
+        "lastModified": "2024-11-26T20:44:33.217Z"
+    },
+    "ftcu": {
+        "track": {
+            "trackTitle": "FTCU",
+            "releaseYear": 2023,
+            "duration": 164,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Eb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 0,
+                "guitar": 0,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 145,
+            "artistName": "Nicki Minaj",
+            "ageRating": "T",
+            "albumArtFilename": "m7slgzehkowaj7qq-512x512-bd2b817eace1.jpg",
+            "recordingCode": "USUM72318677",
+            "songUUID": "adbac647-1360-4cab-ab4e-e2b344aa162c",
+            "trackIndex": "433"
+        },
+        "_activeDate": "2024-11-27T14:30:00.000Z",
+        "lastModified": "2024-11-26T20:12:00.754Z"
+    },
+    "alleyezonme": {
+        "track": {
+            "trackTitle": "All Eyez On Me",
+            "releaseYear": 1996,
+            "duration": 311,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 5,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 93,
+            "artistName": "2Pac ft. Big Syke",
+            "ageRating": "T",
+            "albumArtFilename": "jpwjvrri6e7jshds-512x512-3fa38488f64f.jpg",
+            "recordingCode": "USKO10403698",
+            "songUUID": "02de62e7-61e2-4429-92bb-fd7e9ef9fbfb",
+            "trackIndex": "419"
+        },
+        "_activeDate": "2024-11-27T14:30:00.000Z",
+        "lastModified": "2024-11-26T20:44:06.460Z"
+    },
+    "leanwitme": {
+        "track": {
+            "trackTitle": "Lean Wit Me",
+            "releaseYear": 2018,
+            "duration": 179,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 82,
+            "artistName": "Juice WRLD",
+            "ageRating": "T",
+            "albumArtFilename": "du5quw7v45kpfick-512x512-757bd0087948.jpg",
+            "recordingCode": "USUG12202301",
+            "songUUID": "9886906e-7cde-4e39-a4ee-1897cb824078",
+            "trackIndex": "426"
+        },
+        "_activeDate": "2024-11-27T14:30:00.000Z",
+        "lastModified": "2024-11-26T20:14:38.318Z"
+    },
+    "heyya": {
+        "track": {
+            "trackTitle": "Hey Ya!",
+            "releaseYear": 2003,
+            "duration": 241,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 0,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 0,
+                "bass": 2
+            },
+            "BPM": 159,
+            "artistName": "Outkast",
+            "ageRating": "T",
+            "albumArtFilename": "mtdmhphzyxvaeurs-512x512-16ece77fc1bb.jpg",
+            "recordingCode": "USAR10300924",
+            "songUUID": "2a36b3c5-4d03-4615-99a1-58ba85d9a877",
+            "trackIndex": "283"
+        },
+        "_activeDate": "2024-11-27T14:30:00.000Z",
+        "lastModified": "2024-11-26T20:44:56.568Z"
     }
 }
