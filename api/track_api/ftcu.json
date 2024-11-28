@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "FTCU",
+        "releaseYear": 2023,
+        "duration": 164,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 145,
+        "artistName": "Nicki Minaj",
+        "ageRating": "T",
+        "albumArtFilename": "m7slgzehkowaj7qq-512x512-bd2b817eace1.jpg",
+        "recordingCode": "USUM72318677",
+        "songUUID": "adbac647-1360-4cab-ab4e-e2b344aa162c",
+        "trackIndex": "433"
+    },
+    "_activeDate": "2024-11-27T14:30:00.000Z",
+    "lastModified": "2024-11-26T20:12:00.754Z"
+}

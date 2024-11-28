@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "All Eyez On Me",
+        "releaseYear": 1996,
+        "duration": 311,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 93,
+        "artistName": "2Pac ft. Big Syke",
+        "ageRating": "T",
+        "albumArtFilename": "jpwjvrri6e7jshds-512x512-3fa38488f64f.jpg",
+        "recordingCode": "USKO10403698",
+        "songUUID": "02de62e7-61e2-4429-92bb-fd7e9ef9fbfb",
+        "trackIndex": "419"
+    },
+    "_activeDate": "2024-11-27T14:30:00.000Z",
+    "lastModified": "2024-11-26T20:44:06.460Z"
+}

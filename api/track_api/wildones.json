@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Wild Ones",
+        "releaseYear": 2012,
+        "duration": 234,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 127,
+        "artistName": "Flo Rida ft. Sia",
+        "ageRating": "T",
+        "albumArtFilename": "jr9jicewojjux4k8-512x512-6c4b899e3241.jpg",
+        "recordingCode": "USAT21104103",
+        "songUUID": "d6f62588-6a00-4c4e-8f0b-08badcb257ab",
+        "trackIndex": "431"
+    },
+    "_activeDate": "2024-11-27T14:30:00.000Z",
+    "lastModified": "2024-11-26T20:17:45.339Z"
+}

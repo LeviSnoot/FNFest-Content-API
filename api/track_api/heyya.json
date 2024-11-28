@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Hey Ya!",
+        "releaseYear": 2003,
+        "duration": 241,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 0,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 0,
+            "bass": 2
+        },
+        "BPM": 159,
+        "artistName": "Outkast",
+        "ageRating": "T",
+        "albumArtFilename": "mtdmhphzyxvaeurs-512x512-16ece77fc1bb.jpg",
+        "recordingCode": "USAR10300924",
+        "songUUID": "2a36b3c5-4d03-4615-99a1-58ba85d9a877",
+        "trackIndex": "283"
+    },
+    "_activeDate": "2024-11-27T14:30:00.000Z",
+    "lastModified": "2024-11-26T20:44:56.568Z"
+}

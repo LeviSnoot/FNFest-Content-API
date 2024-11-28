@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Everybody (Backstreet's Back)",
+        "releaseYear": 1997,
+        "duration": 228,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 108,
+        "artistName": "Backstreet Boys",
+        "ageRating": "E",
+        "albumArtFilename": "p1rfqaf7yfkhilkj-512x512-937a1b792d8b.jpg",
+        "recordingCode": "USJI19710083",
+        "songUUID": "6201d7b0-8ca5-47b9-a228-754ac8c48096",
+        "trackIndex": "432"
+    },
+    "_activeDate": "2024-11-27T14:30:00.000Z",
+    "lastModified": "2024-11-26T20:44:33.217Z"
+}
