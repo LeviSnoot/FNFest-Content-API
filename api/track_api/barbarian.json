@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Barbarian",
+        "releaseYear": 2024,
+        "duration": 157,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 140,
+        "artistName": "Juice WRLD",
+        "ageRating": "T",
+        "albumArtFilename": "perx0pvqomlqv9wp-512x512-c82c8cd7bbec.jpg",
+        "recordingCode": "USUG12407302",
+        "songUUID": "42946494-0c1f-47ba-a05d-cb48f7265d61",
+        "trackIndex": "430"
+    },
+    "_activeDate": "2024-11-30T20:52:00.000Z",
+    "lastModified": "2024-11-30T20:40:05.258Z"
+}
