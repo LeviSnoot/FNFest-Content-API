@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Empty Out Your Pockets",
+        "releaseYear": 2024,
+        "duration": 141,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 92,
+        "artistName": "Juice WRLD",
+        "ageRating": "T",
+        "albumArtFilename": "qqc6brjlw9dhwjts-512x512-7bc243432c09.jpg",
+        "recordingCode": "USUG12407300",
+        "songUUID": "5cb271f6-c1b0-4b2c-af39-39919358fb50",
+        "trackIndex": "435"
+    },
+    "_activeDate": "2024-11-30T20:52:00.000Z",
+    "lastModified": "2024-11-30T20:40:57.971Z"
+}
