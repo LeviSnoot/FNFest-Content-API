@@ -38,6 +38,8 @@
   url: api/track_api/ballin.json
 - name: track_api/bandit.json
   url: api/track_api/bandit.json
+- name: track_api/barbarian.json
+  url: api/track_api/barbarian.json
 - name: track_api/barbiegirl.json
   url: api/track_api/barbiegirl.json
 - name: track_api/basketcase.json
@@ -190,6 +192,8 @@
   url: api/track_api/ellabailasola.json
 - name: track_api/emogirl.json
   url: api/track_api/emogirl.json
+- name: track_api/emptyoutyourpockets.json
+  url: api/track_api/emptyoutyourpockets.json
 - name: track_api/entersandman.json
   url: api/track_api/entersandman.json
 - name: track_api/espresso.json
