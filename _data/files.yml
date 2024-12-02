@@ -102,6 +102,8 @@
   url: api/track_api/braceforchaos.json
 - name: track_api/breakingme.json
   url: api/track_api/breakingme.json
+- name: track_api/breakthecurse.json
+  url: api/track_api/breakthecurse.json
 - name: track_api/breed.json
   url: api/track_api/breed.json
 - name: track_api/bringmetolife.json
@@ -136,6 +138,8 @@
   url: api/track_api/cantstopthefeeling.json
 - name: track_api/carryonwaywardson.json
   url: api/track_api/carryonwaywardson.json
+- name: track_api/catsprowl.json
+  url: api/track_api/catsprowl.json
 - name: track_api/change.json
   url: api/track_api/change.json
 - name: track_api/changes.json
@@ -398,6 +402,8 @@
   url: api/track_api/nightmare.json
 - name: track_api/nightmareschoice.json
   url: api/track_api/nightmareschoice.json
+- name: track_api/nightrosessong.json
+  url: api/track_api/nightrosessong.json
 - name: track_api/nothingelsematters.json
   url: api/track_api/nothingelsematters.json
 - name: track_api/nothingsalright.json
