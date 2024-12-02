@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Cat's Prowl",
+        "releaseYear": 2024,
+        "duration": 172,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 5,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 5,
+            "bass": 1
+        },
+        "BPM": 166,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "krzr2iicapkc4a6m-512x512-098b1c2f49be.jpg",
+        "songUUID": "82e15f84-9fa2-412e-a027-bbcf4dc5939b",
+        "trackIndex": "442"
+    },
+    "_activeDate": "2024-12-01T03:00:00.000Z",
+    "lastModified": "2024-11-26T20:33:51.784Z"
+}

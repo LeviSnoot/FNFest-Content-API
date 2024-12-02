@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Break The Curse",
+        "releaseYear": 2024,
+        "duration": 215,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 5,
+            "proGuitar": 4,
+            "guitar": 5,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 155,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "rochkuyy4hlfcmbe-512x512-70096a32626c.jpg",
+        "songUUID": "9fc91f93-27cd-4b73-b8c0-5be100af089d",
+        "trackIndex": "441"
+    },
+    "_activeDate": "2024-12-01T03:00:00.000Z",
+    "lastModified": "2024-11-26T20:26:23.254Z"
+}
