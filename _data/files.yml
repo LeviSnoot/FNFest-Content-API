@@ -38,6 +38,8 @@
   url: api/track_api/ballin.json
 - name: track_api/bandit.json
   url: api/track_api/bandit.json
+- name: track_api/bangbang.json
+  url: api/track_api/bangbang.json
 - name: track_api/barbarian.json
   url: api/track_api/barbarian.json
 - name: track_api/barbiegirl.json
@@ -248,6 +250,8 @@
   url: api/track_api/gethimback.json
 - name: track_api/getlow.json
   url: api/track_api/getlow.json
+- name: track_api/ghost.json
+  url: api/track_api/ghost.json
 - name: track_api/gimmethelight.json
   url: api/track_api/gimmethelight.json
 - name: track_api/givemeeverything.json
@@ -398,6 +402,8 @@
   url: api/track_api/nevergiveup.json
 - name: track_api/nextsemester.json
   url: api/track_api/nextsemester.json
+- name: track_api/nightdancer.json
+  url: api/track_api/nightdancer.json
 - name: track_api/nightmare.json
   url: api/track_api/nightmare.json
 - name: track_api/nightmareschoice.json
@@ -570,12 +576,16 @@
   url: api/track_api/takemehigher.json
 - name: track_api/takemybreath.json
   url: api/track_api/takemybreath.json
+- name: track_api/takeonme.json
+  url: api/track_api/takeonme.json
 - name: track_api/takeovercontrol.json
   url: api/track_api/takeovercontrol.json
 - name: track_api/theboyismine.json
   url: api/track_api/theboyismine.json
 - name: track_api/theboysareback.json
   url: api/track_api/theboysareback.json
+- name: track_api/thebrave.json
+  url: api/track_api/thebrave.json
 - name: track_api/thebusiness.json
   url: api/track_api/thebusiness.json
 - name: track_api/theclaw.json
