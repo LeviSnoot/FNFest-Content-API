@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Bang Bang",
+        "releaseYear": 2014,
+        "duration": 201,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 150,
+        "artistName": "Jessie J, Nicki Minaj, Ariana Grande",
+        "ageRating": "T",
+        "albumArtFilename": "sr3ypyjxbegwg7yj-512x512-4dc7c605a09e.jpg",
+        "recordingCode": "USUM71409737",
+        "songUUID": "913fa46e-7270-4a12-9bba-69ae9e16b814",
+        "trackIndex": "447"
+    },
+    "_activeDate": "2024-12-05T14:30:00.000Z",
+    "lastModified": "2024-12-03T20:16:53.214Z"
+}

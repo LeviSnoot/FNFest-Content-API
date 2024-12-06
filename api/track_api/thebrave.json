@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Brave",
+        "releaseYear": 2023,
+        "duration": 198,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 5,
+            "proDrums": 5,
+            "vocals": 5,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 5,
+            "bass": 5
+        },
+        "BPM": 104,
+        "artistName": "YOASOBI",
+        "ageRating": "E",
+        "albumArtFilename": "cvgevmvoklxznbtx-512x512-4bcadb0995a1.jpg",
+        "recordingCode": "JPP302300523",
+        "songUUID": "c78a8cd3-5446-4f22-9fc6-993191d6883d",
+        "trackIndex": "473"
+    },
+    "_activeDate": "2024-12-05T14:30:00.000Z",
+    "lastModified": "2024-12-03T20:21:43.474Z"
+}
