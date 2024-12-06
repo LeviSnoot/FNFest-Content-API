@@ -11074,5 +11074,160 @@
         },
         "_activeDate": "2024-12-01T03:00:00.000Z",
         "lastModified": "2024-11-26T20:26:23.254Z"
+    },
+    "takeonme": {
+        "track": {
+            "trackTitle": "Take On Me",
+            "releaseYear": 1985,
+            "duration": 232,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 4,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 169,
+            "artistName": "a-ha",
+            "ageRating": "E",
+            "albumArtFilename": "v98fk9v8bihihdia-512x512-6164d9e2c7bf.jpg",
+            "recordingCode": "USWB11001072",
+            "songUUID": "9e6fa711-f5fe-4e43-8b0a-9d4c2dd0aaa4",
+            "trackIndex": "445"
+        },
+        "_activeDate": "2024-12-05T14:30:00.000Z",
+        "lastModified": "2024-12-03T20:20:25.536Z"
+    },
+    "bangbang": {
+        "track": {
+            "trackTitle": "Bang Bang",
+            "releaseYear": 2014,
+            "duration": 201,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 5,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 4,
+                "bass": 1
+            },
+            "BPM": 150,
+            "artistName": "Jessie J, Nicki Minaj, Ariana Grande",
+            "ageRating": "T",
+            "albumArtFilename": "sr3ypyjxbegwg7yj-512x512-4dc7c605a09e.jpg",
+            "recordingCode": "USUM71409737",
+            "songUUID": "913fa46e-7270-4a12-9bba-69ae9e16b814",
+            "trackIndex": "447"
+        },
+        "_activeDate": "2024-12-05T14:30:00.000Z",
+        "lastModified": "2024-12-03T20:16:53.214Z"
+    },
+    "ghost": {
+        "track": {
+            "trackTitle": "Ghost",
+            "releaseYear": 2021,
+            "duration": 155,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 1,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 1,
+                "bass": 2
+            },
+            "BPM": 154,
+            "artistName": "Justin Bieber",
+            "ageRating": "E",
+            "albumArtFilename": "jaoit9ryjph2jb9r-512x512-a3e4b6317e45.jpg",
+            "recordingCode": "USUM72102635",
+            "songUUID": "9e996631-ee2f-434f-a41e-ae5687237aa6",
+            "trackIndex": "448"
+        },
+        "_activeDate": "2024-12-05T14:30:00.000Z",
+        "lastModified": "2024-12-03T20:17:57.602Z"
+    },
+    "nightdancer": {
+        "track": {
+            "trackTitle": "NIGHT DANCER",
+            "releaseYear": 2023,
+            "duration": 214,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 3,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 2,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 117,
+            "artistName": "imase",
+            "ageRating": "E",
+            "albumArtFilename": "vjrtwhve3ang4twh-512x512-2103bb197da1.jpg",
+            "recordingCode": "JPPO02202918",
+            "songUUID": "367af353-3163-417d-9a9c-1e0fa3d23e41",
+            "trackIndex": "472"
+        },
+        "_activeDate": "2024-12-05T14:30:00.000Z",
+        "lastModified": "2024-12-03T20:19:38.303Z"
+    },
+    "thebrave": {
+        "track": {
+            "trackTitle": "The Brave",
+            "releaseYear": 2023,
+            "duration": 198,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 5,
+                "proDrums": 5,
+                "vocals": 5,
+                "proGuitar": 6,
+                "guitar": 6,
+                "drums": 5,
+                "bass": 5
+            },
+            "BPM": 104,
+            "artistName": "YOASOBI",
+            "ageRating": "E",
+            "albumArtFilename": "cvgevmvoklxznbtx-512x512-4bcadb0995a1.jpg",
+            "recordingCode": "JPP302300523",
+            "songUUID": "c78a8cd3-5446-4f22-9fc6-993191d6883d",
+            "trackIndex": "473"
+        },
+        "_activeDate": "2024-12-05T14:30:00.000Z",
+        "lastModified": "2024-12-03T20:21:43.474Z"
     }
 }
