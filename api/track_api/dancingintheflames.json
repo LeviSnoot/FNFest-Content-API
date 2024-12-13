@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Dancing in the Flames",
+        "releaseYear": 2024,
+        "duration": 224,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 117,
+        "artistName": "The Weeknd",
+        "ageRating": "E",
+        "albumArtFilename": "9icisivdktftsgui-512x512-d3d5673c4d47.jpg",
+        "recordingCode": "USUG12405844",
+        "songUUID": "3b4570e2-430f-45d9-856e-9f73098057a6",
+        "trackIndex": "399"
+    },
+    "_activeDate": "2024-12-12T14:30:00.000Z",
+    "lastModified": "2024-12-11T15:23:51.380Z"
+}

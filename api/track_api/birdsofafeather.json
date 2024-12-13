@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "BIRDS OF A FEATHER",
+        "releaseYear": 2024,
+        "duration": 214,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 105,
+        "artistName": "Billie Eilish",
+        "ageRating": "E",
+        "albumArtFilename": "g2pfqu60ytm3iovt-512x512-9ad9922152f3.jpg",
+        "recordingCode": "USUM72401994",
+        "songUUID": "07096137-d423-494e-b83e-01c4ffadbb74",
+        "trackIndex": "400"
+    },
+    "_activeDate": "2024-12-12T14:30:00.000Z",
+    "lastModified": "2024-12-10T18:14:38.088Z"
+}
