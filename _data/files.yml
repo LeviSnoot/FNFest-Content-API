@@ -76,6 +76,8 @@
   url: api/track_api/bigenergy.json
 - name: track_api/bigpoppa.json
   url: api/track_api/bigpoppa.json
+- name: track_api/birdsofafeather.json
+  url: api/track_api/birdsofafeather.json
 - name: track_api/blackbeatles.json
   url: api/track_api/blackbeatles.json
 - name: track_api/blackholesun.json
@@ -166,10 +168,14 @@
   url: api/track_api/creaturesinheaven.json
 - name: track_api/dakiti.json
   url: api/track_api/dakiti.json
+- name: track_api/dancingintheflames.json
+  url: api/track_api/dancingintheflames.json
 - name: track_api/daynnite.json
   url: api/track_api/daynnite.json
 - name: track_api/dirtylittlesecret.json
   url: api/track_api/dirtylittlesecret.json
+- name: track_api/disease.json
+  url: api/track_api/disease.json
 - name: track_api/dogdaysareover.json
   url: api/track_api/dogdaysareover.json
 - name: track_api/dontfearthereaper.json
