@@ -4,6 +4,8 @@
   url: api/track_api/24kmagic.json
 - name: track_api/abcdefu.json
   url: api/track_api/abcdefu.json
+- name: track_api/africa.json
+  url: api/track_api/africa.json
 - name: track_api/aintnorestforthewicked.json
   url: api/track_api/aintnorestforthewicked.json
 - name: track_api/alleyezonme.json
@@ -230,6 +232,8 @@
   url: api/track_api/findthefury.json
 - name: track_api/fireandsteel.json
   url: api/track_api/fireandsteel.json
+- name: track_api/fireball.json
+  url: api/track_api/fireball.json
 - name: track_api/firework.json
   url: api/track_api/firework.json
 - name: track_api/flickeringflame.json
@@ -252,6 +256,8 @@
   url: api/track_api/fuel.json
 - name: track_api/gangnamstyle.json
   url: api/track_api/gangnamstyle.json
+- name: track_api/getbusy.json
+  url: api/track_api/getbusy.json
 - name: track_api/gethimback.json
   url: api/track_api/gethimback.json
 - name: track_api/getlow.json
@@ -288,6 +294,8 @@
   url: api/track_api/highhopes.json
 - name: track_api/highwaytune.json
   url: api/track_api/highwaytune.json
+- name: track_api/hipsdontlie.json
+  url: api/track_api/hipsdontlie.json
 - name: track_api/holdmecloser.json
   url: api/track_api/holdmecloser.json
 - name: track_api/holiday.json
@@ -596,6 +604,8 @@
   url: api/track_api/thebusiness.json
 - name: track_api/theclaw.json
   url: api/track_api/theclaw.json
+- name: track_api/thediaryofjane.json
+  url: api/track_api/thediaryofjane.json
 - name: track_api/thediner.json
   url: api/track_api/thediner.json
 - name: track_api/thefinalcountdown.json
