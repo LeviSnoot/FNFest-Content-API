@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Hips Don't Lie",
+        "releaseYear": 2006,
+        "duration": 221,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 100,
+        "artistName": "Shakira ft. Wyclef Jean",
+        "ageRating": "E",
+        "albumArtFilename": "7vuajgrxcghpenoj-512x512-e7f9645a8d6b.jpg",
+        "recordingCode": "USSM10600677",
+        "songUUID": "13336c2b-9f4e-408f-aaa6-753d700df136",
+        "trackIndex": "485"
+    },
+    "_activeDate": "2024-12-19T14:30:00.000Z",
+    "lastModified": "2024-12-17T17:58:20.273Z"
+}
