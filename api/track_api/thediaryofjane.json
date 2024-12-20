@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Diary Of Jane",
+        "releaseYear": 2006,
+        "duration": 202,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 167,
+        "artistName": "Breaking Benjamin",
+        "ageRating": "E",
+        "albumArtFilename": "xlrovhkuclsschbt-512x512-057fd492613c.jpg",
+        "recordingCode": "USHR10622153",
+        "songUUID": "842d7a6b-de9b-492a-8039-000c42f08b66",
+        "trackIndex": "451"
+    },
+    "_activeDate": "2024-12-19T14:30:00.000Z",
+    "lastModified": "2024-12-17T17:59:52.463Z"
+}

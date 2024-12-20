@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Get Busy",
+        "releaseYear": 2002,
+        "duration": 222,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 100,
+        "artistName": "Sean Paul",
+        "ageRating": "E",
+        "albumArtFilename": "czlpttjfwc90exqu-512x512-5d3c10b7ab82.jpg",
+        "recordingCode": "USAT20202575",
+        "songUUID": "9b9b928b-825a-4b34-8890-4c6118666166",
+        "trackIndex": "294"
+    },
+    "_activeDate": "2024-12-19T14:30:00.000Z",
+    "lastModified": "2024-12-17T17:54:57.254Z"
+}
