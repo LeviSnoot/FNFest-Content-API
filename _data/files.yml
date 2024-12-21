@@ -12,6 +12,8 @@
   url: api/track_api/alleyezonme.json
 - name: track_api/allidoiswin.json
   url: api/track_api/allidoiswin.json
+- name: track_api/alliwantforchristmas.json
+  url: api/track_api/alliwantforchristmas.json
 - name: track_api/allofme.json
   url: api/track_api/allofme.json
 - name: track_api/allthegoodgirls.json
@@ -496,6 +498,8 @@
   url: api/track_api/runaway.json
 - name: track_api/runit.json
   url: api/track_api/runit.json
+- name: track_api/runitup.json
+  url: api/track_api/runitup.json
 - name: track_api/sabotage.json
   url: api/track_api/sabotage.json
 - name: track_api/sadbuttrue.json
