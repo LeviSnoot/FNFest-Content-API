@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "This Ain't A Scene, It's An Arms Race",
+        "releaseYear": 2006,
+        "duration": 213,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 100,
+        "artistName": "Fall Out Boy",
+        "ageRating": "T",
+        "albumArtFilename": "xo61upuwl45vezyq-512x512-110fe8bb0870.jpg",
+        "recordingCode": "USUM70619023",
+        "songUUID": "080cfba3-cd91-4027-b431-5908ff845fbe",
+        "trackIndex": "336"
+    },
+    "_activeDate": "2024-12-26T14:30:00.000Z",
+    "lastModified": "2024-12-17T20:36:30.330Z"
+}
