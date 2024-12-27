@@ -148,6 +148,8 @@
   url: api/track_api/carryonwaywardson.json
 - name: track_api/catsprowl.json
   url: api/track_api/catsprowl.json
+- name: track_api/centuries.json
+  url: api/track_api/centuries.json
 - name: track_api/change.json
   url: api/track_api/change.json
 - name: track_api/changes.json
@@ -354,6 +356,8 @@
   url: api/track_api/killinginthename.json
 - name: track_api/kissmemore.json
   url: api/track_api/kissmemore.json
+- name: track_api/kryptonite.json
+  url: api/track_api/kryptonite.json
 - name: track_api/larrysplace.json
   url: api/track_api/larrysplace.json
 - name: track_api/leanback.json
@@ -576,6 +580,8 @@
   url: api/track_api/sucker.json
 - name: track_api/suddenlyisee.json
   url: api/track_api/suddenlyisee.json
+- name: track_api/sugarweregoindown.json
+  url: api/track_api/sugarweregoindown.json
 - name: track_api/superbass.json
   url: api/track_api/superbass.json
 - name: track_api/superfreak.json
@@ -640,6 +646,8 @@
   url: api/track_api/theunforgiven.json
 - name: track_api/thewawylifegoes.json
   url: api/track_api/thewawylifegoes.json
+- name: track_api/thisaintascene.json
+  url: api/track_api/thisaintascene.json
 - name: track_api/thisishowwedoit.json
   url: api/track_api/thisishowwedoit.json
 - name: track_api/thunder.json
@@ -658,6 +666,8 @@
   url: api/track_api/transparentsoul.json
 - name: track_api/tropicalheat.json
   url: api/track_api/tropicalheat.json
+- name: track_api/tubthumping.json
+  url: api/track_api/tubthumping.json
 - name: track_api/turnup.json
   url: api/track_api/turnup.json
 - name: track_api/tusa.json
