@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Tubthumping",
+        "releaseYear": 1997,
+        "duration": 219,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 104,
+        "artistName": "Chumbawamba",
+        "ageRating": "T",
+        "albumArtFilename": "qsmvzveokevr64ce-512x512-23f25a57bbff.jpg",
+        "recordingCode": "DEA349700542",
+        "songUUID": "3cdf116d-44c7-434b-a3e1-88e228131789",
+        "trackIndex": "386"
+    },
+    "_activeDate": "2024-12-26T14:30:00.000Z",
+    "lastModified": "2024-12-17T20:37:59.650Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Centuries",
+        "releaseYear": 2014,
+        "duration": 226,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 1,
+            "bass": 2
+        },
+        "BPM": 88,
+        "artistName": "Fall Out Boy",
+        "ageRating": "E",
+        "albumArtFilename": "f2ybb8eqd02ansct-512x512-2474ff5ddd18.jpg",
+        "recordingCode": "USUM71412644",
+        "songUUID": "bf79c86d-97fa-4494-b8a8-3d8b4dc25006",
+        "trackIndex": "398"
+    },
+    "_activeDate": "2024-12-26T14:30:00.000Z",
+    "lastModified": "2024-12-17T18:55:12.178Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Kryptonite",
+        "releaseYear": 2000,
+        "duration": 240,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 99,
+        "artistName": "3 Doors Down",
+        "ageRating": "E",
+        "albumArtFilename": "2izu4ufrvqipncpj-512x512-420a02a609f8.jpg",
+        "recordingCode": "USUR19980187",
+        "songUUID": "97d227a8-ff7b-4c00-99ae-2da982d01dce",
+        "trackIndex": "300"
+    },
+    "_activeDate": "2024-12-26T14:30:00.000Z",
+    "lastModified": "2024-12-17T18:59:33.498Z"
+}
