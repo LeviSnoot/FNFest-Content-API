@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Bones",
+        "releaseYear": 2022,
+        "duration": 164,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 114,
+        "artistName": "Imagine Dragons",
+        "ageRating": "E",
+        "albumArtFilename": "auc5tw7zt80rkiyv-512x512-2b5e08eee5c4.jpg",
+        "recordingCode": "USUM72203616",
+        "songUUID": "e6dd4649-3d62-49ba-a938-ac3bf60188d4",
+        "trackIndex": "348"
+    },
+    "_activeDate": "2025-01-02T14:30:00.000Z",
+    "lastModified": "2024-12-17T20:58:53.814Z"
+}
