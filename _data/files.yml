@@ -96,6 +96,8 @@
   url: api/track_api/bloom.json
 - name: track_api/blueberryfaygo.json
   url: api/track_api/blueberryfaygo.json
+- name: track_api/bones.json
+  url: api/track_api/bones.json
 - name: track_api/bornthisway.json
   url: api/track_api/bornthisway.json
 - name: track_api/boulevardofbrokendreams.json
@@ -178,6 +180,8 @@
   url: api/track_api/dancingintheflames.json
 - name: track_api/daynnite.json
   url: api/track_api/daynnite.json
+- name: track_api/demons.json
+  url: api/track_api/demons.json
 - name: track_api/dirtylittlesecret.json
   url: api/track_api/dirtylittlesecret.json
 - name: track_api/disease.json
@@ -222,6 +226,8 @@
   url: api/track_api/fadetoblack.json
 - name: track_api/fallguys.json
   url: api/track_api/fallguys.json
+- name: track_api/fatlip.json
+  url: api/track_api/fatlip.json
 - name: track_api/feather.json
   url: api/track_api/feather.json
 - name: track_api/feelgoodinc.json
@@ -374,6 +380,8 @@
   url: api/track_api/likeag6.json
 - name: track_api/limitlessmurdabeatz.json
   url: api/track_api/limitlessmurdabeatz.json
+- name: track_api/lonelyboy.json
+  url: api/track_api/lonelyboy.json
 - name: track_api/lordofthewasteland.json
   url: api/track_api/lordofthewasteland.json
 - name: track_api/lovinonme.json
@@ -480,6 +488,8 @@
   url: api/track_api/pumpupthejam.json
 - name: track_api/qlona.json
   url: api/track_api/qlona.json
+- name: track_api/radioactive.json
+  url: api/track_api/radioactive.json
 - name: track_api/rainonme.json
   url: api/track_api/rainonme.json
 - name: track_api/regulate.json
