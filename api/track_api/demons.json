@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Demons",
+        "releaseYear": 2013,
+        "duration": 179,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 1,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 90,
+        "artistName": "Imagine Dragons",
+        "ageRating": "E",
+        "albumArtFilename": "4jrprq6i3st6c8c2-512x512-476621ebfdd0.jpg",
+        "recordingCode": "USUM71201071",
+        "songUUID": "5ebf6076-17eb-4145-a5df-a245e2e40349",
+        "trackIndex": "349"
+    },
+    "_activeDate": "2025-01-02T14:30:00.000Z",
+    "lastModified": "2024-12-17T21:01:22.842Z"
+}

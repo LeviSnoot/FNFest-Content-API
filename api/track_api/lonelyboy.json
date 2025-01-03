@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Lonely Boy",
+        "releaseYear": 2011,
+        "duration": 192,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 1,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 166,
+        "artistName": "The Black Keys",
+        "ageRating": "E",
+        "albumArtFilename": "cw2ofkzhq2d4cptf-512x512-d93a528d69e8.jpg",
+        "recordingCode": "USNO11100273",
+        "songUUID": "573610ce-69da-442f-9044-75ce2f7439c5",
+        "trackIndex": "379"
+    },
+    "_activeDate": "2025-01-02T14:30:00.000Z",
+    "lastModified": "2024-12-17T21:05:19.797Z"
+}

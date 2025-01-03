@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Radioactive",
+        "releaseYear": 2012,
+        "duration": 196,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 0,
+            "vocals": 1,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 1,
+            "bass": 4
+        },
+        "BPM": 137,
+        "artistName": "Imagine Dragons",
+        "ageRating": "E",
+        "albumArtFilename": "l0fm9qkfpugzslbh-512x512-048341a54321.jpg",
+        "recordingCode": "USUM72212896",
+        "songUUID": "f49f229d-b228-4187-bf8f-3dbd1f2f733b",
+        "trackIndex": "347"
+    },
+    "_activeDate": "2025-01-02T14:30:00.000Z",
+    "lastModified": "2024-12-17T21:07:28.307Z"
+}

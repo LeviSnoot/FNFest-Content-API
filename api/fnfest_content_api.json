@@ -11693,5 +11693,160 @@
         },
         "_activeDate": "2024-12-26T14:30:00.000Z",
         "lastModified": "2024-12-17T20:37:59.650Z"
+    },
+    "bones": {
+        "track": {
+            "trackTitle": "Bones",
+            "releaseYear": 2022,
+            "duration": 164,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 114,
+            "artistName": "Imagine Dragons",
+            "ageRating": "E",
+            "albumArtFilename": "auc5tw7zt80rkiyv-512x512-2b5e08eee5c4.jpg",
+            "recordingCode": "USUM72203616",
+            "songUUID": "e6dd4649-3d62-49ba-a938-ac3bf60188d4",
+            "trackIndex": "348"
+        },
+        "_activeDate": "2025-01-02T14:30:00.000Z",
+        "lastModified": "2024-12-17T20:58:53.814Z"
+    },
+    "fatlip": {
+        "track": {
+            "trackTitle": "Fat Lip",
+            "releaseYear": 2001,
+            "duration": 186,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 98,
+            "artistName": "Sum 41",
+            "ageRating": "T",
+            "albumArtFilename": "3svdvq1chhewzsvn-512x512-c847cceb9ed8.jpg",
+            "recordingCode": "USIR20110024",
+            "songUUID": "36d5803d-9d12-4d07-9da1-a818f988c493",
+            "trackIndex": "476"
+        },
+        "_activeDate": "2025-01-02T14:30:00.000Z",
+        "lastModified": "2024-12-17T21:02:49.804Z"
+    },
+    "lonelyboy": {
+        "track": {
+            "trackTitle": "Lonely Boy",
+            "releaseYear": 2011,
+            "duration": 192,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 1,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 166,
+            "artistName": "The Black Keys",
+            "ageRating": "E",
+            "albumArtFilename": "cw2ofkzhq2d4cptf-512x512-d93a528d69e8.jpg",
+            "recordingCode": "USNO11100273",
+            "songUUID": "573610ce-69da-442f-9044-75ce2f7439c5",
+            "trackIndex": "379"
+        },
+        "_activeDate": "2025-01-02T14:30:00.000Z",
+        "lastModified": "2024-12-17T21:05:19.797Z"
+    },
+    "radioactive": {
+        "track": {
+            "trackTitle": "Radioactive",
+            "releaseYear": 2012,
+            "duration": 196,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "B",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 4,
+                "proDrums": 0,
+                "vocals": 1,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 1,
+                "bass": 4
+            },
+            "BPM": 137,
+            "artistName": "Imagine Dragons",
+            "ageRating": "E",
+            "albumArtFilename": "l0fm9qkfpugzslbh-512x512-048341a54321.jpg",
+            "recordingCode": "USUM72212896",
+            "songUUID": "f49f229d-b228-4187-bf8f-3dbd1f2f733b",
+            "trackIndex": "347"
+        },
+        "_activeDate": "2025-01-02T14:30:00.000Z",
+        "lastModified": "2024-12-17T21:07:28.307Z"
+    },
+    "demons": {
+        "track": {
+            "trackTitle": "Demons",
+            "releaseYear": 2013,
+            "duration": 179,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Eb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 1,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 90,
+            "artistName": "Imagine Dragons",
+            "ageRating": "E",
+            "albumArtFilename": "4jrprq6i3st6c8c2-512x512-476621ebfdd0.jpg",
+            "recordingCode": "USUM71201071",
+            "songUUID": "5ebf6076-17eb-4145-a5df-a245e2e40349",
+            "trackIndex": "349"
+        },
+        "_activeDate": "2025-01-02T14:30:00.000Z",
+        "lastModified": "2024-12-17T21:01:22.842Z"
     }
 }
