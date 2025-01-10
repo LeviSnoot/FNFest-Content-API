@@ -138,6 +138,8 @@
   url: api/track_api/cairo.json
 - name: track_api/cakebytheocean.json
   url: api/track_api/cakebytheocean.json
+- name: track_api/californication.json
+  url: api/track_api/californication.json
 - name: track_api/callmemaybe.json
   url: api/track_api/callmemaybe.json
 - name: track_api/cantfeelmyface.json
@@ -276,6 +278,8 @@
   url: api/track_api/ghost.json
 - name: track_api/gimmethelight.json
   url: api/track_api/gimmethelight.json
+- name: track_api/giveitaway.json
+  url: api/track_api/giveitaway.json
 - name: track_api/givemeeverything.json
   url: api/track_api/givemeeverything.json
 - name: track_api/good4u.json
@@ -398,6 +402,8 @@
   url: api/track_api/makedamnsure.json
 - name: track_api/makeitknown.json
   url: api/track_api/makeitknown.json
+- name: track_api/mambonofive.json
+  url: api/track_api/mambonofive.json
 - name: track_api/maps.json
   url: api/track_api/maps.json
 - name: track_api/marchofthepigs.json
@@ -558,6 +564,8 @@
   url: api/track_api/sizzlinsunshine.json
 - name: track_api/skysurfer.json
   url: api/track_api/skysurfer.json
+- name: track_api/snow.json
+  url: api/track_api/snow.json
 - name: track_api/somebodytoldme.json
   url: api/track_api/somebodytoldme.json
 - name: track_api/somp.json
@@ -720,6 +728,8 @@
   url: api/track_api/whenicomearound.json
 - name: track_api/whereverimayroam.json
   url: api/track_api/whereverimayroam.json
+- name: track_api/whineup.json
+  url: api/track_api/whineup.json
 - name: track_api/wildones.json
   url: api/track_api/wildones.json
 - name: track_api/winterfestwish.json
