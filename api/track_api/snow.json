@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Snow (Hey Oh)",
+        "releaseYear": 2006,
+        "duration": 338,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 105,
+        "artistName": "Red Hot Chili Peppers",
+        "ageRating": "E",
+        "albumArtFilename": "dfj79hc6oi4gzul7-512x512-35541ff4ff73.jpg",
+        "recordingCode": "USWB10601591",
+        "songUUID": "06e8998f-d802-4345-a883-62d6ccecc65f",
+        "trackIndex": "405"
+    },
+    "_activeDate": "2025-01-09T14:30:00.000Z",
+    "lastModified": "2024-12-17T21:32:22.112Z"
+}

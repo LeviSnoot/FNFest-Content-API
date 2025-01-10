@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Whine Up",
+        "releaseYear": 2007,
+        "duration": 220,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 125,
+        "artistName": "Kat DeLuna ft. Elephant Man",
+        "ageRating": "T",
+        "albumArtFilename": "lhx3ll4estmcy6rt-512x512-e7958380bca9.jpg",
+        "recordingCode": "USSM10701389",
+        "songUUID": "b5277403-ac44-44ab-9369-3e7c95f13ee6",
+        "trackIndex": "480"
+    },
+    "_activeDate": "2025-01-09T14:30:00.000Z",
+    "lastModified": "2024-12-19T14:27:58.423Z"
+}

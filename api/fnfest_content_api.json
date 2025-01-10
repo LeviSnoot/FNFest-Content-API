@@ -11848,5 +11848,160 @@
         },
         "_activeDate": "2025-01-02T14:30:00.000Z",
         "lastModified": "2024-12-17T21:01:22.842Z"
+    },
+    "californication": {
+        "track": {
+            "trackTitle": "Californication",
+            "releaseYear": 1999,
+            "duration": 324,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 96,
+            "artistName": "Red Hot Chili Peppers",
+            "ageRating": "T",
+            "albumArtFilename": "bqw3gv9he0fafr3f-512x512-b082d2500e13.jpg",
+            "recordingCode": "USWB19900690",
+            "songUUID": "f78e3d4e-19fa-451b-a792-ca15c9d8e1b8",
+            "trackIndex": "403"
+        },
+        "_activeDate": "2025-01-09T14:30:00.000Z",
+        "lastModified": "2025-01-09T20:42:02.759Z"
+    },
+    "mambonofive": {
+        "track": {
+            "trackTitle": "Mambo No. 5 (A Little Bit of...)",
+            "releaseYear": 1999,
+            "duration": 219,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Eb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 87,
+            "artistName": "Lou Bega",
+            "ageRating": "T",
+            "albumArtFilename": "ordhusj7wvh3koec-512x512-950526149e31.jpg",
+            "recordingCode": "DEH259900010",
+            "songUUID": "f3ca1e87-a1d6-4a48-8140-9d9b2ba48201",
+            "trackIndex": "477"
+        },
+        "_activeDate": "2025-01-09T14:30:00.000Z",
+        "lastModified": "2024-12-17T21:30:31.124Z"
+    },
+    "snow": {
+        "track": {
+            "trackTitle": "Snow (Hey Oh)",
+            "releaseYear": 2006,
+            "duration": 338,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 5,
+                "guitar": 5,
+                "drums": 2,
+                "bass": 3
+            },
+            "BPM": 105,
+            "artistName": "Red Hot Chili Peppers",
+            "ageRating": "E",
+            "albumArtFilename": "dfj79hc6oi4gzul7-512x512-35541ff4ff73.jpg",
+            "recordingCode": "USWB10601591",
+            "songUUID": "06e8998f-d802-4345-a883-62d6ccecc65f",
+            "trackIndex": "405"
+        },
+        "_activeDate": "2025-01-09T14:30:00.000Z",
+        "lastModified": "2024-12-17T21:32:22.112Z"
+    },
+    "giveitaway": {
+        "track": {
+            "trackTitle": "Give It Away",
+            "releaseYear": 1991,
+            "duration": 289,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 3
+            },
+            "BPM": 92,
+            "artistName": "Red Hot Chili Peppers",
+            "ageRating": "E",
+            "albumArtFilename": "bqw3gv9he0fafr3f-512x512-db066d6c52c5.jpg",
+            "recordingCode": "USWB19901574",
+            "songUUID": "d840aa45-26ca-4404-ada5-d0c62d495b65",
+            "trackIndex": "404"
+        },
+        "_activeDate": "2025-01-09T14:30:00.000Z",
+        "lastModified": "2024-12-19T14:26:43.771Z"
+    },
+    "whineup": {
+        "track": {
+            "trackTitle": "Whine Up",
+            "releaseYear": 2007,
+            "duration": 220,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 125,
+            "artistName": "Kat DeLuna ft. Elephant Man",
+            "ageRating": "T",
+            "albumArtFilename": "lhx3ll4estmcy6rt-512x512-e7958380bca9.jpg",
+            "recordingCode": "USSM10701389",
+            "songUUID": "b5277403-ac44-44ab-9369-3e7c95f13ee6",
+            "trackIndex": "480"
+        },
+        "_activeDate": "2025-01-09T14:30:00.000Z",
+        "lastModified": "2024-12-19T14:27:58.423Z"
     }
 }
