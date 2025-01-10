@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Give It Away",
+        "releaseYear": 1991,
+        "duration": 289,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 92,
+        "artistName": "Red Hot Chili Peppers",
+        "ageRating": "E",
+        "albumArtFilename": "bqw3gv9he0fafr3f-512x512-db066d6c52c5.jpg",
+        "recordingCode": "USWB19901574",
+        "songUUID": "d840aa45-26ca-4404-ada5-d0c62d495b65",
+        "trackIndex": "404"
+    },
+    "_activeDate": "2025-01-09T14:30:00.000Z",
+    "lastModified": "2024-12-19T14:26:43.771Z"
+}

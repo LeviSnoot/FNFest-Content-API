@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Californication",
+        "releaseYear": 1999,
+        "duration": 324,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 96,
+        "artistName": "Red Hot Chili Peppers",
+        "ageRating": "T",
+        "albumArtFilename": "bqw3gv9he0fafr3f-512x512-b082d2500e13.jpg",
+        "recordingCode": "USWB19900690",
+        "songUUID": "f78e3d4e-19fa-451b-a792-ca15c9d8e1b8",
+        "trackIndex": "403"
+    },
+    "_activeDate": "2025-01-09T14:30:00.000Z",
+    "lastModified": "2025-01-09T20:42:02.759Z"
+}

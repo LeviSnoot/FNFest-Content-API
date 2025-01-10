@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Mambo No. 5 (A Little Bit of...)",
+        "releaseYear": 1999,
+        "duration": 219,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 87,
+        "artistName": "Lou Bega",
+        "ageRating": "T",
+        "albumArtFilename": "ordhusj7wvh3koec-512x512-950526149e31.jpg",
+        "recordingCode": "DEH259900010",
+        "songUUID": "f3ca1e87-a1d6-4a48-8140-9d9b2ba48201",
+        "trackIndex": "477"
+    },
+    "_activeDate": "2025-01-09T14:30:00.000Z",
+    "lastModified": "2024-12-17T21:30:31.124Z"
+}
