@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Short Skirt/Long Jacket",
+        "releaseYear": 2001,
+        "duration": 207,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 120,
+        "artistName": "Cake",
+        "ageRating": "T",
+        "albumArtFilename": "1punxrk8si6qao7x-512x512-20c98f655a36.jpg",
+        "recordingCode": "USSM10104611",
+        "songUUID": "3944e434-9c09-43cf-817e-5d1a8471c4d4",
+        "trackIndex": "460"
+    },
+    "_activeDate": "2025-01-14T09:00:00.000Z",
+    "lastModified": "2025-01-10T19:09:49.220Z"
+}

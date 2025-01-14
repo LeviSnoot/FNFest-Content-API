@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "World Is Mine",
+        "releaseYear": 2008,
+        "duration": 255,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 5,
+            "guitar": 4,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 165,
+        "artistName": "ryo (supercell) ft. Hatsune Miku",
+        "ageRating": "E",
+        "albumArtFilename": "t9xsbeembvwzvdu0-512x512-7b9e159582b6.jpg",
+        "recordingCode": "JPP300901682",
+        "songUUID": "048bae67-3f8c-4e21-9ca1-9dd76e7cc7db",
+        "trackIndex": "483"
+    },
+    "_activeDate": "2025-01-14T09:00:00.000Z",
+    "lastModified": "2025-01-13T17:04:47.259Z"
+}

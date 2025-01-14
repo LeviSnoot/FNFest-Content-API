@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Dexting",
+        "releaseYear": 2017,
+        "duration": 137,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 5,
+            "bass": 2
+        },
+        "BPM": 145,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "ostmax4pidgio9p2-512x512-c78eabf5c396.jpg",
+        "songUUID": "7521a63f-b066-47cf-a3b4-fbc41006e0f9",
+        "trackIndex": "456"
+    },
+    "_activeDate": "2025-01-14T09:00:00.000Z",
+    "lastModified": "2025-01-10T19:01:03.005Z"
+}

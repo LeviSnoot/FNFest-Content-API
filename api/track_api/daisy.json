@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Daisy 2.0",
+        "releaseYear": 2022,
+        "duration": 172,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 131,
+        "artistName": "Ashnikko ft. Hatsune Miku",
+        "ageRating": "T",
+        "albumArtFilename": "akezdm5mjtxpqdas-512x512-33b56841411d.jpg",
+        "recordingCode": "GBAYE2001199",
+        "songUUID": "d55c2805-cac0-46eb-a819-741b8be96bca",
+        "trackIndex": "482"
+    },
+    "_activeDate": "2025-01-13T09:00:00.000Z",
+    "lastModified": "2025-01-13T21:30:23.600Z"
+}
