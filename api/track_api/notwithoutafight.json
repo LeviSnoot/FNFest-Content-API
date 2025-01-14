@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Not Without a Fight",
+        "releaseYear": 2023,
+        "duration": 172,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 120,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "soczjehvtndf3fzw-512x512-7ddeb2d675f6.jpg",
+        "songUUID": "96234769-1db3-4610-b099-40b0e09deda2",
+        "trackIndex": "457"
+    },
+    "_activeDate": "2025-01-14T09:00:00.000Z",
+    "lastModified": "2025-01-10T19:08:07.798Z"
+}

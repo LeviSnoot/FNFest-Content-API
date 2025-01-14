@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "M@GICAL\u2606CURE! LOVE SHOT!",
+        "releaseYear": 2023,
+        "duration": 204,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 5,
+            "vocals": 5,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 96,
+        "artistName": "SAWTOWNE ft. Hatsune Miku",
+        "ageRating": "T",
+        "albumArtFilename": "npbrnluh31aljowv-512x512-56dac79f0e74.jpg",
+        "recordingCode": "JP92Q2400289",
+        "songUUID": "9d66088e-eea9-41f1-a44a-84b9e5370f8c",
+        "trackIndex": "462"
+    },
+    "_activeDate": "2025-01-14T09:00:00.000Z",
+    "lastModified": "2025-01-13T20:25:46.616Z"
+}
