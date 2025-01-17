@@ -12340,5 +12340,129 @@
         },
         "_activeDate": "2025-01-14T09:00:00.000Z",
         "lastModified": "2025-01-13T20:25:46.616Z"
+    },
+    "mia": {
+        "track": {
+            "trackTitle": "MIA",
+            "releaseYear": 2018,
+            "duration": 215,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 97,
+            "artistName": "Bad Bunny & Drake",
+            "ageRating": "T",
+            "albumArtFilename": "sfmjgvytdxqxdo4w-512x512-22e75d5d14cd.jpg",
+            "recordingCode": "USWB11802236",
+            "songUUID": "37c84676-d077-48a6-b771-84aa166e61c7",
+            "trackIndex": "453"
+        },
+        "_activeDate": "2025-01-16T14:30:00.000Z",
+        "lastModified": "2025-01-16T15:17:19.526Z"
+    },
+    "beautyandabeat": {
+        "track": {
+            "trackTitle": "Beauty and a Beat",
+            "releaseYear": 2012,
+            "duration": 231,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 128,
+            "artistName": "Justin Bieber ft. Nicki Minaj",
+            "ageRating": "E",
+            "albumArtFilename": "wbry7876rrg4dhvy-512x512-004041d8568d.jpg",
+            "recordingCode": "USUM71217075",
+            "songUUID": "387d9e76-d00c-4cda-bb90-0445a4d69382",
+            "trackIndex": "487"
+        },
+        "_activeDate": "2025-01-16T14:30:00.000Z",
+        "lastModified": "2025-01-14T20:48:06.057Z"
+    },
+    "godzilla": {
+        "track": {
+            "trackTitle": "Godzilla",
+            "releaseYear": 1977,
+            "duration": 227,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 4,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 92,
+            "artistName": "Blue \u00d6yster Cult",
+            "ageRating": "E",
+            "albumArtFilename": "53aio9vsaerfyr7i-512x512-15ddff6233f9.jpg",
+            "recordingCode": "USSM17600007",
+            "songUUID": "df5121e3-6aff-4a8d-b3b6-933f793fe91a",
+            "trackIndex": "489"
+        },
+        "_activeDate": "2025-01-16T14:30:00.000Z",
+        "lastModified": "2025-01-14T20:49:18.410Z"
+    },
+    "insaneinthebrain": {
+        "track": {
+            "trackTitle": "Insane in the Brain",
+            "releaseYear": 1993,
+            "duration": 213,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 1,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 2,
+                "drums": 1,
+                "bass": 0
+            },
+            "BPM": 102,
+            "artistName": "Cypress Hill",
+            "ageRating": "T",
+            "albumArtFilename": "760vcln4kpegcxzn-512x512-3144c2b16ced.jpg",
+            "recordingCode": "USSM19303214",
+            "songUUID": "2a5c1d99-41bf-4006-986f-94b5dd2c6372",
+            "trackIndex": "486"
+        },
+        "_activeDate": "2025-01-16T14:30:00.000Z",
+        "lastModified": "2025-01-14T20:51:47.430Z"
     }
 }

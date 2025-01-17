@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Beauty and a Beat",
+        "releaseYear": 2012,
+        "duration": 231,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 128,
+        "artistName": "Justin Bieber ft. Nicki Minaj",
+        "ageRating": "E",
+        "albumArtFilename": "wbry7876rrg4dhvy-512x512-004041d8568d.jpg",
+        "recordingCode": "USUM71217075",
+        "songUUID": "387d9e76-d00c-4cda-bb90-0445a4d69382",
+        "trackIndex": "487"
+    },
+    "_activeDate": "2025-01-16T14:30:00.000Z",
+    "lastModified": "2025-01-14T20:48:06.057Z"
+}

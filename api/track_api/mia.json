@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "MIA",
+        "releaseYear": 2018,
+        "duration": 215,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 97,
+        "artistName": "Bad Bunny & Drake",
+        "ageRating": "T",
+        "albumArtFilename": "sfmjgvytdxqxdo4w-512x512-22e75d5d14cd.jpg",
+        "recordingCode": "USWB11802236",
+        "songUUID": "37c84676-d077-48a6-b771-84aa166e61c7",
+        "trackIndex": "453"
+    },
+    "_activeDate": "2025-01-16T14:30:00.000Z",
+    "lastModified": "2025-01-16T15:17:19.526Z"
+}
