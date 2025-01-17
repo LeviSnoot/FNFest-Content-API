@@ -58,6 +58,8 @@
   url: api/track_api/beautifulday.json
 - name: track_api/beautifulthings.json
   url: api/track_api/beautifulthings.json
+- name: track_api/beautyandabeat.json
+  url: api/track_api/beautyandabeat.json
 - name: track_api/beforeiforget.json
   url: api/track_api/beforeiforget.json
 - name: track_api/beggin.json
@@ -290,6 +292,8 @@
   url: api/track_api/giveitaway.json
 - name: track_api/givemeeverything.json
   url: api/track_api/givemeeverything.json
+- name: track_api/godzilla.json
+  url: api/track_api/godzilla.json
 - name: track_api/good4u.json
   url: api/track_api/good4u.json
 - name: track_api/gowiththeflow.json
@@ -346,6 +350,8 @@
   url: api/track_api/infernoisland2.json
 - name: track_api/inhamood.json
   url: api/track_api/inhamood.json
+- name: track_api/insaneinthebrain.json
+  url: api/track_api/insaneinthebrain.json
 - name: track_api/intheend.json
   url: api/track_api/intheend.json
 - name: track_api/intoyou.json
@@ -424,6 +430,8 @@
   url: api/track_api/masterofpuppets.json
 - name: track_api/metoo.json
   url: api/track_api/metoo.json
+- name: track_api/mia.json
+  url: api/track_api/mia.json
 - name: track_api/migente.json
   url: api/track_api/migente.json
 - name: track_api/miku.json
