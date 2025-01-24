@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Somebody That I Used To Know",
+        "releaseYear": 2011,
+        "duration": 250,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 129,
+        "artistName": "Gotye ft. Kimbra",
+        "ageRating": "E",
+        "albumArtFilename": "47wwcwgl9awmekuy-512x512-cd1c4004f79c.jpg",
+        "recordingCode": "AUZS21100040",
+        "songUUID": "dede5d71-a7f7-4c2b-aab5-57897cfdb516",
+        "trackIndex": "450"
+    },
+    "_activeDate": "2025-01-23T14:30:00.000Z",
+    "lastModified": "2025-01-21T19:48:42.451Z"
+}

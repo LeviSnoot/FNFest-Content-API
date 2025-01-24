@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "No Scrubs",
+        "releaseYear": 1999,
+        "duration": 242,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 93,
+        "artistName": "TLC",
+        "ageRating": "E",
+        "albumArtFilename": "k2j6rncxxttybds5-512x512-1ada10dc0fec.jpg",
+        "recordingCode": "USSM11306174",
+        "songUUID": "09040ada-a7c1-40a7-929f-2fd13babe4a9",
+        "trackIndex": "488"
+    },
+    "_activeDate": "2025-01-23T14:30:00.000Z",
+    "lastModified": "2025-01-21T19:47:44.143Z"
+}
