@@ -366,6 +366,8 @@
   url: api/track_api/iwannagetbetter.json
 - name: track_api/iwish.json
   url: api/track_api/iwish.json
+- name: track_api/iwritesins.json
+  url: api/track_api/iwritesins.json
 - name: track_api/juicy.json
   url: api/track_api/juicy.json
 - name: track_api/justagirl.json
@@ -466,6 +468,8 @@
   url: api/track_api/nightmareschoice.json
 - name: track_api/nightrosessong.json
   url: api/track_api/nightrosessong.json
+- name: track_api/noscrubs.json
+  url: api/track_api/noscrubs.json
 - name: track_api/nothingelsematters.json
   url: api/track_api/nothingelsematters.json
 - name: track_api/nothingsalright.json
@@ -592,6 +596,8 @@
   url: api/track_api/skysurfer.json
 - name: track_api/snow.json
   url: api/track_api/snow.json
+- name: track_api/somebodythatiusedtoknow.json
+  url: api/track_api/somebodythatiusedtoknow.json
 - name: track_api/somebodytoldme.json
   url: api/track_api/somebodytoldme.json
 - name: track_api/somp.json
