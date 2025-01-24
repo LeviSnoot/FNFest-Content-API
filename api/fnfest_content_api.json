@@ -3085,7 +3085,7 @@
                 "bass": 3
             },
             "BPM": 164,
-            "artistName": "Panic! at the Disco",
+            "artistName": "Panic! At The Disco",
             "ageRating": "E",
             "albumArtFilename": "rlkwybn37qfptc6m-512x512-cd3126b65669.jpg",
             "recordingCode": "USAT21801174",
@@ -3093,7 +3093,7 @@
             "trackIndex": "14"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-18T06:47:28.240Z"
+        "lastModified": "2025-01-23T14:58:55.354Z"
     },
     "feelitstill": {
         "track": {
@@ -12464,5 +12464,98 @@
         },
         "_activeDate": "2025-01-16T14:30:00.000Z",
         "lastModified": "2025-01-14T20:51:47.430Z"
+    },
+    "iwritesins": {
+        "track": {
+            "trackTitle": "I Write Sins Not Tragedies",
+            "releaseYear": 2005,
+            "duration": 189,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 170,
+            "artistName": "Panic! At The Disco",
+            "ageRating": "T",
+            "albumArtFilename": "klczwbkdlqeac8sq-512x512-5d13748e0d18.jpg",
+            "recordingCode": "USAT20903582",
+            "songUUID": "f2c3c7c5-ef27-4393-8e29-53f160b5ccd4",
+            "trackIndex": "299"
+        },
+        "_activeDate": "2025-01-23T14:30:00.000Z",
+        "lastModified": "2025-01-21T19:46:27.731Z"
+    },
+    "noscrubs": {
+        "track": {
+            "trackTitle": "No Scrubs",
+            "releaseYear": 1999,
+            "duration": 242,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 5,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 93,
+            "artistName": "TLC",
+            "ageRating": "E",
+            "albumArtFilename": "k2j6rncxxttybds5-512x512-1ada10dc0fec.jpg",
+            "recordingCode": "USSM11306174",
+            "songUUID": "09040ada-a7c1-40a7-929f-2fd13babe4a9",
+            "trackIndex": "488"
+        },
+        "_activeDate": "2025-01-23T14:30:00.000Z",
+        "lastModified": "2025-01-21T19:47:44.143Z"
+    },
+    "somebodythatiusedtoknow": {
+        "track": {
+            "trackTitle": "Somebody That I Used To Know",
+            "releaseYear": 2011,
+            "duration": 250,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 4,
+                "bass": 1
+            },
+            "BPM": 129,
+            "artistName": "Gotye ft. Kimbra",
+            "ageRating": "E",
+            "albumArtFilename": "47wwcwgl9awmekuy-512x512-cd1c4004f79c.jpg",
+            "recordingCode": "AUZS21100040",
+            "songUUID": "dede5d71-a7f7-4c2b-aab5-57897cfdb516",
+            "trackIndex": "450"
+        },
+        "_activeDate": "2025-01-23T14:30:00.000Z",
+        "lastModified": "2025-01-21T19:48:42.451Z"
     }
 }
