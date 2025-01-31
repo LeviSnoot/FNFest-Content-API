@@ -12557,5 +12557,98 @@
         },
         "_activeDate": "2025-01-23T14:30:00.000Z",
         "lastModified": "2025-01-21T19:48:42.451Z"
+    },
+    "fellinlovewithagirl": {
+        "track": {
+            "trackTitle": "Fell In Love With A Girl",
+            "releaseYear": 2001,
+            "duration": 111,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "B",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 0,
+                "vocals": 3,
+                "proGuitar": 1,
+                "guitar": 2,
+                "drums": 1,
+                "bass": 1
+            },
+            "BPM": 96,
+            "artistName": "The White Stripes",
+            "ageRating": "E",
+            "albumArtFilename": "4vwr2g6uccwjvznt-512x512-33bff1bd078a.jpg",
+            "recordingCode": "GBBKS0100352",
+            "songUUID": "42a02778-c3f9-4732-a70a-25a5fc685d95",
+            "trackIndex": "492"
+        },
+        "_activeDate": "2025-01-30T14:30:00.000Z",
+        "lastModified": "2025-01-28T20:48:07.060Z"
+    },
+    "onthefloor": {
+        "track": {
+            "trackTitle": "On The Floor",
+            "releaseYear": 2011,
+            "duration": 288,
+            "iconBass": "Keyboard",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Eb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 130,
+            "artistName": "Jennifer Lopez ft. Pitbull",
+            "ageRating": "T",
+            "albumArtFilename": "swpanwvlfjvc8ivr-512x512-90d0548aa71e.jpg",
+            "recordingCode": "USUM71104034",
+            "songUUID": "f49496ef-41ea-4343-a59e-f0c43fb2f255",
+            "trackIndex": "493"
+        },
+        "_activeDate": "2025-01-30T14:30:00.000Z",
+        "lastModified": "2025-01-28T20:50:15.712Z"
+    },
+    "partylikearockstar": {
+        "track": {
+            "trackTitle": "Party Like A Rock Star",
+            "releaseYear": 2007,
+            "duration": 243,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 145,
+            "artistName": "Shop Boyz",
+            "ageRating": "E",
+            "albumArtFilename": "bijpyqfsxehvpeei-512x512-e1957a030634.jpg",
+            "recordingCode": "USUM70731796",
+            "songUUID": "4182fedc-bd6d-4435-84ef-1dae05b57944",
+            "trackIndex": "490"
+        },
+        "_activeDate": "2025-01-30T14:30:00.000Z",
+        "lastModified": "2025-01-28T20:51:31.353Z"
     }
 }

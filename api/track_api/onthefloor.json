@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "On The Floor",
+        "releaseYear": 2011,
+        "duration": 288,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 130,
+        "artistName": "Jennifer Lopez ft. Pitbull",
+        "ageRating": "T",
+        "albumArtFilename": "swpanwvlfjvc8ivr-512x512-90d0548aa71e.jpg",
+        "recordingCode": "USUM71104034",
+        "songUUID": "f49496ef-41ea-4343-a59e-f0c43fb2f255",
+        "trackIndex": "493"
+    },
+    "_activeDate": "2025-01-30T14:30:00.000Z",
+    "lastModified": "2025-01-28T20:50:15.712Z"
+}
