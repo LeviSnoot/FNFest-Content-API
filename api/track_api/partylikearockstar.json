@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Party Like A Rock Star",
+        "releaseYear": 2007,
+        "duration": 243,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 145,
+        "artistName": "Shop Boyz",
+        "ageRating": "E",
+        "albumArtFilename": "bijpyqfsxehvpeei-512x512-e1957a030634.jpg",
+        "recordingCode": "USUM70731796",
+        "songUUID": "4182fedc-bd6d-4435-84ef-1dae05b57944",
+        "trackIndex": "490"
+    },
+    "_activeDate": "2025-01-30T14:30:00.000Z",
+    "lastModified": "2025-01-28T20:51:31.353Z"
+}

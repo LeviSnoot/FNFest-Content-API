@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Fell In Love With A Girl",
+        "releaseYear": 2001,
+        "duration": 111,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 0,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 1,
+            "bass": 1
+        },
+        "BPM": 96,
+        "artistName": "The White Stripes",
+        "ageRating": "E",
+        "albumArtFilename": "4vwr2g6uccwjvznt-512x512-33bff1bd078a.jpg",
+        "recordingCode": "GBBKS0100352",
+        "songUUID": "42a02778-c3f9-4732-a70a-25a5fc685d95",
+        "trackIndex": "492"
+    },
+    "_activeDate": "2025-01-30T14:30:00.000Z",
+    "lastModified": "2025-01-28T20:48:07.060Z"
+}
