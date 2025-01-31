@@ -244,6 +244,8 @@
   url: api/track_api/feelgoodinc.json
 - name: track_api/feelitstill.json
   url: api/track_api/feelitstill.json
+- name: track_api/fellinlovewithagirl.json
+  url: api/track_api/fellinlovewithagirl.json
 - name: track_api/fellonblackdays.json
   url: api/track_api/fellonblackdays.json
 - name: track_api/fighter.json
@@ -490,6 +492,8 @@
   url: api/track_api/okidoki.json
 - name: track_api/one.json
   url: api/track_api/one.json
+- name: track_api/onthefloor.json
+  url: api/track_api/onthefloor.json
 - name: track_api/orbitaloverload.json
   url: api/track_api/orbitaloverload.json
 - name: track_api/oxytocin.json
@@ -502,6 +506,8 @@
   url: api/track_api/paradisecity.json
 - name: track_api/paradisepulse.json
   url: api/track_api/paradisepulse.json
+- name: track_api/partylikearockstar.json
+  url: api/track_api/partylikearockstar.json
 - name: track_api/partyrockanthem.json
   url: api/track_api/partyrockanthem.json
 - name: track_api/pealikeme.json
