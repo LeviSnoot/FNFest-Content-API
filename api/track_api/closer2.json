@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Closer",
+        "releaseYear": 2008,
+        "duration": 238,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 126,
+        "artistName": "Ne-Yo",
+        "ageRating": "E",
+        "albumArtFilename": "0zja0lolywb1w3bf-512x512-3f40123c6772.jpg",
+        "recordingCode": "USUM70809378",
+        "songUUID": "ae7170aa-3ec7-443c-ad0d-1943ca684b3e",
+        "trackIndex": "416"
+    },
+    "_activeDate": "2025-02-06T14:30:00.000Z",
+    "lastModified": "2025-02-04T20:59:01.537Z"
+}

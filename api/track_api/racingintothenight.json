@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Yoru Ni Kakeru",
+        "releaseYear": 2019,
+        "duration": 262,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 5,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 5,
+            "guitar": 6,
+            "drums": 5,
+            "bass": 5
+        },
+        "BPM": 130,
+        "artistName": "YOASOBI",
+        "ageRating": "E",
+        "albumArtFilename": "pbun1mutlylixlak-512x512-d3eb5f40f5f9.jpg",
+        "recordingCode": "JPP301900716",
+        "songUUID": "9165a7e7-0ff2-41aa-be1d-e3da871f3c0e",
+        "trackIndex": "179"
+    },
+    "_activeDate": "2025-02-06T14:30:00.000Z",
+    "lastModified": "2025-02-04T21:02:34.945Z"
+}
