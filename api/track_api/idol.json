@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "IDOL",
+        "releaseYear": 2023,
+        "duration": 216,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 5,
+            "vocals": 5,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 6,
+            "bass": 4
+        },
+        "BPM": 166,
+        "artistName": "YOASOBI",
+        "ageRating": "E",
+        "albumArtFilename": "dptcwksao055udku-512x512-72d01ac4dae5.jpg",
+        "recordingCode": "JPP302300157",
+        "songUUID": "2f0af84f-6cb5-4da4-8c65-cb9a5d52d064",
+        "trackIndex": "455"
+    },
+    "_activeDate": "2025-02-06T14:30:00.000Z",
+    "lastModified": "2025-02-04T20:59:46.598Z"
+}

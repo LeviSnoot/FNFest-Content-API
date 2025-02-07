@@ -12650,5 +12650,129 @@
         },
         "_activeDate": "2025-01-30T14:30:00.000Z",
         "lastModified": "2025-01-28T20:51:31.353Z"
+    },
+    "closer2": {
+        "track": {
+            "trackTitle": "Closer",
+            "releaseYear": 2008,
+            "duration": 238,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 126,
+            "artistName": "Ne-Yo",
+            "ageRating": "E",
+            "albumArtFilename": "0zja0lolywb1w3bf-512x512-3f40123c6772.jpg",
+            "recordingCode": "USUM70809378",
+            "songUUID": "ae7170aa-3ec7-443c-ad0d-1943ca684b3e",
+            "trackIndex": "416"
+        },
+        "_activeDate": "2025-02-06T14:30:00.000Z",
+        "lastModified": "2025-02-04T20:59:01.537Z"
+    },
+    "overcompensate": {
+        "track": {
+            "trackTitle": "Overcompensate",
+            "releaseYear": 2024,
+            "duration": 239,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "F",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 4,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 5,
+                "bass": 3
+            },
+            "BPM": 95,
+            "artistName": "Twenty One Pilots",
+            "ageRating": "E",
+            "albumArtFilename": "h19nu1v4btmmdnvk-512x512-e4c29c0187ba.jpg",
+            "recordingCode": "USAT22401062",
+            "songUUID": "9bbd6d69-c854-42a1-84f0-3e81ddebebcc",
+            "trackIndex": "494"
+        },
+        "_activeDate": "2025-02-06T14:30:00.000Z",
+        "lastModified": "2025-02-04T21:01:05.395Z"
+    },
+    "racingintothenight": {
+        "track": {
+            "trackTitle": "Yoru Ni Kakeru",
+            "releaseYear": 2019,
+            "duration": 262,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 5,
+                "proDrums": 3,
+                "vocals": 5,
+                "proGuitar": 5,
+                "guitar": 6,
+                "drums": 5,
+                "bass": 5
+            },
+            "BPM": 130,
+            "artistName": "YOASOBI",
+            "ageRating": "E",
+            "albumArtFilename": "pbun1mutlylixlak-512x512-d3eb5f40f5f9.jpg",
+            "recordingCode": "JPP301900716",
+            "songUUID": "9165a7e7-0ff2-41aa-be1d-e3da871f3c0e",
+            "trackIndex": "179"
+        },
+        "_activeDate": "2025-02-06T14:30:00.000Z",
+        "lastModified": "2025-02-04T21:02:34.945Z"
+    },
+    "idol": {
+        "track": {
+            "trackTitle": "IDOL",
+            "releaseYear": 2023,
+            "duration": 216,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 4,
+                "proDrums": 5,
+                "vocals": 5,
+                "proGuitar": 5,
+                "guitar": 5,
+                "drums": 6,
+                "bass": 4
+            },
+            "BPM": 166,
+            "artistName": "YOASOBI",
+            "ageRating": "E",
+            "albumArtFilename": "dptcwksao055udku-512x512-72d01ac4dae5.jpg",
+            "recordingCode": "JPP302300157",
+            "songUUID": "2f0af84f-6cb5-4da4-8c65-cb9a5d52d064",
+            "trackIndex": "455"
+        },
+        "_activeDate": "2025-02-06T14:30:00.000Z",
+        "lastModified": "2025-02-04T20:59:46.598Z"
     }
 }
