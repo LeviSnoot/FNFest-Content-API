@@ -170,6 +170,8 @@
   url: api/track_api/circles.json
 - name: track_api/closer.json
   url: api/track_api/closer.json
+- name: track_api/closer2.json
+  url: api/track_api/closer2.json
 - name: track_api/comeandgo.json
   url: api/track_api/comeandgo.json
 - name: track_api/countingstars.json
@@ -338,6 +340,8 @@
   url: api/track_api/hysteria.json
 - name: track_api/i.json
   url: api/track_api/i.json
+- name: track_api/idol.json
+  url: api/track_api/idol.json
 - name: track_api/ihadsomehelp.json
   url: api/track_api/ihadsomehelp.json
 - name: track_api/imawinner.json
@@ -496,6 +500,8 @@
   url: api/track_api/onthefloor.json
 - name: track_api/orbitaloverload.json
   url: api/track_api/orbitaloverload.json
+- name: track_api/overcompensate.json
+  url: api/track_api/overcompensate.json
 - name: track_api/oxytocin.json
   url: api/track_api/oxytocin.json
 - name: track_api/paintthetownred.json
@@ -528,6 +534,8 @@
   url: api/track_api/pumpupthejam.json
 - name: track_api/qlona.json
   url: api/track_api/qlona.json
+- name: track_api/racingintothenight.json
+  url: api/track_api/racingintothenight.json
 - name: track_api/radioactive.json
   url: api/track_api/radioactive.json
 - name: track_api/rainonme.json
