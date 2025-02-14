@@ -90,6 +90,8 @@
   url: api/track_api/blackholesun.json
 - name: track_api/blindinglights.json
   url: api/track_api/blindinglights.json
+- name: track_api/blingbangbangborn.json
+  url: api/track_api/blingbangbangborn.json
 - name: track_api/blitzkriegbop.json
   url: api/track_api/blitzkriegbop.json
 - name: track_api/bloodymary.json
@@ -392,6 +394,8 @@
   url: api/track_api/kryptonite.json
 - name: track_api/larrysplace.json
   url: api/track_api/larrysplace.json
+- name: track_api/lastresort.json
+  url: api/track_api/lastresort.json
 - name: track_api/leanback.json
   url: api/track_api/leanback.json
 - name: track_api/leanwitme.json
@@ -410,6 +414,8 @@
   url: api/track_api/lonelyboy.json
 - name: track_api/lordofthewasteland.json
   url: api/track_api/lordofthewasteland.json
+- name: track_api/losecontrol.json
+  url: api/track_api/losecontrol.json
 - name: track_api/lovedontcostathing.json
   url: api/track_api/lovedontcostathing.json
 - name: track_api/lovinonme.json
