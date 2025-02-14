@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Lose Control",
+        "releaseYear": 2023,
+        "duration": 211,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 107,
+        "artistName": "Teddy Swims",
+        "ageRating": "T",
+        "albumArtFilename": "306jkdrsusohskbq-512x512-a2ee2c8c2141.jpg",
+        "recordingCode": "USWB12302316",
+        "songUUID": "9538c0bf-d5f9-420f-955b-3c675b8e32a8",
+        "trackIndex": "328"
+    },
+    "_activeDate": "2025-02-13T14:30:00.000Z",
+    "lastModified": "2025-02-11T15:13:06.856Z"
+}
