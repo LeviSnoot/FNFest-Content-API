@@ -8,6 +8,8 @@
   url: api/track_api/africa.json
 - name: track_api/aintnorestforthewicked.json
   url: api/track_api/aintnorestforthewicked.json
+- name: track_api/airplanes.json
+  url: api/track_api/airplanes.json
 - name: track_api/alleyezonme.json
   url: api/track_api/alleyezonme.json
 - name: track_api/allidoiswin.json
@@ -782,6 +784,8 @@
   url: api/track_api/whereverimayroam.json
 - name: track_api/whineup.json
   url: api/track_api/whineup.json
+- name: track_api/wholetthedogsout.json
+  url: api/track_api/wholetthedogsout.json
 - name: track_api/wildones.json
   url: api/track_api/wildones.json
 - name: track_api/winterfestwish.json
