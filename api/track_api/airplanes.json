@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Airplanes",
+        "releaseYear": 2010,
+        "duration": 183,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 93,
+        "artistName": "B.o.B. ft. Hayley Williams",
+        "ageRating": "E",
+        "albumArtFilename": "2rm9offqibv5fsil-512x508-c80e0f4a313b.jpg",
+        "recordingCode": "USAT21000476",
+        "songUUID": "41893df7-19eb-4232-9113-2a69f6df1e71",
+        "trackIndex": "491"
+    },
+    "_activeDate": "2025-02-20T14:30:00.000Z",
+    "lastModified": "2025-02-18T14:27:12.447Z"
+}
