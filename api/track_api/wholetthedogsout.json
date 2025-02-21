@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Who Let The Dogs Out",
+        "releaseYear": 2000,
+        "duration": 203,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 5,
+            "proGuitar": 4,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 129,
+        "artistName": "Baha Men",
+        "ageRating": "E",
+        "albumArtFilename": "v21nsfbo4sz7zyxy-512x512-6d95ebbf268f.jpg",
+        "recordingCode": "USSC90000001",
+        "songUUID": "07eab9d7-c9ca-4315-b2a1-2d3bd8364c6f",
+        "trackIndex": "329"
+    },
+    "_activeDate": "2025-02-20T14:30:00.000Z",
+    "lastModified": "2025-02-18T14:26:19.493Z"
+}
