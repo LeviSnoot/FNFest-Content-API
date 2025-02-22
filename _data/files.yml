@@ -186,6 +186,8 @@
   url: api/track_api/crankthat.json
 - name: track_api/creaturesinheaven.json
   url: api/track_api/creaturesinheaven.json
+- name: track_api/crimsonbarony.json
+  url: api/track_api/crimsonbarony.json
 - name: track_api/daisy.json
   url: api/track_api/daisy.json
 - name: track_api/dakiti.json
@@ -204,6 +206,8 @@
   url: api/track_api/disease.json
 - name: track_api/dogdaysareover.json
   url: api/track_api/dogdaysareover.json
+- name: track_api/dontcrossme.json
+  url: api/track_api/dontcrossme.json
 - name: track_api/dontfearthereaper.json
   url: api/track_api/dontfearthereaper.json
 - name: track_api/dontletmedown.json
@@ -564,6 +568,8 @@
   url: api/track_api/roses.json
 - name: track_api/rubysoho.json
   url: api/track_api/rubysoho.json
+- name: track_api/runamok.json
+  url: api/track_api/runamok.json
 - name: track_api/runaway.json
   url: api/track_api/runaway.json
 - name: track_api/runit.json
