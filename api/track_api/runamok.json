@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Runamok",
+        "releaseYear": 2025,
+        "duration": 152,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 109,
+        "artistName": "Tasty Bois (ft. Backchat)",
+        "ageRating": "E",
+        "albumArtFilename": "8baxwo7ylbwlryat-512x512-7f9fe6818f90.jpg",
+        "songUUID": "3a5651ec-22c6-4bf2-bb26-15a3eca975ed",
+        "trackIndex": "527"
+    },
+    "_activeDate": "2025-02-21T09:00:00.000Z",
+    "lastModified": "2025-02-21T16:40:31.836Z"
+}

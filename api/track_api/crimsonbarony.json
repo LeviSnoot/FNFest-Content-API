@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Crimson Barony ",
+        "releaseYear": 2025,
+        "duration": 171,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 6,
+            "vocals": 2,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 6,
+            "bass": 1
+        },
+        "BPM": 150,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "43ppo5b2jjo9hhdk-512x512-19e5de7924f2.jpg",
+        "songUUID": "82cdd10d-908b-4322-94b7-0852b49da048",
+        "trackIndex": "524"
+    },
+    "_activeDate": "2025-02-21T09:00:00.000Z",
+    "lastModified": "2025-02-18T14:42:33.610Z"
+}
