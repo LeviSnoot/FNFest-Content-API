@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Don't Cross Me",
+        "releaseYear": 2025,
+        "duration": 166,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 5,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 87,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "cix2uyh1q0auec00-512x512-6eff9f2095a4.jpg",
+        "songUUID": "b6c326ca-55ab-403b-ae16-4d26cbc51bea",
+        "trackIndex": "526"
+    },
+    "_activeDate": "2025-02-21T09:00:00.000Z",
+    "lastModified": "2025-02-18T14:41:34.251Z"
+}
