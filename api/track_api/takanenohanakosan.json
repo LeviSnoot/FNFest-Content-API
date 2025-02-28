@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Takaneno Hanakosan",
+        "releaseYear": 2013,
+        "duration": 297,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 138,
+        "artistName": "back number",
+        "ageRating": "E",
+        "albumArtFilename": "larxz9sy7xk0ejel-512x512-e5f7ba661178.jpg",
+        "recordingCode": "JPPO01336381",
+        "songUUID": "fa097a08-1324-4805-8edd-93915a1621e5",
+        "trackIndex": "522"
+    },
+    "_activeDate": "2025-02-27T14:30:00.000Z",
+    "lastModified": "2025-02-25T15:17:47.488Z"
+}

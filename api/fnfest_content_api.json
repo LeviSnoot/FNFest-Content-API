@@ -13019,5 +13019,98 @@
         },
         "_activeDate": "2025-02-21T09:00:00.000Z",
         "lastModified": "2025-02-21T16:40:31.836Z"
+    },
+    "thewayiare": {
+        "track": {
+            "trackTitle": "The Way I Are",
+            "releaseYear": 2007,
+            "duration": 184,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 1,
+                "bass": 0
+            },
+            "BPM": 115,
+            "artistName": "Timbaland ft. Keri Hilson & D.O.E.",
+            "ageRating": "T",
+            "albumArtFilename": "auqadzwrcoasbdfy-512x512-e7e09de5206c.jpg",
+            "recordingCode": "USUM70722806",
+            "songUUID": "08f24997-c4fe-40c0-ab37-149b6eab44ee",
+            "trackIndex": "508"
+        },
+        "_activeDate": "2025-02-27T14:30:00.000Z",
+        "lastModified": "2025-02-25T15:18:59.233Z"
+    },
+    "takanenohanakosan": {
+        "track": {
+            "trackTitle": "Takaneno Hanakosan",
+            "releaseYear": 2013,
+            "duration": 297,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 4,
+                "proDrums": 4,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 4
+            },
+            "BPM": 138,
+            "artistName": "back number",
+            "ageRating": "E",
+            "albumArtFilename": "larxz9sy7xk0ejel-512x512-e5f7ba661178.jpg",
+            "recordingCode": "JPPO01336381",
+            "songUUID": "fa097a08-1324-4805-8edd-93915a1621e5",
+            "trackIndex": "522"
+        },
+        "_activeDate": "2025-02-27T14:30:00.000Z",
+        "lastModified": "2025-02-25T15:17:47.488Z"
+    },
+    "adamssong": {
+        "track": {
+            "trackTitle": "Adam's Song",
+            "releaseYear": 1999,
+            "duration": 255,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 4,
+                "vocals": 1,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 4,
+                "bass": 3
+            },
+            "BPM": 136,
+            "artistName": "blink-182",
+            "ageRating": "T",
+            "albumArtFilename": "e98ofbbnoxgmm40t-512x512-9e99bfa3f5dd.jpg",
+            "recordingCode": "USMC19959122",
+            "songUUID": "fb296290-cdd6-4b19-acbe-9432cc9c8d85",
+            "trackIndex": "478"
+        },
+        "_activeDate": "2025-02-27T14:30:00.000Z",
+        "lastModified": "2025-02-25T15:15:08.778Z"
     }
 }
