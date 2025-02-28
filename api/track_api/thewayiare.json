@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Way I Are",
+        "releaseYear": 2007,
+        "duration": 184,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 115,
+        "artistName": "Timbaland ft. Keri Hilson & D.O.E.",
+        "ageRating": "T",
+        "albumArtFilename": "auqadzwrcoasbdfy-512x512-e7e09de5206c.jpg",
+        "recordingCode": "USUM70722806",
+        "songUUID": "08f24997-c4fe-40c0-ab37-149b6eab44ee",
+        "trackIndex": "508"
+    },
+    "_activeDate": "2025-02-27T14:30:00.000Z",
+    "lastModified": "2025-02-25T15:18:59.233Z"
+}
