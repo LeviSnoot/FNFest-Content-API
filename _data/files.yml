@@ -4,6 +4,8 @@
   url: api/track_api/24kmagic.json
 - name: track_api/abcdefu.json
   url: api/track_api/abcdefu.json
+- name: track_api/adamssong.json
+  url: api/track_api/adamssong.json
 - name: track_api/africa.json
   url: api/track_api/africa.json
 - name: track_api/aintnorestforthewicked.json
@@ -674,6 +676,8 @@
   url: api/track_api/swimfree.json
 - name: track_api/switchup.json
   url: api/track_api/switchup.json
+- name: track_api/takanenohanakosan.json
+  url: api/track_api/takanenohanakosan.json
 - name: track_api/takemehigher.json
   url: api/track_api/takemehigher.json
 - name: track_api/takemybreath.json
@@ -724,6 +728,8 @@
   url: api/track_api/theunforgiven.json
 - name: track_api/thewawylifegoes.json
   url: api/track_api/thewawylifegoes.json
+- name: track_api/thewayiare.json
+  url: api/track_api/thewayiare.json
 - name: track_api/thisaintascene.json
   url: api/track_api/thisaintascene.json
 - name: track_api/thisishowwedoit.json
