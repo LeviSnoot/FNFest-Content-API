@@ -1705,7 +1705,7 @@
                 "drums": 3,
                 "bass": 1
             },
-            "BPM": 162,
+            "BPM": 81,
             "artistName": "Olivia Rodrigo",
             "ageRating": "E",
             "albumArtFilename": "eg34rcae7sdxlqvj-512x512-3bf33984bdf8.jpg",
@@ -1714,7 +1714,7 @@
             "trackIndex": "114"
         },
         "_activeDate": "2023-11-29T14:47:32.527Z",
-        "lastModified": "2024-09-14T02:56:04.042Z"
+        "lastModified": "2025-02-28T15:20:46.219Z"
     },
     "withorwithoutyou": {
         "track": {
@@ -3049,7 +3049,7 @@
                 "drums": 5,
                 "bass": 4
             },
-            "BPM": 86,
+            "BPM": 173,
             "artistName": "Paramore",
             "ageRating": "E",
             "albumArtFilename": "w8rdujbyldvsvdis-512x512-c1776242f3bf.jpg",
@@ -3058,7 +3058,7 @@
             "trackIndex": "15"
         },
         "_activeDate": "2023-10-09T21:09:44.078Z",
-        "lastModified": "2024-09-18T06:48:33.387Z"
+        "lastModified": "2025-02-28T15:21:28.310Z"
     },
     "highhopes": {
         "track": {
@@ -4242,7 +4242,7 @@
                 "drums": 3,
                 "bass": 2
             },
-            "BPM": 174,
+            "BPM": 87,
             "artistName": "Imagine Dragons",
             "ageRating": "E",
             "albumArtFilename": "bsyewlvdpqnzhqsb-512x512-e66a396b55ad.jpg",
@@ -4251,7 +4251,7 @@
             "trackIndex": "177"
         },
         "_activeDate": "2024-04-04T23:50:00.000Z",
-        "lastModified": "2024-09-19T01:31:46.759Z"
+        "lastModified": "2025-03-03T17:11:29.243Z"
     },
     "skysurfer": {
         "track": {
@@ -6340,7 +6340,7 @@
                 "drums": 2,
                 "bass": 3
             },
-            "BPM": 168,
+            "BPM": 84,
             "artistName": "Beastie Boys",
             "ageRating": "E",
             "albumArtFilename": "xkamsyz2nw3ez1md-512x512-6c30d884f2b1.jpg",
@@ -6349,7 +6349,7 @@
             "trackIndex": "214"
         },
         "_activeDate": "2024-06-06T13:30:00.000Z",
-        "lastModified": "2024-09-19T06:26:09.674Z"
+        "lastModified": "2025-03-04T16:17:03.623Z"
     },
     "ihadsomehelp": {
         "track": {
@@ -8842,7 +8842,7 @@
                 "drums": 2,
                 "bass": 0
             },
-            "BPM": 169,
+            "BPM": 85,
             "artistName": "The Notorious B.I.G.",
             "ageRating": "T",
             "albumArtFilename": "oioxxxtslgrpcwiz-512x512-72a067e95e4a.jpg",
@@ -8851,7 +8851,7 @@
             "trackIndex": "317"
         },
         "_activeDate": "2024-09-12T13:30:00.000Z",
-        "lastModified": "2024-09-23T03:52:34.427Z"
+        "lastModified": "2025-02-28T14:50:30.311Z"
     },
     "juicy": {
         "track": {
