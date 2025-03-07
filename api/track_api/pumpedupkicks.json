@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Pumped Up Kicks",
+        "releaseYear": 2010,
+        "duration": 223,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 128,
+        "artistName": "Foster The People",
+        "ageRating": "T",
+        "albumArtFilename": "f0syduv83wka5ll6-512x512-ddfd1f914563.jpg",
+        "recordingCode": "USSM11100021",
+        "songUUID": "a67ac899-cc50-4da3-b146-d8c3a3b56e6c",
+        "trackIndex": "506"
+    },
+    "_activeDate": "2025-03-06T14:30:00.000Z",
+    "lastModified": "2025-03-04T15:40:50.899Z"
+}
