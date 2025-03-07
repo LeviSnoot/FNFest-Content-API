@@ -380,6 +380,8 @@
   url: api/track_api/ittakestwo.json
 - name: track_api/iwannagetbetter.json
   url: api/track_api/iwannagetbetter.json
+- name: track_api/iwantitthatway.json
+  url: api/track_api/iwantitthatway.json
 - name: track_api/iwish.json
   url: api/track_api/iwish.json
 - name: track_api/iwritesins.json
@@ -544,6 +546,8 @@
   url: api/track_api/positions.json
 - name: track_api/provenza.json
   url: api/track_api/provenza.json
+- name: track_api/pumpedupkicks.json
+  url: api/track_api/pumpedupkicks.json
 - name: track_api/pumpupthejam.json
   url: api/track_api/pumpupthejam.json
 - name: track_api/qlona.json
@@ -716,6 +720,8 @@
   url: api/track_api/thenightporter.json
 - name: track_api/thenights.json
   url: api/track_api/thenights.json
+- name: track_api/thepretender.json
+  url: api/track_api/thepretender.json
 - name: track_api/thereforeiam.json
   url: api/track_api/thereforeiam.json
 - name: track_api/thesearch.json
@@ -772,6 +778,8 @@
   url: api/track_api/walkthisway.json
 - name: track_api/waytoofast.json
   url: api/track_api/waytoofast.json
+- name: track_api/welcomehome.json
+  url: api/track_api/welcomehome.json
 - name: track_api/welcometoparadise.json
   url: api/track_api/welcometoparadise.json
 - name: track_api/welcometothejungle.json
