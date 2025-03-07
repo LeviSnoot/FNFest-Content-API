@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Welcome Home",
+        "releaseYear": 2005,
+        "duration": 378,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 154,
+        "artistName": "Coheed and Cambria",
+        "ageRating": "T",
+        "albumArtFilename": "1eh6404i0d65h4qt-512x512-db6d4caea3d5.jpg",
+        "recordingCode": "USSM10504108",
+        "songUUID": "2956c373-befa-44cc-8abb-d8a9f95592f8",
+        "trackIndex": "529"
+    },
+    "_activeDate": "2025-03-06T14:30:00.000Z",
+    "lastModified": "2025-03-04T15:51:44.096Z"
+}

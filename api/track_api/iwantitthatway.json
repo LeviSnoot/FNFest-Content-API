@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "I Want It That Way",
+        "releaseYear": 1999,
+        "duration": 217,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 99,
+        "artistName": "Backstreet Boys",
+        "ageRating": "E",
+        "albumArtFilename": "tmdtpbwyy5cbtvjg-512x512-738d0c8916cd.jpg",
+        "recordingCode": "USJI19910614",
+        "songUUID": "0bda4b8a-6695-4803-a229-5d45363661a6",
+        "trackIndex": "528"
+    },
+    "_activeDate": "2025-03-06T14:30:00.000Z",
+    "lastModified": "2025-03-04T15:39:46.484Z"
+}
