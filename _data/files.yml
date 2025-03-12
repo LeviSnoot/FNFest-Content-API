@@ -130,6 +130,8 @@
   url: api/track_api/broccoli.json
 - name: track_api/buddyholly.json
   url: api/track_api/buddyholly.json
+- name: track_api/builttogether.json
+  url: api/track_api/builttogether.json
 - name: track_api/bullsonparade.json
   url: api/track_api/bullsonparade.json
 - name: track_api/bunnybouncemurdabeatz.json
