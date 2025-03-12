@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Built Together",
+        "releaseYear": 2025,
+        "duration": 195,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 124,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "builttogether-art-512x512-2e831579326e.jpg",
+        "songUUID": "a7326d21-bb7f-454b-a306-42de6ae00be3",
+        "trackIndex": "531"
+    },
+    "_activeDate": "2025-03-11T08:00:00.000Z",
+    "lastModified": "2025-03-04T15:54:24.308Z"
+}
