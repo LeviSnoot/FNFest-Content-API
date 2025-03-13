@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Decade",
+        "releaseYear": 2018,
+        "duration": 219,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 127,
+        "artistName": "Dixie Flatline ft. Hatsune Miku",
+        "ageRating": "E",
+        "albumArtFilename": "rnnpfw2anuqbukrd-512x512-ed08aaf9e5cf.jpg",
+        "recordingCode": "T-926.965.355-6",
+        "songUUID": "eb2fd6e7-6200-4742-b9d2-66255d7c4b8b",
+        "trackIndex": "541"
+    },
+    "_activeDate": "2025-03-06T14:30:00.000Z",
+    "lastModified": "2025-03-11T18:40:21.261Z"
+}
