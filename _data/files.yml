@@ -200,6 +200,8 @@
   url: api/track_api/dancingintheflames.json
 - name: track_api/daynnite.json
   url: api/track_api/daynnite.json
+- name: track_api/decade.json
+  url: api/track_api/decade.json
 - name: track_api/demons.json
   url: api/track_api/demons.json
 - name: track_api/dexting.json
@@ -454,6 +456,8 @@
   url: api/track_api/marchofthepigs.json
 - name: track_api/masterofpuppets.json
   url: api/track_api/masterofpuppets.json
+- name: track_api/melt.json
+  url: api/track_api/melt.json
 - name: track_api/metoo.json
   url: api/track_api/metoo.json
 - name: track_api/mia.json
