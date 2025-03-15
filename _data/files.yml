@@ -746,6 +746,8 @@
   url: api/track_api/thisaintascene.json
 - name: track_api/thisishowwedoit.json
   url: api/track_api/thisishowwedoit.json
+- name: track_api/throughthefireandflames.json
+  url: api/track_api/throughthefireandflames.json
 - name: track_api/thunder.json
   url: api/track_api/thunder.json
 - name: track_api/timeless.json
