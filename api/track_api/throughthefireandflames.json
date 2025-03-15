@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Through the Fire and Flames",
+        "releaseYear": 2005,
+        "duration": 442,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 5,
+            "proDrums": 6,
+            "vocals": 2,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 6,
+            "bass": 5
+        },
+        "BPM": 100,
+        "artistName": "DragonForce",
+        "ageRating": "T",
+        "albumArtFilename": "seigzdgnpop9tfuc-512x512-59d9ffb46105.jpg",
+        "recordingCode": "GBAJE0508258",
+        "songUUID": "fefd057e-ebe2-4909-ba35-1752d86b6b17",
+        "trackIndex": "546"
+    },
+    "_activeDate": "2025-03-14T12:57:51.434Z",
+    "lastModified": "2025-03-13T21:12:35.457Z"
+}
