@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Ain't It Fun",
+        "releaseYear": 2013,
+        "duration": 303,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 4
+        },
+        "BPM": 104,
+        "artistName": "Paramore",
+        "ageRating": "E",
+        "albumArtFilename": "tug03vh9qemz03d3-512x512-41baf39d7bcb.jpg",
+        "recordingCode": "USAT21300009",
+        "songUUID": "3fa90222-2d77-471f-84ab-80a61a4d33ef",
+        "trackIndex": "496"
+    },
+    "_activeDate": "2025-01-17T15:42:30.769Z",
+    "lastModified": "2025-03-18T14:17:28.841Z"
+}

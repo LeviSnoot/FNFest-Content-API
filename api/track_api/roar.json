@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Roar",
+        "releaseYear": 2013,
+        "duration": 226,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 90,
+        "artistName": "Katy Perry",
+        "ageRating": "E",
+        "albumArtFilename": "rr90qreqa7c6dv8x-512x512-141cf68bb87e.jpg",
+        "recordingCode": "USUM71308669",
+        "songUUID": "2baa085a-40e6-4065-837e-3b4f338b9243",
+        "trackIndex": "530"
+    },
+    "_activeDate": "2025-02-28T16:19:29.718Z",
+    "lastModified": "2025-03-18T14:19:02.575Z"
+}
