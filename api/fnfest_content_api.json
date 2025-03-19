@@ -2178,7 +2178,7 @@
     },
     "popular": {
         "track": {
-            "trackTitle": "Popular ",
+            "trackTitle": "Popular",
             "releaseYear": 2023,
             "duration": 221,
             "iconBass": "Bass",
@@ -2205,7 +2205,7 @@
             "trackIndex": "136"
         },
         "_activeDate": "2024-01-17T14:06:32.994Z",
-        "lastModified": "2024-09-18T02:51:19.165Z"
+        "lastModified": "2025-03-18T20:30:54.424Z"
     },
     "bloom": {
         "track": {
@@ -4599,7 +4599,7 @@
                 "bass": 0
             },
             "BPM": 105,
-            "artistName": "J. Balvin & Willy William",
+            "artistName": "J Balvin & Willy William",
             "ageRating": "E",
             "albumArtFilename": "snvyq9y2o6aaxfqz-512x512-10328c96f23e.jpg",
             "recordingCode": "FR22F1701790",
@@ -4607,7 +4607,7 @@
             "trackIndex": "34"
         },
         "_activeDate": "2023-10-10T14:59:13.021Z",
-        "lastModified": "2024-09-19T02:07:34.461Z"
+        "lastModified": "2025-03-18T20:35:13.158Z"
     },
     "justagirl": {
         "track": {
@@ -4704,7 +4704,7 @@
     },
     "xotourlif3": {
         "track": {
-            "trackTitle": "XO Tour Llif3 ",
+            "trackTitle": "XO Tour Llif3",
             "releaseYear": 2017,
             "duration": 191,
             "iconBass": "Bass",
@@ -4731,7 +4731,7 @@
             "trackIndex": "184"
         },
         "_activeDate": "2024-03-14T14:27:33.678Z",
-        "lastModified": "2024-09-19T02:09:34.081Z"
+        "lastModified": "2025-03-18T20:34:22.911Z"
     },
     "allthegoodgirls": {
         "track": {
@@ -13478,5 +13478,98 @@
         },
         "_activeDate": "2025-03-16T08:00:00.000Z",
         "lastModified": "2025-03-14T17:36:10.470Z"
+    },
+    "aintitfun": {
+        "track": {
+            "trackTitle": "Ain't It Fun",
+            "releaseYear": 2013,
+            "duration": 303,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 4,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 4
+            },
+            "BPM": 104,
+            "artistName": "Paramore",
+            "ageRating": "E",
+            "albumArtFilename": "tug03vh9qemz03d3-512x512-41baf39d7bcb.jpg",
+            "recordingCode": "USAT21300009",
+            "songUUID": "3fa90222-2d77-471f-84ab-80a61a4d33ef",
+            "trackIndex": "496"
+        },
+        "_activeDate": "2025-01-17T15:42:30.769Z",
+        "lastModified": "2025-03-18T14:17:28.841Z"
+    },
+    "roar": {
+        "track": {
+            "trackTitle": "Roar",
+            "releaseYear": 2013,
+            "duration": 226,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 90,
+            "artistName": "Katy Perry",
+            "ageRating": "E",
+            "albumArtFilename": "rr90qreqa7c6dv8x-512x512-141cf68bb87e.jpg",
+            "recordingCode": "USUM71308669",
+            "songUUID": "2baa085a-40e6-4065-837e-3b4f338b9243",
+            "trackIndex": "530"
+        },
+        "_activeDate": "2025-02-28T16:19:29.718Z",
+        "lastModified": "2025-03-18T14:19:02.575Z"
+    },
+    "stillintoyou": {
+        "track": {
+            "trackTitle": "Still Into You",
+            "releaseYear": 2013,
+            "duration": 212,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "F",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 3
+            },
+            "BPM": 136,
+            "artistName": "Paramore",
+            "ageRating": "E",
+            "albumArtFilename": "ylt0wb41zlw9xgit-512x512-84b5ea8d9e7f.jpg",
+            "recordingCode": "USAT21300012",
+            "songUUID": "8e1515da-3f68-4600-b2e8-f2fba9c1def6",
+            "trackIndex": "497"
+        },
+        "_activeDate": "2025-01-17T15:43:52.112Z",
+        "lastModified": "2025-03-18T14:20:02.101Z"
     }
 }
