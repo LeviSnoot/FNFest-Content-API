@@ -8,6 +8,8 @@
   url: api/track_api/adamssong.json
 - name: track_api/africa.json
   url: api/track_api/africa.json
+- name: track_api/aintitfun.json
+  url: api/track_api/aintitfun.json
 - name: track_api/aintnorestforthewicked.json
   url: api/track_api/aintnorestforthewicked.json
 - name: track_api/airplanes.json
@@ -574,6 +576,8 @@
   url: api/track_api/ridewitme.json
 - name: track_api/rightround.json
   url: api/track_api/rightround.json
+- name: track_api/roar.json
+  url: api/track_api/roar.json
 - name: track_api/robbery.json
   url: api/track_api/robbery.json
 - name: track_api/roses.json
@@ -656,6 +660,8 @@
   url: api/track_api/starships.json
 - name: track_api/stickseason.json
   url: api/track_api/stickseason.json
+- name: track_api/stillintoyou.json
+  url: api/track_api/stillintoyou.json
 - name: track_api/stitches.json
   url: api/track_api/stitches.json
 - name: track_api/streetsignite.json
