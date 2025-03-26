@@ -252,6 +252,8 @@
   url: api/track_api/everlong.json
 - name: track_api/fadetoblack.json
   url: api/track_api/fadetoblack.json
+- name: track_api/faint.json
+  url: api/track_api/faint.json
 - name: track_api/fallguys.json
   url: api/track_api/fallguys.json
 - name: track_api/fatlip.json
@@ -648,6 +650,8 @@
   url: api/track_api/somp.json
 - name: track_api/song2.json
   url: api/track_api/song2.json
+- name: track_api/sournsweet.json
+  url: api/track_api/sournsweet.json
 - name: track_api/sowhat.json
   url: api/track_api/sowhat.json
 - name: track_api/spiesmarshmello.json
@@ -716,6 +720,8 @@
   url: api/track_api/thediaryofjane.json
 - name: track_api/thediner.json
   url: api/track_api/thediner.json
+- name: track_api/theemptinessmachine.json
+  url: api/track_api/theemptinessmachine.json
 - name: track_api/thefinalcountdown.json
   url: api/track_api/thefinalcountdown.json
 - name: track_api/thehandthatfeeds.json
