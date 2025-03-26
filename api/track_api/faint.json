@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Faint",
+        "releaseYear": 2003,
+        "duration": 166,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 135,
+        "artistName": "Linkin Park",
+        "ageRating": "E",
+        "albumArtFilename": "ftqtzggzjfgzixsx-512x512-07df13e129c9.jpg",
+        "recordingCode": "USWB11201333",
+        "songUUID": "dde7a236-2f27-4a61-af11-08c22d326978",
+        "trackIndex": "521"
+    },
+    "_activeDate": "2025-02-13T21:46:25.463Z",
+    "lastModified": "2025-03-25T14:13:30.911Z"
+}
