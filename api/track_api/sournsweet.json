@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Sour 'n Sweet",
+        "releaseYear": 2025,
+        "duration": 189,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 104,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "7zn86wlgbnjoet7p-512x512-ec93e510bf99.jpg",
+        "songUUID": "e9f7df6d-a08e-4c7a-b3cb-e0de9108dcc5",
+        "trackIndex": "525"
+    },
+    "_activeDate": "2025-03-25T23:58:00.000Z",
+    "lastModified": "2025-03-18T20:24:29.019Z"
+}

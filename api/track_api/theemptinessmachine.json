@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Emptiness Machine",
+        "releaseYear": 2024,
+        "duration": 195,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 92,
+        "artistName": "Linkin Park",
+        "ageRating": "T",
+        "albumArtFilename": "moxrcr02ii3nzczy-512x512-84b0a9c933fa.jpg",
+        "recordingCode": " USWB12403464",
+        "songUUID": "d36b61dd-b0ba-41be-9226-15e4d0305eb6",
+        "trackIndex": "500"
+    },
+    "_activeDate": "2025-02-13T21:45:17.257Z",
+    "lastModified": "2025-03-25T14:14:55.181Z"
+}
