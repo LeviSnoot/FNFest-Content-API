@@ -788,6 +788,8 @@
   url: api/track_api/unholy.json
 - name: track_api/unsainted.json
   url: api/track_api/unsainted.json
+- name: track_api/upfromthebottom.json
+  url: api/track_api/upfromthebottom.json
 - name: track_api/uptownfunk.json
   url: api/track_api/uptownfunk.json
 - name: track_api/vampire.json
