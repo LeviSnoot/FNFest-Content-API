@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Up From The Bottom",
+        "releaseYear": 2025,
+        "duration": 186,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 107,
+        "artistName": "Linkin Park",
+        "ageRating": "T",
+        "albumArtFilename": "bw7rd9kumregxy84-512x512-503e2454337d.jpg",
+        "recordingCode": " USWB12500290",
+        "songUUID": "6fb8e99f-7706-4dee-b63c-15aee0164b83",
+        "trackIndex": "520"
+    },
+    "_activeDate": "2025-03-27T23:58:00.000Z",
+    "lastModified": "2025-03-27T20:00:19.100Z"
+}
