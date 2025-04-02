@@ -13694,5 +13694,98 @@
         },
         "_activeDate": "2025-03-27T23:58:00.000Z",
         "lastModified": "2025-03-27T20:00:19.100Z"
+    },
+    "gasolina": {
+        "track": {
+            "trackTitle": "Gasolina",
+            "releaseYear": 2004,
+            "duration": 199,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "F",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 5,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 96,
+            "artistName": "Daddy Yankee",
+            "ageRating": "T",
+            "albumArtFilename": "s2pfmz0bxrixuqe4-512x512-4141c3ed596c.jpg",
+            "recordingCode": "QM6N21759342",
+            "songUUID": "0b7262d1-9891-4000-bbe5-6b0248e71331",
+            "trackIndex": "558"
+        },
+        "_activeDate": "2025-04-01T14:55:00.000Z",
+        "lastModified": "2025-04-01T14:11:33.020Z"
+    },
+    "stacysmom": {
+        "track": {
+            "trackTitle": "Stacy's Mom",
+            "releaseYear": 2003,
+            "duration": 201,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 118,
+            "artistName": "Fountains of Wayne",
+            "ageRating": "E",
+            "albumArtFilename": "tvf68ki1al4ikbnc-512x512-cb263af3595a.jpg",
+            "recordingCode": "USESC0300016",
+            "songUUID": "38661c84-94a8-45cd-a772-0b59c77cf62a",
+            "trackIndex": "507"
+        },
+        "_activeDate": "2025-04-01T14:55:00.000Z",
+        "lastModified": "2025-04-01T14:13:40.096Z"
+    },
+    "nevergonnagiveyouup": {
+        "track": {
+            "trackTitle": "Never Gonna Give You Up",
+            "releaseYear": 1987,
+            "duration": 237,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 113,
+            "artistName": "Rick Astley",
+            "ageRating": "E",
+            "albumArtFilename": "gierwkbhgfwdaq9j-512x512-d782d2268589.jpg",
+            "recordingCode": "GBARL9300135",
+            "songUUID": "a7bd154b-43b9-4b0f-90a3-006b9e42bcda",
+            "trackIndex": "549"
+        },
+        "_activeDate": "2025-04-01T20:02:00.000Z",
+        "lastModified": "2025-04-01T14:14:56.962Z"
     }
 }

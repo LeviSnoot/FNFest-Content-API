@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Stacy's Mom",
+        "releaseYear": 2003,
+        "duration": 201,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 118,
+        "artistName": "Fountains of Wayne",
+        "ageRating": "E",
+        "albumArtFilename": "tvf68ki1al4ikbnc-512x512-cb263af3595a.jpg",
+        "recordingCode": "USESC0300016",
+        "songUUID": "38661c84-94a8-45cd-a772-0b59c77cf62a",
+        "trackIndex": "507"
+    },
+    "_activeDate": "2025-04-01T14:55:00.000Z",
+    "lastModified": "2025-04-01T14:13:40.096Z"
+}
