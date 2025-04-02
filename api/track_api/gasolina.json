@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Gasolina",
+        "releaseYear": 2004,
+        "duration": 199,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 96,
+        "artistName": "Daddy Yankee",
+        "ageRating": "T",
+        "albumArtFilename": "s2pfmz0bxrixuqe4-512x512-4141c3ed596c.jpg",
+        "recordingCode": "QM6N21759342",
+        "songUUID": "0b7262d1-9891-4000-bbe5-6b0248e71331",
+        "trackIndex": "558"
+    },
+    "_activeDate": "2025-04-01T14:55:00.000Z",
+    "lastModified": "2025-04-01T14:11:33.020Z"
+}

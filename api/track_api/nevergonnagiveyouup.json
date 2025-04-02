@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Never Gonna Give You Up",
+        "releaseYear": 1987,
+        "duration": 237,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 113,
+        "artistName": "Rick Astley",
+        "ageRating": "E",
+        "albumArtFilename": "gierwkbhgfwdaq9j-512x512-d782d2268589.jpg",
+        "recordingCode": "GBARL9300135",
+        "songUUID": "a7bd154b-43b9-4b0f-90a3-006b9e42bcda",
+        "trackIndex": "549"
+    },
+    "_activeDate": "2025-04-01T20:02:00.000Z",
+    "lastModified": "2025-04-01T14:14:56.962Z"
+}
