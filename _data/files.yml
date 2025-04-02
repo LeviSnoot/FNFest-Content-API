@@ -300,6 +300,8 @@
   url: api/track_api/fuel.json
 - name: track_api/gangnamstyle.json
   url: api/track_api/gangnamstyle.json
+- name: track_api/gasolina.json
+  url: api/track_api/gasolina.json
 - name: track_api/getbusy.json
   url: api/track_api/getbusy.json
 - name: track_api/gethimback.json
@@ -490,6 +492,8 @@
   url: api/track_api/myohmy.json
 - name: track_api/nevergiveup.json
   url: api/track_api/nevergiveup.json
+- name: track_api/nevergonnagiveyouup.json
+  url: api/track_api/nevergonnagiveyouup.json
 - name: track_api/nextsemester.json
   url: api/track_api/nextsemester.json
 - name: track_api/nightdancer.json
@@ -658,6 +662,8 @@
   url: api/track_api/spiesmarshmello.json
 - name: track_api/spiesmurdabeatz.json
   url: api/track_api/spiesmurdabeatz.json
+- name: track_api/stacysmom.json
+  url: api/track_api/stacysmom.json
 - name: track_api/stargazing.json
   url: api/track_api/stargazing.json
 - name: track_api/starships.json
