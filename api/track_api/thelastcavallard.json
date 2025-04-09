@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "The Last Cavallard",
+        "releaseYear": 2025,
+        "duration": 215,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 118,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "u5ilfgyvl8bbtaei-512x512-e3d4cf1ac198.jpg",
+        "songUUID": "d84757fe-2e89-4615-85ac-3df5485d623d",
+        "trackIndex": "553"
+    },
+    "_activeDate": "2025-04-08T08:00:00.000Z",
+    "lastModified": "2025-04-07T15:37:19.732Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Please Please Please",
+        "releaseYear": 2024,
+        "duration": 189,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 1,
+            "bass": 1
+        },
+        "BPM": 107,
+        "artistName": "Sabrina Carpenter",
+        "ageRating": "T",
+        "albumArtFilename": "58czand2cjulqqz2-512x512-3e9929d17e48.jpg",
+        "recordingCode": "USUM72406281",
+        "songUUID": "7c1d2565-d028-41c9-903f-b729d34d60ac",
+        "trackIndex": "537"
+    },
+    "_activeDate": "2025-04-08T08:00:00.000Z",
+    "lastModified": "2025-04-07T15:34:42.558Z"
+}
