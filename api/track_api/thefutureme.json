@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "The Future Me",
+        "releaseYear": 2025,
+        "duration": 227,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 5,
+            "vocals": 3,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 6,
+            "bass": 3
+        },
+        "BPM": 172,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "piol6lsh2moppvyt-512x512-bd222cb00fb0.jpg",
+        "songUUID": "d85e10b5-ee9d-4fc3-8be3-f61e36d477d8",
+        "trackIndex": "552"
+    },
+    "_activeDate": "2025-04-08T08:00:00.000Z",
+    "lastModified": "2025-04-07T15:36:29.601Z"
+}

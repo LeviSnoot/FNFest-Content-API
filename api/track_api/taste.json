@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Taste",
+        "releaseYear": 2024,
+        "duration": 159,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 113,
+        "artistName": "Sabrina Carpenter",
+        "ageRating": "T",
+        "albumArtFilename": "lpofigvnogyezlqv-512x512-bddd03fdcb8f.jpg",
+        "recordingCode": "USUM72404100",
+        "songUUID": "c6e759d1-e61e-442b-b8b7-77f5f44ef61d",
+        "trackIndex": "536"
+    },
+    "_activeDate": "2025-04-08T08:00:00.000Z",
+    "lastModified": "2025-04-07T15:35:36.227Z"
+}

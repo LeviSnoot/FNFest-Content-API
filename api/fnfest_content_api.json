@@ -13787,5 +13787,312 @@
         },
         "_activeDate": "2025-04-01T20:02:00.000Z",
         "lastModified": "2025-04-01T14:14:56.962Z"
+    },
+    "nonsense": {
+        "track": {
+            "trackTitle": "Nonsense",
+            "releaseYear": 2022,
+            "duration": 169,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 139,
+            "artistName": "Sabrina Carpenter",
+            "ageRating": "T",
+            "albumArtFilename": "5vinwwywjlqtm6zq-512x512-d12ea8c7fda1.jpg",
+            "recordingCode": "USUM72210708",
+            "songUUID": "e48cf455-f9ef-43ee-8499-ba45dd952599",
+            "trackIndex": "551"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:33:24.225Z"
+    },
+    "pleasepleaseplease": {
+        "track": {
+            "trackTitle": "Please Please Please",
+            "releaseYear": 2024,
+            "duration": 189,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 1,
+                "bass": 1
+            },
+            "BPM": 107,
+            "artistName": "Sabrina Carpenter",
+            "ageRating": "T",
+            "albumArtFilename": "58czand2cjulqqz2-512x512-3e9929d17e48.jpg",
+            "recordingCode": "USUM72406281",
+            "songUUID": "7c1d2565-d028-41c9-903f-b729d34d60ac",
+            "trackIndex": "537"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:34:42.558Z"
+    },
+    "thefutureme": {
+        "track": {
+            "trackTitle": "The Future Me",
+            "releaseYear": 2025,
+            "duration": 227,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 5,
+                "vocals": 3,
+                "proGuitar": 5,
+                "guitar": 5,
+                "drums": 6,
+                "bass": 3
+            },
+            "BPM": 172,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "piol6lsh2moppvyt-512x512-bd222cb00fb0.jpg",
+            "songUUID": "d85e10b5-ee9d-4fc3-8be3-f61e36d477d8",
+            "trackIndex": "552"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:36:29.601Z"
+    },
+    "touchthesun": {
+        "track": {
+            "trackTitle": "Touch the Sun",
+            "releaseYear": 2025,
+            "duration": 172,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "B",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 2,
+                "proGuitar": 5,
+                "guitar": 5,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 125,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "epguyjht4ljijrsp-512x512-90153635a17f.jpg",
+            "songUUID": "c31f1060-4b24-40aa-a27d-3b8d7ee1ecd7",
+            "trackIndex": "554"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:37:59.916Z"
+    },
+    "yououghtaknow": {
+        "track": {
+            "trackTitle": "You Oughta Know",
+            "releaseYear": 1995,
+            "duration": 252,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 4
+            },
+            "BPM": 105,
+            "artistName": "Alanis Morissette",
+            "ageRating": "T",
+            "albumArtFilename": "jb6qevehvhebieo3-512x512-16f17c4c2d56.jpg",
+            "recordingCode": "USMV29900091",
+            "songUUID": "f960ca7f-4f08-406c-bbfb-c3b60ce0e585",
+            "trackIndex": "446"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:38:50.122Z"
+    },
+    "allmypeople": {
+        "track": {
+            "trackTitle": "All My People",
+            "releaseYear": 2025,
+            "duration": 219,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 2,
+                "vocals": 1,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 118,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "70ol5pqfqfptdrhz-512x512-37ffc1a2719e.jpg",
+            "songUUID": "e67e98b5-db1b-4c16-b75e-5061b59df83b",
+            "trackIndex": "523"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:28:37.931Z"
+    },
+    "taste": {
+        "track": {
+            "trackTitle": "Taste",
+            "releaseYear": 2024,
+            "duration": 159,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Eb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 113,
+            "artistName": "Sabrina Carpenter",
+            "ageRating": "T",
+            "albumArtFilename": "lpofigvnogyezlqv-512x512-bddd03fdcb8f.jpg",
+            "recordingCode": "USUM72404100",
+            "songUUID": "c6e759d1-e61e-442b-b8b7-77f5f44ef61d",
+            "trackIndex": "536"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:35:36.227Z"
+    },
+    "thelastcavallard": {
+        "track": {
+            "trackTitle": "The Last Cavallard",
+            "releaseYear": 2025,
+            "duration": 215,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 118,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "u5ilfgyvl8bbtaei-512x512-e3d4cf1ac198.jpg",
+            "songUUID": "d84757fe-2e89-4615-85ac-3df5485d623d",
+            "trackIndex": "553"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:37:19.732Z"
+    },
+    "darkhorse": {
+        "track": {
+            "trackTitle": "Dark Horse",
+            "releaseYear": 2013,
+            "duration": 216,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 0
+            },
+            "BPM": 132,
+            "artistName": "Katy Perry ft. Juicy J",
+            "ageRating": "T",
+            "albumArtFilename": "3nakws8dlomwbtig-512x512-a52a9dc96b4d.jpg",
+            "recordingCode": "USUM71311296",
+            "songUUID": "9b9810b5-b2ab-4f48-9759-30d256e8e975",
+            "trackIndex": "498"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:29:45.848Z"
+    },
+    "juno": {
+        "track": {
+            "mmo": 100,
+            "trackTitle": "Juno",
+            "releaseYear": 2024,
+            "duration": 225,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "F",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 130,
+            "artistName": "Sabrina Carpenter",
+            "ageRating": "T",
+            "albumArtFilename": "3xj5vctmm2sd4kfo-512x512-048638708f5d.jpg",
+            "recordingCode": "USUM72406553",
+            "songUUID": "e46da921-c04e-4a64-a5e5-ea658ece564d",
+            "trackIndex": "538"
+        },
+        "_activeDate": "2025-04-08T08:00:00.000Z",
+        "lastModified": "2025-04-07T15:32:21.965Z"
     }
 }

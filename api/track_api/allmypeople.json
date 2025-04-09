@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "All My People",
+        "releaseYear": 2025,
+        "duration": 219,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 1,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 118,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "70ol5pqfqfptdrhz-512x512-37ffc1a2719e.jpg",
+        "songUUID": "e67e98b5-db1b-4c16-b75e-5061b59df83b",
+        "trackIndex": "523"
+    },
+    "_activeDate": "2025-04-08T08:00:00.000Z",
+    "lastModified": "2025-04-07T15:28:37.931Z"
+}

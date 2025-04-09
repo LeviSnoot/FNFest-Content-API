@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "You Oughta Know",
+        "releaseYear": 1995,
+        "duration": 252,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 4
+        },
+        "BPM": 105,
+        "artistName": "Alanis Morissette",
+        "ageRating": "T",
+        "albumArtFilename": "jb6qevehvhebieo3-512x512-16f17c4c2d56.jpg",
+        "recordingCode": "USMV29900091",
+        "songUUID": "f960ca7f-4f08-406c-bbfb-c3b60ce0e585",
+        "trackIndex": "446"
+    },
+    "_activeDate": "2025-04-08T08:00:00.000Z",
+    "lastModified": "2025-04-07T15:38:50.122Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Dark Horse",
+        "releaseYear": 2013,
+        "duration": 216,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 132,
+        "artistName": "Katy Perry ft. Juicy J",
+        "ageRating": "T",
+        "albumArtFilename": "3nakws8dlomwbtig-512x512-a52a9dc96b4d.jpg",
+        "recordingCode": "USUM71311296",
+        "songUUID": "9b9810b5-b2ab-4f48-9759-30d256e8e975",
+        "trackIndex": "498"
+    },
+    "_activeDate": "2025-04-08T08:00:00.000Z",
+    "lastModified": "2025-04-07T15:29:45.848Z"
+}

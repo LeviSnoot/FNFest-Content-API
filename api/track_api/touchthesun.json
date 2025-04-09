@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Touch the Sun",
+        "releaseYear": 2025,
+        "duration": 172,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 125,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "epguyjht4ljijrsp-512x512-90153635a17f.jpg",
+        "songUUID": "c31f1060-4b24-40aa-a27d-3b8d7ee1ecd7",
+        "trackIndex": "554"
+    },
+    "_activeDate": "2025-04-08T08:00:00.000Z",
+    "lastModified": "2025-04-07T15:37:59.916Z"
+}
