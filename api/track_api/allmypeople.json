@@ -7,7 +7,7 @@
         "iconDrum": "Drum",
         "iconGuitar": "Keyboard",
         "iconVocals": "Vocals",
-        "key": "C",
+        "key": "A",
         "majorMinor": "Minor",
         "intensities": {
             "proBass": 3,
@@ -26,5 +26,5 @@
         "trackIndex": "523"
     },
     "_activeDate": "2025-04-08T08:00:00.000Z",
-    "lastModified": "2025-04-07T15:28:37.931Z"
+    "lastModified": "2025-04-09T12:07:32.089Z"
 }
