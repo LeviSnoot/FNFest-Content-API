@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Basic Being Basic",
+        "releaseYear": 2025,
+        "duration": 164,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 122,
+        "artistName": "Djo",
+        "ageRating": "E",
+        "albumArtFilename": "dl4jcattwjacy9tw-512x512-cf1f6e9fc45f.jpg",
+        "recordingCode": "QMFMF2426857",
+        "songUUID": "5786a242-94e1-4e94-9c7e-ce9e53dd8b1e",
+        "trackIndex": "571"
+    },
+    "_activeDate": "2025-04-10T14:59:00.000Z",
+    "lastModified": "2025-04-07T15:41:00.726Z"
+}
