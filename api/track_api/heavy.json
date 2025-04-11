@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Heavy",
+        "releaseYear": 2021,
+        "duration": 254,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 97,
+        "artistName": "The Mar\u00edas",
+        "ageRating": "E",
+        "albumArtFilename": "m41ve4a37byk0scr-512x512-bbcdf5c37a11.jpg",
+        "recordingCode": "USAT22100694",
+        "songUUID": "7ef3186a-86e9-403e-9f99-e9b8464d16a4",
+        "trackIndex": "561"
+    },
+    "_activeDate": "2025-04-10T14:59:00.000Z",
+    "lastModified": "2025-04-07T15:42:11.646Z"
+}

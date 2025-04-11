@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "U Should Not Be Doing That",
+        "releaseYear": 2024,
+        "duration": 204,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 3,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 125,
+        "artistName": "Amyl and The Sniffers",
+        "ageRating": "T",
+        "albumArtFilename": "xr6o1oggixi4fhiy-512x512-29f506e31b9a.jpg",
+        "recordingCode": "AU2DY2400085",
+        "songUUID": "4cab0d11-76ca-4d6c-813c-659f80130d6b",
+        "trackIndex": "565"
+    },
+    "_activeDate": "2025-04-10T14:59:00.000Z",
+    "lastModified": "2025-04-07T15:43:04.242Z"
+}
