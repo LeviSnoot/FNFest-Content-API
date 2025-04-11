@@ -56,6 +56,8 @@
   url: api/track_api/barbarian.json
 - name: track_api/barbiegirl.json
   url: api/track_api/barbiegirl.json
+- name: track_api/basicbeingbasic.json
+  url: api/track_api/basicbeingbasic.json
 - name: track_api/basketcase.json
   url: api/track_api/basketcase.json
 - name: track_api/battery.json
@@ -340,6 +342,8 @@
   url: api/track_api/heathens.json
 - name: track_api/heatwaves.json
   url: api/track_api/heatwaves.json
+- name: track_api/heavy.json
+  url: api/track_api/heavy.json
 - name: track_api/heybrother.json
   url: api/track_api/heybrother.json
 - name: track_api/heyya.json
@@ -816,6 +820,8 @@
   url: api/track_api/upfromthebottom.json
 - name: track_api/uptownfunk.json
   url: api/track_api/uptownfunk.json
+- name: track_api/ushouldnotbedoingthat.json
+  url: api/track_api/ushouldnotbedoingthat.json
 - name: track_api/vampire.json
   url: api/track_api/vampire.json
 - name: track_api/walkemdown.json
