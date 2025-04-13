@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Show Em (What We Can Do)",
+        "releaseYear": 2025,
+        "duration": 198,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 110,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "ftyfuubpicqbsmkw-512x512-2e357411f9ac.jpg",
+        "songUUID": "0c78e2f7-4e0e-4f67-ba76-4fbc9d04b61d",
+        "trackIndex": "543"
+    },
+    "_activeDate": "2025-04-12T17:58:00.000Z",
+    "lastModified": "2025-04-11T20:24:44.359Z"
+}
