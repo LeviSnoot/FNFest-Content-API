@@ -646,6 +646,8 @@
   url: api/track_api/shivers.json
 - name: track_api/shortskirtlongjacket.json
   url: api/track_api/shortskirtlongjacket.json
+- name: track_api/showem.json
+  url: api/track_api/showem.json
 - name: track_api/showthemwhoweare.json
   url: api/track_api/showthemwhoweare.json
 - name: track_api/sidetoside.json
