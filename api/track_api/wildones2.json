@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Wild Ones",
+        "releaseYear": 2023,
+        "duration": 147,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 2,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 136,
+        "artistName": "Jessie Murph ft. Jelly Roll",
+        "ageRating": "T",
+        "albumArtFilename": "jgawtnfssk4czmme-512x512-2bb207ca1090.jpg",
+        "recordingCode": "USQX92305630",
+        "songUUID": "931d0200-fd28-45c4-b773-e8fe17cc8b0f",
+        "trackIndex": "560"
+    },
+    "_activeDate": "2025-03-20T17:45:50.055Z",
+    "lastModified": "2025-04-15T15:00:31.940Z"
+}

@@ -14218,5 +14218,160 @@
         },
         "_activeDate": "2025-04-12T17:58:00.000Z",
         "lastModified": "2025-04-11T20:24:44.359Z"
+    },
+    "blamebrett": {
+        "track": {
+            "trackTitle": "Blame Brett",
+            "releaseYear": 2023,
+            "duration": 178,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 156,
+            "artistName": "The Beaches",
+            "ageRating": "T",
+            "albumArtFilename": "chzo0ougiwtuvigh-512x512-09cc3562bc77.jpg",
+            "recordingCode": "QM6MZ2391881",
+            "songUUID": "18dd045a-06bc-45a9-9ada-a048348cd0e9",
+            "trackIndex": "562"
+        },
+        "_activeDate": "2025-03-28T13:00:07.988Z",
+        "lastModified": "2025-04-15T14:47:18.054Z"
+    },
+    "ifuthinkimpretty": {
+        "track": {
+            "trackTitle": "if u think i'm pretty",
+            "releaseYear": 2023,
+            "duration": 130,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 0,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 1,
+                "bass": 0
+            },
+            "BPM": 144,
+            "artistName": "Artemas",
+            "ageRating": "T",
+            "albumArtFilename": "a1mwjuvc7tckd0yp-512x512-f08e9b110e45.jpg",
+            "recordingCode": "QZJ842400044",
+            "songUUID": "45c590e3-3f3c-43b4-92fb-8ed942d4e662",
+            "trackIndex": "572"
+        },
+        "_activeDate": "2025-03-28T16:48:16.449Z",
+        "lastModified": "2025-04-15T14:54:29.963Z"
+    },
+    "wildones2": {
+        "track": {
+            "trackTitle": "Wild Ones",
+            "releaseYear": 2023,
+            "duration": 147,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 2,
+                "drums": 1,
+                "bass": 0
+            },
+            "BPM": 136,
+            "artistName": "Jessie Murph ft. Jelly Roll",
+            "ageRating": "T",
+            "albumArtFilename": "jgawtnfssk4czmme-512x512-2bb207ca1090.jpg",
+            "recordingCode": "USQX92305630",
+            "songUUID": "931d0200-fd28-45c4-b773-e8fe17cc8b0f",
+            "trackIndex": "560"
+        },
+        "_activeDate": "2025-03-20T17:45:50.055Z",
+        "lastModified": "2025-04-15T15:00:31.940Z"
+    },
+    "twentyfiftyfive": {
+        "track": {
+            "trackTitle": "2055",
+            "releaseYear": 2021,
+            "duration": 128,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 0,
+                "bass": 0
+            },
+            "BPM": 161,
+            "artistName": "Sleepy Hallow",
+            "ageRating": "T",
+            "albumArtFilename": "n4wkmhzpxspvucov-512x512-ccd501aa531f.jpg",
+            "recordingCode": "USRC12100867",
+            "songUUID": "f5da66af-5d54-4282-ae5a-ae47dafbd0e4",
+            "trackIndex": "574"
+        },
+        "_activeDate": "2025-04-15T15:01:00.000Z",
+        "lastModified": "2025-04-15T14:51:57.786Z"
+    },
+    "cream": {
+        "track": {
+            "trackTitle": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+            "releaseYear": 1994,
+            "duration": 239,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 0,
+                "proDrums": 1,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 90,
+            "artistName": "Wu-Tang Clan",
+            "ageRating": "T",
+            "albumArtFilename": "44kxbx1utvegssjl-512x512-c956ef6b6634.jpg",
+            "recordingCode": "USRC19300278",
+            "songUUID": "f0ddb3d0-0b06-4956-883b-0ee0311806ea",
+            "trackIndex": "563"
+        },
+        "_activeDate": "2025-04-15T15:01:00.000Z",
+        "lastModified": "2025-04-15T14:52:59.365Z"
     }
 }
