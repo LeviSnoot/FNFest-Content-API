@@ -98,6 +98,8 @@
   url: api/track_api/blackbeatles.json
 - name: track_api/blackholesun.json
   url: api/track_api/blackholesun.json
+- name: track_api/blamebrett.json
+  url: api/track_api/blamebrett.json
 - name: track_api/blindinglights.json
   url: api/track_api/blindinglights.json
 - name: track_api/blingbangbangborn.json
@@ -194,6 +196,8 @@
   url: api/track_api/cradles.json
 - name: track_api/crankthat.json
   url: api/track_api/crankthat.json
+- name: track_api/cream.json
+  url: api/track_api/cream.json
 - name: track_api/creaturesinheaven.json
   url: api/track_api/creaturesinheaven.json
 - name: track_api/crimsonbarony.json
@@ -370,6 +374,8 @@
   url: api/track_api/i.json
 - name: track_api/idol.json
   url: api/track_api/idol.json
+- name: track_api/ifuthinkimpretty.json
+  url: api/track_api/ifuthinkimpretty.json
 - name: track_api/ihadsomehelp.json
   url: api/track_api/ihadsomehelp.json
 - name: track_api/imawinner.json
@@ -812,6 +818,8 @@
   url: api/track_api/turnup.json
 - name: track_api/tusa.json
   url: api/track_api/tusa.json
+- name: track_api/twentyfiftyfive.json
+  url: api/track_api/twentyfiftyfive.json
 - name: track_api/undone.json
   url: api/track_api/undone.json
 - name: track_api/unholy.json
@@ -862,6 +870,8 @@
   url: api/track_api/wholetthedogsout.json
 - name: track_api/wildones.json
   url: api/track_api/wildones.json
+- name: track_api/wildones2.json
+  url: api/track_api/wildones2.json
 - name: track_api/winterfestwish.json
   url: api/track_api/winterfestwish.json
 - name: track_api/wishingwell.json
