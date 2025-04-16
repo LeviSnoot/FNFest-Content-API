@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+        "releaseYear": 1994,
+        "duration": 239,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 90,
+        "artistName": "Wu-Tang Clan",
+        "ageRating": "T",
+        "albumArtFilename": "44kxbx1utvegssjl-512x512-c956ef6b6634.jpg",
+        "recordingCode": "USRC19300278",
+        "songUUID": "f0ddb3d0-0b06-4956-883b-0ee0311806ea",
+        "trackIndex": "563"
+    },
+    "_activeDate": "2025-04-15T15:01:00.000Z",
+    "lastModified": "2025-04-15T14:52:59.365Z"
+}

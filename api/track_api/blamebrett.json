@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Blame Brett",
+        "releaseYear": 2023,
+        "duration": 178,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 156,
+        "artistName": "The Beaches",
+        "ageRating": "T",
+        "albumArtFilename": "chzo0ougiwtuvigh-512x512-09cc3562bc77.jpg",
+        "recordingCode": "QM6MZ2391881",
+        "songUUID": "18dd045a-06bc-45a9-9ada-a048348cd0e9",
+        "trackIndex": "562"
+    },
+    "_activeDate": "2025-03-28T13:00:07.988Z",
+    "lastModified": "2025-04-15T14:47:18.054Z"
+}

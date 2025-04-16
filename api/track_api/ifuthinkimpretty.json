@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "if u think i'm pretty",
+        "releaseYear": 2023,
+        "duration": 130,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 0,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 144,
+        "artistName": "Artemas",
+        "ageRating": "T",
+        "albumArtFilename": "a1mwjuvc7tckd0yp-512x512-f08e9b110e45.jpg",
+        "recordingCode": "QZJ842400044",
+        "songUUID": "45c590e3-3f3c-43b4-92fb-8ed942d4e662",
+        "trackIndex": "572"
+    },
+    "_activeDate": "2025-03-28T16:48:16.449Z",
+    "lastModified": "2025-04-15T14:54:29.963Z"
+}

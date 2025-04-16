@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "2055",
+        "releaseYear": 2021,
+        "duration": 128,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 0,
+            "bass": 0
+        },
+        "BPM": 161,
+        "artistName": "Sleepy Hallow",
+        "ageRating": "T",
+        "albumArtFilename": "n4wkmhzpxspvucov-512x512-ccd501aa531f.jpg",
+        "recordingCode": "USRC12100867",
+        "songUUID": "f5da66af-5d54-4282-ae5a-ae47dafbd0e4",
+        "trackIndex": "574"
+    },
+    "_activeDate": "2025-04-15T15:01:00.000Z",
+    "lastModified": "2025-04-15T14:51:57.786Z"
+}
