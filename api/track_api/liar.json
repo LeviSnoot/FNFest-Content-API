@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Liar",
+        "releaseYear": 2024,
+        "duration": 206,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 114,
+        "artistName": "Jelly Roll",
+        "ageRating": "T",
+        "albumArtFilename": "m1ipw8edbvyrngku-512x512-65d8693777a8.jpg",
+        "recordingCode": " USUG12404541",
+        "songUUID": "9300146f-e548-48be-becd-cb345c20a4d6",
+        "trackIndex": "581"
+    },
+    "_activeDate": "2025-04-11T14:28:17.899Z",
+    "lastModified": "2025-04-22T14:12:34.777Z"
+}

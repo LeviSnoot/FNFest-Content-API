@@ -14373,5 +14373,134 @@
         },
         "_activeDate": "2025-04-15T15:01:00.000Z",
         "lastModified": "2025-04-15T14:52:59.365Z"
+    },
+    "abarsong": {
+        "track": {
+            "mmo": 49,
+            "trackTitle": "A Bar Song",
+            "releaseYear": 2024,
+            "duration": 174,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 3,
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 0
+            },
+            "BPM": 162,
+            "artistName": "Shaboozey",
+            "ageRating": "T",
+            "albumArtFilename": "lvpp6exk0grb2cob-512x512-44859c6ef959.jpg",
+            "recordingCode": "USUYG1544736",
+            "songUUID": "7e035e38-43a2-4d7a-b841-956f6cb9183f",
+            "trackIndex": "575"
+        },
+        "_activeDate": "2025-04-08T16:19:11.421Z",
+        "lastModified": "2025-04-22T13:53:44.725Z"
+    },
+    "hotinherre": {
+        "track": {
+            "trackTitle": "Hot In Herre",
+            "releaseYear": 2002,
+            "duration": 232,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 5,
+                "proGuitar": 0,
+                "guitar": 0,
+                "drums": 4,
+                "bass": 0
+            },
+            "BPM": 107,
+            "artistName": "Nelly",
+            "ageRating": "T",
+            "albumArtFilename": "eibtybirpgnntl7z-512x512-7672e0fc1f23.jpg",
+            "recordingCode": "USUR10200384",
+            "songUUID": "9be266b0-4649-4835-9a05-8b0fcd054776",
+            "trackIndex": "503"
+        },
+        "_activeDate": "2025-01-10T14:49:24.990Z",
+        "lastModified": "2025-04-22T14:12:00.432Z"
+    },
+    "liar": {
+        "track": {
+            "trackTitle": "Liar",
+            "releaseYear": 2024,
+            "duration": 206,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 4,
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 2,
+                "bass": 0
+            },
+            "BPM": 114,
+            "artistName": "Jelly Roll",
+            "ageRating": "T",
+            "albumArtFilename": "m1ipw8edbvyrngku-512x512-65d8693777a8.jpg",
+            "recordingCode": " USUG12404541",
+            "songUUID": "9300146f-e548-48be-becd-cb345c20a4d6",
+            "trackIndex": "581"
+        },
+        "_activeDate": "2025-04-11T14:28:17.899Z",
+        "lastModified": "2025-04-22T14:12:34.777Z"
+    },
+    "whatareyouwaitingfor": {
+        "track": {
+            "trackTitle": "What Are You Waiting For",
+            "releaseYear": 2025,
+            "duration": 146,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 3,
+                "proBass": 3,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 166,
+            "artistName": "d4vd",
+            "ageRating": "E",
+            "albumArtFilename": "i4cvttqx0njcf8zg-512x512-a61563fd6a64.jpg",
+            "recordingCode": "USUM72500361",
+            "songUUID": "06ff7265-1d16-4043-abef-f762fe48ff72",
+            "trackIndex": "566"
+        },
+        "_activeDate": "2025-04-08T16:32:22.275Z",
+        "lastModified": "2025-04-22T14:13:54.802Z"
     }
 }
