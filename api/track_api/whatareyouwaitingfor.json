@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "What Are You Waiting For",
+        "releaseYear": 2025,
+        "duration": 146,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 3,
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 166,
+        "artistName": "d4vd",
+        "ageRating": "E",
+        "albumArtFilename": "i4cvttqx0njcf8zg-512x512-a61563fd6a64.jpg",
+        "recordingCode": "USUM72500361",
+        "songUUID": "06ff7265-1d16-4043-abef-f762fe48ff72",
+        "trackIndex": "566"
+    },
+    "_activeDate": "2025-04-08T16:32:22.275Z",
+    "lastModified": "2025-04-22T14:13:54.802Z"
+}

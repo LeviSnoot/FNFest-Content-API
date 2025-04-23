@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Hot In Herre",
+        "releaseYear": 2002,
+        "duration": 232,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 107,
+        "artistName": "Nelly",
+        "ageRating": "T",
+        "albumArtFilename": "eibtybirpgnntl7z-512x512-7672e0fc1f23.jpg",
+        "recordingCode": "USUR10200384",
+        "songUUID": "9be266b0-4649-4835-9a05-8b0fcd054776",
+        "trackIndex": "503"
+    },
+    "_activeDate": "2025-01-10T14:49:24.990Z",
+    "lastModified": "2025-04-22T14:12:00.432Z"
+}
