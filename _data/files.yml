@@ -2,6 +2,8 @@
   url: api/fnfest_content_api.json
 - name: track_api/24kmagic.json
   url: api/track_api/24kmagic.json
+- name: track_api/abarsong.json
+  url: api/track_api/abarsong.json
 - name: track_api/abcdefu.json
   url: api/track_api/abcdefu.json
 - name: track_api/adamssong.json
@@ -364,6 +366,8 @@
   url: api/track_api/holiday.json
 - name: track_api/hollabackgirl.json
   url: api/track_api/hollabackgirl.json
+- name: track_api/hotinherre.json
+  url: api/track_api/hotinherre.json
 - name: track_api/hottogo.json
   url: api/track_api/hottogo.json
 - name: track_api/humble.json
@@ -440,6 +444,8 @@
   url: api/track_api/lessthan.json
 - name: track_api/letyoudown.json
   url: api/track_api/letyoudown.json
+- name: track_api/liar.json
+  url: api/track_api/liar.json
 - name: track_api/lightemup.json
   url: api/track_api/lightemup.json
 - name: track_api/likeag6.json
@@ -848,6 +854,8 @@
   url: api/track_api/welcometothejungle.json
 - name: track_api/weliketoparty.json
   url: api/track_api/weliketoparty.json
+- name: track_api/whatareyouwaitingfor.json
+  url: api/track_api/whatareyouwaitingfor.json
 - name: track_api/whatdoyoumean.json
   url: api/track_api/whatdoyoumean.json
 - name: track_api/whatigot.json
