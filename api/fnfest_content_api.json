@@ -3407,7 +3407,7 @@
             "iconBass": "Bass",
             "iconDrum": "Drum",
             "iconGuitar": "Keyboard",
-            "iconVocals": "Vocals",
+            "iconVocals": "Keyboard",
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
@@ -3428,7 +3428,7 @@
             "trackIndex": "127"
         },
         "_activeDate": "2023-12-13T19:18:08.908Z",
-        "lastModified": "2024-09-18T07:13:01.100Z"
+        "lastModified": "2025-04-24T14:49:31.594Z"
     },
     "themiddle2": {
         "track": {
