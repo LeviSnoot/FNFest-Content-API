@@ -10912,6 +10912,7 @@
             "key": "Eb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 3,
@@ -10929,7 +10930,7 @@
             "trackIndex": "433"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:23:01.123Z"
+        "lastModified": "2025-04-29T17:26:59.477Z"
     },
     "alleyezonme": {
         "track": {
@@ -11409,6 +11410,7 @@
             "key": "Db",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 3,
                 "proDrums": 4,
                 "vocals": 3,
@@ -11426,7 +11428,7 @@
             "trackIndex": "399"
         },
         "_activeDate": "2024-12-12T14:30:00.000Z",
-        "lastModified": "2024-12-11T15:23:51.380Z"
+        "lastModified": "2025-04-29T17:27:58.563Z"
     },
     "getbusy": {
         "track": {
@@ -12999,6 +13001,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 5,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 5,
@@ -13016,7 +13019,7 @@
             "trackIndex": "329"
         },
         "_activeDate": "2025-02-20T14:30:00.000Z",
-        "lastModified": "2025-02-18T14:26:19.493Z"
+        "lastModified": "2025-04-29T15:56:44.435Z"
     },
     "airplanes": {
         "track": {
@@ -13523,6 +13526,7 @@
             "key": "Bb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 3,
@@ -13540,7 +13544,7 @@
             "trackIndex": "530"
         },
         "_activeDate": "2025-02-28T16:19:29.718Z",
-        "lastModified": "2025-03-18T14:19:02.575Z"
+        "lastModified": "2025-04-29T15:58:39.955Z"
     },
     "stillintoyou": {
         "track": {
@@ -13616,6 +13620,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 2,
@@ -13633,7 +13638,7 @@
             "trackIndex": "500"
         },
         "_activeDate": "2025-02-13T21:45:17.257Z",
-        "lastModified": "2025-03-25T14:14:55.181Z"
+        "lastModified": "2025-04-29T16:40:21.656Z"
     },
     "sournsweet": {
         "track": {
@@ -13801,6 +13806,7 @@
             "key": "Ab",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 5,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 3,
@@ -13818,7 +13824,7 @@
             "trackIndex": "551"
         },
         "_activeDate": "2025-04-08T08:00:00.000Z",
-        "lastModified": "2025-04-07T15:33:24.225Z"
+        "lastModified": "2025-04-29T17:36:34.600Z"
     },
     "pleasepleaseplease": {
         "track": {
@@ -13984,6 +13990,7 @@
             "key": "Eb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 3,
@@ -14001,7 +14008,7 @@
             "trackIndex": "536"
         },
         "_activeDate": "2025-04-08T08:00:00.000Z",
-        "lastModified": "2025-04-07T15:35:36.227Z"
+        "lastModified": "2025-04-29T16:42:45.714Z"
     },
     "thelastcavallard": {
         "track": {
@@ -14077,6 +14084,7 @@
             "key": "F",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 3,
@@ -14094,7 +14102,7 @@
             "trackIndex": "538"
         },
         "_activeDate": "2025-04-08T08:00:00.000Z",
-        "lastModified": "2025-04-07T15:32:21.965Z"
+        "lastModified": "2025-04-29T16:41:44.035Z"
     },
     "ushouldnotbedoingthat": {
         "track": {
@@ -14170,6 +14178,7 @@
             "key": "Db",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 3,
@@ -14187,7 +14196,7 @@
             "trackIndex": "571"
         },
         "_activeDate": "2025-04-10T14:59:00.000Z",
-        "lastModified": "2025-04-07T15:41:00.726Z"
+        "lastModified": "2025-04-29T16:00:06.942Z"
     },
     "showem": {
         "track": {
@@ -14262,6 +14271,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 0,
                 "vocals": 2,
@@ -14279,7 +14289,7 @@
             "trackIndex": "572"
         },
         "_activeDate": "2025-03-28T16:48:16.449Z",
-        "lastModified": "2025-04-15T14:54:29.963Z"
+        "lastModified": "2025-04-29T17:37:45.257Z"
     },
     "wildones2": {
         "track": {
