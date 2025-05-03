@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Lapti Nek (Jabba's Palace)",
+        "releaseYear": 1983,
+        "duration": 169,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 131,
+        "artistName": "John Williams & The London Symphony Orchestra",
+        "ageRating": "E",
+        "albumArtFilename": "msfi4huzbyehq0kq-512x512-a6290aa8845f.jpg",
+        "recordingCode": "USSM11505750",
+        "songUUID": "daa3fe5f-7fa4-4819-ac74-1f9c235d98c7",
+        "trackIndex": "555"
+    },
+    "_activeDate": "2025-05-02T06:00:00.000Z",
+    "lastModified": "2025-04-29T13:56:07.708Z"
+}

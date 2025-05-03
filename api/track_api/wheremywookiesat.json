@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Where My Wookiees At?",
+        "releaseYear": 2025,
+        "duration": 187,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 3,
+            "proDrums": 5,
+            "vocals": 4,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 150,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "fnb1rmhgckj5lng1-512x512-4598e45f7421.jpg",
+        "songUUID": "0b65324a-0912-4da2-af1b-122cf706be73",
+        "trackIndex": "578"
+    },
+    "_activeDate": "2025-05-02T06:00:00.000Z",
+    "lastModified": "2025-05-02T12:30:42.361Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Imperial March (Darth Vader's Theme)",
+        "releaseYear": 1980,
+        "duration": 183,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 4,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 5,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 102,
+        "artistName": "John Williams & The London Symphony Orchestra",
+        "ageRating": "E",
+        "albumArtFilename": "uigxjhe2s06ca64h-512x512-323d87e06e13.jpg",
+        "recordingCode": "USSM11505732",
+        "songUUID": "e6a06588-4038-4d5a-9d6c-6a645fd96906",
+        "trackIndex": "539"
+    },
+    "_activeDate": "2025-05-02T06:00:00.000Z",
+    "lastModified": "2025-04-29T13:57:25.900Z"
+}

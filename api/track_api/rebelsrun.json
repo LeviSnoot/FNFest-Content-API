@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement)",
+        "releaseYear": 2025,
+        "duration": 185,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 6,
+            "guitar": 5,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 108,
+        "artistName": "John Williams & The London Symphony Orchestra",
+        "ageRating": "E",
+        "albumArtFilename": "sv2wof2wbsxfev68-512x512-b4ec5fcb2615.jpg",
+        "songUUID": "cecbe9e8-3287-4eae-82cc-12d96cab5842",
+        "trackIndex": "576"
+    },
+    "_activeDate": "2025-05-02T06:00:00.000Z",
+    "lastModified": "2025-05-01T19:24:09.304Z"
+}
