@@ -5334,7 +5334,7 @@
     "cantinaband": {
         "track": {
             "trackTitle": "Cantina Band",
-            "releaseYear": 2017,
+            "releaseYear": 1977,
             "duration": 169,
             "iconBass": "Bass",
             "iconDrum": "Drum",
@@ -5352,15 +5352,15 @@
                 "bass": 4
             },
             "BPM": 131,
-            "artistName": "John Williams, London Symphony Orchestra",
+            "artistName": "John Williams & The London Symphony Orchestra",
             "ageRating": "E",
             "albumArtFilename": "vo7fcgauzexehay1-512x512-b33fdda364d9.jpg",
             "recordingCode": "USWD11785411",
             "songUUID": "606ede66-05d6-4ca7-a66d-25e44cc08f18",
             "trackIndex": "198"
         },
-        "_activeDate": "2024-03-28T16:52:45.485Z",
-        "lastModified": "2024-09-19T03:51:11.504Z"
+        "_activeDate": "2025-05-02T06:00:00.000Z",
+        "lastModified": "2025-04-25T14:57:16.631Z"
     },
     "beforeiforget": {
         "track": {
@@ -13172,7 +13172,7 @@
             "trackIndex": "508"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:28:21.878Z"
+        "lastModified": "2025-05-02T17:59:43.662Z"
     },
     "takanenohanakosan": {
         "track": {
@@ -13310,6 +13310,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 3,
@@ -13327,7 +13328,7 @@
             "trackIndex": "303"
         },
         "_activeDate": "2025-03-06T14:30:00.000Z",
-        "lastModified": "2025-03-04T15:42:24.843Z"
+        "lastModified": "2025-05-02T17:58:27.767Z"
     },
     "welcomehome": {
         "track": {
@@ -13495,6 +13496,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 6,
                 "proBass": 4,
                 "proDrums": 3,
                 "vocals": 3,
@@ -13512,7 +13514,7 @@
             "trackIndex": "496"
         },
         "_activeDate": "2025-01-17T15:42:30.769Z",
-        "lastModified": "2025-03-26T14:55:50.024Z"
+        "lastModified": "2025-05-02T12:34:06.752Z"
     },
     "roar": {
         "track": {
@@ -14512,5 +14514,159 @@
         },
         "_activeDate": "2025-04-08T16:32:22.275Z",
         "lastModified": "2025-04-22T14:13:54.802Z"
+    },
+    "laptinek": {
+        "track": {
+            "trackTitle": "Lapti Nek (Jabba's Palace)",
+            "releaseYear": 1983,
+            "duration": 169,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 3
+            },
+            "BPM": 131,
+            "artistName": "John Williams & The London Symphony Orchestra",
+            "ageRating": "E",
+            "albumArtFilename": "msfi4huzbyehq0kq-512x512-a6290aa8845f.jpg",
+            "recordingCode": "USSM11505750",
+            "songUUID": "daa3fe5f-7fa4-4819-ac74-1f9c235d98c7",
+            "trackIndex": "555"
+        },
+        "_activeDate": "2025-05-02T06:00:00.000Z",
+        "lastModified": "2025-04-29T13:56:07.708Z"
+    },
+    "imperialmarch": {
+        "track": {
+            "trackTitle": "The Imperial March (Darth Vader's Theme)",
+            "releaseYear": 1980,
+            "duration": 183,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 4,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 5,
+                "guitar": 4,
+                "drums": 4,
+                "bass": 4
+            },
+            "BPM": 102,
+            "artistName": "John Williams & The London Symphony Orchestra",
+            "ageRating": "E",
+            "albumArtFilename": "uigxjhe2s06ca64h-512x512-323d87e06e13.jpg",
+            "recordingCode": "USSM11505732",
+            "songUUID": "e6a06588-4038-4d5a-9d6c-6a645fd96906",
+            "trackIndex": "539"
+        },
+        "_activeDate": "2025-05-02T06:00:00.000Z",
+        "lastModified": "2025-04-29T13:57:25.900Z"
+    },
+    "wheremywookiesat": {
+        "track": {
+            "trackTitle": "Where My Wookiees At?",
+            "releaseYear": 2025,
+            "duration": 187,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Eb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 4,
+                "proBass": 3,
+                "proDrums": 5,
+                "vocals": 4,
+                "proGuitar": 6,
+                "guitar": 6,
+                "drums": 4,
+                "bass": 3
+            },
+            "BPM": 150,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "fnb1rmhgckj5lng1-512x512-4598e45f7421.jpg",
+            "songUUID": "0b65324a-0912-4da2-af1b-122cf706be73",
+            "trackIndex": "578"
+        },
+        "_activeDate": "2025-05-02T06:00:00.000Z",
+        "lastModified": "2025-05-02T12:30:42.361Z"
+    },
+    "thedarkside": {
+        "track": {
+            "trackTitle": "Chrome Dome (Fortnite Rearrangement)",
+            "releaseYear": 2025,
+            "duration": 182,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Keyboard",
+            "key": "F",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 2,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 6,
+                "guitar": 6,
+                "drums": 2,
+                "bass": 3
+            },
+            "BPM": 172,
+            "artistName": "John Williams",
+            "ageRating": "E",
+            "albumArtFilename": "q2hxjpjil8rkkklf-512x512-da16f58d1202.jpg",
+            "songUUID": "0795464d-2263-4911-8f0c-48e98b4307c1",
+            "trackIndex": "577"
+        },
+        "_activeDate": "2025-05-02T06:00:00.000Z",
+        "lastModified": "2025-05-01T19:23:05.171Z"
+    },
+    "rebelsrun": {
+        "track": {
+            "trackTitle": "Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement)",
+            "releaseYear": 2025,
+            "duration": 185,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Keyboard",
+            "key": "Bb",
+            "majorMinor": "Major",
+            "intensities": {
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 4,
+                "proGuitar": 6,
+                "guitar": 5,
+                "drums": 2,
+                "bass": 3
+            },
+            "BPM": 108,
+            "artistName": "John Williams & The London Symphony Orchestra",
+            "ageRating": "E",
+            "albumArtFilename": "sv2wof2wbsxfev68-512x512-b4ec5fcb2615.jpg",
+            "songUUID": "cecbe9e8-3287-4eae-82cc-12d96cab5842",
+            "trackIndex": "576"
+        },
+        "_activeDate": "2025-05-02T06:00:00.000Z",
+        "lastModified": "2025-05-01T19:24:09.304Z"
     }
 }

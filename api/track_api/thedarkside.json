@@ -1,0 +1,30 @@
+{
+    "track": {
+        "trackTitle": "Chrome Dome (Fortnite Rearrangement)",
+        "releaseYear": 2025,
+        "duration": 182,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 172,
+        "artistName": "John Williams",
+        "ageRating": "E",
+        "albumArtFilename": "q2hxjpjil8rkkklf-512x512-da16f58d1202.jpg",
+        "songUUID": "0795464d-2263-4911-8f0c-48e98b4307c1",
+        "trackIndex": "577"
+    },
+    "_activeDate": "2025-05-02T06:00:00.000Z",
+    "lastModified": "2025-05-01T19:23:05.171Z"
+}
