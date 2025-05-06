@@ -13155,6 +13155,7 @@
             "key": "Ab",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 3,
@@ -13172,7 +13173,7 @@
             "trackIndex": "508"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-05-02T17:59:43.662Z"
+        "lastModified": "2025-05-05T12:17:19.787Z"
     },
     "takanenohanakosan": {
         "track": {
@@ -14607,7 +14608,7 @@
             "trackIndex": "578"
         },
         "_activeDate": "2025-05-02T06:00:00.000Z",
-        "lastModified": "2025-05-02T12:30:42.361Z"
+        "lastModified": "2025-05-05T13:17:05.977Z"
     },
     "thedarkside": {
         "track": {
