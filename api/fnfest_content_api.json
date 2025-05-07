@@ -11379,6 +11379,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 5,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 2,
@@ -11396,7 +11397,7 @@
             "trackIndex": "449"
         },
         "_activeDate": "2024-12-12T14:30:00.857Z",
-        "lastModified": "2024-12-10T18:17:29.856Z"
+        "lastModified": "2025-05-06T17:06:17.321Z"
     },
     "dancingintheflames": {
         "track": {
@@ -12501,6 +12502,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 4,
@@ -12518,7 +12520,7 @@
             "trackIndex": "487"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T18:47:10.583Z"
+        "lastModified": "2025-05-06T17:24:45.173Z"
     },
     "godzilla": {
         "track": {
@@ -12720,6 +12722,7 @@
             "key": "Eb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 3,
                 "proDrums": 2,
                 "vocals": 4,
@@ -12737,7 +12740,7 @@
             "trackIndex": "493"
         },
         "_activeDate": "2025-01-30T14:30:00.000Z",
-        "lastModified": "2025-01-28T20:50:15.712Z"
+        "lastModified": "2025-05-06T17:23:22.192Z"
     },
     "partylikearockstar": {
         "track": {
@@ -14669,5 +14672,69 @@
         },
         "_activeDate": "2025-05-02T06:00:00.000Z",
         "lastModified": "2025-05-01T19:24:09.304Z"
+    },
+    "freebird": {
+        "track": {
+            "trackTitle": "Free Bird",
+            "releaseYear": 1973,
+            "duration": 588,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 2,
+                "proBass": 6,
+                "proDrums": 4,
+                "vocals": 1,
+                "proGuitar": 6,
+                "guitar": 6,
+                "drums": 5,
+                "bass": 6
+            },
+            "BPM": 146,
+            "artistName": "Lynyrd Skynyrd",
+            "ageRating": "E",
+            "albumArtFilename": "xgcasfsptvqxwdua-512x512-9370540495c5.jpg",
+            "recordingCode": "USMC17301722",
+            "songUUID": "cd971cdd-f5e2-4f06-b3ee-30dae7e5b9b1",
+            "trackIndex": "585"
+        },
+        "_activeDate": "2025-05-06T14:30:00.000Z",
+        "lastModified": "2025-05-06T13:34:54.267Z"
+    },
+    "goodluckbabe": {
+        "track": {
+            "trackTitle": "Good Luck, Babe!",
+            "releaseYear": 2024,
+            "duration": 218,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 5,
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 117,
+            "artistName": "Chappell Roan",
+            "ageRating": "T",
+            "albumArtFilename": "shcsdrdcjl6vhj82-512x512-310b439b0f12.jpg",
+            "recordingCode": " USUG12401967",
+            "songUUID": "250cd4b0-299a-4fe1-9383-a96615f1f62c",
+            "trackIndex": "534"
+        },
+        "_activeDate": "2025-05-06T14:30:00.000Z",
+        "lastModified": "2025-05-06T13:36:45.280Z"
     }
 }

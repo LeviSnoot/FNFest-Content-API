@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Good Luck, Babe!",
+        "releaseYear": 2024,
+        "duration": 218,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 5,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 117,
+        "artistName": "Chappell Roan",
+        "ageRating": "T",
+        "albumArtFilename": "shcsdrdcjl6vhj82-512x512-310b439b0f12.jpg",
+        "recordingCode": " USUG12401967",
+        "songUUID": "250cd4b0-299a-4fe1-9383-a96615f1f62c",
+        "trackIndex": "534"
+    },
+    "_activeDate": "2025-05-06T14:30:00.000Z",
+    "lastModified": "2025-05-06T13:36:45.280Z"
+}
