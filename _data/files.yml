@@ -304,6 +304,8 @@
   url: api/track_api/forthenight.json
 - name: track_api/forwhomthebelltolls.json
   url: api/track_api/forwhomthebelltolls.json
+- name: track_api/freebird.json
+  url: api/track_api/freebird.json
 - name: track_api/fridayiminlove.json
   url: api/track_api/fridayiminlove.json
 - name: track_api/ftcu.json
@@ -332,6 +334,8 @@
   url: api/track_api/godzilla.json
 - name: track_api/good4u.json
   url: api/track_api/good4u.json
+- name: track_api/goodluckbabe.json
+  url: api/track_api/goodluckbabe.json
 - name: track_api/gowiththeflow.json
   url: api/track_api/gowiththeflow.json
 - name: track_api/gwenpoolsmultiverse.json
