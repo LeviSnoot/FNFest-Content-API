@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Free Bird",
+        "releaseYear": 1973,
+        "duration": 588,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 6,
+            "proDrums": 4,
+            "vocals": 1,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 5,
+            "bass": 6
+        },
+        "BPM": 146,
+        "artistName": "Lynyrd Skynyrd",
+        "ageRating": "E",
+        "albumArtFilename": "xgcasfsptvqxwdua-512x512-9370540495c5.jpg",
+        "recordingCode": "USMC17301722",
+        "songUUID": "cd971cdd-f5e2-4f06-b3ee-30dae7e5b9b1",
+        "trackIndex": "585"
+    },
+    "_activeDate": "2025-05-06T14:30:00.000Z",
+    "lastModified": "2025-05-06T13:34:54.267Z"
+}
