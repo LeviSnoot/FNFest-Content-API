@@ -398,6 +398,8 @@
   url: api/track_api/infernoisland.json
 - name: track_api/infernoisland2.json
   url: api/track_api/infernoisland2.json
+- name: track_api/infinitehyperemix.json
+  url: api/track_api/infinitehyperemix.json
 - name: track_api/inhamood.json
   url: api/track_api/inhamood.json
 - name: track_api/insaneinthebrain.json
