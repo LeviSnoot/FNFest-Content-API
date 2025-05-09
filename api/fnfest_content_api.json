@@ -14736,5 +14736,36 @@
         },
         "_activeDate": "2025-05-06T14:30:00.000Z",
         "lastModified": "2025-05-06T13:36:45.280Z"
+    },
+    "infinitehyperemix": {
+        "track": {
+            "trackTitle": "Infinite Hype (DJ Skee Remix)",
+            "releaseYear": 2025,
+            "duration": 175,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 1,
+                "proDrums": 4,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 5,
+                "bass": 1
+            },
+            "BPM": 150,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "o5nrui1tf1vhaqqx-512x512-7c73e2e5ef79.jpg",
+            "songUUID": "e0796c34-be03-404d-a900-25c4143098ac",
+            "trackIndex": "583"
+        },
+        "_activeDate": "2025-05-08T23:58:00.000Z",
+        "lastModified": "2025-05-06T13:40:14.948Z"
     }
 }
