@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 56,
+        "trackTitle": "redrum",
+        "releaseYear": 2024,
+        "duration": 273,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 1,
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 86,
+        "artistName": "21 Savage",
+        "ageRating": "T",
+        "albumArtFilename": "rtaztdwyevh2l7vo-512x512-bb130a3445a5.jpg",
+        "recordingCode": "USSM12309186",
+        "songUUID": "31754b67-6184-4505-abdb-b0dc1b9357e6",
+        "trackIndex": "588"
+    },
+    "_activeDate": "2025-05-13T14:30:00.000Z",
+    "lastModified": "2025-05-13T14:13:56.120Z"
+}

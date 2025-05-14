@@ -12817,6 +12817,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 3,
                 "proDrums": 4,
                 "vocals": 4,
@@ -12834,7 +12835,7 @@
             "trackIndex": "494"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:07:00.686Z"
+        "lastModified": "2025-05-09T17:49:19.795Z"
     },
     "racingintothenight": {
         "track": {
@@ -14767,5 +14768,102 @@
         },
         "_activeDate": "2025-05-08T23:58:00.000Z",
         "lastModified": "2025-05-06T13:40:14.948Z"
+    },
+    "dreamon": {
+        "track": {
+            "trackTitle": "Dream On",
+            "releaseYear": 1973,
+            "duration": 268,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "F",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 6,
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 1,
+                "bass": 1
+            },
+            "BPM": 80,
+            "artistName": "Aerosmith",
+            "ageRating": "E",
+            "albumArtFilename": "rxebpxkhwoeut9ef-512x512-a1b6c34786f1.jpg",
+            "recordingCode": "USSM19700514",
+            "songUUID": "9b468bdf-3379-4297-b1f3-41d337593ef9",
+            "trackIndex": "587"
+        },
+        "_activeDate": "2025-05-13T14:30:00.000Z",
+        "lastModified": "2025-05-13T14:10:58.619Z"
+    },
+    "makeyoumine": {
+        "track": {
+            "trackTitle": "Make You Mine",
+            "releaseYear": 2024,
+            "duration": 225,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 123,
+            "artistName": "Madison Beer",
+            "ageRating": "E",
+            "albumArtFilename": "svkoqkbwgs6nedkh-512x512-576cd3caa30f.jpg",
+            "recordingCode": "USSM12400758",
+            "songUUID": "9339bc5c-4d0e-4f90-a83f-dc22737fc580",
+            "trackIndex": "598"
+        },
+        "_activeDate": "2025-05-13T14:30:00.000Z",
+        "lastModified": "2025-05-13T14:12:33.284Z"
+    },
+    "redrum": {
+        "track": {
+            "mmo": 56,
+            "trackTitle": "redrum",
+            "releaseYear": 2024,
+            "duration": 273,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 1,
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 0
+            },
+            "BPM": 86,
+            "artistName": "21 Savage",
+            "ageRating": "T",
+            "albumArtFilename": "rtaztdwyevh2l7vo-512x512-bb130a3445a5.jpg",
+            "recordingCode": "USSM12309186",
+            "songUUID": "31754b67-6184-4505-abdb-b0dc1b9357e6",
+            "trackIndex": "588"
+        },
+        "_activeDate": "2025-05-13T14:30:00.000Z",
+        "lastModified": "2025-05-13T14:13:56.120Z"
     }
 }
