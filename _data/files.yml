@@ -240,6 +240,8 @@
   url: api/track_api/dragula.json
 - name: track_api/dreamer.json
   url: api/track_api/dreamer.json
+- name: track_api/dreamon.json
+  url: api/track_api/dreamon.json
 - name: track_api/dropitlikeitshot.json
   url: api/track_api/dropitlikeitshot.json
 - name: track_api/dynamite.json
@@ -486,6 +488,8 @@
   url: api/track_api/makedamnsure.json
 - name: track_api/makeitknown.json
   url: api/track_api/makeitknown.json
+- name: track_api/makeyoumine.json
+  url: api/track_api/makeyoumine.json
 - name: track_api/mambonofive.json
   url: api/track_api/mambonofive.json
 - name: track_api/maps.json
@@ -610,6 +614,8 @@
   url: api/track_api/rainonme.json
 - name: track_api/rebelsrun.json
   url: api/track_api/rebelsrun.json
+- name: track_api/redrum.json
+  url: api/track_api/redrum.json
 - name: track_api/regulate.json
   url: api/track_api/regulate.json
 - name: track_api/replay.json
