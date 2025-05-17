@@ -12754,6 +12754,7 @@
             "key": "Gb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 3,
@@ -12771,7 +12772,7 @@
             "trackIndex": "490"
         },
         "_activeDate": "2025-01-30T14:30:00.000Z",
-        "lastModified": "2025-01-28T20:51:31.353Z"
+        "lastModified": "2025-05-16T15:41:54.361Z"
     },
     "closer2": {
         "track": {
