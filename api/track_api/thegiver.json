@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Giver",
+        "releaseYear": 2025,
+        "duration": 203,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 5,
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 93,
+        "artistName": "Chappell Roan",
+        "ageRating": "T",
+        "albumArtFilename": "rqvbpljcvu8hlu0k-512x512-28b7148b9a57.jpg",
+        "songUUID": "eded121a-9091-4bf7-a20d-58b44e52ad1a",
+        "trackIndex": "535"
+    },
+    "_activeDate": "2025-05-20T14:30:00.000Z",
+    "lastModified": "2025-05-20T13:52:16.897Z"
+}
