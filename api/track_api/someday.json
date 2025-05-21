@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 13,
+        "trackTitle": "Someday",
+        "releaseYear": 2001,
+        "duration": 189,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 106,
+        "artistName": "The Strokes",
+        "ageRating": "T",
+        "albumArtFilename": "jt6ztqdnlinzhshi-512x512-010e9a819e5f.jpg",
+        "recordingCode": "USRC10100769",
+        "songUUID": "77946d4d-ee20-4bfc-aa04-40b14218d2ce",
+        "trackIndex": "589"
+    },
+    "_activeDate": "2025-05-20T14:30:00.000Z",
+    "lastModified": "2025-05-20T18:05:39.865Z"
+}
