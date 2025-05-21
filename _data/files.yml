@@ -696,6 +696,8 @@
   url: api/track_api/somebodythatiusedtoknow.json
 - name: track_api/somebodytoldme.json
   url: api/track_api/somebodytoldme.json
+- name: track_api/someday.json
+  url: api/track_api/someday.json
 - name: track_api/somp.json
   url: api/track_api/somp.json
 - name: track_api/song2.json
@@ -782,6 +784,8 @@
   url: api/track_api/thefinalcountdown.json
 - name: track_api/thefutureme.json
   url: api/track_api/thefutureme.json
+- name: track_api/thegiver.json
+  url: api/track_api/thegiver.json
 - name: track_api/thehandthatfeeds.json
   url: api/track_api/thehandthatfeeds.json
 - name: track_api/thehills.json
