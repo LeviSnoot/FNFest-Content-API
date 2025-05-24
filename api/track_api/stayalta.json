@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Stay Alta",
+        "releaseYear": 2025,
+        "duration": 293,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 133,
+        "artistName": "Estelle ft. Channel Tres",
+        "ageRating": "E",
+        "albumArtFilename": "jo6ikwrc2yljtzbq-512x512-a0571006367e.jpg",
+        "songUUID": "4bfaff7c-7996-455d-ad9e-ead2cf54bf80",
+        "trackIndex": "580"
+    },
+    "_activeDate": "2025-05-23T23:58:00.000Z",
+    "lastModified": "2025-05-20T13:46:34.567Z"
+}
