@@ -16,6 +16,8 @@
   url: api/track_api/aintnorestforthewicked.json
 - name: track_api/airplanes.json
   url: api/track_api/airplanes.json
+- name: track_api/alienboy.json
+  url: api/track_api/alienboy.json
 - name: track_api/alleyezonme.json
   url: api/track_api/alleyezonme.json
 - name: track_api/allidoiswin.json
@@ -716,6 +718,8 @@
   url: api/track_api/stargazing.json
 - name: track_api/starships.json
   url: api/track_api/starships.json
+- name: track_api/stayalta.json
+  url: api/track_api/stayalta.json
 - name: track_api/stickseason.json
   url: api/track_api/stickseason.json
 - name: track_api/stillintoyou.json
