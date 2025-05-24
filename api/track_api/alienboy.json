@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Alien Boy",
+        "releaseYear": 2018,
+        "duration": 168,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 130,
+        "artistName": "Oliver Tree",
+        "ageRating": "E",
+        "albumArtFilename": "qjvymiyewdiz6dtu-512x512-40f264de14f7.jpg",
+        "songUUID": "7f6e888c-8eb5-45ee-97c0-d03d787505e0",
+        "trackIndex": "591",
+        "thumbFilename": "gs3ruivbri5fzrkl-128x128-da4ad6095367.jpg"
+    },
+    "_activeDate": "2025-05-23T12:58:00.000Z",
+    "lastModified": "2025-05-20T13:54:55.393Z"
+}
