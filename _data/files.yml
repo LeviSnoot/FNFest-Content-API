@@ -74,6 +74,8 @@
   url: api/track_api/beautifulthings.json
 - name: track_api/beautyandabeat.json
   url: api/track_api/beautyandabeat.json
+- name: track_api/bedchem.json
+  url: api/track_api/bedchem.json
 - name: track_api/beforeiforget.json
   url: api/track_api/beforeiforget.json
 - name: track_api/beggin.json
@@ -466,6 +468,8 @@
   url: api/track_api/likeag6.json
 - name: track_api/limitlessmurdabeatz.json
   url: api/track_api/limitlessmurdabeatz.json
+- name: track_api/livinlavidaloca.json
+  url: api/track_api/livinlavidaloca.json
 - name: track_api/lonelyboy.json
   url: api/track_api/lonelyboy.json
 - name: track_api/lordofthewasteland.json
