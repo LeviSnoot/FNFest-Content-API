@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 45,
+        "trackTitle": "Bed Chem",
+        "releaseYear": 2024,
+        "duration": 172,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 4,
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 95,
+        "artistName": "Sabrina Carpenter",
+        "ageRating": "T",
+        "albumArtFilename": "fuxzrsfzbvp2xmj4-512x512-28771507f37d.jpg",
+        "recordingCode": "USUM72319094",
+        "songUUID": "5fc9b1f2-5c59-4f69-9bd3-56dd218813d3",
+        "trackIndex": "547"
+    },
+    "_activeDate": "2025-05-27T14:30:00.000Z",
+    "lastModified": "2025-05-27T13:23:11.589Z"
+}

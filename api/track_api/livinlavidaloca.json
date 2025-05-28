@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Livin' La Vida Loca",
+        "releaseYear": 1999,
+        "duration": 244,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 178,
+        "artistName": "Ricky Martin",
+        "ageRating": "T",
+        "albumArtFilename": "lthzs4beja1bzqig-512x512-635efd989070.jpg",
+        "recordingCode": " NLB639920005",
+        "songUUID": "65843ccd-5f58-4dfc-b97d-0a047ab93d80",
+        "trackIndex": "505"
+    },
+    "_activeDate": "2025-05-27T14:30:00.000Z",
+    "lastModified": "2025-05-27T13:24:17.932Z"
+}
