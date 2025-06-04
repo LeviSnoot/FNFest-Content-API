@@ -8,6 +8,8 @@
   url: api/track_api/abcdefu.json
 - name: track_api/adamssong.json
   url: api/track_api/adamssong.json
+- name: track_api/afraid.json
+  url: api/track_api/afraid.json
 - name: track_api/africa.json
   url: api/track_api/africa.json
 - name: track_api/aintitfun.json
@@ -696,6 +698,8 @@
   url: api/track_api/sizzlinsunshine.json
 - name: track_api/skysurfer.json
   url: api/track_api/skysurfer.json
+- name: track_api/smellsliketeenspirit.json
+  url: api/track_api/smellsliketeenspirit.json
 - name: track_api/snow.json
   url: api/track_api/snow.json
 - name: track_api/somebodythatiusedtoknow.json
@@ -744,6 +748,8 @@
   url: api/track_api/suddenlyisee.json
 - name: track_api/sugarweregoindown.json
   url: api/track_api/sugarweregoindown.json
+- name: track_api/sunflower.json
+  url: api/track_api/sunflower.json
 - name: track_api/superbass.json
   url: api/track_api/superbass.json
 - name: track_api/superfreak.json
