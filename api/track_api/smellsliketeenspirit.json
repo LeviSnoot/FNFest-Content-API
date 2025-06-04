@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 70,
+        "trackTitle": "Smells Like Teen Spirit",
+        "releaseYear": 1991,
+        "duration": 306,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 117,
+        "artistName": "Nirvana",
+        "ageRating": "T",
+        "albumArtFilename": "82hv86hyttjrv9zj-512x512-e930998929f4.jpg",
+        "recordingCode": "USUM71814888",
+        "songUUID": "f4852a58-516a-4b13-812a-51b0445bc403",
+        "trackIndex": "595"
+    },
+    "_activeDate": "2025-05-02T18:05:05.449Z",
+    "lastModified": "2025-06-03T14:09:08.899Z"
+}
