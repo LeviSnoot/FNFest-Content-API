@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "afraid",
+        "releaseYear": 2025,
+        "duration": 184,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 4,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 5,
+            "guitar": 5,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 153,
+        "artistName": "2hollis ft. Nate Sib",
+        "ageRating": "E",
+        "albumArtFilename": "ymgq0s1i0soqpjpf-512x512-a05c70677254.jpg",
+        "recordingCode": "USUG12500830",
+        "songUUID": "4e7edf46-8b03-4fb3-86ec-7083d055b267",
+        "trackIndex": "590"
+    },
+    "_activeDate": "2025-05-02T16:29:12.316Z",
+    "lastModified": "2025-06-03T16:04:23.672Z"
+}

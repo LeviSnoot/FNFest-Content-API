@@ -8198,6 +8198,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 2,
@@ -8215,7 +8216,7 @@
             "trackIndex": "279"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:25:16.350Z"
+        "lastModified": "2025-06-03T16:53:03.844Z"
     },
     "waytoofast": {
         "track": {
@@ -14374,6 +14375,7 @@
             "key": "Gb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 4,
@@ -14391,7 +14393,7 @@
             "trackIndex": "563"
         },
         "_activeDate": "2025-04-15T15:01:00.000Z",
-        "lastModified": "2025-04-15T14:52:59.365Z"
+        "lastModified": "2025-06-03T14:07:58.637Z"
     },
     "abarsong": {
         "track": {
@@ -15059,5 +15061,102 @@
         },
         "_activeDate": "2025-05-27T14:30:00.000Z",
         "lastModified": "2025-05-27T13:24:17.932Z"
+    },
+    "afraid": {
+        "track": {
+            "trackTitle": "afraid",
+            "releaseYear": 2025,
+            "duration": 184,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 4,
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 5,
+                "guitar": 5,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 153,
+            "artistName": "2hollis ft. Nate Sib",
+            "ageRating": "E",
+            "albumArtFilename": "ymgq0s1i0soqpjpf-512x512-a05c70677254.jpg",
+            "recordingCode": "USUG12500830",
+            "songUUID": "4e7edf46-8b03-4fb3-86ec-7083d055b267",
+            "trackIndex": "590"
+        },
+        "_activeDate": "2025-05-02T16:29:12.316Z",
+        "lastModified": "2025-06-03T16:04:23.672Z"
+    },
+    "smellsliketeenspirit": {
+        "track": {
+            "mmo": 70,
+            "trackTitle": "Smells Like Teen Spirit",
+            "releaseYear": 1991,
+            "duration": 306,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "F",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 2,
+                "proBass": 2,
+                "proDrums": 3,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 117,
+            "artistName": "Nirvana",
+            "ageRating": "T",
+            "albumArtFilename": "82hv86hyttjrv9zj-512x512-e930998929f4.jpg",
+            "recordingCode": "USUM71814888",
+            "songUUID": "f4852a58-516a-4b13-812a-51b0445bc403",
+            "trackIndex": "595"
+        },
+        "_activeDate": "2025-05-02T18:05:05.449Z",
+        "lastModified": "2025-06-03T14:09:08.899Z"
+    },
+    "sunflower": {
+        "track": {
+            "trackTitle": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "releaseYear": 2018,
+            "duration": 159,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 3,
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 90,
+            "artistName": "Post Malone w/ Swae Lee",
+            "ageRating": "E",
+            "albumArtFilename": "c4u30ugitxvun3js-500x500-1c22bc97b0f6.png",
+            "recordingCode": "USGF19942501",
+            "songUUID": "f8d56b97-3cd7-41d8-831d-0259bc76139a",
+            "trackIndex": "594"
+        },
+        "_activeDate": "2025-05-16T16:40:53.627Z",
+        "lastModified": "2025-06-03T15:48:50.537Z"
     }
 }
