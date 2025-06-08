@@ -1,0 +1,22 @@
+{
+    "track": {
+        "trackTitle": "When I Let the Music Play",
+        "releaseYear": 2025,
+        "duration": 181,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {},
+        "BPM": 128,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "r680kk2nvui5gcay-512x512-0557c4c6de6f.jpg",
+        "songUUID": "26483eb3-3941-4aa4-ba23-837b15b4a0d0",
+        "trackIndex": "610"
+    },
+    "_activeDate": "2025-06-07T18:30:00.000Z",
+    "lastModified": "2025-06-04T16:52:32.087Z"
+}

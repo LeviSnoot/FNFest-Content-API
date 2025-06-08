@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Make the Crowd Roar",
+        "releaseYear": 2025,
+        "duration": 170,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 4,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 146,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "8id6ydnuv1jn868e-512x512-d41b8c7e73d3.jpg",
+        "songUUID": "5a558d22-ad46-437d-8ab0-1649830101a0",
+        "trackIndex": "608"
+    },
+    "_activeDate": "2025-06-07T18:30:00.000Z",
+    "lastModified": "2025-06-04T16:45:13.350Z"
+}
