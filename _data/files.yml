@@ -460,6 +460,8 @@
   url: api/track_api/leanwitme.json
 - name: track_api/lessthan.json
   url: api/track_api/lessthan.json
+- name: track_api/letthemusicplay.json
+  url: api/track_api/letthemusicplay.json
 - name: track_api/letyoudown.json
   url: api/track_api/letyoudown.json
 - name: track_api/liar.json
@@ -496,6 +498,8 @@
   url: api/track_api/makedamnsure.json
 - name: track_api/makeitknown.json
   url: api/track_api/makeitknown.json
+- name: track_api/makethecrowdroar.json
+  url: api/track_api/makethecrowdroar.json
 - name: track_api/makeyoumine.json
   url: api/track_api/makeyoumine.json
 - name: track_api/mambonofive.json
@@ -524,6 +528,8 @@
   url: api/track_api/montero.json
 - name: track_api/mood.json
   url: api/track_api/mood.json
+- name: track_api/movelikethemist.json
+  url: api/track_api/movelikethemist.json
 - name: track_api/moveslikejagger.json
   url: api/track_api/moveslikejagger.json
 - name: track_api/mrbrightside.json
