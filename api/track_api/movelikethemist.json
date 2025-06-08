@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Move Like the Mist",
+        "releaseYear": 2025,
+        "duration": 197,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "F",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 124,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "4kwz0ybwezwov2sd-512x512-86dbe63be42a.jpg",
+        "songUUID": "75f8b93e-db51-48dd-afdb-5a143dd4075c",
+        "trackIndex": "609"
+    },
+    "_activeDate": "2025-06-07T18:30:00.000Z",
+    "lastModified": "2025-06-04T16:51:47.169Z"
+}

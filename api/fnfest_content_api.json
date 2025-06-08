@@ -15158,5 +15158,89 @@
         },
         "_activeDate": "2025-05-16T16:40:53.627Z",
         "lastModified": "2025-06-03T15:48:50.537Z"
+    },
+    "makethecrowdroar": {
+        "track": {
+            "trackTitle": "Make the Crowd Roar",
+            "releaseYear": 2025,
+            "duration": 170,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 4,
+                "proBass": 4,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 4,
+                "drums": 4,
+                "bass": 4
+            },
+            "BPM": 146,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "8id6ydnuv1jn868e-512x512-d41b8c7e73d3.jpg",
+            "songUUID": "5a558d22-ad46-437d-8ab0-1649830101a0",
+            "trackIndex": "608"
+        },
+        "_activeDate": "2025-06-07T18:30:00.000Z",
+        "lastModified": "2025-06-04T16:45:13.350Z"
+    },
+    "movelikethemist": {
+        "track": {
+            "trackTitle": "Move Like the Mist",
+            "releaseYear": 2025,
+            "duration": 197,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "F",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 2,
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 124,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "4kwz0ybwezwov2sd-512x512-86dbe63be42a.jpg",
+            "songUUID": "75f8b93e-db51-48dd-afdb-5a143dd4075c",
+            "trackIndex": "609"
+        },
+        "_activeDate": "2025-06-07T18:30:00.000Z",
+        "lastModified": "2025-06-04T16:51:47.169Z"
+    },
+    "letthemusicplay": {
+        "track": {
+            "trackTitle": "When I Let the Music Play",
+            "releaseYear": 2025,
+            "duration": 181,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Major",
+            "intensities": {},
+            "BPM": 128,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "r680kk2nvui5gcay-512x512-0557c4c6de6f.jpg",
+            "songUUID": "26483eb3-3941-4aa4-ba23-837b15b4a0d0",
+            "trackIndex": "610"
+        },
+        "_activeDate": "2025-06-07T18:30:00.000Z",
+        "lastModified": "2025-06-04T16:52:32.087Z"
     }
 }
