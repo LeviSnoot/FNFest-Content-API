@@ -15232,7 +15232,16 @@
             "iconVocals": "Vocals",
             "key": "Ab",
             "majorMinor": "Major",
-            "intensities": {},
+            "intensities": {
+                "bd": 2,
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 2
+            },
             "BPM": 128,
             "artistName": "Epic Games",
             "ageRating": "E",
@@ -15241,6 +15250,6 @@
             "trackIndex": "610"
         },
         "_activeDate": "2025-06-07T18:30:00.000Z",
-        "lastModified": "2025-06-04T16:52:32.087Z"
+        "lastModified": "2025-06-09T14:47:08.879Z"
     }
 }
