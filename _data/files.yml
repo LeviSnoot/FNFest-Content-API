@@ -494,6 +494,8 @@
   url: api/track_api/magentaride.json
 - name: track_api/magicalcureloveshot.json
   url: api/track_api/magicalcureloveshot.json
+- name: track_api/magnetic.json
+  url: api/track_api/magnetic.json
 - name: track_api/makedamnsure.json
   url: api/track_api/makedamnsure.json
 - name: track_api/makeitknown.json
@@ -554,6 +556,8 @@
   url: api/track_api/nightmareschoice.json
 - name: track_api/nightrosessong.json
   url: api/track_api/nightrosessong.json
+- name: track_api/nodoubt.json
+  url: api/track_api/nodoubt.json
 - name: track_api/nonsense.json
   url: api/track_api/nonsense.json
 - name: track_api/noscrubs.json
@@ -680,6 +684,8 @@
   url: api/track_api/seekanddestroy.json
 - name: track_api/september.json
   url: api/track_api/september.json
+- name: track_api/seven.json
+  url: api/track_api/seven.json
 - name: track_api/sevennationarmy.json
   url: api/track_api/sevennationarmy.json
 - name: track_api/sexyandiknowit.json
@@ -920,6 +926,8 @@
   url: api/track_api/whereverimayroam.json
 - name: track_api/whineup.json
   url: api/track_api/whineup.json
+- name: track_api/who.json
+  url: api/track_api/who.json
 - name: track_api/wholetthedogsout.json
   url: api/track_api/wholetthedogsout.json
 - name: track_api/wildones.json
