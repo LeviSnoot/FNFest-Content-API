@@ -16,6 +16,9 @@ fetch_and_reformat_local.py
 api/track_api_test/
 api/fnfest_content_api_test.json
 
+# Ignore Jekyll build
+_site/
+
 # Ignore system files
 .DS_Store
 Thumbs.db

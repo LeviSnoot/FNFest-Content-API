@@ -32,8 +32,8 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add _data/files.yml
-        git commit -m 'Update files.yml' || echo "No changes to commit"
+        git add _data/files.yml _data/tracks.yml
+        git commit -m 'Update generated files' || echo "No changes to commit"
         git push || echo "Nothing to push"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
       run: bundle _2.5.21_ install
 
     - name: Build Jekyll site
-      run: bundle exec jekyll build
+      run: JEKYLL_ENV=production bundle exec jekyll build
 
     - name: Remove unwanted files from _site
       run: |
@@ -63,6 +63,9 @@ jobs:
 
     - name: List working directory
       run: ls -la
+    
+    - name: Verify Jekyll build
+      run: bundle exec jekyll doctor
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4

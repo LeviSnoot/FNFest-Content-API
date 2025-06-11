@@ -6,7 +6,7 @@
 A more human-readable version of Epic's public content API for Fortnite Festival.
 You can grab [`fnfest_content_api.json`](https://levisnoot.github.io/FNFest-Content-API/api/fnfest_content_api.json) if you want everything in one place. Otherwise you can fetch the individual songs by their track ID. For example [`track_api/butterbarnhoedown.json`](https://levisnoot.github.io/FNFest-Content-API/api/track_api/butterbarnhoedown.json).
 
-An API index can be found at the root of the API: https://levisnoot.github.io/FNFest-Content-API/
+A browsable frontend, with filtering, sorting, preview and download capabilities can be found at the root of the API: https://levisnoot.github.io/FNFest-Content-API/
 
 ## Disclaimer
 
