@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Magnetic",
+        "releaseYear": 2024,
+        "duration": 163,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 5,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 131,
+        "artistName": "ILLIT ",
+        "ageRating": "E",
+        "albumArtFilename": "sbcmkion9npztfqj-512x512-b845d4d5f719.jpg",
+        "recordingCode": "USA2P2413259",
+        "songUUID": "dbb314a2-78fd-4d63-bcdb-8adfdd09274e",
+        "trackIndex": "582"
+    },
+    "_activeDate": "2025-06-10T14:30:00.000Z",
+    "lastModified": "2025-06-10T13:55:08.937Z"
+}

@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "No Doubt",
+        "releaseYear": 2024,
+        "duration": 168,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 130,
+        "artistName": "ENHYPEN",
+        "ageRating": "T",
+        "albumArtFilename": "sycvuuuxmro8iady-512x512-ed56c65780d1.jpg",
+        "recordingCode": "USA2P2464138",
+        "songUUID": "81688922-3044-435e-afe0-8ac2ce6af6e2",
+        "trackIndex": "564"
+    },
+    "_activeDate": "2025-06-10T14:30:00.000Z",
+    "lastModified": "2025-06-10T13:56:15.162Z"
+}

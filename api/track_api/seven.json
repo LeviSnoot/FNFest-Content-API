@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Seven",
+        "releaseYear": 2023,
+        "duration": 186,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 4,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 125,
+        "artistName": "Jung Kook, Latto",
+        "ageRating": "T",
+        "albumArtFilename": "wy4ofuei6tji3y7a-512x512-60dfe1efc508.jpg",
+        "recordingCode": "USA2P2330092",
+        "songUUID": "04e4cbf2-c55f-419f-9297-c15b35df80e3",
+        "trackIndex": "579"
+    },
+    "_activeDate": "2025-06-10T14:30:00.000Z",
+    "lastModified": "2025-06-10T13:57:54.473Z"
+}
