@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Who",
+        "releaseYear": 2024,
+        "duration": 173,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 1,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 116,
+        "artistName": "Jimin",
+        "ageRating": "E",
+        "albumArtFilename": "i97j7bm13eti3pvp-512x512-40fb0bc0860b.jpg",
+        "recordingCode": "USA2P2431062",
+        "songUUID": "4f87e3b6-a42d-4e4d-87d7-cbe61162b17d",
+        "trackIndex": "593"
+    },
+    "_activeDate": "2025-06-10T14:30:00.000Z",
+    "lastModified": "2025-06-10T18:34:41.202Z"
+}

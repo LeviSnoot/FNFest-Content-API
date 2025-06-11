@@ -10536,6 +10536,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 4,
@@ -10553,7 +10554,7 @@
             "trackIndex": "415"
         },
         "_activeDate": "2024-11-07T14:30:00.000Z",
-        "lastModified": "2024-11-04T16:48:53.027Z"
+        "lastModified": "2025-06-10T16:23:15.871Z"
     },
     "rightround": {
         "track": {
@@ -10629,6 +10630,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 4,
@@ -10646,7 +10648,7 @@
             "trackIndex": "424"
         },
         "_activeDate": "2024-11-14T14:30:00.000Z",
-        "lastModified": "2024-11-13T19:48:07.641Z"
+        "lastModified": "2025-06-10T17:59:35.593Z"
     },
     "leanback": {
         "track": {
@@ -11009,6 +11011,7 @@
             "key": "G",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 5,
                 "proBass": 2,
                 "proDrums": 0,
                 "vocals": 3,
@@ -11026,7 +11029,7 @@
             "trackIndex": "283"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:45:38.564Z"
+        "lastModified": "2025-06-10T17:50:20.383Z"
     },
     "emptyoutyourpockets": {
         "track": {
@@ -12630,6 +12633,7 @@
             "key": "Ab",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 5,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 5,
@@ -12647,7 +12651,7 @@
             "trackIndex": "488"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:06:17.807Z"
+        "lastModified": "2025-06-10T18:00:39.012Z"
     },
     "somebodythatiusedtoknow": {
         "track": {
@@ -15251,5 +15255,133 @@
         },
         "_activeDate": "2025-06-07T18:30:00.000Z",
         "lastModified": "2025-06-09T14:47:08.879Z"
+    },
+    "magnetic": {
+        "track": {
+            "trackTitle": "Magnetic",
+            "releaseYear": 2024,
+            "duration": 163,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 5,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 131,
+            "artistName": "ILLIT ",
+            "ageRating": "E",
+            "albumArtFilename": "sbcmkion9npztfqj-512x512-b845d4d5f719.jpg",
+            "recordingCode": "USA2P2413259",
+            "songUUID": "dbb314a2-78fd-4d63-bcdb-8adfdd09274e",
+            "trackIndex": "582"
+        },
+        "_activeDate": "2025-06-10T14:30:00.000Z",
+        "lastModified": "2025-06-10T13:55:08.937Z"
+    },
+    "nodoubt": {
+        "track": {
+            "trackTitle": "No Doubt",
+            "releaseYear": 2024,
+            "duration": 168,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 4,
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 130,
+            "artistName": "ENHYPEN",
+            "ageRating": "T",
+            "albumArtFilename": "sycvuuuxmro8iady-512x512-ed56c65780d1.jpg",
+            "recordingCode": "USA2P2464138",
+            "songUUID": "81688922-3044-435e-afe0-8ac2ce6af6e2",
+            "trackIndex": "564"
+        },
+        "_activeDate": "2025-06-10T14:30:00.000Z",
+        "lastModified": "2025-06-10T13:56:15.162Z"
+    },
+    "seven": {
+        "track": {
+            "trackTitle": "Seven",
+            "releaseYear": 2023,
+            "duration": 186,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "B",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 4,
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 125,
+            "artistName": "Jung Kook, Latto",
+            "ageRating": "T",
+            "albumArtFilename": "wy4ofuei6tji3y7a-512x512-60dfe1efc508.jpg",
+            "recordingCode": "USA2P2330092",
+            "songUUID": "04e4cbf2-c55f-419f-9297-c15b35df80e3",
+            "trackIndex": "579"
+        },
+        "_activeDate": "2025-06-10T14:30:00.000Z",
+        "lastModified": "2025-06-10T13:57:54.473Z"
+    },
+    "who": {
+        "track": {
+            "trackTitle": "Who",
+            "releaseYear": 2024,
+            "duration": 173,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 1,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 116,
+            "artistName": "Jimin",
+            "ageRating": "E",
+            "albumArtFilename": "i97j7bm13eti3pvp-512x512-40fb0bc0860b.jpg",
+            "recordingCode": "USA2P2431062",
+            "songUUID": "4f87e3b6-a42d-4e4d-87d7-cbe61162b17d",
+            "trackIndex": "593"
+        },
+        "_activeDate": "2025-06-10T14:30:00.000Z",
+        "lastModified": "2025-06-10T18:34:41.202Z"
     }
 }
