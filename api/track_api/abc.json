@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "ABC",
+        "releaseYear": 1970,
+        "duration": 188,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 4,
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 94,
+        "artistName": "Jackson 5",
+        "ageRating": "E",
+        "albumArtFilename": "viooujker5zvuh3z-512x512-7ce84af8cba6.jpg",
+        "recordingCode": "USMO17082628",
+        "songUUID": "720608a1-cc82-437d-80a9-242479bb2e79",
+        "trackIndex": "600"
+    },
+    "_activeDate": "2025-06-18T08:00:00.000Z",
+    "lastModified": "2025-06-17T16:52:00.350Z"
+}
