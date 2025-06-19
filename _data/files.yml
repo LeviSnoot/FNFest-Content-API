@@ -4,6 +4,8 @@
   url: api/track_api/24kmagic.json
 - name: track_api/abarsong.json
   url: api/track_api/abarsong.json
+- name: track_api/abc.json
+  url: api/track_api/abc.json
 - name: track_api/abcdefu.json
   url: api/track_api/abcdefu.json
 - name: track_api/adamssong.json
@@ -42,6 +44,8 @@
   url: api/track_api/applause.json
 - name: track_api/apple.json
   url: api/track_api/apple.json
+- name: track_api/apt.json
+  url: api/track_api/apt.json
 - name: track_api/armedanddangerous.json
   url: api/track_api/armedanddangerous.json
 - name: track_api/astronoutintheocean.json
@@ -120,6 +124,8 @@
   url: api/track_api/bloom.json
 - name: track_api/blueberryfaygo.json
   url: api/track_api/blueberryfaygo.json
+- name: track_api/bondedobrunao.json
+  url: api/track_api/bondedobrunao.json
 - name: track_api/bones.json
   url: api/track_api/bones.json
 - name: track_api/bornthisway.json
@@ -144,6 +150,8 @@
   url: api/track_api/bringmetolife.json
 - name: track_api/broccoli.json
   url: api/track_api/broccoli.json
+- name: track_api/brunosan.json
+  url: api/track_api/brunosan.json
 - name: track_api/buddyholly.json
   url: api/track_api/buddyholly.json
 - name: track_api/builttogether.json
@@ -214,6 +222,8 @@
   url: api/track_api/daisy.json
 - name: track_api/dakiti.json
   url: api/track_api/dakiti.json
+- name: track_api/dancetherapy.json
+  url: api/track_api/dancetherapy.json
 - name: track_api/dancingintheflames.json
   url: api/track_api/dancingintheflames.json
 - name: track_api/darkhorse.json
@@ -226,6 +236,8 @@
   url: api/track_api/demons.json
 - name: track_api/dexting.json
   url: api/track_api/dexting.json
+- name: track_api/diewithasmile.json
+  url: api/track_api/diewithasmile.json
 - name: track_api/dirtylittlesecret.json
   url: api/track_api/dirtylittlesecret.json
 - name: track_api/disease.json
@@ -458,8 +470,12 @@
   url: api/track_api/leanback.json
 - name: track_api/leanwitme.json
   url: api/track_api/leanwitme.json
+- name: track_api/leavethedooropen.json
+  url: api/track_api/leavethedooropen.json
 - name: track_api/lessthan.json
   url: api/track_api/lessthan.json
+- name: track_api/letitburn.json
+  url: api/track_api/letitburn.json
 - name: track_api/letthemusicplay.json
   url: api/track_api/letthemusicplay.json
 - name: track_api/letyoudown.json
@@ -530,12 +546,16 @@
   url: api/track_api/montero.json
 - name: track_api/mood.json
   url: api/track_api/mood.json
+- name: track_api/move.json
+  url: api/track_api/move.json
 - name: track_api/movelikethemist.json
   url: api/track_api/movelikethemist.json
 - name: track_api/moveslikejagger.json
   url: api/track_api/moveslikejagger.json
 - name: track_api/mrbrightside.json
   url: api/track_api/mrbrightside.json
+- name: track_api/munra.json
+  url: api/track_api/munra.json
 - name: track_api/myexesbestfriend.json
   url: api/track_api/myexesbestfriend.json
 - name: track_api/myhouse.json
@@ -616,6 +636,8 @@
   url: api/track_api/popular.json
 - name: track_api/positions.json
   url: api/track_api/positions.json
+- name: track_api/predator.json
+  url: api/track_api/predator.json
 - name: track_api/provenza.json
   url: api/track_api/provenza.json
 - name: track_api/pumpedupkicks.json
