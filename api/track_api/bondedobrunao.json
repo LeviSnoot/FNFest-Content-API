@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Bonde Do Brun\u00e3o",
+        "releaseYear": 2024,
+        "duration": 59,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 1,
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 130,
+        "artistName": "Bruno Mars",
+        "ageRating": "E",
+        "albumArtFilename": "qfywlwf2k9v4eus5-512x512-690f0942a264.jpg",
+        "recordingCode": "USAT22501764",
+        "songUUID": "57ac2371-175e-4603-a14f-3c241b78ac40",
+        "trackIndex": "596"
+    },
+    "_activeDate": "2025-06-18T08:00:00.000Z",
+    "lastModified": "2025-06-17T17:00:20.621Z"
+}
