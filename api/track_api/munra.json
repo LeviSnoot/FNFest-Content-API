@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Mun Ra",
+        "releaseYear": 2018,
+        "duration": 279,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 3,
+            "proDrums": 1,
+            "vocals": 6,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 88,
+        "artistName": "Sabotage & Instituto",
+        "ageRating": "T",
+        "albumArtFilename": "3mpiuvam5essk9ta-512x512-d3c90ac9e111.jpg",
+        "recordingCode": "BR-AGL-06-00189 LIBERADO",
+        "songUUID": "434b9820-9151-434e-a24e-e41c0f035021",
+        "trackIndex": "601"
+    },
+    "_activeDate": "2025-06-18T08:00:00.000Z",
+    "lastModified": "2025-06-17T17:12:52.436Z"
+}
