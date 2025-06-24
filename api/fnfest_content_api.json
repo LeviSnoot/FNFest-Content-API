@@ -10410,6 +10410,7 @@
             "key": "Gb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 3,
                 "proDrums": 2,
                 "vocals": 4,
@@ -10427,7 +10428,7 @@
             "trackIndex": "417"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:03:19.674Z"
+        "lastModified": "2025-06-20T15:04:33.766Z"
     },
     "industrybaby": {
         "track": {
@@ -10819,6 +10820,7 @@
             "key": "Bb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 4,
@@ -10836,7 +10838,7 @@
             "trackIndex": "439"
         },
         "_activeDate": "2024-11-21T14:30:00.000Z",
-        "lastModified": "2024-11-19T16:55:49.404Z"
+        "lastModified": "2025-06-20T17:20:04.205Z"
     },
     "wildones": {
         "track": {
@@ -11321,6 +11323,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 6,
                 "proBass": 5,
                 "proDrums": 5,
                 "vocals": 5,
@@ -11338,7 +11341,7 @@
             "trackIndex": "473"
         },
         "_activeDate": "2024-12-05T14:30:00.000Z",
-        "lastModified": "2024-12-03T20:21:43.474Z"
+        "lastModified": "2025-06-20T17:15:53.788Z"
     },
     "birdsofafeather": {
         "track": {
@@ -12012,6 +12015,7 @@
             "key": "Eb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 4,
@@ -12029,7 +12033,7 @@
             "trackIndex": "477"
         },
         "_activeDate": "2025-01-09T14:30:00.000Z",
-        "lastModified": "2024-12-17T21:30:31.124Z"
+        "lastModified": "2025-06-20T15:02:35.207Z"
     },
     "snow": {
         "track": {
@@ -12105,6 +12109,7 @@
             "key": "Db",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 4,
@@ -12122,7 +12127,7 @@
             "trackIndex": "480"
         },
         "_activeDate": "2025-01-09T14:30:00.000Z",
-        "lastModified": "2024-12-19T14:27:58.423Z"
+        "lastModified": "2025-06-20T15:05:43.886Z"
     },
     "notwithoutafight": {
         "track": {
@@ -14318,6 +14323,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 3,
@@ -14335,7 +14341,7 @@
             "trackIndex": "560"
         },
         "_activeDate": "2025-03-20T17:45:50.055Z",
-        "lastModified": "2025-04-15T15:00:31.940Z"
+        "lastModified": "2025-06-20T17:17:19.440Z"
     },
     "twentyfiftyfive": {
         "track": {
