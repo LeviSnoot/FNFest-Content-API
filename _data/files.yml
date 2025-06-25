@@ -732,6 +732,8 @@
   url: api/track_api/sizzlinsunshine.json
 - name: track_api/skysurfer.json
   url: api/track_api/skysurfer.json
+- name: track_api/slay.json
+  url: api/track_api/slay.json
 - name: track_api/smellsliketeenspirit.json
   url: api/track_api/smellsliketeenspirit.json
 - name: track_api/snow.json
