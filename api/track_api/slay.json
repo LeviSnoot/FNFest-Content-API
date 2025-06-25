@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "SLAY!",
+        "releaseYear": 2024,
+        "duration": 107,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 0,
+            "proBass": 1,
+            "proDrums": 0,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 0,
+            "bass": 1
+        },
+        "BPM": 130,
+        "artistName": "Eternxlkz",
+        "ageRating": "E",
+        "albumArtFilename": "hsxqusuhkkmsg58w-512x512-3d588b7c35bd.jpg",
+        "recordingCode": "QM4TX2453776",
+        "songUUID": "3f42c5ab-f35c-4048-84f1-1ef3674880a8",
+        "trackIndex": "615"
+    },
+    "_activeDate": "2025-06-24T14:30:00.000Z",
+    "lastModified": "2025-06-24T14:42:52.916Z"
+}
