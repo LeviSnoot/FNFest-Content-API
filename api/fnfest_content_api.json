@@ -2532,6 +2532,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 5,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 3,
@@ -2549,7 +2550,7 @@
             "trackIndex": "130"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-02-27T21:19:22.659Z"
+        "lastModified": "2025-06-27T17:32:30.288Z"
     },
     "blackholesun": {
         "track": {
@@ -14083,6 +14084,7 @@
             "key": "Bb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 3,
@@ -14100,7 +14102,7 @@
             "trackIndex": "498"
         },
         "_activeDate": "2025-04-08T08:00:00.000Z",
-        "lastModified": "2025-04-07T15:29:45.848Z"
+        "lastModified": "2025-06-27T18:38:35.142Z"
     },
     "juno": {
         "track": {
