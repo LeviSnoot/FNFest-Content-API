@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Old Town Road (Remix)",
+        "releaseYear": 2019,
+        "duration": 159,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 136,
+        "artistName": "Lil Nas X ft. Billy Ray Cyrus",
+        "ageRating": "T",
+        "albumArtFilename": "ccmontfyeh4nrvxe-512x512-ee19778ccfaa.jpg",
+        "recordingCode": "USSM11902498",
+        "songUUID": "d84122fe-74fe-4073-a507-6091a2ac582d",
+        "trackIndex": "285"
+    },
+    "_activeDate": "2025-07-01T14:30:00.000Z",
+    "lastModified": "2025-06-27T17:10:36.817Z"
+}
