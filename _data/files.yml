@@ -92,6 +92,8 @@
   url: api/track_api/bengalbasher.json
 - name: track_api/bestbuds.json
   url: api/track_api/bestbuds.json
+- name: track_api/bestofyou.json
+  url: api/track_api/bestofyou.json
 - name: track_api/betrayedaardvark.json
   url: api/track_api/betrayedaardvark.json
 - name: track_api/betternow.json
@@ -542,6 +544,8 @@
   url: api/track_api/milliondollarbaby.json
 - name: track_api/miserybusiness.json
   url: api/track_api/miserybusiness.json
+- name: track_api/monster.json
+  url: api/track_api/monster.json
 - name: track_api/montero.json
   url: api/track_api/montero.json
 - name: track_api/mood.json
