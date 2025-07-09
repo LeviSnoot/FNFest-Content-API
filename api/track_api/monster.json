@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Monster",
+        "releaseYear": 2021,
+        "duration": 208,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 5,
+            "proBass": 5,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 4
+        },
+        "BPM": 170,
+        "artistName": "YOASOBI",
+        "ageRating": "E",
+        "albumArtFilename": "kjgg5nrlr8fbejj9-512x512-30b278863e68.jpg",
+        "songUUID": "ba237789-b1cc-4aba-a790-461573139c45",
+        "trackIndex": "619"
+    },
+    "_activeDate": "2025-07-08T14:30:00.000Z",
+    "lastModified": "2025-06-24T17:48:44.885Z"
+}

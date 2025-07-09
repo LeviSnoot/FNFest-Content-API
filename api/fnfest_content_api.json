@@ -15817,5 +15817,68 @@
         },
         "_activeDate": "2025-07-01T14:30:00.000Z",
         "lastModified": "2025-06-27T17:10:36.817Z"
+    },
+    "bestofyou": {
+        "track": {
+            "trackTitle": "Best of You",
+            "releaseYear": 2005,
+            "duration": 260,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 2,
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 1,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 130,
+            "artistName": "Foo Fighters",
+            "ageRating": "T",
+            "albumArtFilename": "pnoomwldxnbxi2s5-512x512-dafacd0900bb.jpg",
+            "recordingCode": "USRW30500001",
+            "songUUID": "7a0437de-470a-4ab4-9c6c-62912df64bef",
+            "trackIndex": "297"
+        },
+        "_activeDate": "2025-07-08T14:30:00.000Z",
+        "lastModified": "2025-06-24T17:43:07.753Z"
+    },
+    "monster": {
+        "track": {
+            "trackTitle": "Monster",
+            "releaseYear": 2021,
+            "duration": 208,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 5,
+                "proBass": 5,
+                "proDrums": 4,
+                "vocals": 4,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 4,
+                "bass": 4
+            },
+            "BPM": 170,
+            "artistName": "YOASOBI",
+            "ageRating": "E",
+            "albumArtFilename": "kjgg5nrlr8fbejj9-512x512-30b278863e68.jpg",
+            "songUUID": "ba237789-b1cc-4aba-a790-461573139c45",
+            "trackIndex": "619"
+        },
+        "_activeDate": "2025-07-08T14:30:00.000Z",
+        "lastModified": "2025-06-24T17:48:44.885Z"
     }
 }
