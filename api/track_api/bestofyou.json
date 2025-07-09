@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Best of You",
+        "releaseYear": 2005,
+        "duration": 260,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 1,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 130,
+        "artistName": "Foo Fighters",
+        "ageRating": "T",
+        "albumArtFilename": "pnoomwldxnbxi2s5-512x512-dafacd0900bb.jpg",
+        "recordingCode": "USRW30500001",
+        "songUUID": "7a0437de-470a-4ab4-9c6c-62912df64bef",
+        "trackIndex": "297"
+    },
+    "_activeDate": "2025-07-08T14:30:00.000Z",
+    "lastModified": "2025-06-24T17:43:07.753Z"
+}
