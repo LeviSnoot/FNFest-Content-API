@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 50,
+        "trackTitle": "That's What I Like",
+        "releaseYear": 2016,
+        "duration": 208,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 134,
+        "artistName": "Bruno Mars",
+        "ageRating": "T",
+        "albumArtFilename": "qhzgxfmehgwjnnhm-512x512-3cf620041f10.jpg",
+        "recordingCode": "USAT21602948",
+        "songUUID": "0ad5fd10-d43d-4c7d-b017-1c66d83a3774",
+        "trackIndex": "172"
+    },
+    "_activeDate": "2025-07-15T14:30:00.000Z",
+    "lastModified": "2025-07-15T13:49:05.283Z"
+}

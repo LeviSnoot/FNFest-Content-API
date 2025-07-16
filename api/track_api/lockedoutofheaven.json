@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Locked Out Of Heaven",
+        "releaseYear": 2012,
+        "duration": 235,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 144,
+        "artistName": "Bruno Mars",
+        "ageRating": "T",
+        "albumArtFilename": "buohwbszbqosxjix-512x512-3a897611cc2f.jpg",
+        "recordingCode": "USAT21204492",
+        "songUUID": "ffac6655-2b90-4d3d-9bb4-360076a488ed",
+        "trackIndex": "391"
+    },
+    "_activeDate": "2025-07-15T14:30:00.000Z",
+    "lastModified": "2025-07-15T13:51:43.844Z"
+}
