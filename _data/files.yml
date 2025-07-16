@@ -492,6 +492,8 @@
   url: api/track_api/limitlessmurdabeatz.json
 - name: track_api/livinlavidaloca.json
   url: api/track_api/livinlavidaloca.json
+- name: track_api/lockedoutofheaven.json
+  url: api/track_api/lockedoutofheaven.json
 - name: track_api/lonelyboy.json
   url: api/track_api/lonelyboy.json
 - name: track_api/lordofthewasteland.json
@@ -818,6 +820,8 @@
   url: api/track_api/takeovercontrol.json
 - name: track_api/taste.json
   url: api/track_api/taste.json
+- name: track_api/thatswhatilike.json
+  url: api/track_api/thatswhatilike.json
 - name: track_api/theboyismine.json
   url: api/track_api/theboyismine.json
 - name: track_api/theboysareback.json
