@@ -14,6 +14,7 @@
         "majorMinor": "Major",
         "albumName": "GUTS",
         "intensities": {
+            "bd": 5,
             "proBass": 2,
             "proDrums": 3,
             "vocals": 4,
@@ -31,5 +32,5 @@
         "trackIndex": "57"
     },
     "_activeDate": "2023-12-17T01:20:00.000Z",
-    "lastModified": "2024-09-14T00:30:50.281Z"
+    "lastModified": "2025-07-18T18:05:08.021Z"
 }

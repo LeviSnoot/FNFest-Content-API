@@ -10,6 +10,7 @@
         "key": "C",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 4,
             "proBass": 1,
             "proDrums": 3,
             "vocals": 3,
@@ -26,5 +27,5 @@
         "trackIndex": "353"
     },
     "_activeDate": "2024-11-02T06:00:00.000Z",
-    "lastModified": "2025-02-21T16:37:47.019Z"
+    "lastModified": "2025-07-18T17:00:35.069Z"
 }
