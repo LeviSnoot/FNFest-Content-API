@@ -1223,6 +1223,7 @@
             "majorMinor": "Major",
             "albumName": "GUTS",
             "intensities": {
+                "bd": 5,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 4,
@@ -1240,7 +1241,7 @@
             "trackIndex": "57"
         },
         "_activeDate": "2023-12-17T01:20:00.000Z",
-        "lastModified": "2024-09-14T00:30:50.281Z"
+        "lastModified": "2025-07-18T18:05:08.021Z"
     },
     "youdontknowme": {
         "track": {
@@ -1841,6 +1842,7 @@
             "key": "Eb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 4,
                 "proDrums": 6,
                 "vocals": 2,
@@ -1858,7 +1860,7 @@
             "trackIndex": "121"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:31:02.176Z"
+        "lastModified": "2025-07-18T17:05:27.970Z"
     },
     "basketcase": {
         "track": {
@@ -3113,6 +3115,7 @@
             "majorMinor": "Major",
             "albumName": "Pray for the Wicked",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 4,
@@ -3130,7 +3133,7 @@
             "trackIndex": "14"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:46:16.194Z"
+        "lastModified": "2025-07-18T18:02:08.954Z"
     },
     "feelitstill": {
         "track": {
@@ -10169,6 +10172,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 3,
@@ -10185,7 +10189,7 @@
             "trackIndex": "353"
         },
         "_activeDate": "2024-11-02T06:00:00.000Z",
-        "lastModified": "2025-02-21T16:37:47.019Z"
+        "lastModified": "2025-07-18T17:00:35.069Z"
     },
     "crankthat": {
         "track": {
@@ -10991,6 +10995,7 @@
             "key": "Db",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 3,
@@ -11008,7 +11013,7 @@
             "trackIndex": "426"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T20:57:16.520Z"
+        "lastModified": "2025-07-18T18:03:53.988Z"
     },
     "heyya": {
         "track": {
@@ -11556,6 +11561,7 @@
             "key": "F",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 5,
@@ -11573,7 +11579,7 @@
             "trackIndex": "444"
         },
         "_activeDate": "2024-12-19T14:30:00.000Z",
-        "lastModified": "2024-12-17T17:51:26.705Z"
+        "lastModified": "2025-07-18T17:01:56.558Z"
     },
     "hipsdontlie": {
         "track": {
@@ -11966,6 +11972,7 @@
             "key": "Eb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 1,
@@ -11983,7 +11990,7 @@
             "trackIndex": "349"
         },
         "_activeDate": "2025-01-02T14:30:00.000Z",
-        "lastModified": "2024-12-17T21:01:22.842Z"
+        "lastModified": "2025-07-18T18:00:44.473Z"
     },
     "californication": {
         "track": {
@@ -13003,6 +13010,7 @@
             "key": "Gb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 5,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 4,
@@ -13020,7 +13028,7 @@
             "trackIndex": "328"
         },
         "_activeDate": "2025-02-13T14:30:00.000Z",
-        "lastModified": "2025-02-11T15:13:06.856Z"
+        "lastModified": "2025-07-18T17:03:39.416Z"
     },
     "wholetthedogsout": {
         "track": {
@@ -13251,6 +13259,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 1,
@@ -13268,7 +13277,7 @@
             "trackIndex": "478"
         },
         "_activeDate": "2025-02-27T14:30:00.000Z",
-        "lastModified": "2025-02-25T15:15:08.778Z"
+        "lastModified": "2025-07-18T16:59:12.125Z"
     },
     "iwantitthatway": {
         "track": {

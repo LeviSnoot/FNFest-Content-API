@@ -15,6 +15,7 @@
         "majorMinor": "Major",
         "albumName": "Pray for the Wicked",
         "intensities": {
+            "bd": 3,
             "proBass": 2,
             "proDrums": 3,
             "vocals": 4,
@@ -32,5 +33,5 @@
         "trackIndex": "14"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-03-05T19:46:16.194Z"
+    "lastModified": "2025-07-18T18:02:08.954Z"
 }
