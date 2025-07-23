@@ -1,0 +1,33 @@
+{
+    "track": {
+        "trackTitle": "The Zephyr Song",
+        "releaseYear": 2002,
+        "duration": 237,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 3,
+            "proBass": 4,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 117,
+        "artistName": "Red Hot Chili Peppers",
+        "ageRating": "E",
+        "albumArtFilename": "7erdmrejgcqxqtxy-512x512-5653bfb7d7ea.jpg",
+        "recordingCode": "USWB10500309",
+        "songUUID": "62720539-26e5-42e1-8d4b-5aecf9dcef44",
+        "trackIndex": "627",
+        "thumbFilename": "udas6loxh5blumfg-128x128-f5f34f463801.jpg"
+    },
+    "_activeDate": "2025-07-22T12:58:00.000Z",
+    "lastModified": "2025-07-21T15:12:38.484Z"
+}
