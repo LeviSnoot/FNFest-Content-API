@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Funny Song",
+        "releaseYear": 2018,
+        "duration": 110,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 3,
+            "proBass": 0,
+            "proDrums": 0,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 0,
+            "bass": 1
+        },
+        "BPM": 160,
+        "artistName": "Slipstream Music",
+        "ageRating": "E",
+        "albumArtFilename": "nycz2muqfbpwzbpw-512x512-3d9ccb39e61e.jpg",
+        "recordingCode": "GBBGY1743613",
+        "songUUID": "177c0889-d479-43f9-9fb3-3807f8d307a9",
+        "trackIndex": "606"
+    },
+    "_activeDate": "2025-07-22T14:30:00.000Z",
+    "lastModified": "2025-07-22T14:01:19.294Z"
+}
