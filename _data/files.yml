@@ -334,6 +334,8 @@
   url: api/track_api/ftcu.json
 - name: track_api/fuel.json
   url: api/track_api/fuel.json
+- name: track_api/funnysong.json
+  url: api/track_api/funnysong.json
 - name: track_api/gangnamstyle.json
   url: api/track_api/gangnamstyle.json
 - name: track_api/gasolina.json
@@ -878,6 +880,8 @@
   url: api/track_api/thewawylifegoes.json
 - name: track_api/thewayiare.json
   url: api/track_api/thewayiare.json
+- name: track_api/thezephyrsong.json
+  url: api/track_api/thezephyrsong.json
 - name: track_api/thisaintascene.json
   url: api/track_api/thisaintascene.json
 - name: track_api/thisishowwedoit.json
