@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Eye of the Storm",
+        "releaseYear": 2025,
+        "duration": 196,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 85,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "rh6ytkdkzlkpfakr-512x512-0cec3a5dfe95.jpg",
+        "recordingCode": "",
+        "songUUID": "c9ea31fb-e8f7-4b75-a4d3-3edbd9646a61",
+        "trackIndex": "621"
+    },
+    "_activeDate": "2025-06-13T17:11:17.399Z",
+    "lastModified": "2025-07-25T20:02:55.151Z"
+}

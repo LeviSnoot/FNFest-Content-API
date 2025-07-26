@@ -1,5 +1,6 @@
 {
     "track": {
+        "ag": "Pop",
         "trackTitle": "Your Love (9pm)",
         "releaseYear": 2021,
         "duration": 154,
@@ -10,6 +11,7 @@
         "key": "A",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 2,
             "proBass": 1,
             "proDrums": 1,
             "vocals": 2,
@@ -27,5 +29,5 @@
         "trackIndex": "149"
     },
     "_activeDate": "2024-01-23T15:22:08.291Z",
-    "lastModified": "2024-09-18T08:22:35.674Z"
+    "lastModified": "2025-07-25T17:16:42.058Z"
 }

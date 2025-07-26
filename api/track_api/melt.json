@@ -1,5 +1,6 @@
 {
     "track": {
+        "ag": "Pop",
         "trackTitle": "Melt",
         "releaseYear": 2008,
         "duration": 241,
@@ -10,6 +11,7 @@
         "key": "D",
         "majorMinor": "Major",
         "intensities": {
+            "bd": 4,
             "proBass": 4,
             "proDrums": 5,
             "vocals": 3,
@@ -27,5 +29,5 @@
         "trackIndex": "484"
     },
     "_activeDate": "2025-03-06T14:30:00.000Z",
-    "lastModified": "2025-03-11T18:40:39.361Z"
+    "lastModified": "2025-07-25T17:14:23.419Z"
 }
