@@ -10,6 +10,7 @@
         "key": "Ab",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 3,
             "proBass": 0,
             "proDrums": 3,
             "vocals": 4,
@@ -26,6 +27,6 @@
         "songUUID": "5cb271f6-c1b0-4b2c-af39-39919358fb50",
         "trackIndex": "435"
     },
-    "_activeDate": "2024-11-30T20:52:00.000Z",
-    "lastModified": "2024-11-30T20:40:57.971Z"
+    "_activeDate": "2024-11-30T21:05:00.000Z",
+    "lastModified": "2025-07-25T17:13:13.422Z"
 }
