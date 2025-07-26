@@ -284,6 +284,8 @@
   url: api/track_api/espresso.json
 - name: track_api/everlong.json
   url: api/track_api/everlong.json
+- name: track_api/eyeofthestorm.json
+  url: api/track_api/eyeofthestorm.json
 - name: track_api/fadetoblack.json
   url: api/track_api/fadetoblack.json
 - name: track_api/faint.json
