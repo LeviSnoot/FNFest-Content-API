@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 17,
+        "trackTitle": "Break From Toronto",
+        "releaseYear": 2013,
+        "duration": 104,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 117,
+        "artistName": "PARTYNEXTDOOR",
+        "ageRating": "T",
+        "albumArtFilename": "topqdtzfvwjzn7kf-512x512-8681ddcd35b3.jpg",
+        "recordingCode": "USWB11302170",
+        "songUUID": "04c718b1-313f-431e-9bc7-be9d24ab86a1",
+        "trackIndex": "425"
+    },
+    "_activeDate": "2025-07-29T14:30:00.000Z",
+    "lastModified": "2025-07-29T14:06:31.487Z"
+}
