@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "HAPPY",
+        "releaseYear": 2024,
+        "duration": 190,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 4,
+            "proBass": 4,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 4
+        },
+        "BPM": 160,
+        "artistName": "DAY6",
+        "ageRating": "E",
+        "albumArtFilename": "u7zd16zkqcjwjddg-512x512-ebf43f356bbc.jpg",
+        "recordingCode": "US5TA2400040   ",
+        "songUUID": "aafdb532-c17d-4df5-9905-969926883579",
+        "trackIndex": "630"
+    },
+    "_activeDate": "2025-07-29T14:30:00.000Z",
+    "lastModified": "2025-07-29T14:04:53.534Z"
+}
