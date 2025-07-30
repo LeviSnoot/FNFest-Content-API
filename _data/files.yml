@@ -142,6 +142,8 @@
   url: api/track_api/boysaliarpt2.json
 - name: track_api/braceforchaos.json
   url: api/track_api/braceforchaos.json
+- name: track_api/breakfromtoronto.json
+  url: api/track_api/breakfromtoronto.json
 - name: track_api/breakingme.json
   url: api/track_api/breakingme.json
 - name: track_api/breakthecurse.json
@@ -372,6 +374,8 @@
   url: api/track_api/happierthanever.json
 - name: track_api/happy.json
   url: api/track_api/happy.json
+- name: track_api/happy2.json
+  url: api/track_api/happy2.json
 - name: track_api/heartbreaker.json
   url: api/track_api/heartbreaker.json
 - name: track_api/heathens.json
