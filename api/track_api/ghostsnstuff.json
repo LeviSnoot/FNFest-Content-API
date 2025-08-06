@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Ghosts 'n' Stuff",
+        "releaseYear": 2009,
+        "duration": 200,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 1,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 1,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 1,
+            "bass": 2
+        },
+        "BPM": 128,
+        "artistName": "deadmau5, Rob Swire",
+        "ageRating": "E",
+        "albumArtFilename": "brc3mquv0rvjdlhz-512x512-cfb9e6ab2c73.jpg",
+        "recordingCode": "GBTDG0900132",
+        "songUUID": "e60b07e6-065a-4059-a7a4-4a88fe268108",
+        "trackIndex": "607"
+    },
+    "_activeDate": "2025-08-05T14:02:00.000Z",
+    "lastModified": "2025-08-05T11:13:22.232Z"
+}

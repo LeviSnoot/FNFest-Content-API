@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "8ths",
+        "releaseYear": 2025,
+        "duration": 367,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "F",
+        "majorMinor": "Minor",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 4,
+            "vocals": 1,
+            "proGuitar": 1,
+            "guitar": 0,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 128,
+        "artistName": "deadmau5",
+        "ageRating": "E",
+        "albumArtFilename": "wpwcuizgj7m44bch-512x512-cf3c13d0d4c3.jpg",
+        "recordingCode": "CA5KR2541642",
+        "songUUID": "3869c3cc-ddd4-4597-a96a-658b4b7f9385",
+        "trackIndex": "623"
+    },
+    "_activeDate": "2025-08-05T14:30:00.000Z",
+    "lastModified": "2025-08-05T14:58:30.039Z"
+}
