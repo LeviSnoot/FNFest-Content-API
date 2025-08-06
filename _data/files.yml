@@ -274,6 +274,8 @@
   url: api/track_api/edgeofglory.json
 - name: track_api/eightbitbeat.json
   url: api/track_api/eightbitbeat.json
+- name: track_api/eighths.json
+  url: api/track_api/eighths.json
 - name: track_api/ellabailasola.json
   url: api/track_api/ellabailasola.json
 - name: track_api/emogirl.json
@@ -352,6 +354,8 @@
   url: api/track_api/getlow.json
 - name: track_api/ghost.json
   url: api/track_api/ghost.json
+- name: track_api/ghostsnstuff.json
+  url: api/track_api/ghostsnstuff.json
 - name: track_api/gimmethelight.json
   url: api/track_api/gimmethelight.json
 - name: track_api/giveitaway.json
@@ -790,6 +794,8 @@
   url: api/track_api/streetsignite.json
 - name: track_api/stressedout.json
   url: api/track_api/stressedout.json
+- name: track_api/strobe.json
+  url: api/track_api/strobe.json
 - name: track_api/stronger.json
   url: api/track_api/stronger.json
 - name: track_api/stupidlove.json
