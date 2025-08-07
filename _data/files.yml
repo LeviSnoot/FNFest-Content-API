@@ -328,6 +328,8 @@
   url: api/track_api/fly.json
 - name: track_api/forlatveria.json
   url: api/track_api/forlatveria.json
+- name: track_api/foroxr.json
+  url: api/track_api/foroxr.json
 - name: track_api/forthenight.json
   url: api/track_api/forthenight.json
 - name: track_api/forwhomthebelltolls.json
@@ -426,6 +428,8 @@
   url: api/track_api/imnotokay.json
 - name: track_api/imperialmarch.json
   url: api/track_api/imperialmarch.json
+- name: track_api/imthevisual.json
+  url: api/track_api/imthevisual.json
 - name: track_api/industrybaby.json
   url: api/track_api/industrybaby.json
 - name: track_api/infernoisland.json
@@ -546,6 +550,8 @@
   url: api/track_api/masterofpuppets.json
 - name: track_api/melt.json
   url: api/track_api/melt.json
+- name: track_api/memories.json
+  url: api/track_api/memories.json
 - name: track_api/metoo.json
   url: api/track_api/metoo.json
 - name: track_api/mia.json
@@ -1020,5 +1026,7 @@
   url: api/track_api/youreallmine.json
 - name: track_api/yourlove9pm.json
   url: api/track_api/yourlove9pm.json
+- name: track_api/youruniverse.json
+  url: api/track_api/youruniverse.json
 - name: track_api/zombie.json
   url: api/track_api/zombie.json
