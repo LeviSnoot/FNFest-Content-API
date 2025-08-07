@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Your Universe",
+        "releaseYear": 2025,
+        "duration": 160,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 5,
+            "proBass": 2,
+            "proDrums": 5,
+            "vocals": 3,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 6,
+            "bass": 2
+        },
+        "BPM": 88,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "ywlgger5rna8rmgw-512x512-d708bcac466c.jpg",
+        "songUUID": "aa63aa65-e2be-47ba-9935-3d0aa5de4637",
+        "trackIndex": "633"
+    },
+    "_activeDate": "2025-08-07T06:00:00.000Z",
+    "lastModified": "2025-08-05T18:43:06.101Z"
+}
