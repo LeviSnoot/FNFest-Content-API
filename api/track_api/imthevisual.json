@@ -1,0 +1,32 @@
+{
+    "track": {
+        "mmo": 39,
+        "trackTitle": "I'm the Visual",
+        "releaseYear": 2025,
+        "duration": 142,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 128,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "8ena70pnga8dso09-512x512-9489f466c7f3.jpg",
+        "songUUID": "35e83705-34d8-45d2-8ecc-fe04e1c735b2",
+        "trackIndex": "632"
+    },
+    "_activeDate": "2025-08-07T06:00:00.000Z",
+    "lastModified": "2025-08-05T18:39:34.764Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Memories",
+        "releaseYear": 2025,
+        "duration": 167,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 4,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 120,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "vklcdklubjotl5in-512x512-950589fb9209.jpg",
+        "songUUID": "28b3b933-bf32-482d-a6d2-5e1971c36cdb",
+        "trackIndex": "635"
+    },
+    "_activeDate": "2025-08-07T06:00:00.000Z",
+    "lastModified": "2025-08-05T18:08:02.126Z"
+}
