@@ -366,6 +366,8 @@
   url: api/track_api/givemeeverything.json
 - name: track_api/godzilla.json
   url: api/track_api/godzilla.json
+- name: track_api/gogopowerrangers.json
+  url: api/track_api/gogopowerrangers.json
 - name: track_api/good4u.json
   url: api/track_api/good4u.json
 - name: track_api/goodluckbabe.json
