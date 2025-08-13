@@ -728,6 +728,8 @@
   url: api/track_api/sayitproud.json
 - name: track_api/sayso.json
   url: api/track_api/sayso.json
+- name: track_api/scarymonsters.json
+  url: api/track_api/scarymonsters.json
 - name: track_api/scenario.json
   url: api/track_api/scenario.json
 - name: track_api/seekanddestroy.json
