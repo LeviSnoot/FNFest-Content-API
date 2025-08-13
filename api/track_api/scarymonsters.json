@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 121,
+        "trackTitle": "Scary Monsters and Nice Sprites",
+        "releaseYear": 2010,
+        "duration": 246,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Keyboard",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 140,
+        "artistName": "Skrillex",
+        "ageRating": "E",
+        "albumArtFilename": "utg3tloxo86jty2t-512x512-b4e9a10bed9e.jpg",
+        "recordingCode": "GBTDG1000196",
+        "songUUID": "075bc401-c0b5-4f9a-9a55-984512158254",
+        "trackIndex": "649"
+    },
+    "_activeDate": "2025-08-12T14:15:00.000Z",
+    "lastModified": "2025-08-12T15:14:34.281Z"
+}
