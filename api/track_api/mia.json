@@ -1,5 +1,7 @@
 {
     "track": {
+        "sm": "Trippy_Chill",
+        "ag": "RapHipHop",
         "trackTitle": "MIA",
         "releaseYear": 2018,
         "duration": 215,
@@ -10,6 +12,7 @@
         "key": "Gb",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 3,
             "proBass": 1,
             "proDrums": 3,
             "vocals": 4,
@@ -27,5 +30,5 @@
         "trackIndex": "453"
     },
     "_activeDate": "2025-01-16T14:30:00.000Z",
-    "lastModified": "2025-01-16T15:17:19.526Z"
+    "lastModified": "2025-08-12T17:34:41.301Z"
 }
