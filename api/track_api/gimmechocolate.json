@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Gimme Chocolate!!",
+        "releaseYear": 2014,
+        "duration": 232,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 3,
+            "proBass": 4,
+            "proDrums": 5,
+            "vocals": 3,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 5,
+            "bass": 4
+        },
+        "BPM": 110,
+        "artistName": "BABYMETAL",
+        "ageRating": "E",
+        "albumArtFilename": "drwbqsnsry3iajkq-512x512-f8103820fae0.jpg",
+        "recordingCode": "",
+        "songUUID": "e79ab1a9-78cc-4618-b7cd-e5a40c1e7e80",
+        "trackIndex": "628"
+    },
+    "_activeDate": "2025-08-19T14:30:00.000Z",
+    "lastModified": "2025-08-19T15:25:35.123Z"
+}

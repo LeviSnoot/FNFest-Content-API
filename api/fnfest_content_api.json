@@ -16445,5 +16445,69 @@
         },
         "_activeDate": "2025-08-12T14:15:00.000Z",
         "lastModified": "2025-08-12T15:14:34.281Z"
+    },
+    "gimmechocolate": {
+        "track": {
+            "trackTitle": "Gimme Chocolate!!",
+            "releaseYear": 2014,
+            "duration": 232,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 3,
+                "proBass": 4,
+                "proDrums": 5,
+                "vocals": 3,
+                "proGuitar": 6,
+                "guitar": 6,
+                "drums": 5,
+                "bass": 4
+            },
+            "BPM": 110,
+            "artistName": "BABYMETAL",
+            "ageRating": "E",
+            "albumArtFilename": "drwbqsnsry3iajkq-512x512-f8103820fae0.jpg",
+            "recordingCode": "",
+            "songUUID": "e79ab1a9-78cc-4618-b7cd-e5a40c1e7e80",
+            "trackIndex": "628"
+        },
+        "_activeDate": "2025-08-19T14:30:00.000Z",
+        "lastModified": "2025-08-19T15:25:35.123Z"
+    },
+    "players": {
+        "track": {
+            "trackTitle": "PLAYERS",
+            "releaseYear": 2025,
+            "duration": 205,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 5,
+                "proBass": 5,
+                "proDrums": 5,
+                "vocals": 4,
+                "proGuitar": 6,
+                "guitar": 6,
+                "drums": 5,
+                "bass": 5
+            },
+            "BPM": 93,
+            "artistName": "YOASOBI",
+            "ageRating": "E",
+            "albumArtFilename": "vwzshmcosdatklvy-512x512-e103a270525e.jpg",
+            "recordingCode": "JPP302500188",
+            "songUUID": "96a52bf8-eac2-45d9-8a5e-d0a6a05a3e6e",
+            "trackIndex": "654"
+        },
+        "_activeDate": "2025-08-19T14:30:00.000Z",
+        "lastModified": "2025-08-19T15:08:58.655Z"
     }
 }
