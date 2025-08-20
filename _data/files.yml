@@ -358,6 +358,8 @@
   url: api/track_api/ghost.json
 - name: track_api/ghostsnstuff.json
   url: api/track_api/ghostsnstuff.json
+- name: track_api/gimmechocolate.json
+  url: api/track_api/gimmechocolate.json
 - name: track_api/gimmethelight.json
   url: api/track_api/gimmethelight.json
 - name: track_api/giveitaway.json
@@ -652,6 +654,8 @@
   url: api/track_api/partyrockanthem.json
 - name: track_api/pealikeme.json
   url: api/track_api/pealikeme.json
+- name: track_api/players.json
+  url: api/track_api/players.json
 - name: track_api/pleasepleaseplease.json
   url: api/track_api/pleasepleaseplease.json
 - name: track_api/poison.json
