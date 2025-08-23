@@ -815,6 +815,7 @@
             "key": "Bb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 2,
@@ -832,7 +833,7 @@
             "trackIndex": "108"
         },
         "_activeDate": "2023-12-19T23:59:00.000Z",
-        "lastModified": "2024-09-14T02:01:12.543Z"
+        "lastModified": "2025-08-22T13:35:26.488Z"
     },
     "partyrockanthem": {
         "track": {
@@ -1687,6 +1688,7 @@
             "majorMinor": "Minor",
             "albumName": "Sour",
             "intensities": {
+                "bd": 5,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 4,
@@ -1704,7 +1706,7 @@
             "trackIndex": "08"
         },
         "_activeDate": "2023-10-09T20:40:41.694Z",
-        "lastModified": "2024-09-14T02:50:53.392Z"
+        "lastModified": "2025-08-22T12:58:28.156Z"
     },
     "gethimback": {
         "track": {
@@ -2163,6 +2165,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 2,
                 "vocals": 3,
@@ -2180,7 +2183,7 @@
             "trackIndex": "125"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:21:44.271Z"
+        "lastModified": "2025-08-22T14:08:35.557Z"
     },
     "popular": {
         "track": {
@@ -5863,6 +5866,7 @@
             "key": "A",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 2,
@@ -5880,7 +5884,7 @@
             "trackIndex": "244"
         },
         "_activeDate": "2024-05-23T13:30:00.000Z",
-        "lastModified": "2024-09-19T06:06:26.437Z"
+        "lastModified": "2025-08-22T14:05:05.645Z"
     },
     "dragula": {
         "track": {
@@ -6804,6 +6808,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 5,
                 "proDrums": 5,
                 "vocals": 2,
@@ -6821,7 +6826,7 @@
             "trackIndex": "236"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:01:10.402Z"
+        "lastModified": "2025-08-22T14:10:10.251Z"
     },
     "nothingelsematters": {
         "track": {
@@ -9407,6 +9412,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 2,
@@ -9424,7 +9430,7 @@
             "trackIndex": "380"
         },
         "_activeDate": "2024-10-10T13:30:00.000Z",
-        "lastModified": "2024-10-08T14:39:19.205Z"
+        "lastModified": "2025-08-22T16:47:28.789Z"
     },
     "undone": {
         "track": {
@@ -9501,6 +9507,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 3,
@@ -9518,7 +9525,7 @@
             "trackIndex": "381"
         },
         "_activeDate": "2024-10-10T13:30:00.000Z",
-        "lastModified": "2024-10-10T04:26:50.525Z"
+        "lastModified": "2025-08-22T14:06:44.491Z"
     },
     "tropicalheat": {
         "track": {
@@ -9973,6 +9980,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 5,
@@ -9989,7 +9997,7 @@
             "trackIndex": "351"
         },
         "_activeDate": "2024-11-02T06:00:00.000Z",
-        "lastModified": "2025-02-21T16:37:15.904Z"
+        "lastModified": "2025-08-22T14:13:31.669Z"
     },
     "turnup": {
         "track": {
@@ -10377,6 +10385,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 4,
@@ -10394,7 +10403,7 @@
             "trackIndex": "396"
         },
         "_activeDate": "2024-11-02T06:00:00.000Z",
-        "lastModified": "2024-10-29T20:25:29.896Z"
+        "lastModified": "2025-08-22T14:03:42.592Z"
     },
     "bounceback": {
         "track": {
@@ -11836,6 +11845,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 4,
                 "vocals": 3,
@@ -11853,7 +11863,7 @@
             "trackIndex": "386"
         },
         "_activeDate": "2024-12-26T14:30:00.000Z",
-        "lastModified": "2024-12-17T20:37:59.650Z"
+        "lastModified": "2025-08-22T12:55:46.380Z"
     },
     "bones": {
         "track": {
@@ -11867,6 +11877,7 @@
             "key": "Bb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 4,
@@ -11884,7 +11895,7 @@
             "trackIndex": "348"
         },
         "_activeDate": "2025-01-02T14:30:00.000Z",
-        "lastModified": "2024-12-17T20:58:53.814Z"
+        "lastModified": "2025-08-22T13:36:49.892Z"
     },
     "fatlip": {
         "track": {
@@ -13195,6 +13206,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 4,
@@ -13211,7 +13223,7 @@
             "trackIndex": "527"
         },
         "_activeDate": "2025-02-21T09:00:00.000Z",
-        "lastModified": "2025-04-07T21:21:55.629Z"
+        "lastModified": "2025-08-22T16:49:22.053Z"
     },
     "thewayiare": {
         "track": {
