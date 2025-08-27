@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "End of the Earth",
+        "releaseYear": 2025,
+        "duration": 174,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 2
+        },
+        "BPM": 128,
+        "artistName": "Epic Games",
+        "ageRating": "T",
+        "albumArtFilename": "7ql40svc5mfpetox-512x512-f74b760d0f64.jpg",
+        "songUUID": "40444bb0-ed8e-438b-b0d6-1bceb5aa2abb",
+        "trackIndex": "643"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T16:22:49.935Z"
+}

@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "DARE",
+        "releaseYear": 2005,
+        "duration": 248,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 120,
+        "artistName": "Gorillaz ft. Shaun Ryder & Roses Gabor",
+        "ageRating": "E",
+        "albumArtFilename": "hzdwyoyf1zvhb9bc-512x512-b91721292c73.jpg",
+        "recordingCode": "GBAYE0501001",
+        "songUUID": "a320a0f4-743c-4dc7-972e-49c067b700b9",
+        "trackIndex": "636"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T13:43:38.202Z"
+}

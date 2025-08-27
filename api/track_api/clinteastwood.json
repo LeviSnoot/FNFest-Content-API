@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Clint Eastwood",
+        "releaseYear": 2001,
+        "duration": 245,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 84,
+        "artistName": "Gorillaz",
+        "ageRating": "T",
+        "albumArtFilename": "7ijrglxl6luccxcr-512x512-843d5a7f4acf.jpg",
+        "recordingCode": "GBAHT1307626",
+        "songUUID": "bc8081ec-6767-4f1b-922e-2ec37abf1582",
+        "trackIndex": "637"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T15:49:58.501Z"
+}

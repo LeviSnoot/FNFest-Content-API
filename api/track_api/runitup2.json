@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Run It Up",
+        "releaseYear": 2025,
+        "duration": 179,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 0,
+            "proBass": 2,
+            "proDrums": 4,
+            "vocals": 5,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 5,
+            "bass": 1
+        },
+        "BPM": 135,
+        "artistName": "Hanumankind",
+        "ageRating": "T",
+        "albumArtFilename": "p6cgcsnzprp8q1xv-512x512-b7d90481b024.jpg",
+        "recordingCode": "USUG12501277",
+        "songUUID": "15c95c7d-6829-4a21-808e-a0b4bb24461c",
+        "trackIndex": "641"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T17:30:14.345Z"
+}

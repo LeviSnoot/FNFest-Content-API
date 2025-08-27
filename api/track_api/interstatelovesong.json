@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Interstate Love Song",
+        "releaseYear": 1994,
+        "duration": 197,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 3,
+            "proDrums": 2,
+            "vocals": 1,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 3
+        },
+        "BPM": 85,
+        "artistName": "Stone Temple Pilots",
+        "ageRating": "E",
+        "albumArtFilename": "by9gvta0wxecpgzd-512x512-38df91f6b64d.jpg",
+        "recordingCode": "USRH11901677",
+        "songUUID": "6e0702a0-959d-44a8-a232-542429a06b68",
+        "trackIndex": "385"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T15:51:08.961Z"
+}

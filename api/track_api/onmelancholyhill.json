@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "On Melancholy Hill",
+        "releaseYear": 2010,
+        "duration": 229,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 2,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 120,
+        "artistName": "Gorillaz",
+        "ageRating": "E",
+        "albumArtFilename": "ditn5bvxfi5dbjjy-512x512-b6ecdde9f101.jpg",
+        "recordingCode": "GBAYE1000010",
+        "songUUID": "d8ac295f-6928-46dc-971f-040884b98f78",
+        "trackIndex": "638"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T13:47:03.221Z"
+}
