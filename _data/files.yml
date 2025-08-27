@@ -202,12 +202,18 @@
   url: api/track_api/cherrycordial.json
 - name: track_api/chihiro.json
   url: api/track_api/chihiro.json
+- name: track_api/chyldofdawn.json
+  url: api/track_api/chyldofdawn.json
 - name: track_api/circles.json
   url: api/track_api/circles.json
+- name: track_api/clinteastwood.json
+  url: api/track_api/clinteastwood.json
 - name: track_api/closer.json
   url: api/track_api/closer.json
 - name: track_api/closer2.json
   url: api/track_api/closer2.json
+- name: track_api/comealive.json
+  url: api/track_api/comealive.json
 - name: track_api/comeandgo.json
   url: api/track_api/comeandgo.json
 - name: track_api/countingstars.json
@@ -230,6 +236,8 @@
   url: api/track_api/dancetherapy.json
 - name: track_api/dancingintheflames.json
   url: api/track_api/dancingintheflames.json
+- name: track_api/dare.json
+  url: api/track_api/dare.json
 - name: track_api/darkhorse.json
   url: api/track_api/darkhorse.json
 - name: track_api/daynnite.json
@@ -282,6 +290,8 @@
   url: api/track_api/emogirl.json
 - name: track_api/emptyoutyourpockets.json
   url: api/track_api/emptyoutyourpockets.json
+- name: track_api/endoftheearth.json
+  url: api/track_api/endoftheearth.json
 - name: track_api/entersandman.json
   url: api/track_api/entersandman.json
 - name: track_api/espresso.json
@@ -446,6 +456,8 @@
   url: api/track_api/inhamood.json
 - name: track_api/insaneinthebrain.json
   url: api/track_api/insaneinthebrain.json
+- name: track_api/interstatelovesong.json
+  url: api/track_api/interstatelovesong.json
 - name: track_api/intheend.json
   url: api/track_api/intheend.json
 - name: track_api/intoyou.json
@@ -570,6 +582,8 @@
   url: api/track_api/miserybusiness.json
 - name: track_api/monster.json
   url: api/track_api/monster.json
+- name: track_api/montagemtomada.json
+  url: api/track_api/montagemtomada.json
 - name: track_api/montero.json
   url: api/track_api/montero.json
 - name: track_api/mood.json
@@ -632,6 +646,8 @@
   url: api/track_api/oldtownroad.json
 - name: track_api/one.json
   url: api/track_api/one.json
+- name: track_api/onmelancholyhill.json
+  url: api/track_api/onmelancholyhill.json
 - name: track_api/onthefloor.json
   url: api/track_api/onthefloor.json
 - name: track_api/orbitaloverload.json
@@ -654,6 +670,8 @@
   url: api/track_api/partyrockanthem.json
 - name: track_api/pealikeme.json
   url: api/track_api/pealikeme.json
+- name: track_api/pickitup.json
+  url: api/track_api/pickitup.json
 - name: track_api/players.json
   url: api/track_api/players.json
 - name: track_api/pleasepleaseplease.json
@@ -714,6 +732,8 @@
   url: api/track_api/runit.json
 - name: track_api/runitup.json
   url: api/track_api/runitup.json
+- name: track_api/runitup2.json
+  url: api/track_api/runitup2.json
 - name: track_api/sabotage.json
   url: api/track_api/sabotage.json
 - name: track_api/sadbuttrue.json
