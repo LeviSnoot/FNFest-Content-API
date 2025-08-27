@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Come Alive",
+        "releaseYear": 2025,
+        "duration": 206,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 116,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "xlcqm4thyiumkxeu-512x512-ef9ef2d525c7.jpg",
+        "songUUID": "59d7e6bf-d9a8-4ec1-9949-bdc8a0e34f20",
+        "trackIndex": "645"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T15:14:10.108Z"
+}

@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Montagem Tomada (Slowed)",
+        "releaseYear": 2025,
+        "duration": 87,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 1,
+            "proDrums": 0,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 1,
+            "drums": 0,
+            "bass": 1
+        },
+        "BPM": 109,
+        "artistName": "MXZI",
+        "ageRating": "E",
+        "albumArtFilename": "plhb2ajp55lwlmmy-512x512-275a1ab0f626.jpg",
+        "songUUID": "0cf57cbb-3a76-4403-ae60-4aa26d92d66c",
+        "trackIndex": "642"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T15:53:17.825Z"
+}

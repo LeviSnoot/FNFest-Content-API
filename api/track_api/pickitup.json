@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Pick It Up (Remix)",
+        "releaseYear": 2025,
+        "duration": 179,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 5,
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 155,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "kgpwb8kznfl412ak-512x512-3d6ac80e778f.jpg",
+        "songUUID": "ef252938-9d94-46ea-9406-7f28307bc173",
+        "trackIndex": "644"
+    },
+    "_activeDate": "2025-08-26T08:00:00.000Z",
+    "lastModified": "2025-08-25T14:52:14.613Z"
+}
