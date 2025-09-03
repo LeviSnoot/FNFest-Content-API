@@ -102,6 +102,8 @@
   url: api/track_api/betteroffalone.json
 - name: track_api/beyondtheflame.json
   url: api/track_api/beyondtheflame.json
+- name: track_api/bigdawgs.json
+  url: api/track_api/bigdawgs.json
 - name: track_api/bigenergy.json
   url: api/track_api/bigenergy.json
 - name: track_api/bigpoppa.json
@@ -594,6 +596,8 @@
   url: api/track_api/movelikethemist.json
 - name: track_api/moveslikejagger.json
   url: api/track_api/moveslikejagger.json
+- name: track_api/moveyourfeet.json
+  url: api/track_api/moveyourfeet.json
 - name: track_api/mrbrightside.json
   url: api/track_api/mrbrightside.json
 - name: track_api/munra.json
