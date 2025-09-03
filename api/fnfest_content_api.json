@@ -6529,6 +6529,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 6,
                 "proDrums": 6,
                 "vocals": 2,
@@ -6546,7 +6547,7 @@
             "trackIndex": "233"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:10:24.533Z"
+        "lastModified": "2025-08-29T13:59:01.222Z"
     },
     "thenightporter": {
         "track": {
@@ -13115,6 +13116,7 @@
             "key": "Gb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 4,
@@ -13132,7 +13134,7 @@
             "trackIndex": "491"
         },
         "_activeDate": "2025-02-20T14:30:00.000Z",
-        "lastModified": "2025-02-21T19:31:56.312Z"
+        "lastModified": "2025-08-29T13:52:54.515Z"
     },
     "dontcrossme": {
         "track": {
@@ -16836,5 +16838,70 @@
         },
         "_activeDate": "2025-08-26T08:00:00.000Z",
         "lastModified": "2025-08-25T17:30:14.345Z"
+    },
+    "bigdawgs": {
+        "track": {
+            "mmo": 19,
+            "trackTitle": "Big Dawgs",
+            "releaseYear": 2025,
+            "duration": 195,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 0,
+                "proBass": 0,
+                "proDrums": 3,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 90,
+            "artistName": "Hanumankind ft. Kalmi",
+            "ageRating": "T",
+            "albumArtFilename": "yizsfdaj9ly6rnxb-512x512-f799a4e1714e.jpg",
+            "recordingCode": "INUM72400934",
+            "songUUID": "9c4de178-e318-4328-ba66-62b6be58fb04",
+            "trackIndex": "660"
+        },
+        "_activeDate": "2025-09-02T14:30:00.000Z",
+        "lastModified": "2025-09-02T15:24:26.583Z"
+    },
+    "moveyourfeet": {
+        "track": {
+            "trackTitle": "Move Your Feet",
+            "releaseYear": 2002,
+            "duration": 182,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "E",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 2,
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 118,
+            "artistName": "Junior Senior",
+            "ageRating": "E",
+            "albumArtFilename": "vyk2mu3tj7v0nf09-512x512-9b826ec47f2d.jpg",
+            "recordingCode": "DKMFA0200501",
+            "songUUID": "4b06200b-69ba-4502-8d65-392e155aa856",
+            "trackIndex": "657"
+        },
+        "_activeDate": "2025-09-02T14:30:00.000Z",
+        "lastModified": "2025-09-02T14:31:07.716Z"
     }
 }
