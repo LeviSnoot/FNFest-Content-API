@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 19,
+        "trackTitle": "Big Dawgs",
+        "releaseYear": 2025,
+        "duration": 195,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 0,
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 90,
+        "artistName": "Hanumankind ft. Kalmi",
+        "ageRating": "T",
+        "albumArtFilename": "yizsfdaj9ly6rnxb-512x512-f799a4e1714e.jpg",
+        "recordingCode": "INUM72400934",
+        "songUUID": "9c4de178-e318-4328-ba66-62b6be58fb04",
+        "trackIndex": "660"
+    },
+    "_activeDate": "2025-09-02T14:30:00.000Z",
+    "lastModified": "2025-09-02T15:24:26.583Z"
+}
