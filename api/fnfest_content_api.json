@@ -6675,6 +6675,7 @@
     },
     "somp": {
         "track": {
+            "mmo": 185,
             "trackTitle": "S.O.M.P.",
             "releaseYear": 2017,
             "duration": 278,
@@ -6685,6 +6686,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 3,
                 "proDrums": 4,
                 "vocals": 2,
@@ -6701,7 +6703,7 @@
             "trackIndex": "251"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-19T06:40:03.764Z"
+        "lastModified": "2025-09-03T14:11:21.767Z"
     },
     "one": {
         "track": {
@@ -7655,6 +7657,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 4,
                 "proDrums": 6,
                 "vocals": 4,
@@ -7672,7 +7675,7 @@
             "trackIndex": "266"
         },
         "_activeDate": "2024-07-25T13:30:00.000Z",
-        "lastModified": "2024-09-20T02:37:00.505Z"
+        "lastModified": "2025-09-03T14:14:07.558Z"
     },
     "would": {
         "track": {
@@ -8282,6 +8285,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 4,
@@ -8299,7 +8303,7 @@
             "trackIndex": "306"
         },
         "_activeDate": "2024-08-16T05:00:00.000Z",
-        "lastModified": "2024-09-23T06:03:37.485Z"
+        "lastModified": "2025-09-03T14:07:55.153Z"
     },
     "forlatveria": {
         "track": {
@@ -8374,6 +8378,7 @@
             "key": "Eb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 3,
@@ -8391,7 +8396,7 @@
             "trackIndex": "225"
         },
         "_activeDate": "2024-08-16T05:00:00.000Z",
-        "lastModified": "2024-09-23T06:23:29.982Z"
+        "lastModified": "2025-09-03T16:51:46.985Z"
     },
     "okidoki": {
         "track": {
@@ -9919,6 +9924,7 @@
             "key": "Ab",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 4,
@@ -9936,7 +9942,7 @@
             "trackIndex": "286"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:03:54.230Z"
+        "lastModified": "2025-09-03T14:09:20.970Z"
     },
     "stargazing": {
         "track": {
@@ -9950,6 +9956,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 0,
                 "vocals": 3,
@@ -9967,7 +9974,7 @@
             "trackIndex": "222"
         },
         "_activeDate": "2024-10-24T13:30:00.000Z",
-        "lastModified": "2024-10-22T17:08:41.867Z"
+        "lastModified": "2025-09-03T14:12:44.458Z"
     },
     "spiesmurdabeatz": {
         "track": {
@@ -10355,6 +10362,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 3,
@@ -10372,7 +10380,7 @@
             "trackIndex": "394"
         },
         "_activeDate": "2024-11-02T06:00:00.000Z",
-        "lastModified": "2024-11-02T12:15:29.575Z"
+        "lastModified": "2025-09-03T16:53:06.861Z"
     },
     "beautiful": {
         "track": {
