@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Locked and Loaded",
+        "releaseYear": 2025,
+        "duration": 160,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 100,
+        "artistName": "d4vd",
+        "ageRating": "E",
+        "albumArtFilename": "nda4iovdd9tdrvga-512x512-b5e6c0f19d54.jpg",
+        "recordingCode": "",
+        "songUUID": "943ee1d0-78e5-4b00-a202-b4dd8c45e84c",
+        "trackIndex": "656"
+    },
+    "_activeDate": "2025-09-05T00:00:00.000Z",
+    "lastModified": "2025-09-03T13:30:24.946Z"
+}
