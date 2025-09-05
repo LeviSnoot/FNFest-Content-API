@@ -526,6 +526,8 @@
   url: api/track_api/limitlessmurdabeatz.json
 - name: track_api/livinlavidaloca.json
   url: api/track_api/livinlavidaloca.json
+- name: track_api/lockedandloaded.json
+  url: api/track_api/lockedandloaded.json
 - name: track_api/lockedoutofheaven.json
   url: api/track_api/lockedoutofheaven.json
 - name: track_api/lonelyboy.json
