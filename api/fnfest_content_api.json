@@ -903,7 +903,7 @@
             "trackIndex": "92"
         },
         "_activeDate": "2023-10-30T14:55:45.948Z",
-        "lastModified": "2025-07-15T14:45:24.583Z"
+        "lastModified": "2025-09-05T14:47:49.387Z"
     },
     "bengalbasher": {
         "track": {
@@ -3783,6 +3783,7 @@
             "majorMinor": "Major",
             "albumName": "",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 2,
@@ -3800,7 +3801,7 @@
             "trackIndex": "86"
         },
         "_activeDate": "2023-11-02T18:36:15.175Z",
-        "lastModified": "2024-09-18T08:03:59.135Z"
+        "lastModified": "2025-09-05T17:30:17.610Z"
     },
     "likeag6": {
         "track": {
@@ -5674,6 +5675,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 3,
                 "proDrums": 4,
                 "vocals": 3,
@@ -5691,7 +5693,7 @@
             "trackIndex": "221"
         },
         "_activeDate": "2024-03-29T19:37:50.167Z",
-        "lastModified": "2024-09-19T05:57:29.913Z"
+        "lastModified": "2025-09-05T17:32:48.761Z"
     },
     "savage": {
         "track": {
@@ -11696,6 +11698,7 @@
             "key": "G",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 6,
                 "proBass": 3,
                 "proDrums": 2,
                 "vocals": 5,
@@ -11713,7 +11716,7 @@
             "trackIndex": "475"
         },
         "_activeDate": "2024-12-20T23:59:00.000Z",
-        "lastModified": "2024-12-17T18:12:00.497Z"
+        "lastModified": "2025-09-05T17:28:09.025Z"
     },
     "thisaintascene": {
         "track": {
