@@ -164,6 +164,8 @@
   url: api/track_api/builttogether.json
 - name: track_api/bullsonparade.json
   url: api/track_api/bullsonparade.json
+- name: track_api/bumbum.json
+  url: api/track_api/bumbum.json
 - name: track_api/bunnybouncemurdabeatz.json
   url: api/track_api/bunnybouncemurdabeatz.json
 - name: track_api/buryafriend.json
@@ -378,6 +380,8 @@
   url: api/track_api/giveitaway.json
 - name: track_api/givemeeverything.json
   url: api/track_api/givemeeverything.json
+- name: track_api/givenchy.json
+  url: api/track_api/givenchy.json
 - name: track_api/godzilla.json
   url: api/track_api/godzilla.json
 - name: track_api/gogopowerrangers.json
