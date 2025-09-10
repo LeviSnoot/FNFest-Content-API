@@ -10,6 +10,7 @@
         "key": "E",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 3,
             "proBass": 0,
             "proDrums": 1,
             "vocals": 3,
@@ -27,5 +28,5 @@
         "trackIndex": "200"
     },
     "_activeDate": "2024-03-29T19:37:50.167Z",
-    "lastModified": "2024-09-19T05:54:39.768Z"
+    "lastModified": "2025-09-09T15:44:12.103Z"
 }

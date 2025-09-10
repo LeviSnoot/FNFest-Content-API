@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "GIVENCHY",
+        "releaseYear": 2022,
+        "duration": 186,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 0,
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 5,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 138,
+        "artistName": "DUKI",
+        "ageRating": "T",
+        "albumArtFilename": "pbvvd2lng9vjty5l-512x512-da9ac6cf12de.jpg",
+        "recordingCode": "UYB282240022",
+        "songUUID": "e4959f12-41f1-449d-8af8-fc147c32264a",
+        "trackIndex": "662"
+    },
+    "_activeDate": "2025-09-09T14:30:00.000Z",
+    "lastModified": "2025-09-09T13:58:55.175Z"
+}
