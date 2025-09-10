@@ -3879,6 +3879,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 3,
@@ -3896,7 +3897,7 @@
             "trackIndex": "163"
         },
         "_activeDate": "2024-01-31T21:26:19.941Z",
-        "lastModified": "2024-09-18T08:37:20.303Z"
+        "lastModified": "2025-09-09T14:22:58.603Z"
     },
     "sucker": {
         "track": {
@@ -5008,6 +5009,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 4,
@@ -5024,7 +5026,7 @@
             "trackIndex": "180"
         },
         "_activeDate": "2024-04-23T08:00:00.000Z",
-        "lastModified": "2024-09-19T02:30:42.319Z"
+        "lastModified": "2025-09-09T15:45:51.343Z"
     },
     "fridayiminlove": {
         "track": {
@@ -5167,6 +5169,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 3,
@@ -5184,7 +5187,7 @@
             "trackIndex": "213"
         },
         "_activeDate": "2024-04-04T15:00:42.793Z",
-        "lastModified": "2024-09-19T03:54:14.164Z"
+        "lastModified": "2025-09-09T15:48:37.489Z"
     },
     "stronger": {
         "track": {
@@ -5500,7 +5503,7 @@
             "trackIndex": "168"
         },
         "_activeDate": "2024-02-01T15:45:48.904Z",
-        "lastModified": "2024-09-19T03:59:38.253Z"
+        "lastModified": "2025-09-09T14:34:42.841Z"
     },
     "lovinonme": {
         "track": {
@@ -5644,6 +5647,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 3,
@@ -5661,7 +5665,7 @@
             "trackIndex": "200"
         },
         "_activeDate": "2024-03-29T19:37:50.167Z",
-        "lastModified": "2024-09-19T05:54:39.768Z"
+        "lastModified": "2025-09-09T15:44:12.103Z"
     },
     "nextsemester": {
         "track": {
@@ -6624,6 +6628,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 2,
@@ -6641,7 +6646,7 @@
             "trackIndex": "234"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-19T06:35:49.616Z"
+        "lastModified": "2025-09-09T15:41:11.273Z"
     },
     "entersandman": {
         "track": {
@@ -9389,6 +9394,7 @@
             "key": "Eb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 2,
@@ -9406,7 +9412,7 @@
             "trackIndex": "378"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:13:44.071Z"
+        "lastModified": "2025-09-09T17:02:17.913Z"
     },
     "fellonblackdays": {
         "track": {
@@ -9863,6 +9869,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 4,
@@ -9880,7 +9887,7 @@
             "trackIndex": "334"
         },
         "_activeDate": "2024-10-24T13:30:00.000Z",
-        "lastModified": "2024-10-22T17:10:09.047Z"
+        "lastModified": "2025-09-09T15:47:21.235Z"
     },
     "unholy": {
         "track": {
@@ -10938,6 +10945,7 @@
             "key": "Bb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 3,
@@ -10955,7 +10963,7 @@
             "trackIndex": "432"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:16:15.343Z"
+        "lastModified": "2025-09-09T15:42:46.248Z"
     },
     "ftcu": {
         "track": {
@@ -11287,6 +11295,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 5,
@@ -11304,7 +11313,7 @@
             "trackIndex": "447"
         },
         "_activeDate": "2024-12-05T14:30:00.000Z",
-        "lastModified": "2024-12-03T20:16:53.214Z"
+        "lastModified": "2025-09-09T14:21:26.526Z"
     },
     "ghost": {
         "track": {
@@ -12005,7 +12014,7 @@
             "trackIndex": "347"
         },
         "_activeDate": "2025-01-02T14:30:00.000Z",
-        "lastModified": "2025-07-15T17:14:18.568Z"
+        "lastModified": "2025-09-09T20:37:15.101Z"
     },
     "demons": {
         "track": {
@@ -16946,5 +16955,69 @@
         },
         "_activeDate": "2025-09-05T00:00:00.000Z",
         "lastModified": "2025-09-05T19:22:29.622Z"
+    },
+    "givenchy": {
+        "track": {
+            "trackTitle": "GIVENCHY",
+            "releaseYear": 2022,
+            "duration": 186,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 0,
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 5,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 2,
+                "bass": 0
+            },
+            "BPM": 138,
+            "artistName": "DUKI",
+            "ageRating": "T",
+            "albumArtFilename": "pbvvd2lng9vjty5l-512x512-da9ac6cf12de.jpg",
+            "recordingCode": "UYB282240022",
+            "songUUID": "e4959f12-41f1-449d-8af8-fc147c32264a",
+            "trackIndex": "662"
+        },
+        "_activeDate": "2025-09-09T14:30:00.000Z",
+        "lastModified": "2025-09-09T13:58:55.175Z"
+    },
+    "bumbum": {
+        "track": {
+            "trackTitle": "Bum Bum",
+            "releaseYear": 2022,
+            "duration": 171,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 0,
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 2,
+                "bass": 1
+            },
+            "BPM": 127,
+            "artistName": "Mr. Pig",
+            "ageRating": "T",
+            "albumArtFilename": "rvovi8g5fyoz1jv4-512x512-6eee2050e0bf.jpg",
+            "recordingCode": "FRX282229020",
+            "songUUID": "be825f72-d682-49c9-a855-e7b13a3f439c",
+            "trackIndex": "652"
+        },
+        "_activeDate": "2025-09-09T14:30:00.000Z",
+        "lastModified": "2025-09-09T13:57:03.223Z"
     }
 }

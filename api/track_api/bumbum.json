@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Bum Bum",
+        "releaseYear": 2022,
+        "duration": 171,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 0,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 127,
+        "artistName": "Mr. Pig",
+        "ageRating": "T",
+        "albumArtFilename": "rvovi8g5fyoz1jv4-512x512-6eee2050e0bf.jpg",
+        "recordingCode": "FRX282229020",
+        "songUUID": "be825f72-d682-49c9-a855-e7b13a3f439c",
+        "trackIndex": "652"
+    },
+    "_activeDate": "2025-09-09T14:30:00.000Z",
+    "lastModified": "2025-09-09T13:57:03.223Z"
+}
