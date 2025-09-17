@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Cheguei",
+        "releaseYear": 2016,
+        "duration": 175,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 130,
+        "artistName": "LUDMILLA",
+        "ageRating": "T",
+        "albumArtFilename": "dozrknatylignosf-512x512-2bb2fc6cab61.jpg",
+        "recordingCode": "BRWMB1600423",
+        "songUUID": "e5cb094a-f18f-4247-9baf-99967dd80589",
+        "trackIndex": "629"
+    },
+    "_activeDate": "2025-09-16T14:30:00.000Z",
+    "lastModified": "2025-09-16T13:35:11.524Z"
+}

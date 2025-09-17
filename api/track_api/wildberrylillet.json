@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Wildberry Lillet",
+        "releaseYear": 2023,
+        "duration": 135,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 140,
+        "artistName": "Nina Chuba",
+        "ageRating": "T",
+        "albumArtFilename": "wxdfpe4cwjg5xhaj-512x512-5c3594fcef44.jpg",
+        "recordingCode": "DEE862201008",
+        "songUUID": "6a5fb413-1e43-495d-983e-6b14e5dd6841",
+        "trackIndex": "658"
+    },
+    "_activeDate": "2025-09-16T14:30:00.000Z",
+    "lastModified": "2025-09-16T13:40:14.544Z"
+}

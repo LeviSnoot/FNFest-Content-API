@@ -784,6 +784,7 @@
             "majorMinor": "Minor",
             "albumName": "Save Rock and Roll",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 1,
                 "vocals": 3,
@@ -801,7 +802,7 @@
             "trackIndex": "90"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:04:33.481Z"
+        "lastModified": "2025-09-16T17:02:36.064Z"
     },
     "nothingsalright": {
         "track": {
@@ -2073,6 +2074,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 3,
@@ -2090,7 +2092,7 @@
             "trackIndex": "109"
         },
         "_activeDate": "2023-11-15T14:38:17.490Z",
-        "lastModified": "2024-09-18T02:44:33.168Z"
+        "lastModified": "2025-09-16T14:08:32.689Z"
     },
     "makeitknown": {
         "track": {
@@ -2134,6 +2136,7 @@
             "key": "Eb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 3,
                 "proDrums": 5,
                 "vocals": 4,
@@ -2150,7 +2153,7 @@
             "trackIndex": "138"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-18T02:42:57.199Z"
+        "lastModified": "2025-09-16T14:07:15.691Z"
     },
     "flowers": {
         "track": {
@@ -3517,6 +3520,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 3,
@@ -3534,7 +3538,7 @@
             "trackIndex": "159"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:11:28.417Z"
+        "lastModified": "2025-09-16T17:04:27.161Z"
     },
     "sowhat": {
         "track": {
@@ -4075,6 +4079,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 1,
                 "vocals": 3,
@@ -4092,7 +4097,7 @@
             "trackIndex": "133"
         },
         "_activeDate": "2024-01-10T18:56:24.085Z",
-        "lastModified": "2024-09-18T08:31:23.123Z"
+        "lastModified": "2025-09-16T17:06:00.334Z"
     },
     "moveslikejagger": {
         "track": {
@@ -4201,6 +4206,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 2,
@@ -4218,7 +4224,7 @@
             "trackIndex": "176"
         },
         "_activeDate": "2024-03-13T13:09:02.874Z",
-        "lastModified": "2024-09-19T01:28:05.908Z"
+        "lastModified": "2025-09-16T16:45:23.586Z"
     },
     "everlong": {
         "track": {
@@ -5969,6 +5975,7 @@
             "key": "G",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 3,
@@ -5986,7 +5993,7 @@
             "trackIndex": "209"
         },
         "_activeDate": "2024-05-23T13:30:00.000Z",
-        "lastModified": "2024-09-19T06:04:03.123Z"
+        "lastModified": "2025-09-16T14:09:43.215Z"
     },
     "lordofthewasteland": {
         "track": {
@@ -6091,6 +6098,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 5,
                 "proBass": 3,
                 "proDrums": 5,
                 "vocals": 4,
@@ -6108,7 +6116,7 @@
             "trackIndex": "212"
         },
         "_activeDate": "2024-05-30T13:30:00.000Z",
-        "lastModified": "2024-09-19T06:16:55.613Z"
+        "lastModified": "2025-09-16T17:07:33.573Z"
     },
     "theboyismine": {
         "track": {
@@ -6122,6 +6130,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 3,
@@ -6139,7 +6148,7 @@
             "trackIndex": "227"
         },
         "_activeDate": "2024-05-30T13:30:00.000Z",
-        "lastModified": "2024-09-19T06:23:03.834Z"
+        "lastModified": "2025-09-16T17:09:02.304Z"
     },
     "yesand": {
         "track": {
@@ -6598,6 +6607,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 2,
@@ -6615,7 +6625,7 @@
             "trackIndex": "228"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-19T06:30:57.547Z"
+        "lastModified": "2025-09-16T13:08:38.897Z"
     },
     "whereverimayroam": {
         "track": {
@@ -7878,6 +7888,7 @@
     },
     "blackbeatles": {
         "track": {
+            "mmo": 29,
             "trackTitle": "Black Beatles",
             "releaseYear": 2016,
             "duration": 267,
@@ -7888,6 +7899,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 3,
@@ -7904,8 +7916,8 @@
             "songUUID": "d98aba7a-35d9-4c53-9d57-bc216da59716",
             "trackIndex": "291"
         },
-        "_activeDate": "2024-08-08T13:30:00.000Z",
-        "lastModified": "2024-09-23T03:53:34.096Z"
+        "_activeDate": "2025-03-11T08:00:00.000Z",
+        "lastModified": "2025-09-16T16:46:42.611Z"
     },
     "daynnite": {
         "track": {
@@ -7920,6 +7932,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 2,
@@ -7937,7 +7950,7 @@
             "trackIndex": "292"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:08:15.261Z"
+        "lastModified": "2025-09-16T13:17:33.348Z"
     },
     "sweetchildomine": {
         "track": {
@@ -9270,6 +9283,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 3,
                 "proDrums": 2,
                 "vocals": 2,
@@ -9287,7 +9301,7 @@
             "trackIndex": "343"
         },
         "_activeDate": "2024-10-03T13:30:00.000Z",
-        "lastModified": "2024-10-01T19:12:59.255Z"
+        "lastModified": "2025-09-16T16:47:56.011Z"
     },
     "thebusiness": {
         "track": {
@@ -10557,6 +10571,7 @@
     },
     "superbass": {
         "track": {
+            "ag": "RapHipHop",
             "trackTitle": "Super Bass",
             "releaseYear": 2010,
             "duration": 203,
@@ -10567,6 +10582,7 @@
             "key": "B",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 5,
@@ -10584,7 +10600,7 @@
             "trackIndex": "412"
         },
         "_activeDate": "2024-11-07T14:30:00.000Z",
-        "lastModified": "2024-11-04T16:46:44.937Z"
+        "lastModified": "2025-09-16T13:10:38.276Z"
     },
     "walkthisway": {
         "track": {
@@ -11522,6 +11538,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 3,
@@ -11539,7 +11556,7 @@
             "trackIndex": "294"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:39:43.050Z"
+        "lastModified": "2025-09-16T13:48:10.170Z"
     },
     "thediaryofjane": {
         "track": {
@@ -17023,5 +17040,101 @@
         },
         "_activeDate": "2025-09-09T14:30:00.000Z",
         "lastModified": "2025-09-09T13:57:03.223Z"
+    },
+    "wildberrylillet": {
+        "track": {
+            "trackTitle": "Wildberry Lillet",
+            "releaseYear": 2023,
+            "duration": 135,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 2,
+                "proBass": 0,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 0
+            },
+            "BPM": 140,
+            "artistName": "Nina Chuba",
+            "ageRating": "T",
+            "albumArtFilename": "wxdfpe4cwjg5xhaj-512x512-5c3594fcef44.jpg",
+            "recordingCode": "DEE862201008",
+            "songUUID": "6a5fb413-1e43-495d-983e-6b14e5dd6841",
+            "trackIndex": "658"
+        },
+        "_activeDate": "2025-09-16T14:30:00.000Z",
+        "lastModified": "2025-09-16T13:40:14.544Z"
+    },
+    "cheguei": {
+        "track": {
+            "trackTitle": "Cheguei",
+            "releaseYear": 2016,
+            "duration": 175,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 2,
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 130,
+            "artistName": "LUDMILLA",
+            "ageRating": "T",
+            "albumArtFilename": "dozrknatylignosf-512x512-2bb2fc6cab61.jpg",
+            "recordingCode": "BRWMB1600423",
+            "songUUID": "e5cb094a-f18f-4247-9baf-99967dd80589",
+            "trackIndex": "629"
+        },
+        "_activeDate": "2025-09-16T14:30:00.000Z",
+        "lastModified": "2025-09-16T13:35:11.524Z"
+    },
+    "proibidapramim": {
+        "track": {
+            "trackTitle": "Proibida Pra Mim (Grazon)",
+            "releaseYear": 1997,
+            "duration": 167,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Eb",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 1,
+                "proBass": 3,
+                "proDrums": 4,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 3
+            },
+            "BPM": 163,
+            "artistName": "Charlie Brown Jr.",
+            "ageRating": "E",
+            "albumArtFilename": "walfcioovpzvcxyy-512x512-53c55ca0a66a.jpg",
+            "recordingCode": "BREMI9700213",
+            "songUUID": "92cb00e9-6fd5-429c-9351-678d3bcd6c7c",
+            "trackIndex": "655"
+        },
+        "_activeDate": "2025-09-16T14:30:00.000Z",
+        "lastModified": "2025-09-16T13:37:49.928Z"
     }
 }
