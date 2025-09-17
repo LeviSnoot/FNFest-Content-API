@@ -202,6 +202,8 @@
   url: api/track_api/changes.json
 - name: track_api/cheapthrills.json
   url: api/track_api/cheapthrills.json
+- name: track_api/cheguei.json
+  url: api/track_api/cheguei.json
 - name: track_api/cherrycordial.json
   url: api/track_api/cherrycordial.json
 - name: track_api/chihiro.json
@@ -698,6 +700,8 @@
   url: api/track_api/positions.json
 - name: track_api/predator.json
   url: api/track_api/predator.json
+- name: track_api/proibidapramim.json
+  url: api/track_api/proibidapramim.json
 - name: track_api/provenza.json
   url: api/track_api/provenza.json
 - name: track_api/pumpedupkicks.json
@@ -1024,6 +1028,8 @@
   url: api/track_api/who.json
 - name: track_api/wholetthedogsout.json
   url: api/track_api/wholetthedogsout.json
+- name: track_api/wildberrylillet.json
+  url: api/track_api/wildberrylillet.json
 - name: track_api/wildones.json
   url: api/track_api/wildones.json
 - name: track_api/wildones2.json
