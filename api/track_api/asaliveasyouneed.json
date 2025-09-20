@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "As Alive As You Need Me To Be",
+        "releaseYear": 2025,
+        "duration": 239,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 3,
+            "proDrums": 4,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 3
+        },
+        "BPM": 107,
+        "artistName": "Nine Inch Nails",
+        "ageRating": "E",
+        "albumArtFilename": "lu8yr0jdaumjyijm-512x512-dafe5fc8dc34.jpg",
+        "recordingCode": "USUG12505531",
+        "songUUID": "8d9158cc-0672-44d1-9c5f-427836494e2c",
+        "trackIndex": "671"
+    },
+    "_activeDate": "2025-09-19T23:59:00.000Z",
+    "lastModified": "2025-09-16T13:42:39.929Z"
+}
