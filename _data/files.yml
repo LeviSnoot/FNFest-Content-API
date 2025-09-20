@@ -48,6 +48,8 @@
   url: api/track_api/apt.json
 - name: track_api/armedanddangerous.json
   url: api/track_api/armedanddangerous.json
+- name: track_api/asaliveasyouneed.json
+  url: api/track_api/asaliveasyouneed.json
 - name: track_api/astronoutintheocean.json
   url: api/track_api/astronoutintheocean.json
 - name: track_api/backstreetsback.json
