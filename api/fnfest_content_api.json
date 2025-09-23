@@ -2797,6 +2797,7 @@
             "key": "G",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 4,
@@ -2814,7 +2815,7 @@
             "trackIndex": "148"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-18T06:40:20.572Z"
+        "lastModified": "2025-09-19T17:14:54.613Z"
     },
     "metoo": {
         "track": {
