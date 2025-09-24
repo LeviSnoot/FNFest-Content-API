@@ -15,6 +15,7 @@
         "majorMinor": "Minor",
         "albumName": "Beauty Behind the Madness",
         "intensities": {
+            "bd": 5,
             "proBass": 4,
             "proDrums": 0,
             "vocals": 3,
@@ -32,5 +33,5 @@
         "trackIndex": "04"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-03-05T19:05:17.273Z"
+    "lastModified": "2025-09-23T16:31:15.209Z"
 }

@@ -1,6 +1,7 @@
 {
     "butterbarnhoedown": {
         "track": {
+            "mmo": 93,
             "trackTitle": "Butter Barn Hoedown",
             "releaseYear": 2021,
             "duration": 157,
@@ -15,6 +16,7 @@
             "majorMinor": "Major",
             "albumName": "Fortnite",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 1,
                 "vocals": 4,
@@ -31,7 +33,7 @@
             "trackIndex": "02"
         },
         "_activeDate": "2023-10-09T18:12:20.689Z",
-        "lastModified": "2024-09-13T02:31:08.018Z"
+        "lastModified": "2025-09-23T18:41:32.831Z"
     },
     "ogfutureremix": {
         "track": {
@@ -1459,6 +1461,7 @@
             "majorMinor": "Minor",
             "albumName": "Beauty Behind the Madness",
             "intensities": {
+                "bd": 5,
                 "proBass": 4,
                 "proDrums": 0,
                 "vocals": 3,
@@ -1476,7 +1479,7 @@
             "trackIndex": "04"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:05:17.273Z"
+        "lastModified": "2025-09-23T16:31:15.209Z"
     },
     "stitches": {
         "track": {
@@ -2043,6 +2046,7 @@
             "majorMinor": "Minor",
             "albumName": "Aquarium",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 3,
@@ -2060,7 +2064,7 @@
             "trackIndex": "119"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-02-27T21:26:30.025Z"
+        "lastModified": "2025-09-23T13:24:37.259Z"
     },
     "timeless": {
         "track": {
@@ -2927,6 +2931,7 @@
             "key": "Ab",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 2,
                 "proDrums": 5,
                 "vocals": 1,
@@ -2944,7 +2949,7 @@
             "trackIndex": "153"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:36:40.786Z"
+        "lastModified": "2025-09-23T16:32:49.244Z"
     },
     "bigenergy": {
         "track": {
@@ -4457,6 +4462,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 4,
@@ -4474,7 +4480,7 @@
             "trackIndex": "191"
         },
         "_activeDate": "2024-03-19T13:54:57.857Z",
-        "lastModified": "2024-09-19T02:06:20.692Z"
+        "lastModified": "2025-09-23T14:25:23.174Z"
     },
     "makedamnsure": {
         "track": {
@@ -6987,6 +6993,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 3,
@@ -7004,7 +7011,7 @@
             "trackIndex": "257"
         },
         "_activeDate": "2024-06-27T13:30:00.000Z",
-        "lastModified": "2024-09-19T07:12:55.307Z"
+        "lastModified": "2025-09-23T16:34:22.546Z"
     },
     "24kmagic": {
         "track": {
@@ -7080,6 +7087,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 3,
@@ -7097,7 +7105,7 @@
             "trackIndex": "273"
         },
         "_activeDate": "2024-07-03T13:30:00.000Z",
-        "lastModified": "2024-09-19T08:29:04.183Z"
+        "lastModified": "2025-09-23T14:28:24.530Z"
     },
     "allthestars": {
         "track": {
@@ -8433,6 +8441,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 4,
@@ -8450,7 +8459,7 @@
             "trackIndex": "305"
         },
         "_activeDate": "2024-08-16T05:00:00.000Z",
-        "lastModified": "2024-09-20T02:48:12.983Z"
+        "lastModified": "2025-09-23T14:23:47.626Z"
     },
     "tusa": {
         "track": {
@@ -8527,6 +8536,7 @@
             "key": "A",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 4,
                 "proDrums": 0,
                 "vocals": 4,
@@ -8544,7 +8554,7 @@
             "trackIndex": "321"
         },
         "_activeDate": "2024-08-22T13:30:00.000Z",
-        "lastModified": "2024-09-23T06:33:30.975Z"
+        "lastModified": "2025-09-23T14:26:55.820Z"
     },
     "espresso": {
         "track": {
@@ -9126,6 +9136,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 1,
                 "proDrums": 0,
                 "vocals": 2,
@@ -9143,7 +9154,7 @@
             "trackIndex": "280"
         },
         "_activeDate": "2024-09-19T13:30:00.000Z",
-        "lastModified": "2024-09-17T19:34:12.905Z"
+        "lastModified": "2025-09-23T14:20:44.874Z"
     },
     "september": {
         "track": {
@@ -10519,6 +10530,7 @@
             "majorMinor": "Minor",
             "albumName": "Montero ",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 4,
@@ -10536,7 +10548,7 @@
             "trackIndex": "09"
         },
         "_activeDate": "2024-11-07T14:30:00.000Z",
-        "lastModified": "2024-11-04T16:40:41.924Z"
+        "lastModified": "2025-09-23T13:30:41.009Z"
     },
     "forthenight": {
         "track": {
@@ -13472,6 +13484,7 @@
             "key": "Ab",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 4,
                 "vocals": 2,
@@ -13489,7 +13502,7 @@
             "trackIndex": "529"
         },
         "_activeDate": "2025-03-06T14:30:00.000Z",
-        "lastModified": "2025-03-10T17:04:53.740Z"
+        "lastModified": "2025-09-23T13:27:12.610Z"
     },
     "builttogether": {
         "track": {
@@ -14384,6 +14397,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 3,
@@ -14401,7 +14415,7 @@
             "trackIndex": "562"
         },
         "_activeDate": "2025-03-28T13:00:07.988Z",
-        "lastModified": "2025-04-15T14:47:18.054Z"
+        "lastModified": "2025-09-23T18:42:04.718Z"
     },
     "ifuthinkimpretty": {
         "track": {
@@ -17169,5 +17183,130 @@
         },
         "_activeDate": "2025-09-19T23:59:00.000Z",
         "lastModified": "2025-09-16T13:42:39.929Z"
+    },
+    "getlucky": {
+        "track": {
+            "trackTitle": "Get Lucky ",
+            "releaseYear": 2013,
+            "duration": 386,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Gb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 4,
+                "proBass": 4,
+                "proDrums": 4,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 3,
+                "bass": 4
+            },
+            "BPM": 116,
+            "artistName": "Daft Punk ft. Pharrell Williams and Nile Rodgers",
+            "ageRating": "E",
+            "albumArtFilename": "uwgjjzgydspifeyg-512x512-8314ef710dbe.jpg",
+            "songUUID": "aaf75dce-c458-4ceb-9ae9-b668f9600992",
+            "trackIndex": "665"
+        },
+        "_activeDate": "2025-09-23T14:30:00.000Z",
+        "lastModified": "2025-09-23T13:09:40.158Z"
+    },
+    "ifeelitcoming": {
+        "track": {
+            "trackTitle": "I Feel It Coming ",
+            "releaseYear": 2016,
+            "duration": 229,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 2,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 93,
+            "artistName": "The Weeknd ft. Daft Punk",
+            "ageRating": "T",
+            "albumArtFilename": "xin5smqxqfiohwj8-512x512-5c84b9847310.jpg",
+            "songUUID": "092c2537-54ed-4963-9f91-873219ad5e74",
+            "trackIndex": "663"
+        },
+        "_activeDate": "2025-09-23T14:30:00.000Z",
+        "lastModified": "2025-09-22T22:28:48.803Z"
+    },
+    "instantcrush": {
+        "track": {
+            "trackTitle": "Instant Crush",
+            "releaseYear": 2013,
+            "duration": 373,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Bb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 4,
+                "proBass": 4,
+                "proDrums": 1,
+                "vocals": 3,
+                "proGuitar": 2,
+                "guitar": 3,
+                "drums": 1,
+                "bass": 4
+            },
+            "BPM": 110,
+            "artistName": "Daft Punk ft. Julian Casablancas",
+            "ageRating": "E",
+            "albumArtFilename": "bdrxcondh3o6l5ir-512x512-0eb0d303006d.jpg",
+            "songUUID": "afc3bb7b-0f55-4cba-a8f2-5cab945c3bd0",
+            "trackIndex": "670"
+        },
+        "_activeDate": "2025-09-23T14:30:00.000Z",
+        "lastModified": "2025-09-23T13:10:56.452Z"
+    },
+    "starboy": {
+        "track": {
+            "trackTitle": "Starboy ",
+            "releaseYear": 2016,
+            "duration": 230,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "A",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 1,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 0,
+                "guitar": 0,
+                "drums": 1,
+                "bass": 1
+            },
+            "BPM": 93,
+            "artistName": "The Weeknd ft. Daft Punk",
+            "ageRating": "T",
+            "albumArtFilename": "n6w9trypynsyqnp4-512x512-b1714486032e.jpg",
+            "recordingCode": "USUG11600977",
+            "songUUID": "0a76c46d-55a9-4fb5-953f-da2b11c6be0b",
+            "trackIndex": "664"
+        },
+        "_activeDate": "2025-09-23T14:30:00.000Z",
+        "lastModified": "2025-09-23T13:12:40.008Z"
     }
 }
