@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Get Lucky ",
+        "releaseYear": 2013,
+        "duration": 386,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 4,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 4
+        },
+        "BPM": 116,
+        "artistName": "Daft Punk ft. Pharrell Williams and Nile Rodgers",
+        "ageRating": "E",
+        "albumArtFilename": "uwgjjzgydspifeyg-512x512-8314ef710dbe.jpg",
+        "songUUID": "aaf75dce-c458-4ceb-9ae9-b668f9600992",
+        "trackIndex": "665"
+    },
+    "_activeDate": "2025-09-23T14:30:00.000Z",
+    "lastModified": "2025-09-23T13:09:40.158Z"
+}

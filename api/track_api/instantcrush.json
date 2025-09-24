@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Instant Crush",
+        "releaseYear": 2013,
+        "duration": 373,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 4,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 3,
+            "drums": 1,
+            "bass": 4
+        },
+        "BPM": 110,
+        "artistName": "Daft Punk ft. Julian Casablancas",
+        "ageRating": "E",
+        "albumArtFilename": "bdrxcondh3o6l5ir-512x512-0eb0d303006d.jpg",
+        "songUUID": "afc3bb7b-0f55-4cba-a8f2-5cab945c3bd0",
+        "trackIndex": "670"
+    },
+    "_activeDate": "2025-09-23T14:30:00.000Z",
+    "lastModified": "2025-09-23T13:10:56.452Z"
+}
