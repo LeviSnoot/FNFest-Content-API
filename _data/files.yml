@@ -372,6 +372,8 @@
   url: api/track_api/gethimback.json
 - name: track_api/getlow.json
   url: api/track_api/getlow.json
+- name: track_api/getlucky.json
+  url: api/track_api/getlucky.json
 - name: track_api/ghost.json
   url: api/track_api/ghost.json
 - name: track_api/ghostsnstuff.json
@@ -442,6 +444,8 @@
   url: api/track_api/i.json
 - name: track_api/idol.json
   url: api/track_api/idol.json
+- name: track_api/ifeelitcoming.json
+  url: api/track_api/ifeelitcoming.json
 - name: track_api/ifuthinkimpretty.json
   url: api/track_api/ifuthinkimpretty.json
 - name: track_api/ihadsomehelp.json
@@ -466,6 +470,8 @@
   url: api/track_api/inhamood.json
 - name: track_api/insaneinthebrain.json
   url: api/track_api/insaneinthebrain.json
+- name: track_api/instantcrush.json
+  url: api/track_api/instantcrush.json
 - name: track_api/interstatelovesong.json
   url: api/track_api/interstatelovesong.json
 - name: track_api/intheend.json
@@ -828,6 +834,8 @@
   url: api/track_api/spiesmurdabeatz.json
 - name: track_api/stacysmom.json
   url: api/track_api/stacysmom.json
+- name: track_api/starboy.json
+  url: api/track_api/starboy.json
 - name: track_api/stargazing.json
   url: api/track_api/stargazing.json
 - name: track_api/starships.json
