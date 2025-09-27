@@ -4181,6 +4181,7 @@
             "key": "A",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 1,
@@ -4198,7 +4199,7 @@
             "trackIndex": "66"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:57:32.290Z"
+        "lastModified": "2025-09-26T17:20:11.658Z"
     },
     "dontyouworrychild": {
         "track": {
@@ -7621,6 +7622,7 @@
             "key": "Ab",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 4,
                 "proDrums": 4,
                 "vocals": 3,
@@ -7638,7 +7640,7 @@
             "trackIndex": "274"
         },
         "_activeDate": "2024-07-25T13:30:00.000Z",
-        "lastModified": "2024-09-20T02:37:47.844Z"
+        "lastModified": "2025-09-26T17:23:04.556Z"
     },
     "thefinalcountdown": {
         "track": {
@@ -8379,6 +8381,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 4,
@@ -8395,7 +8398,7 @@
             "trackIndex": "320"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:43:00.650Z"
+        "lastModified": "2025-09-26T17:18:40.452Z"
     },
     "myohmy": {
         "track": {
@@ -8819,6 +8822,7 @@
             "key": "B",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 1,
@@ -8836,7 +8840,7 @@
             "trackIndex": "325"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:10:01.919Z"
+        "lastModified": "2025-09-26T17:17:17.539Z"
     },
     "betteroffalone": {
         "track": {
@@ -9264,6 +9268,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 3,
@@ -9281,7 +9286,7 @@
             "trackIndex": "342"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:15:32.008Z"
+        "lastModified": "2025-09-26T17:21:41.512Z"
     },
     "dynamite2": {
         "track": {
@@ -11616,6 +11621,7 @@
             "key": "B",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 3,
@@ -11633,7 +11639,7 @@
             "trackIndex": "75"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-02-27T21:06:18.161Z"
+        "lastModified": "2025-09-26T17:15:47.654Z"
     },
     "fireball": {
         "track": {
