@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Let Me Hold You",
+        "releaseYear": 2020,
+        "duration": 202,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Ab",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 4,
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 0,
+            "guitar": 1,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 87,
+        "artistName": "Netsky & Hybrid Minds",
+        "ageRating": "E",
+        "albumArtFilename": "pcl7bkqwkmnxlgc3-512x512-f06a98512cfd.jpg",
+        "recordingCode": "GBCJY2000476",
+        "songUUID": "38ae1f82-deb9-4fda-add4-f307ff68ffcd",
+        "trackIndex": "672"
+    },
+    "_activeDate": "2025-09-30T14:30:00.000Z",
+    "lastModified": "2025-09-30T13:12:49.757Z"
+}
