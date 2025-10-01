@@ -356,6 +356,8 @@
   url: api/track_api/freebird.json
 - name: track_api/fridayiminlove.json
   url: api/track_api/fridayiminlove.json
+- name: track_api/frommetou.json
+  url: api/track_api/frommetou.json
 - name: track_api/ftcu.json
   url: api/track_api/ftcu.json
 - name: track_api/fuel.json
@@ -526,6 +528,8 @@
   url: api/track_api/lessthan.json
 - name: track_api/letitburn.json
   url: api/track_api/letitburn.json
+- name: track_api/letmeholdyou.json
+  url: api/track_api/letmeholdyou.json
 - name: track_api/letthemusicplay.json
   url: api/track_api/letthemusicplay.json
 - name: track_api/letyoudown.json
