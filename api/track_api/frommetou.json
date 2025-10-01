@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "from me to u",
+        "releaseYear": 2025,
+        "duration": 205,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 5,
+            "proDrums": 6,
+            "vocals": 4,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 6,
+            "bass": 5
+        },
+        "BPM": 100,
+        "artistName": "BABYMETAL ft. Poppy",
+        "ageRating": "T",
+        "albumArtFilename": "n5efhnecw0etvwvf-512x512-830941f2dc71.jpg",
+        "recordingCode": "USUG12502739",
+        "songUUID": "3df719a4-8925-431a-bc79-7418581534b9",
+        "trackIndex": "668"
+    },
+    "_activeDate": "2025-09-30T14:30:00.000Z",
+    "lastModified": "2025-09-30T13:09:58.312Z"
+}
