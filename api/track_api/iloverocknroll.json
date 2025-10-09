@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 46,
+        "trackTitle": "I Love Rock N Roll",
+        "releaseYear": 1981,
+        "duration": 180,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 1,
+            "proDrums": 0,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 0,
+            "bass": 1
+        },
+        "BPM": 95,
+        "artistName": "Joan Jett & The Blackhearts",
+        "ageRating": "T",
+        "albumArtFilename": "vmqpjdemdvvvhuip-512x512-1adecdb95891.jpg",
+        "recordingCode": "USBH18100118",
+        "songUUID": "a4002dfe-9bab-491a-83a0-49f1038df5b4",
+        "trackIndex": "568"
+    },
+    "_activeDate": "2025-10-02T08:00:00.000Z",
+    "lastModified": "2025-10-08T18:00:50.756Z"
+}

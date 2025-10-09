@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Rocket Man",
+        "releaseYear": 1972,
+        "duration": 289,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Bb",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 3,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 137,
+        "artistName": "Elton John",
+        "ageRating": "T",
+        "albumArtFilename": "739pjvjqp6snp086-512x512-a960ad129a71.jpg",
+        "recordingCode": "GBAMB7200006",
+        "songUUID": "395bf55a-0a6c-4498-8a46-63804cc423a0",
+        "trackIndex": "650"
+    },
+    "_activeDate": "2025-10-09T08:00:00.000Z",
+    "lastModified": "2025-10-09T11:35:33.050Z"
+}

@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Gorgeous",
+        "releaseYear": 2025,
+        "duration": 269,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 88,
+        "artistName": "Doja Cat",
+        "ageRating": "T",
+        "albumArtFilename": "65tcxvzkycp1gvqk-512x512-b2d73358ba7f.jpg",
+        "recordingCode": "USRC12501431",
+        "songUUID": "80f73a02-860d-4c19-80a9-8895b2e7ff99",
+        "trackIndex": "669"
+    },
+    "_activeDate": "2025-10-02T08:00:00.000Z",
+    "lastModified": "2025-10-08T18:01:07.853Z"
+}

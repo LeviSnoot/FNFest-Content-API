@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "AAAHH MEN!",
+        "releaseYear": 2025,
+        "duration": 195,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 3,
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 4,
+            "guitar": 3,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 115,
+        "artistName": "Doja Cat",
+        "ageRating": "T",
+        "albumArtFilename": "pr535dfi7r5fdlfi-512x512-b6628a0dd8b5.jpg",
+        "recordingCode": "USRC12501069",
+        "songUUID": "9135c732-2919-4248-b214-28b777894439",
+        "trackIndex": "666"
+    },
+    "_activeDate": "2025-10-02T08:00:00.000Z",
+    "lastModified": "2025-10-08T18:00:23.169Z"
+}
