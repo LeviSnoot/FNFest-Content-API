@@ -1952,6 +1952,7 @@
             "majorMinor": "Minor",
             "albumName": "Dangerous Woman",
             "intensities": {
+                "bd": 5,
                 "proBass": 2,
                 "proDrums": 1,
                 "vocals": 4,
@@ -1969,7 +1970,7 @@
             "trackIndex": "128"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:54:52.642Z"
+        "lastModified": "2025-10-07T17:45:03.549Z"
     },
     "holdmecloser": {
         "track": {
@@ -2762,6 +2763,7 @@
     "closer": {
         "track": {
             "mmo": 75,
+            "ag": "Pop",
             "trackTitle": "Closer",
             "releaseYear": 2016,
             "duration": 249,
@@ -2772,6 +2774,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 2,
@@ -2789,7 +2792,7 @@
             "trackIndex": "62"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:06:53.534Z"
+        "lastModified": "2025-10-07T17:42:43.457Z"
     },
     "ittakestwo": {
         "track": {
@@ -3304,6 +3307,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 5,
                 "proBass": 3,
                 "proDrums": 6,
                 "vocals": 4,
@@ -3320,7 +3324,7 @@
             "trackIndex": "152"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:19:09.299Z"
+        "lastModified": "2025-10-07T16:58:35.780Z"
     },
     "youreallmine": {
         "track": {
@@ -3404,6 +3408,7 @@
             "majorMinor": "Minor",
             "albumName": "Goodbye & Good Riddance",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 3,
@@ -3421,7 +3426,7 @@
             "trackIndex": "55"
         },
         "_activeDate": "2023-10-17T17:38:01.238Z",
-        "lastModified": "2024-09-18T07:07:02.391Z"
+        "lastModified": "2025-10-07T18:01:49.205Z"
     },
     "sandstorm": {
         "track": {
