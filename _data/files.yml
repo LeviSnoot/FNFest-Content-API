@@ -14,6 +14,8 @@
   url: api/track_api/afraid.json
 - name: track_api/africa.json
   url: api/track_api/africa.json
+- name: track_api/ahhhmen.json
+  url: api/track_api/ahhhmen.json
 - name: track_api/aintitfun.json
   url: api/track_api/aintitfun.json
 - name: track_api/aintnorestforthewicked.json
@@ -40,6 +42,8 @@
   url: api/track_api/allthestars.json
 - name: track_api/americanidiot.json
   url: api/track_api/americanidiot.json
+- name: track_api/anotherlife.json
+  url: api/track_api/anotherlife.json
 - name: track_api/applause.json
   url: api/track_api/applause.json
 - name: track_api/apple.json
@@ -198,6 +202,8 @@
   url: api/track_api/catsprowl.json
 - name: track_api/centuries.json
   url: api/track_api/centuries.json
+- name: track_api/champion.json
+  url: api/track_api/champion.json
 - name: track_api/change.json
   url: api/track_api/change.json
 - name: track_api/changes.json
@@ -294,6 +300,8 @@
   url: api/track_api/eighths.json
 - name: track_api/ellabailasola.json
   url: api/track_api/ellabailasola.json
+- name: track_api/elpaletero.json
+  url: api/track_api/elpaletero.json
 - name: track_api/emogirl.json
   url: api/track_api/emogirl.json
 - name: track_api/emptyoutyourpockets.json
@@ -356,6 +364,8 @@
   url: api/track_api/freebird.json
 - name: track_api/fridayiminlove.json
   url: api/track_api/fridayiminlove.json
+- name: track_api/friendlyfire.json
+  url: api/track_api/friendlyfire.json
 - name: track_api/frommetou.json
   url: api/track_api/frommetou.json
 - name: track_api/ftcu.json
@@ -398,6 +408,8 @@
   url: api/track_api/good4u.json
 - name: track_api/goodluckbabe.json
   url: api/track_api/goodluckbabe.json
+- name: track_api/gorgeous.json
+  url: api/track_api/gorgeous.json
 - name: track_api/gowiththeflow.json
   url: api/track_api/gowiththeflow.json
 - name: track_api/gwenpoolsmultiverse.json
@@ -452,6 +464,8 @@
   url: api/track_api/ifuthinkimpretty.json
 - name: track_api/ihadsomehelp.json
   url: api/track_api/ihadsomehelp.json
+- name: track_api/iloverocknroll.json
+  url: api/track_api/iloverocknroll.json
 - name: track_api/imawinner.json
   url: api/track_api/imawinner.json
 - name: track_api/imnotokay.json
@@ -470,6 +484,8 @@
   url: api/track_api/infinitehyperemix.json
 - name: track_api/inhamood.json
   url: api/track_api/inhamood.json
+- name: track_api/inmyroom.json
+  url: api/track_api/inmyroom.json
 - name: track_api/insaneinthebrain.json
   url: api/track_api/insaneinthebrain.json
 - name: track_api/instantcrush.json
@@ -668,6 +684,8 @@
   url: api/track_api/okidoki.json
 - name: track_api/oldtownroad.json
   url: api/track_api/oldtownroad.json
+- name: track_api/onandonremix.json
+  url: api/track_api/onandonremix.json
 - name: track_api/one.json
   url: api/track_api/one.json
 - name: track_api/onmelancholyhill.json
@@ -736,6 +754,8 @@
   url: api/track_api/regulate.json
 - name: track_api/replay.json
   url: api/track_api/replay.json
+- name: track_api/ride.json
+  url: api/track_api/ride.json
 - name: track_api/ridethelightning.json
   url: api/track_api/ridethelightning.json
 - name: track_api/ridewitme.json
@@ -746,6 +766,8 @@
   url: api/track_api/roar.json
 - name: track_api/robbery.json
   url: api/track_api/robbery.json
+- name: track_api/rocketman.json
+  url: api/track_api/rocketman.json
 - name: track_api/roses.json
   url: api/track_api/roses.json
 - name: track_api/rubysoho.json
