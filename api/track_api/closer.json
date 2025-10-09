@@ -1,6 +1,7 @@
 {
     "track": {
         "mmo": 75,
+        "ag": "Pop",
         "trackTitle": "Closer",
         "releaseYear": 2016,
         "duration": 249,
@@ -11,6 +12,7 @@
         "key": "F",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 2,
             "proBass": 1,
             "proDrums": 1,
             "vocals": 2,
@@ -28,5 +30,5 @@
         "trackIndex": "62"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-03-05T19:06:53.534Z"
+    "lastModified": "2025-10-07T17:42:43.457Z"
 }
