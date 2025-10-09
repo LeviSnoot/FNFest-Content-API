@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "El Paletero",
+        "releaseYear": 2025,
+        "duration": 203,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 1,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 99,
+        "artistName": "Epic Games",
+        "ageRating": "T",
+        "albumArtFilename": "eijgbj64iqotkwai-512x512-63c03c47c9f1.jpg",
+        "songUUID": "5a65daba-0865-4516-a54f-e7c48390518b",
+        "trackIndex": "677"
+    },
+    "_activeDate": "2025-10-09T08:00:00.000Z",
+    "lastModified": "2025-10-07T15:12:21.005Z"
+}
