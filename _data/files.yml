@@ -728,6 +728,8 @@
   url: api/track_api/popular.json
 - name: track_api/positions.json
   url: api/track_api/positions.json
+- name: track_api/ppap.json
+  url: api/track_api/ppap.json
 - name: track_api/predator.json
   url: api/track_api/predator.json
 - name: track_api/proibidapramim.json
