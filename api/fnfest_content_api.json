@@ -17401,6 +17401,38 @@
         "_activeDate": "2025-09-30T14:30:00.000Z",
         "lastModified": "2025-09-30T13:12:49.757Z"
     },
+    "ppap": {
+        "track": {
+            "trackTitle": "PPAP (Pen Pineapple Apple Pen) [Long Version]",
+            "releaseYear": 2016,
+            "duration": 127,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 1,
+                "proBass": 3,
+                "proDrums": 2,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 136,
+            "artistName": "Pikotaro",
+            "ageRating": "E",
+            "albumArtFilename": "fkqqf5a4e2qslley-512x512-8301f3209624.jpg",
+            "recordingCode": "JPB601603642",
+            "songUUID": "c7a6c4fd-e2c6-4706-b93f-7abc779e3d07",
+            "trackIndex": "673"
+        },
+        "_activeDate": "2025-10-09T23:58:00.000Z",
+        "lastModified": "2025-10-07T17:32:18.270Z"
+    },
     "champion": {
         "track": {
             "trackTitle": "Champion",
