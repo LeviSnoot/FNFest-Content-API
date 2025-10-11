@@ -14,6 +14,7 @@
         "majorMinor": "Minor",
         "albumName": "Blurryface",
         "intensities": {
+            "bd": 2,
             "proBass": 1,
             "proDrums": 3,
             "vocals": 5,
@@ -31,5 +32,5 @@
         "trackIndex": "40"
     },
     "_activeDate": "2023-10-10T15:17:52.235Z",
-    "lastModified": "2024-09-19T05:53:37.860Z"
+    "lastModified": "2025-10-10T17:34:17.765Z"
 }
