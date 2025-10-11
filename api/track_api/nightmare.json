@@ -1,6 +1,8 @@
 {
     "track": {
         "mmo": 217,
+        "sm": "Loss_Regret",
+        "ag": "Rock",
         "trackTitle": "Nightmare",
         "releaseYear": 2010,
         "duration": 370,
@@ -11,6 +13,7 @@
         "key": "D",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 3,
             "proBass": 4,
             "proDrums": 5,
             "vocals": 2,
@@ -28,5 +31,5 @@
         "trackIndex": "301"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-03-05T21:05:05.983Z"
+    "lastModified": "2025-10-10T17:23:43.718Z"
 }

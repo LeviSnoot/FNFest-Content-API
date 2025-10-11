@@ -15,7 +15,7 @@
         "majorMinor": "Minor",
         "albumName": "Black Panther: The Album",
         "intensities": {
-            "bd": 0,
+            "bd": 4,
             "proBass": 0,
             "proDrums": 4,
             "vocals": 3,
@@ -33,5 +33,5 @@
         "trackIndex": "21"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-02-27T21:12:56.635Z"
+    "lastModified": "2025-10-10T16:30:23.073Z"
 }
