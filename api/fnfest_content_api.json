@@ -17800,5 +17800,37 @@
         },
         "_activeDate": "2025-10-02T08:00:00.000Z",
         "lastModified": "2025-10-08T18:00:23.169Z"
+    },
+    "whatsnewscoobydoo": {
+        "track": {
+            "trackTitle": "What's New Scooby-Doo?",
+            "releaseYear": 2002,
+            "duration": 69,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Db",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 1,
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 3,
+                "bass": 3
+            },
+            "BPM": 158,
+            "artistName": "Simple Plan",
+            "ageRating": "E",
+            "albumArtFilename": "evkwyqw5er0lotsl-512x512-209511a19fde.jpg",
+            "recordingCode": "USRH12101840",
+            "songUUID": "cc94ab18-d503-49fc-80ad-dfba55285be9",
+            "trackIndex": "667"
+        },
+        "_activeDate": "2025-10-04T23:58:00.000Z",
+        "lastModified": "2025-10-08T18:01:53.212Z"
     }
 }
