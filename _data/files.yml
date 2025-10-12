@@ -1050,6 +1050,8 @@
   url: api/track_api/whatislove.json
 - name: track_api/whatsmyageagain.json
   url: api/track_api/whatsmyageagain.json
+- name: track_api/whatsnewscoobydoo.json
+  url: api/track_api/whatsnewscoobydoo.json
 - name: track_api/whatspoppin.json
   url: api/track_api/whatspoppin.json
 - name: track_api/wheneverwherever.json
