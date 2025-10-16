@@ -239,6 +239,7 @@
             "majorMinor": "Minor",
             "albumName": "When We All Fall Asleep, Where Do We Go?",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 2,
@@ -256,7 +257,7 @@
             "trackIndex": "23"
         },
         "_activeDate": "2023-12-18T00:00:00.000Z",
-        "lastModified": "2024-09-13T07:07:29.081Z"
+        "lastModified": "2025-10-14T13:35:25.328Z"
     },
     "badromance": {
         "track": {
@@ -372,13 +373,11 @@
             "iconDrum": "Drum",
             "iconGuitar": "Guitar",
             "iconVocals": "Vocals",
-            "genres": [
-                "Pop"
-            ],
             "key": "E",
             "majorMinor": "Minor",
             "albumName": "DNCE",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 3,
@@ -396,7 +395,7 @@
             "trackIndex": "26"
         },
         "_activeDate": "2023-12-18T00:00:00.000Z",
-        "lastModified": "2024-09-14T00:42:35.962Z"
+        "lastModified": "2025-10-14T13:37:44.180Z"
     },
     "countingstars": {
         "track": {
@@ -1790,6 +1789,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 4,
@@ -1807,7 +1807,7 @@
             "trackIndex": "69"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-13T06:12:52.078Z"
+        "lastModified": "2025-10-15T13:55:50.819Z"
     },
     "whenicomearound": {
         "track": {
@@ -2017,6 +2017,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 3,
@@ -2034,7 +2035,7 @@
             "trackIndex": "124"
         },
         "_activeDate": "2023-12-06T21:28:26.944Z",
-        "lastModified": "2024-09-18T02:27:57.133Z"
+        "lastModified": "2025-10-14T13:42:02.841Z"
     },
     "barbiegirl": {
         "track": {
@@ -4884,6 +4885,7 @@
             "key": "G",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 2,
@@ -4901,7 +4903,7 @@
             "trackIndex": "174"
         },
         "_activeDate": "2024-04-23T08:00:00.000Z",
-        "lastModified": "2024-09-19T02:29:09.507Z"
+        "lastModified": "2025-10-15T13:52:14.025Z"
     },
     "youngblood": {
         "track": {
@@ -5008,6 +5010,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 4,
@@ -5025,7 +5028,7 @@
             "trackIndex": "182"
         },
         "_activeDate": "2024-04-23T08:00:00.000Z",
-        "lastModified": "2024-09-19T02:33:42.801Z"
+        "lastModified": "2025-10-14T13:40:08.511Z"
     },
     "sillybros": {
         "track": {
@@ -8249,6 +8252,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 4,
@@ -8266,7 +8270,7 @@
             "trackIndex": "275"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:08:43.366Z"
+        "lastModified": "2025-10-14T13:31:12.866Z"
     },
     "takeovercontrol": {
         "track": {
@@ -17670,7 +17674,7 @@
             "trackIndex": "650"
         },
         "_activeDate": "2025-10-09T08:00:00.000Z",
-        "lastModified": "2025-10-09T11:35:33.050Z"
+        "lastModified": "2025-10-13T15:05:16.573Z"
     },
     "gorgeous": {
         "track": {
