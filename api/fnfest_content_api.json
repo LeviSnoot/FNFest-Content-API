@@ -1292,6 +1292,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 2,
@@ -1309,7 +1310,7 @@
             "trackIndex": "73"
         },
         "_activeDate": "2024-02-22T09:00:00.000Z",
-        "lastModified": "2024-09-14T02:04:16.817Z"
+        "lastModified": "2025-10-21T17:20:16.095Z"
     },
     "winterfestwish": {
         "track": {
@@ -2712,6 +2713,7 @@
             "key": "Ab",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 2,
@@ -2729,7 +2731,7 @@
             "trackIndex": "131"
         },
         "_activeDate": "2024-01-10T18:48:20.579Z",
-        "lastModified": "2024-09-18T06:33:17.374Z"
+        "lastModified": "2025-10-21T18:27:12.518Z"
     },
     "allthesmallthings": {
         "track": {
@@ -3179,6 +3181,7 @@
             "majorMinor": "Minor",
             "albumName": "Woodstock",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 3,
@@ -3196,7 +3199,7 @@
             "trackIndex": "50"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:20:53.751Z"
+        "lastModified": "2025-10-21T13:34:32.729Z"
     },
     "downwiththesickness": {
         "track": {
@@ -5235,6 +5238,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 5,
                 "proBass": 3,
                 "proDrums": 2,
                 "vocals": 3,
@@ -5252,7 +5256,7 @@
             "trackIndex": "196"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2024-09-19T03:50:09.606Z"
+        "lastModified": "2025-10-21T13:39:22.774Z"
     },
     "killinginthename": {
         "track": {
@@ -7250,6 +7254,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 3,
                 "proDrums": 2,
                 "vocals": 4,
@@ -7267,7 +7272,7 @@
             "trackIndex": "260"
         },
         "_activeDate": "2024-07-03T13:30:00.000Z",
-        "lastModified": "2024-09-19T08:28:07.937Z"
+        "lastModified": "2025-10-21T17:22:04.981Z"
     },
     "dynamite": {
         "track": {
@@ -9913,6 +9918,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 4,
                 "vocals": 3,
@@ -9930,7 +9936,7 @@
             "trackIndex": "338"
         },
         "_activeDate": "2024-10-15T18:13:00.000Z",
-        "lastModified": "2024-10-15T18:11:21.821Z"
+        "lastModified": "2025-10-21T13:36:16.628Z"
     },
     "thespins": {
         "track": {
@@ -10168,6 +10174,7 @@
             "key": "Db",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 0,
                 "proDrums": 0,
                 "vocals": 4,
@@ -10185,7 +10192,7 @@
             "trackIndex": "387"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:12:24.693Z"
+        "lastModified": "2025-10-21T17:23:37.484Z"
     },
     "larrysplace": {
         "track": {
@@ -10899,6 +10906,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 3,
@@ -10916,7 +10924,7 @@
             "trackIndex": "427"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:35:35.518Z"
+        "lastModified": "2025-10-21T18:28:42.379Z"
     },
     "beautifulthings": {
         "track": {
@@ -13128,6 +13136,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 3,
@@ -13145,7 +13154,7 @@
             "trackIndex": "327"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:59:57.972Z"
+        "lastModified": "2025-10-21T13:37:45.446Z"
     },
     "losecontrol": {
         "track": {
@@ -17842,5 +17851,68 @@
         },
         "_activeDate": "2025-10-04T23:58:00.000Z",
         "lastModified": "2025-10-08T18:01:53.212Z"
+    },
+    "oiiaoiia": {
+        "track": {
+            "trackTitle": "OIIA OIIA (Spinning Cat)",
+            "releaseYear": 2025,
+            "duration": 138,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Keyboard",
+            "key": "Eb",
+            "majorMinor": "Minor",
+            "intensities": {
+                "proBass": 1,
+                "proDrums": 4,
+                "vocals": 5,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 150,
+            "artistName": "W&W",
+            "ageRating": "E",
+            "albumArtFilename": "x5to7fuqgyhbygcv-512x512-f01315287a98.jpg",
+            "recordingCode": "NL4VT2100465",
+            "songUUID": "eb1090c3-0ebc-41f8-be7a-94d408c462c4",
+            "trackIndex": "688"
+        },
+        "_activeDate": "2025-10-17T14:41:40.400Z",
+        "lastModified": "2025-10-21T14:11:10.967Z"
+    },
+    "shelter": {
+        "track": {
+            "trackTitle": "Shelter",
+            "releaseYear": 2017,
+            "duration": 222,
+            "iconBass": "Keyboard",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 3,
+                "proBass": 1,
+                "proDrums": 4,
+                "vocals": 2,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 4,
+                "bass": 1
+            },
+            "BPM": 100,
+            "artistName": "Porter Robinson, Madeon",
+            "ageRating": "E",
+            "albumArtFilename": "d2wmas5oawkowgl4-512x512-370f29a983ad.jpg",
+            "recordingCode": "QMUY41600040",
+            "songUUID": "0e083c8c-b302-4ef9-b7fa-5bdde29372f7",
+            "trackIndex": "689"
+        },
+        "_activeDate": "2025-10-17T14:42:14.227Z",
+        "lastModified": "2025-10-21T14:12:05.899Z"
     }
 }
