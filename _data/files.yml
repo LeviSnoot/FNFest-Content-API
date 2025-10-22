@@ -680,6 +680,8 @@
   url: api/track_api/ogfutureremix.json
 - name: track_api/ohshhh.json
   url: api/track_api/ohshhh.json
+- name: track_api/oiiaoiia.json
+  url: api/track_api/oiiaoiia.json
 - name: track_api/okidoki.json
   url: api/track_api/okidoki.json
 - name: track_api/oldtownroad.json
@@ -818,6 +820,8 @@
   url: api/track_api/sexyandiknowit.json
 - name: track_api/sexyback.json
   url: api/track_api/sexyback.json
+- name: track_api/shelter.json
+  url: api/track_api/shelter.json
 - name: track_api/shivers.json
   url: api/track_api/shivers.json
 - name: track_api/shortskirtlongjacket.json
