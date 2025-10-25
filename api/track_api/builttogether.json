@@ -10,6 +10,7 @@
         "key": "Db",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 2,
             "proBass": 1,
             "proDrums": 3,
             "vocals": 2,
@@ -26,5 +27,5 @@
         "trackIndex": "531"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-03-12T13:06:07.479Z"
+    "lastModified": "2025-10-24T18:00:00.400Z"
 }
