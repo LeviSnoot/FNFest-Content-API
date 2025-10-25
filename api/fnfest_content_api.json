@@ -683,6 +683,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 3,
@@ -700,7 +701,7 @@
             "trackIndex": "95"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:46:42.894Z"
+        "lastModified": "2025-10-24T16:54:05.144Z"
     },
     "i": {
         "track": {
@@ -715,6 +716,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 5,
                 "proDrums": 5,
                 "vocals": 6,
@@ -732,7 +734,7 @@
             "trackIndex": "110"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:52:35.420Z"
+        "lastModified": "2025-10-24T16:57:39.701Z"
     },
     "mrbrightside": {
         "track": {
@@ -1325,6 +1327,7 @@
             "key": "B",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 5,
                 "vocals": 3,
@@ -1341,7 +1344,7 @@
             "trackIndex": "111"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:34:56.110Z"
+        "lastModified": "2025-10-24T17:03:20.127Z"
     },
     "beautifulday": {
         "track": {
@@ -1987,6 +1990,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 3,
@@ -2004,7 +2008,7 @@
             "trackIndex": "129"
         },
         "_activeDate": "2024-01-10T18:34:02.519Z",
-        "lastModified": "2024-09-18T02:32:16.759Z"
+        "lastModified": "2025-10-24T16:55:40.944Z"
     },
     "singlesoon": {
         "track": {
@@ -2682,6 +2686,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 4,
                 "proDrums": 2,
                 "vocals": 3,
@@ -2699,7 +2704,7 @@
             "trackIndex": "147"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T18:51:44.409Z"
+        "lastModified": "2025-10-24T16:52:21.956Z"
     },
     "allofme": {
         "track": {
@@ -2746,6 +2751,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 1,
@@ -2763,7 +2769,7 @@
             "trackIndex": "141"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-02-27T21:10:49.548Z"
+        "lastModified": "2025-10-24T16:48:45.094Z"
     },
     "closer": {
         "track": {
@@ -5980,6 +5986,7 @@
             "key": "Eb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 4,
                 "proDrums": 3,
                 "vocals": 3,
@@ -5997,7 +6004,7 @@
             "trackIndex": "231"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:23:58.572Z"
+        "lastModified": "2025-10-24T18:01:42.800Z"
     },
     "rubysoho": {
         "track": {
@@ -8076,6 +8083,7 @@
             "key": "Gb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 5,
                 "proBass": 5,
                 "proDrums": 5,
                 "vocals": 4,
@@ -8093,7 +8101,7 @@
             "trackIndex": "270"
         },
         "_activeDate": "2024-08-08T13:30:00.000Z",
-        "lastModified": "2024-09-23T06:28:33.178Z"
+        "lastModified": "2025-10-24T17:01:17.465Z"
     },
     "welcometothejungle": {
         "track": {
@@ -8738,6 +8746,7 @@
             "key": "Db",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 4,
@@ -8755,7 +8764,7 @@
             "trackIndex": "304"
         },
         "_activeDate": "2024-08-29T13:30:00.000Z",
-        "lastModified": "2024-11-04T16:16:18.614Z"
+        "lastModified": "2025-10-24T12:55:22.880Z"
     },
     "fly": {
         "track": {
@@ -9151,6 +9160,7 @@
             "key": "Ab",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 3,
@@ -9168,7 +9178,7 @@
             "trackIndex": "281"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-02-27T21:18:07.761Z"
+        "lastModified": "2025-10-24T16:50:12.843Z"
     },
     "boulevardofbrokendreams": {
         "track": {
@@ -12624,6 +12634,7 @@
             "key": "A",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 5,
                 "proBass": 4,
                 "proDrums": 5,
                 "vocals": 5,
@@ -12641,7 +12652,7 @@
             "trackIndex": "462"
         },
         "_activeDate": "2025-01-14T09:00:00.000Z",
-        "lastModified": "2025-01-13T20:25:46.616Z"
+        "lastModified": "2025-10-24T16:59:22.402Z"
     },
     "mia": {
         "track": {
@@ -13578,6 +13589,7 @@
             "key": "Db",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 2,
@@ -13594,7 +13606,7 @@
             "trackIndex": "531"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-12T13:06:07.479Z"
+        "lastModified": "2025-10-24T18:00:00.400Z"
     },
     "decade": {
         "track": {
@@ -17501,7 +17513,7 @@
             "trackIndex": "678"
         },
         "_activeDate": "2025-10-09T08:00:00.000Z",
-        "lastModified": "2025-10-07T13:59:12.064Z"
+        "lastModified": "2025-10-24T14:06:30.933Z"
     },
     "onandonremix": {
         "track": {
@@ -17531,7 +17543,7 @@
             "trackIndex": "675"
         },
         "_activeDate": "2025-10-09T08:00:00.000Z",
-        "lastModified": "2025-10-07T13:39:49.106Z"
+        "lastModified": "2025-10-24T14:03:23.382Z"
     },
     "anotherlife": {
         "track": {
@@ -17563,7 +17575,7 @@
             "trackIndex": "680"
         },
         "_activeDate": "2025-10-09T08:00:00.000Z",
-        "lastModified": "2025-10-07T13:51:01.994Z"
+        "lastModified": "2025-10-24T14:05:44.749Z"
     },
     "friendlyfire": {
         "track": {
@@ -17595,7 +17607,7 @@
             "trackIndex": "676"
         },
         "_activeDate": "2025-10-09T08:00:00.000Z",
-        "lastModified": "2025-10-07T13:53:05.256Z"
+        "lastModified": "2025-10-24T14:06:07.861Z"
     },
     "elpaletero": {
         "track": {
@@ -17626,7 +17638,7 @@
             "trackIndex": "677"
         },
         "_activeDate": "2025-10-09T08:00:00.000Z",
-        "lastModified": "2025-10-07T15:12:21.005Z"
+        "lastModified": "2025-10-24T14:08:16.006Z"
     },
     "ride": {
         "track": {
@@ -17657,7 +17669,7 @@
             "trackIndex": "674"
         },
         "_activeDate": "2025-10-09T08:00:00.000Z",
-        "lastModified": "2025-10-07T14:02:19.991Z"
+        "lastModified": "2025-10-24T14:07:13.932Z"
     },
     "rocketman": {
         "track": {
@@ -17689,7 +17701,7 @@
             "trackIndex": "650"
         },
         "_activeDate": "2025-10-09T08:00:00.000Z",
-        "lastModified": "2025-10-13T15:05:16.573Z"
+        "lastModified": "2025-10-24T14:08:38.356Z"
     },
     "gorgeous": {
         "track": {
@@ -17721,7 +17733,7 @@
             "trackIndex": "669"
         },
         "_activeDate": "2025-10-02T08:00:00.000Z",
-        "lastModified": "2025-10-08T18:01:07.853Z"
+        "lastModified": "2025-10-24T14:06:58.873Z"
     },
     "inmyroom": {
         "track": {
@@ -17753,7 +17765,7 @@
             "trackIndex": "679"
         },
         "_activeDate": "2025-10-02T08:00:00.000Z",
-        "lastModified": "2025-10-08T17:59:54.754Z"
+        "lastModified": "2025-10-24T14:04:42.362Z"
     },
     "iloverocknroll": {
         "track": {
@@ -17786,7 +17798,7 @@
             "trackIndex": "568"
         },
         "_activeDate": "2025-10-02T08:00:00.000Z",
-        "lastModified": "2025-10-08T18:00:50.756Z"
+        "lastModified": "2025-10-24T14:05:10.905Z"
     },
     "ahhhmen": {
         "track": {
@@ -17886,7 +17898,7 @@
     "shelter": {
         "track": {
             "trackTitle": "Shelter",
-            "releaseYear": 2017,
+            "releaseYear": 2016,
             "duration": 222,
             "iconBass": "Keyboard",
             "iconDrum": "Drum",
@@ -17913,6 +17925,6 @@
             "trackIndex": "689"
         },
         "_activeDate": "2025-10-17T14:42:14.227Z",
-        "lastModified": "2025-10-22T17:20:10.531Z"
+        "lastModified": "2025-10-24T12:34:58.152Z"
     }
 }
