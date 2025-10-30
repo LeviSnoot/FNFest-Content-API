@@ -11,6 +11,7 @@
         "majorMinor": "Major",
         "albumName": "",
         "intensities": {
+            "bd": 4,
             "proBass": 0,
             "proDrums": 0,
             "vocals": 5,
@@ -28,5 +29,5 @@
         "trackIndex": "45"
     },
     "_activeDate": "2024-08-22T13:30:00.000Z",
-    "lastModified": "2024-09-20T02:49:51.352Z"
+    "lastModified": "2025-10-29T17:03:49.181Z"
 }
