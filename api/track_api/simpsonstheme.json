@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "The Simpsons Main Title Theme (non-union re-record)",
+        "releaseYear": 2019,
+        "duration": 81,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "proBass": 2,
+            "proDrums": 4,
+            "vocals": 5,
+            "proGuitar": 5,
+            "guitar": 6,
+            "drums": 5,
+            "bass": 1
+        },
+        "BPM": 172,
+        "artistName": "Danny Elfman",
+        "ageRating": "E",
+        "albumArtFilename": "bl0iiohxaylblfhc-512x512-e0d0574ac91b.jpg",
+        "recordingCode": "USHR12551078",
+        "songUUID": "e6c87614-c358-422a-ae6c-ecd14be260d1",
+        "trackIndex": "682"
+    },
+    "_activeDate": "2025-11-01T15:30:00.000Z",
+    "lastModified": "2025-10-31T18:51:10.000Z"
+}
