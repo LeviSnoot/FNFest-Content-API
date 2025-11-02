@@ -834,6 +834,8 @@
   url: api/track_api/sidetoside.json
 - name: track_api/sillybros.json
   url: api/track_api/sillybros.json
+- name: track_api/simpsonstheme.json
+  url: api/track_api/simpsonstheme.json
 - name: track_api/singlesoon.json
   url: api/track_api/singlesoon.json
 - name: track_api/sizzlinsunshine.json
