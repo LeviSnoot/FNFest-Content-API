@@ -16557,13 +16557,13 @@
             "BPM": 94,
             "artistName": "Ron Wasserman",
             "ageRating": "E",
-            "albumArtFilename": "cp0azjhqjzxrw2qn-2460x2460-3460215c9e39.jpg",
+            "albumArtFilename": "cp0azjhqjzxrw2qn-512x512-2fa5a8deb8f7.jpg",
             "recordingCode": "ushm91268074",
             "songUUID": "08495c29-acd4-4202-883b-7507a728c575",
             "trackIndex": "631"
         },
         "_activeDate": "2025-08-08T14:00:00.000Z",
-        "lastModified": "2025-08-05T18:47:27.333Z"
+        "lastModified": "2025-11-03T16:42:56.964Z"
     },
     "scarymonsters": {
         "track": {
@@ -17936,7 +17936,7 @@
     },
     "simpsonstheme": {
         "track": {
-            "trackTitle": "The Simpsons Main Title Theme (non-union re-record)",
+            "trackTitle": "The Simpsons Main Title Theme",
             "releaseYear": 2019,
             "duration": 81,
             "iconBass": "Bass",
@@ -17963,6 +17963,6 @@
             "trackIndex": "682"
         },
         "_activeDate": "2025-11-01T15:30:00.000Z",
-        "lastModified": "2025-10-31T18:51:10.000Z"
+        "lastModified": "2025-11-03T14:22:20.647Z"
     }
 }
