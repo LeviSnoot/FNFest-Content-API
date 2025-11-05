@@ -11,6 +11,7 @@
         "majorMinor": "Minor",
         "albumName": "Mi Gente",
         "intensities": {
+            "bd": 4,
             "proBass": 0,
             "proDrums": 3,
             "vocals": 4,
@@ -28,5 +29,5 @@
         "trackIndex": "34"
     },
     "_activeDate": "2023-10-10T14:59:13.021Z",
-    "lastModified": "2025-03-18T20:35:13.158Z"
+    "lastModified": "2025-11-04T16:46:25.090Z"
 }

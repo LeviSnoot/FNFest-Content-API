@@ -15,6 +15,7 @@
         "majorMinor": "Minor",
         "albumName": "The Sickness",
         "intensities": {
+            "bd": 2,
             "proBass": 4,
             "proDrums": 4,
             "vocals": 3,
@@ -32,5 +33,5 @@
         "trackIndex": "07"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-03-05T19:11:18.928Z"
+    "lastModified": "2025-11-04T17:42:21.198Z"
 }

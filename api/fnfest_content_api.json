@@ -33,7 +33,7 @@
             "trackIndex": "02"
         },
         "_activeDate": "2023-10-09T18:12:20.689Z",
-        "lastModified": "2025-09-23T18:41:32.831Z"
+        "lastModified": "2025-10-29T12:53:51.768Z"
     },
     "ogfutureremix": {
         "track": {
@@ -144,6 +144,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 3,
@@ -160,7 +161,7 @@
             "trackIndex": "61"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:20:27.810Z"
+        "lastModified": "2025-11-04T16:48:13.141Z"
     },
     "braceforchaos": {
         "track": {
@@ -555,6 +556,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 2,
@@ -572,7 +574,7 @@
             "trackIndex": "87"
         },
         "_activeDate": "2023-12-19T23:59:00.000Z",
-        "lastModified": "2024-09-14T01:59:25.359Z"
+        "lastModified": "2025-11-04T19:45:06.209Z"
     },
     "flickeringflame": {
         "track": {
@@ -617,6 +619,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 3,
@@ -634,7 +637,7 @@
             "trackIndex": "91"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:27:30.112Z"
+        "lastModified": "2025-11-04T17:46:37.473Z"
     },
     "gowiththeflow": {
         "track": {
@@ -1923,6 +1926,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 2,
@@ -1940,7 +1944,7 @@
             "trackIndex": "112"
         },
         "_activeDate": "2023-11-21T15:06:10.415Z",
-        "lastModified": "2024-09-18T02:24:28.040Z"
+        "lastModified": "2025-11-04T16:50:55.831Z"
     },
     "intoyou": {
         "track": {
@@ -3226,6 +3230,7 @@
             "majorMinor": "Minor",
             "albumName": "The Sickness",
             "intensities": {
+                "bd": 2,
                 "proBass": 4,
                 "proDrums": 4,
                 "vocals": 3,
@@ -3243,7 +3248,7 @@
             "trackIndex": "07"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:11:18.928Z"
+        "lastModified": "2025-11-04T17:42:21.198Z"
     },
     "feelgoodinc": {
         "track": {
@@ -3487,6 +3492,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 3,
@@ -3504,7 +3510,7 @@
             "trackIndex": "106"
         },
         "_activeDate": "2023-11-08T22:31:24.611Z",
-        "lastModified": "2024-09-18T07:08:39.375Z"
+        "lastModified": "2025-11-04T17:50:03.082Z"
     },
     "firework": {
         "track": {
@@ -3850,6 +3856,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 4,
@@ -3867,7 +3874,7 @@
             "trackIndex": "88"
         },
         "_activeDate": "2023-11-03T13:44:02.397Z",
-        "lastModified": "2024-09-18T08:06:21.650Z"
+        "lastModified": "2025-11-04T17:48:27.599Z"
     },
     "yourlove9pm": {
         "track": {
@@ -4649,6 +4656,7 @@
             "majorMinor": "Minor",
             "albumName": "Mi Gente",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 4,
@@ -4666,7 +4674,7 @@
             "trackIndex": "34"
         },
         "_activeDate": "2023-10-10T14:59:13.021Z",
-        "lastModified": "2025-03-18T20:35:13.158Z"
+        "lastModified": "2025-11-04T16:46:25.090Z"
     },
     "justagirl": {
         "track": {
@@ -5086,6 +5094,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 3,
@@ -5103,7 +5112,7 @@
             "trackIndex": "170"
         },
         "_activeDate": "2024-04-23T08:00:00.000Z",
-        "lastModified": "2024-09-19T02:24:29.918Z"
+        "lastModified": "2025-11-04T19:46:29.804Z"
     },
     "thereforeiam": {
         "track": {
@@ -5828,6 +5837,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 0,
                 "vocals": 3,
@@ -5845,7 +5855,7 @@
             "trackIndex": "220"
         },
         "_activeDate": "2024-04-19T18:00:00.000Z",
-        "lastModified": "2024-09-19T06:01:57.260Z"
+        "lastModified": "2025-11-04T17:53:08.871Z"
     },
     "chihiro": {
         "track": {
@@ -6846,6 +6856,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 5,
                 "proDrums": 4,
                 "vocals": 2,
@@ -6863,7 +6874,7 @@
             "trackIndex": "238"
         },
         "_activeDate": "2024-06-20T13:30:00.000Z",
-        "lastModified": "2024-09-19T07:04:18.673Z"
+        "lastModified": "2025-11-04T17:51:37.178Z"
     },
     "luxaeterna": {
         "track": {
@@ -6910,6 +6921,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 2,
@@ -6927,7 +6939,7 @@
             "trackIndex": "237"
         },
         "_activeDate": "2024-08-16T05:00:00.000Z",
-        "lastModified": "2024-09-19T06:48:04.775Z"
+        "lastModified": "2025-11-04T19:43:41.951Z"
     },
     "forwhomthebelltolls": {
         "track": {
@@ -7701,6 +7713,7 @@
             "key": "Gb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 1,
@@ -7718,7 +7731,7 @@
             "trackIndex": "261"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:25:45.436Z"
+        "lastModified": "2025-11-04T16:49:34.461Z"
     },
     "unsainted": {
         "track": {
@@ -9292,6 +9305,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 3,
                 "proDrums": 1,
                 "vocals": 3,
@@ -9309,7 +9323,7 @@
             "trackIndex": "340"
         },
         "_activeDate": "2024-09-26T13:30:00.000Z",
-        "lastModified": "2024-09-26T14:39:18.867Z"
+        "lastModified": "2025-11-04T19:42:04.234Z"
     },
     "sexyback": {
         "track": {
@@ -12390,6 +12404,7 @@
             "key": "Eb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 3,
@@ -12407,7 +12422,7 @@
             "trackIndex": "482"
         },
         "_activeDate": "2025-01-13T09:00:00.000Z",
-        "lastModified": "2025-01-13T21:30:23.600Z"
+        "lastModified": "2025-11-04T19:55:06.714Z"
     },
     "dexting": {
         "track": {
@@ -12607,6 +12622,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 4,
                 "proDrums": 4,
                 "vocals": 4,
@@ -12624,7 +12640,7 @@
             "trackIndex": "483"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:36:00.777Z"
+        "lastModified": "2025-11-04T17:54:28.496Z"
     },
     "magicalcureloveshot": {
         "track": {
@@ -13644,7 +13660,7 @@
             "trackIndex": "541"
         },
         "_activeDate": "2025-03-06T14:30:00.000Z",
-        "lastModified": "2025-08-12T18:41:25.992Z"
+        "lastModified": "2025-11-04T17:44:57.065Z"
     },
     "melt": {
         "track": {
