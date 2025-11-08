@@ -332,6 +332,7 @@
     },
     "buddyholly": {
         "track": {
+            "mmo": 132,
             "trackTitle": "Buddy Holly",
             "releaseYear": 1994,
             "duration": 164,
@@ -346,6 +347,7 @@
             "majorMinor": "Major",
             "albumName": "Weezer (The Blue Album)",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 3,
@@ -363,7 +365,7 @@
             "trackIndex": "25"
         },
         "_activeDate": "2023-12-19T00:00:00.000Z",
-        "lastModified": "2024-09-14T01:57:12.562Z"
+        "lastModified": "2025-11-07T19:26:35.401Z"
     },
     "cakebytheocean": {
         "track": {
@@ -1830,6 +1832,7 @@
             "key": "Gb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 2,
@@ -1847,7 +1850,7 @@
             "trackIndex": "122"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:32:37.879Z"
+        "lastModified": "2025-11-07T18:00:42.971Z"
     },
     "welcometoparadise": {
         "track": {
@@ -2125,6 +2128,7 @@
             "key": "Eb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 2,
                 "proDrums": 5,
                 "vocals": 5,
@@ -2141,7 +2145,7 @@
             "trackIndex": "139"
         },
         "_activeDate": "2024-01-23T13:49:41.626Z",
-        "lastModified": "2024-09-18T02:38:28.208Z"
+        "lastModified": "2025-11-07T19:33:06.812Z"
     },
     "streetsignite": {
         "track": {
@@ -3588,6 +3592,7 @@
             "key": "Gb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 4,
@@ -3605,7 +3610,7 @@
             "trackIndex": "158"
         },
         "_activeDate": "2024-01-29T16:55:44.813Z",
-        "lastModified": "2024-09-18T07:19:44.823Z"
+        "lastModified": "2025-11-07T17:59:02.322Z"
     },
     "xgongiveittoya": {
         "track": {
@@ -5193,6 +5198,7 @@
             "majorMinor": "Minor",
             "albumName": "Tickets To My Downfall",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 3,
@@ -5210,7 +5216,7 @@
             "trackIndex": "47"
         },
         "_activeDate": "2023-10-10T18:18:20.864Z",
-        "lastModified": "2024-11-15T14:28:43.343Z"
+        "lastModified": "2025-11-07T17:55:52.650Z"
     },
     "thisishowwedoit": {
         "track": {
@@ -6124,6 +6130,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 6,
@@ -6140,7 +6147,7 @@
             "trackIndex": "247"
         },
         "_activeDate": "2024-05-24T08:00:00.000Z",
-        "lastModified": "2024-09-19T06:10:04.201Z"
+        "lastModified": "2025-11-07T17:57:31.449Z"
     },
     "beggin": {
         "track": {
@@ -11291,6 +11298,7 @@
             "key": "Gb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 0,
                 "proBass": 2,
                 "proDrums": 5,
                 "vocals": 3,
@@ -11307,7 +11315,7 @@
             "trackIndex": "442"
         },
         "_activeDate": "2024-12-01T03:00:00.000Z",
-        "lastModified": "2024-11-26T20:33:51.784Z"
+        "lastModified": "2025-11-07T19:28:34.377Z"
     },
     "nightrosessong": {
         "track": {
@@ -17979,6 +17987,6 @@
             "trackIndex": "682"
         },
         "_activeDate": "2025-11-01T15:30:00.000Z",
-        "lastModified": "2025-11-03T14:22:20.647Z"
+        "lastModified": "2025-11-07T21:11:33.065Z"
     }
 }

@@ -1,5 +1,6 @@
 {
     "track": {
+        "mmo": 132,
         "trackTitle": "Buddy Holly",
         "releaseYear": 1994,
         "duration": 164,
@@ -14,6 +15,7 @@
         "majorMinor": "Major",
         "albumName": "Weezer (The Blue Album)",
         "intensities": {
+            "bd": 3,
             "proBass": 1,
             "proDrums": 1,
             "vocals": 3,
@@ -31,5 +33,5 @@
         "trackIndex": "25"
     },
     "_activeDate": "2023-12-19T00:00:00.000Z",
-    "lastModified": "2024-09-14T01:57:12.562Z"
+    "lastModified": "2025-11-07T19:26:35.401Z"
 }
