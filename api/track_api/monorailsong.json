@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "The Monorail Song",
+        "releaseYear": 1997,
+        "duration": 54,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 1,
+            "proBass": 1,
+            "proDrums": 4,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 4,
+            "bass": 2
+        },
+        "BPM": 119,
+        "artistName": "The Simpsons",
+        "ageRating": "E",
+        "albumArtFilename": "8gsrtpqzdj5jzphc-512x512-69670c5f49a6.jpg",
+        "recordingCode": "USFM90500202",
+        "songUUID": "8f75c842-af46-451a-90b0-d00a23fc9eef",
+        "trackIndex": "683"
+    },
+    "_activeDate": "2025-10-07T15:59:50.676Z",
+    "lastModified": "2025-11-11T15:34:30.840Z"
+}

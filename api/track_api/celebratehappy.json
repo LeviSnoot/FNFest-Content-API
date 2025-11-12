@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Celebrate Happy",
+        "releaseYear": 2025,
+        "duration": 117,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 4,
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 3,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 162,
+        "artistName": "Jonas Brothers",
+        "ageRating": "E",
+        "albumArtFilename": "ls7w6wuphqowntoo-512x512-9f99b6c4c49e.jpg",
+        "songUUID": "24a5bc77-adae-43dc-81f4-e8138decfe5f",
+        "trackIndex": "687"
+    },
+    "_activeDate": "2025-10-07T16:58:09.620Z",
+    "lastModified": "2025-11-11T15:36:37.006Z"
+}

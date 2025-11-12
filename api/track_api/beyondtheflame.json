@@ -1,5 +1,6 @@
 {
     "track": {
+        "mmo": 148,
         "trackTitle": "Beyond the Flame",
         "releaseYear": 2024,
         "duration": 270,
@@ -10,6 +11,7 @@
         "key": "C",
         "majorMinor": "Major",
         "intensities": {
+            "bd": 3,
             "proBass": 4,
             "proDrums": 5,
             "vocals": 2,
@@ -26,5 +28,5 @@
         "trackIndex": "333"
     },
     "_activeDate": "2024-09-04T08:00:00.000Z",
-    "lastModified": "2024-09-23T03:50:48.361Z"
+    "lastModified": "2025-11-11T14:57:25.555Z"
 }
