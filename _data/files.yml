@@ -8,6 +8,8 @@
   url: api/track_api/abc.json
 - name: track_api/abcdefu.json
   url: api/track_api/abcdefu.json
+- name: track_api/abominablefrink.json
+  url: api/track_api/abominablefrink.json
 - name: track_api/adamssong.json
   url: api/track_api/adamssong.json
 - name: track_api/afraid.json
@@ -200,6 +202,8 @@
   url: api/track_api/carryonwaywardson.json
 - name: track_api/catsprowl.json
   url: api/track_api/catsprowl.json
+- name: track_api/celebratehappy.json
+  url: api/track_api/celebratehappy.json
 - name: track_api/centuries.json
   url: api/track_api/centuries.json
 - name: track_api/champion.json
@@ -618,6 +622,8 @@
   url: api/track_api/milliondollarbaby.json
 - name: track_api/miserybusiness.json
   url: api/track_api/miserybusiness.json
+- name: track_api/monorailsong.json
+  url: api/track_api/monorailsong.json
 - name: track_api/monster.json
   url: api/track_api/monster.json
 - name: track_api/montagemtomada.json
