@@ -1364,6 +1364,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 2,
@@ -1381,7 +1382,7 @@
             "trackIndex": "115"
         },
         "_activeDate": "2023-12-19T16:00:00.000Z",
-        "lastModified": "2024-09-14T02:10:31.278Z"
+        "lastModified": "2025-11-11T18:22:31.324Z"
     },
     "believer": {
         "track": {
@@ -3301,6 +3302,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 6,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 4,
@@ -3317,7 +3319,7 @@
             "trackIndex": "150"
         },
         "_activeDate": "2024-03-08T09:00:00.000Z",
-        "lastModified": "2024-09-18T06:57:01.309Z"
+        "lastModified": "2025-11-11T17:33:51.443Z"
     },
     "swimfree": {
         "track": {
@@ -3726,6 +3728,7 @@
             "key": "G",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 3,
@@ -3743,7 +3746,7 @@
             "trackIndex": "97"
         },
         "_activeDate": "2023-11-07T14:34:22.115Z",
-        "lastModified": "2024-09-18T08:21:05.302Z"
+        "lastModified": "2025-11-11T14:55:22.401Z"
     },
     "carryonwaywardson": {
         "track": {
@@ -5518,6 +5521,7 @@
             "key": "G",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 5,
@@ -5535,7 +5539,7 @@
             "trackIndex": "204"
         },
         "_activeDate": "2024-04-04T14:16:06.093Z",
-        "lastModified": "2024-09-19T04:00:47.439Z"
+        "lastModified": "2025-11-11T18:24:02.339Z"
     },
     "kissmemore": {
         "track": {
@@ -6100,6 +6104,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 5,
                 "vocals": 2,
@@ -6116,7 +6121,7 @@
             "trackIndex": "246"
         },
         "_activeDate": "2024-05-24T08:00:00.000Z",
-        "lastModified": "2024-09-19T06:08:59.816Z"
+        "lastModified": "2025-11-11T17:30:55.243Z"
     },
     "pealikeme": {
         "track": {
@@ -7252,6 +7257,7 @@
             "key": "Eb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 3,
@@ -7269,7 +7275,7 @@
             "trackIndex": "255"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:51:08.047Z"
+        "lastModified": "2025-11-11T17:32:16.224Z"
     },
     "sexyandiknowit": {
         "track": {
@@ -8675,6 +8681,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 3,
@@ -8692,7 +8699,7 @@
             "trackIndex": "276"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:08:12.429Z"
+        "lastModified": "2025-11-11T18:26:56.980Z"
     },
     "intheend": {
         "track": {
@@ -8824,6 +8831,7 @@
     },
     "beyondtheflame": {
         "track": {
+            "mmo": 148,
             "trackTitle": "Beyond the Flame",
             "releaseYear": 2024,
             "duration": 270,
@@ -8834,6 +8842,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 4,
                 "proDrums": 5,
                 "vocals": 2,
@@ -8850,7 +8859,7 @@
             "trackIndex": "333"
         },
         "_activeDate": "2024-09-04T08:00:00.000Z",
-        "lastModified": "2024-09-23T03:50:48.361Z"
+        "lastModified": "2025-11-11T14:57:25.555Z"
     },
     "imawinner": {
         "track": {
@@ -13305,6 +13314,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 5,
                 "vocals": 3,
@@ -13321,7 +13331,7 @@
             "trackIndex": "526"
         },
         "_activeDate": "2025-02-21T09:00:00.000Z",
-        "lastModified": "2025-02-18T14:41:34.251Z"
+        "lastModified": "2025-11-11T17:29:12.760Z"
     },
     "crimsonbarony": {
         "track": {
@@ -13492,6 +13502,7 @@
             "key": "A",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 2,
@@ -13509,7 +13520,7 @@
             "trackIndex": "528"
         },
         "_activeDate": "2025-03-06T14:30:00.000Z",
-        "lastModified": "2025-03-04T15:39:46.484Z"
+        "lastModified": "2025-11-11T18:25:28.177Z"
     },
     "pumpedupkicks": {
         "track": {
@@ -14281,6 +14292,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 3,
@@ -14297,7 +14309,7 @@
             "trackIndex": "553"
         },
         "_activeDate": "2025-04-08T08:00:00.000Z",
-        "lastModified": "2025-04-07T15:37:19.732Z"
+        "lastModified": "2025-11-11T18:28:44.375Z"
     },
     "darkhorse": {
         "track": {
@@ -17988,5 +18000,99 @@
         },
         "_activeDate": "2025-11-01T15:30:00.000Z",
         "lastModified": "2025-11-07T21:11:33.065Z"
+    },
+    "abominablefrink": {
+        "track": {
+            "trackTitle": "The Abominable Frinkman",
+            "releaseYear": 2025,
+            "duration": 201,
+            "iconBass": "Keyboard",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 3,
+                "proBass": 3,
+                "proDrums": 3,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 124,
+            "artistName": "Epic Games",
+            "ageRating": "E",
+            "albumArtFilename": "tc8gaoumlzuoobw2-512x512-69e5fee73148.jpg",
+            "songUUID": "37f6ed79-2427-4284-a432-88cfcbc4c701",
+            "trackIndex": "681"
+        },
+        "_activeDate": "2025-11-11T09:00:00.000Z",
+        "lastModified": "2025-11-10T20:44:36.920Z"
+    },
+    "monorailsong": {
+        "track": {
+            "trackTitle": "The Monorail Song",
+            "releaseYear": 1997,
+            "duration": 54,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "C",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 1,
+                "proBass": 1,
+                "proDrums": 4,
+                "vocals": 3,
+                "proGuitar": 4,
+                "guitar": 4,
+                "drums": 4,
+                "bass": 2
+            },
+            "BPM": 119,
+            "artistName": "The Simpsons",
+            "ageRating": "E",
+            "albumArtFilename": "8gsrtpqzdj5jzphc-512x512-69670c5f49a6.jpg",
+            "recordingCode": "USFM90500202",
+            "songUUID": "8f75c842-af46-451a-90b0-d00a23fc9eef",
+            "trackIndex": "683"
+        },
+        "_activeDate": "2025-10-07T15:59:50.676Z",
+        "lastModified": "2025-11-11T15:34:30.840Z"
+    },
+    "celebratehappy": {
+        "track": {
+            "trackTitle": "Celebrate Happy",
+            "releaseYear": 2025,
+            "duration": 117,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 4,
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 162,
+            "artistName": "Jonas Brothers",
+            "ageRating": "E",
+            "albumArtFilename": "ls7w6wuphqowntoo-512x512-9f99b6c4c49e.jpg",
+            "songUUID": "24a5bc77-adae-43dc-81f4-e8138decfe5f",
+            "trackIndex": "687"
+        },
+        "_activeDate": "2025-10-07T16:58:09.620Z",
+        "lastModified": "2025-11-11T15:36:37.006Z"
     }
 }
