@@ -296,6 +296,8 @@
   url: api/track_api/dynamite.json
 - name: track_api/dynamite2.json
   url: api/track_api/dynamite2.json
+- name: track_api/earfquake.json
+  url: api/track_api/earfquake.json
 - name: track_api/edgeofglory.json
   url: api/track_api/edgeofglory.json
 - name: track_api/eightbitbeat.json
@@ -772,6 +774,8 @@
   url: api/track_api/ridewitme.json
 - name: track_api/rightround.json
   url: api/track_api/rightround.json
+- name: track_api/ringringring.json
+  url: api/track_api/ringringring.json
 - name: track_api/roar.json
   url: api/track_api/roar.json
 - name: track_api/robbery.json
@@ -884,6 +888,8 @@
   url: api/track_api/stayalta.json
 - name: track_api/stickseason.json
   url: api/track_api/stickseason.json
+- name: track_api/sticky.json
+  url: api/track_api/sticky.json
 - name: track_api/stillintoyou.json
   url: api/track_api/stillintoyou.json
 - name: track_api/stitches.json
