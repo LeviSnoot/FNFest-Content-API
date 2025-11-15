@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 99,
+        "trackTitle": "Sticky",
+        "releaseYear": 2024,
+        "duration": 262,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Gb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 1,
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 0
+        },
+        "BPM": 154,
+        "artistName": "Tyler, The Creator",
+        "ageRating": "T",
+        "albumArtFilename": "rpcahqmtpbfvdbyc-512x512-f6e5e8524e07.jpg",
+        "recordingCode": "USQX92406762",
+        "songUUID": "0cc57616-b845-42e3-affc-2768c4d3c00b",
+        "trackIndex": "684"
+    },
+    "_activeDate": "2025-10-06T15:38:00.384Z",
+    "lastModified": "2025-11-14T16:23:51.857Z"
+}

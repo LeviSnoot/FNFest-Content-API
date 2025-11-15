@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "EARFQUAKE",
+        "releaseYear": 2019,
+        "duration": 197,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 0,
+            "proDrums": 1,
+            "vocals": 3,
+            "proGuitar": 4,
+            "guitar": 4,
+            "drums": 1,
+            "bass": 0
+        },
+        "BPM": 157,
+        "artistName": "Tyler, The Creator",
+        "ageRating": "T",
+        "albumArtFilename": "a3wsuww3csabqlrr-512x512-db0606f7916c.jpg",
+        "recordingCode": "USQX91901330",
+        "songUUID": "48d30a66-4a60-4fcd-8e9f-ce7202433fe9",
+        "trackIndex": "685"
+    },
+    "_activeDate": "2025-10-12T09:00:00.000Z",
+    "lastModified": "2025-11-14T14:39:32.363Z"
+}
