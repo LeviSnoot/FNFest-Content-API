@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Ring Ring Ring",
+        "releaseYear": 2025,
+        "duration": 207,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 3,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 4,
+            "bass": 3
+        },
+        "BPM": 119,
+        "artistName": "Tyler, The Creator",
+        "ageRating": "T",
+        "albumArtFilename": "hwcclabqalfhldyn-512x512-70e01a2185ae.jpg",
+        "recordingCode": "USQX92504254",
+        "songUUID": "99c1552b-0dc0-44bf-bd95-b981fe6fb6ee",
+        "trackIndex": "686"
+    },
+    "_activeDate": "2025-10-06T15:39:38.534Z",
+    "lastModified": "2025-11-14T14:41:44.702Z"
+}
