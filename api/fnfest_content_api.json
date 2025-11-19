@@ -4888,6 +4888,7 @@
             "key": "Db",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 3,
@@ -4905,7 +4906,7 @@
             "trackIndex": "65"
         },
         "_activeDate": "2024-04-23T08:00:00.000Z",
-        "lastModified": "2024-09-20T02:51:11.785Z"
+        "lastModified": "2025-11-18T14:06:20.496Z"
     },
     "oxytocin": {
         "track": {
@@ -9163,6 +9164,7 @@
     },
     "sayitproud": {
         "track": {
+            "mmo": 105,
             "trackTitle": "Say It Proud",
             "releaseYear": 2022,
             "duration": 180,
@@ -9173,6 +9175,7 @@
             "key": "Gb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 2,
@@ -9189,7 +9192,7 @@
             "trackIndex": "337"
         },
         "_activeDate": "2024-09-17T23:30:00.000Z",
-        "lastModified": "2024-09-23T06:32:18.617Z"
+        "lastModified": "2025-11-18T14:04:34.260Z"
     },
     "americanidiot": {
         "track": {
@@ -11954,6 +11957,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 2,
@@ -11971,7 +11975,7 @@
             "trackIndex": "300"
         },
         "_activeDate": "2024-12-26T14:30:00.000Z",
-        "lastModified": "2024-12-17T18:59:33.498Z"
+        "lastModified": "2025-11-18T14:02:29.215Z"
     },
     "sugarweregoindown": {
         "track": {
@@ -18206,5 +18210,69 @@
         },
         "_activeDate": "2025-10-06T15:38:00.384Z",
         "lastModified": "2025-11-14T16:23:51.857Z"
+    },
+    "likejennie": {
+        "track": {
+            "trackTitle": "like JENNIE",
+            "releaseYear": 2025,
+            "duration": 128,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 0,
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 1,
+                "guitar": 1,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 130,
+            "artistName": "JENNIE",
+            "ageRating": "T",
+            "albumArtFilename": "bteobwogeujme7tt-512x512-b9c723853eec.jpg",
+            "recordingCode": "USQX92501034",
+            "songUUID": "2212e992-c14e-4491-a45c-0de59a3576c0",
+            "trackIndex": "716"
+        },
+        "_activeDate": "2025-11-04T19:34:04.906Z",
+        "lastModified": "2025-11-18T16:21:51.162Z"
+    },
+    "lachona": {
+        "track": {
+            "trackTitle": "LA CHONA",
+            "releaseYear": 1995,
+            "duration": 199,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "G",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 3,
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 3,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 3,
+                "bass": 2
+            },
+            "BPM": 145,
+            "artistName": "LOS TUCANES DE TIJUANA",
+            "ageRating": "E",
+            "albumArtFilename": "78uyyjhwzcevcjik-512x512-f7b444d540de.jpg",
+            "recordingCode": "US-UL1-02-00771",
+            "songUUID": "699e10ca-5f97-4589-b875-415cf6747eb0",
+            "trackIndex": "695"
+        },
+        "_activeDate": "2025-11-04T19:34:40.851Z",
+        "lastModified": "2025-11-18T16:22:29.831Z"
     }
 }

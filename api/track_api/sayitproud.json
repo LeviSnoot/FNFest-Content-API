@@ -1,5 +1,6 @@
 {
     "track": {
+        "mmo": 105,
         "trackTitle": "Say It Proud",
         "releaseYear": 2022,
         "duration": 180,
@@ -10,6 +11,7 @@
         "key": "Gb",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 2,
             "proBass": 3,
             "proDrums": 3,
             "vocals": 2,
@@ -26,5 +28,5 @@
         "trackIndex": "337"
     },
     "_activeDate": "2024-09-17T23:30:00.000Z",
-    "lastModified": "2024-09-23T06:32:18.617Z"
+    "lastModified": "2025-11-18T14:04:34.260Z"
 }
