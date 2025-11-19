@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "like JENNIE",
+        "releaseYear": 2025,
+        "duration": 128,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 0,
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 4,
+            "proGuitar": 1,
+            "guitar": 1,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 130,
+        "artistName": "JENNIE",
+        "ageRating": "T",
+        "albumArtFilename": "bteobwogeujme7tt-512x512-b9c723853eec.jpg",
+        "recordingCode": "USQX92501034",
+        "songUUID": "2212e992-c14e-4491-a45c-0de59a3576c0",
+        "trackIndex": "716"
+    },
+    "_activeDate": "2025-11-04T19:34:04.906Z",
+    "lastModified": "2025-11-18T16:21:51.162Z"
+}
