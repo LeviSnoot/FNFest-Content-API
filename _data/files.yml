@@ -10,6 +10,8 @@
   url: api/track_api/abcdefu.json
 - name: track_api/abominablefrink.json
   url: api/track_api/abominablefrink.json
+- name: track_api/acelerada.json
+  url: api/track_api/acelerada.json
 - name: track_api/adamssong.json
   url: api/track_api/adamssong.json
 - name: track_api/afraid.json
