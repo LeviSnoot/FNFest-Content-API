@@ -18235,13 +18235,13 @@
             "BPM": 130,
             "artistName": "JENNIE",
             "ageRating": "T",
-            "albumArtFilename": "bteobwogeujme7tt-512x512-b9c723853eec.jpg",
+            "albumArtFilename": "bteobwogeujme7tt-512x512-3ebdf3f9410d.jpg",
             "recordingCode": "USQX92501034",
             "songUUID": "2212e992-c14e-4491-a45c-0de59a3576c0",
             "trackIndex": "716"
         },
         "_activeDate": "2025-11-04T19:34:04.906Z",
-        "lastModified": "2025-11-18T16:21:51.162Z"
+        "lastModified": "2025-11-19T15:20:10.482Z"
     },
     "lachona": {
         "track": {
@@ -18274,5 +18274,36 @@
         },
         "_activeDate": "2025-11-04T19:34:40.851Z",
         "lastModified": "2025-11-18T16:22:29.831Z"
+    },
+    "acelerada": {
+        "track": {
+            "trackTitle": "ACELERADA",
+            "releaseYear": 2025,
+            "duration": 65,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "F",
+            "majorMinor": "Minor",
+            "intensities": {
+                "bd": 0,
+                "proBass": 1,
+                "proDrums": 0,
+                "vocals": 2,
+                "proGuitar": 2,
+                "guitar": 2,
+                "drums": 0,
+                "bass": 1
+            },
+            "BPM": 130,
+            "artistName": "sma$her & MXZI",
+            "ageRating": "E",
+            "albumArtFilename": "4qrp2itthxkuzx95-512x512-9ab66a0d72c1.jpg",
+            "songUUID": "6ce0cd51-3c87-4975-9b40-13d50a2f1996",
+            "trackIndex": "715"
+        },
+        "_activeDate": "2025-11-19T09:00:00.000Z",
+        "lastModified": "2025-11-18T16:26:39.168Z"
     }
 }
