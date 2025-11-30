@@ -198,6 +198,8 @@
   url: api/track_api/cantfeelmyface.json
 - name: track_api/cantinaband.json
   url: api/track_api/cantinaband.json
+- name: track_api/cantstopme.json
+  url: api/track_api/cantstopme.json
 - name: track_api/cantstopthefeeling.json
   url: api/track_api/cantstopthefeeling.json
 - name: track_api/carryonwaywardson.json
@@ -260,6 +262,8 @@
   url: api/track_api/dare.json
 - name: track_api/darkhorse.json
   url: api/track_api/darkhorse.json
+- name: track_api/dashstar.json
+  url: api/track_api/dashstar.json
 - name: track_api/daynnite.json
   url: api/track_api/daynnite.json
 - name: track_api/decade.json
@@ -316,6 +320,8 @@
   url: api/track_api/emptyoutyourpockets.json
 - name: track_api/endoftheearth.json
   url: api/track_api/endoftheearth.json
+- name: track_api/enemy.json
+  url: api/track_api/enemy.json
 - name: track_api/entersandman.json
   url: api/track_api/entersandman.json
 - name: track_api/espresso.json
@@ -330,6 +336,8 @@
   url: api/track_api/faint.json
 - name: track_api/fallguys.json
   url: api/track_api/fallguys.json
+- name: track_api/fancyfeet.json
+  url: api/track_api/fancyfeet.json
 - name: track_api/fatlip.json
   url: api/track_api/fatlip.json
 - name: track_api/feather.json
@@ -382,6 +390,8 @@
   url: api/track_api/fuel.json
 - name: track_api/funnysong.json
   url: api/track_api/funnysong.json
+- name: track_api/futw.json
+  url: api/track_api/futw.json
 - name: track_api/gangnamstyle.json
   url: api/track_api/gangnamstyle.json
 - name: track_api/gasolina.json
@@ -390,6 +400,8 @@
   url: api/track_api/getbusy.json
 - name: track_api/gethimback.json
   url: api/track_api/gethimback.json
+- name: track_api/getjiggy.json
+  url: api/track_api/getjiggy.json
 - name: track_api/getlow.json
   url: api/track_api/getlow.json
 - name: track_api/getlucky.json
@@ -564,6 +576,8 @@
   url: api/track_api/liar.json
 - name: track_api/lightemup.json
   url: api/track_api/lightemup.json
+- name: track_api/lightscameraaction.json
+  url: api/track_api/lightscameraaction.json
 - name: track_api/likeag6.json
   url: api/track_api/likeag6.json
 - name: track_api/likejennie.json
@@ -662,6 +676,8 @@
   url: api/track_api/nevergiveup.json
 - name: track_api/nevergonnagiveyouup.json
   url: api/track_api/nevergonnagiveyouup.json
+- name: track_api/newwoman.json
+  url: api/track_api/newwoman.json
 - name: track_api/nextsemester.json
   url: api/track_api/nextsemester.json
 - name: track_api/nightdancer.json
@@ -764,12 +780,16 @@
   url: api/track_api/radioactive.json
 - name: track_api/rainonme.json
   url: api/track_api/rainonme.json
+- name: track_api/readyforit.json
+  url: api/track_api/readyforit.json
 - name: track_api/rebelsrun.json
   url: api/track_api/rebelsrun.json
 - name: track_api/redrum.json
   url: api/track_api/redrum.json
 - name: track_api/regulate.json
   url: api/track_api/regulate.json
+- name: track_api/repeatedstory.json
+  url: api/track_api/repeatedstory.json
 - name: track_api/replay.json
   url: api/track_api/replay.json
 - name: track_api/ride.json
@@ -788,6 +808,8 @@
   url: api/track_api/robbery.json
 - name: track_api/rocketman.json
   url: api/track_api/rocketman.json
+- name: track_api/rockstar.json
+  url: api/track_api/rockstar.json
 - name: track_api/roses.json
   url: api/track_api/roses.json
 - name: track_api/rubysoho.json
@@ -874,6 +896,8 @@
   url: api/track_api/somp.json
 - name: track_api/song2.json
   url: api/track_api/song2.json
+- name: track_api/sorry.json
+  url: api/track_api/sorry.json
 - name: track_api/sournsweet.json
   url: api/track_api/sournsweet.json
 - name: track_api/sowhat.json
@@ -924,6 +948,8 @@
   url: api/track_api/superfreak.json
 - name: track_api/surroundsound.json
   url: api/track_api/surroundsound.json
+- name: track_api/survivethenight.json
+  url: api/track_api/survivethenight.json
 - name: track_api/sweetchildomine.json
   url: api/track_api/sweetchildomine.json
 - name: track_api/sweetvictory.json
