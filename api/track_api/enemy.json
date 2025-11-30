@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Enemy",
+        "releaseYear": 2021,
+        "duration": 174,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "B",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 2,
+            "proDrums": 3,
+            "vocals": 5,
+            "proGuitar": 1,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 1
+        },
+        "BPM": 154,
+        "artistName": "Imagine Dragons, JID, Arcane",
+        "ageRating": "E",
+        "albumArtFilename": "nolzfiesyws8ozun-512x512-6b5dde04c597.jpg",
+        "songUUID": "b00d2b6a-63b5-4a0c-b71c-a205c1377467",
+        "trackIndex": "690"
+    },
+    "_activeDate": "2025-11-29T20:00:00.000Z",
+    "lastModified": "2025-11-29T19:54:37.696Z"
+}

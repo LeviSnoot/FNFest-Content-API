@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Survive the Night",
+        "releaseYear": 2025,
+        "duration": 184,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 1,
+            "proBass": 3,
+            "proDrums": 6,
+            "vocals": 2,
+            "proGuitar": 6,
+            "guitar": 6,
+            "drums": 6,
+            "bass": 3
+        },
+        "BPM": 91,
+        "artistName": "Epic Games",
+        "ageRating": "E",
+        "albumArtFilename": "0qdi8bee9nabdbg4-512x512-529cafcaf203.jpg",
+        "songUUID": "790f89b6-d42c-4db0-960b-f76d42e81d16",
+        "trackIndex": "702"
+    },
+    "_activeDate": "2025-11-29T20:00:00.000Z",
+    "lastModified": "2025-11-29T19:43:20.410Z"
+}
