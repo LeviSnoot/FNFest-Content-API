@@ -1,0 +1,33 @@
+{
+    "track": {
+        "mmo": 34,
+        "trackTitle": "Rockstar",
+        "releaseYear": 2025,
+        "duration": 139,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "C",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 2,
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 3,
+            "bass": 0
+        },
+        "BPM": 140,
+        "artistName": "LISA",
+        "ageRating": "T",
+        "albumArtFilename": "h0nltwoakchai21y-512x512-5e156c1b83c7.jpg",
+        "recordingCode": "USRC12401857",
+        "songUUID": "1216514b-51b2-4996-ba05-44a0e4f98773",
+        "trackIndex": "696"
+    },
+    "_activeDate": "2025-11-29T20:00:00.000Z",
+    "lastModified": "2025-11-29T19:37:34.358Z"
+}

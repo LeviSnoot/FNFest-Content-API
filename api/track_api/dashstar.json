@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "dashstar* VIP",
+        "releaseYear": 2021,
+        "duration": 142,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "E",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 2,
+            "proDrums": 2,
+            "vocals": 3,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 2
+        },
+        "BPM": 126,
+        "artistName": "Knock2",
+        "ageRating": "E",
+        "albumArtFilename": "97tytyxsnyryehog-512x512-2164bb06c933.jpg",
+        "recordingCode": "CA5KR2261726",
+        "songUUID": "0ded8868-94a2-4e2c-bfe7-d0eec27dc283",
+        "trackIndex": "703"
+    },
+    "_activeDate": "2025-11-29T20:00:00.000Z",
+    "lastModified": "2025-11-29T19:45:57.417Z"
+}

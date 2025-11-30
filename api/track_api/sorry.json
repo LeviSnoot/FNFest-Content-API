@@ -1,0 +1,33 @@
+{
+    "track": {
+        "trackTitle": "Sorry",
+        "releaseYear": 2015,
+        "duration": 204,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Eb",
+        "majorMinor": "Major",
+        "albumName": "",
+        "intensities": {
+            "bd": 3,
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 100,
+        "artistName": "Justin Bieber",
+        "ageRating": "E",
+        "albumArtFilename": "fecxu8daactwwdsx-500x500-0f9a689793c2.png",
+        "recordingCode": "USUM71516760",
+        "songUUID": "5c6f3f4b-d3c7-4d27-ad1f-7e31350ee13e",
+        "trackIndex": "704"
+    },
+    "_activeDate": "2023-10-28T19:00:00.000Z",
+    "lastModified": "2025-11-29T19:48:50.491Z"
+}

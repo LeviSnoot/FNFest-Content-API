@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "Repeated Story",
+        "releaseYear": 2022,
+        "duration": 173,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "A",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 4,
+            "proBass": 0,
+            "proDrums": 5,
+            "vocals": 3,
+            "proGuitar": 3,
+            "guitar": 4,
+            "drums": 5,
+            "bass": 0
+        },
+        "BPM": 155,
+        "artistName": "Hits Over Time",
+        "ageRating": "E",
+        "albumArtFilename": "hxwwxtxz5goe1nrj-512x512-75883662a71b.jpg",
+        "songUUID": "ada60aa1-36f9-4dac-8a40-db5c629a9d5b",
+        "trackIndex": "693"
+    },
+    "_activeDate": "2025-11-29T20:00:00.000Z",
+    "lastModified": "2025-11-29T19:34:56.076Z"
+}

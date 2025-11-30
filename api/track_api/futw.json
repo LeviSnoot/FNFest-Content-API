@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "FUTW (Vixi Solo Version)",
+        "releaseYear": 2025,
+        "duration": 177,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 0,
+            "proBass": 0,
+            "proDrums": 5,
+            "vocals": 4,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 5,
+            "bass": 0
+        },
+        "BPM": 146,
+        "artistName": "LISA",
+        "ageRating": "T",
+        "albumArtFilename": "pj8xyyp8ccprmlxh-512x512-b60b3b1ef30a.jpg",
+        "recordingCode": "USRC12403308",
+        "songUUID": "0fc8757c-a386-44a3-940b-08809bd0a578",
+        "trackIndex": "698"
+    },
+    "_activeDate": "2025-11-29T20:00:00.000Z",
+    "lastModified": "2025-11-29T19:42:06.602Z"
+}
