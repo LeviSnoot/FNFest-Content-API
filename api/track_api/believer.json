@@ -15,6 +15,7 @@
         "majorMinor": "Minor",
         "albumName": "Evolve",
         "intensities": {
+            "bd": 4,
             "proBass": 0,
             "proDrums": 2,
             "vocals": 4,
@@ -32,5 +33,5 @@
         "trackIndex": "54"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-03-05T18:49:32.211Z"
+    "lastModified": "2025-11-21T18:32:08.528Z"
 }
