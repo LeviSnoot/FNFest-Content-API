@@ -15,6 +15,7 @@
         "majorMinor": "Minor",
         "albumName": "Agents of Fortune",
         "intensities": {
+            "bd": 2,
             "proBass": 2,
             "proDrums": 5,
             "vocals": 2,
@@ -32,5 +33,5 @@
         "trackIndex": "20"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-11-12T17:46:02.495Z"
+    "lastModified": "2025-11-21T18:36:29.877Z"
 }
