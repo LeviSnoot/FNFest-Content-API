@@ -208,6 +208,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 3,
@@ -222,7 +223,7 @@
             "trackIndex": "59"
         },
         "_activeDate": "2023-10-24T13:45:09.594Z",
-        "lastModified": "2024-09-14T02:12:05.302Z"
+        "lastModified": "2025-12-02T19:33:16.032Z"
     },
     "badguy": {
         "track": {
@@ -525,6 +526,7 @@
             "majorMinor": "Major",
             "albumName": "Florence + The Machine",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 3,
@@ -542,7 +544,7 @@
             "trackIndex": "102"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:09:12.566Z"
+        "lastModified": "2025-12-02T19:29:58.849Z"
     },
     "emogirl": {
         "track": {
@@ -1275,6 +1277,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 3,
                 "proDrums": 5,
                 "vocals": 4,
@@ -1291,7 +1294,7 @@
             "trackIndex": "81"
         },
         "_activeDate": "2023-11-02T18:18:42.760Z",
-        "lastModified": "2024-09-14T02:37:10.997Z"
+        "lastModified": "2025-12-02T19:36:58.182Z"
     },
     "zombie": {
         "track": {
@@ -1675,6 +1678,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 1,
@@ -1692,7 +1696,7 @@
             "trackIndex": "104"
         },
         "_activeDate": "2023-11-08T22:24:32.568Z",
-        "lastModified": "2024-09-14T02:54:27.239Z"
+        "lastModified": "2025-11-25T18:35:56.815Z"
     },
     "good4u": {
         "track": {
@@ -2545,6 +2549,7 @@
             "key": "A",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 2,
@@ -2562,7 +2567,7 @@
             "trackIndex": "96"
         },
         "_activeDate": "2023-11-07T14:28:08.986Z",
-        "lastModified": "2024-09-18T06:28:20.481Z"
+        "lastModified": "2025-12-02T19:35:00.461Z"
     },
     "applause": {
         "track": {
@@ -3773,6 +3778,7 @@
             "majorMinor": "Minor",
             "albumName": "Leftoverture",
             "intensities": {
+                "bd": 3,
                 "proBass": 4,
                 "proDrums": 2,
                 "vocals": 2,
@@ -3790,7 +3796,7 @@
             "trackIndex": "11"
         },
         "_activeDate": "2023-10-09T20:50:40.937Z",
-        "lastModified": "2025-11-12T17:42:36.395Z"
+        "lastModified": "2025-12-02T19:28:30.880Z"
     },
     "dontfearthereaper": {
         "track": {
@@ -4360,6 +4366,7 @@
             "key": "Eb",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 4,
@@ -4377,7 +4384,7 @@
             "trackIndex": "177"
         },
         "_activeDate": "2024-04-04T23:50:00.000Z",
-        "lastModified": "2025-03-03T17:11:29.243Z"
+        "lastModified": "2025-11-25T14:54:36.926Z"
     },
     "skysurfer": {
         "track": {
@@ -4454,6 +4461,7 @@
             "key": "Gb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 2,
                 "vocals": 4,
@@ -4471,7 +4479,7 @@
             "trackIndex": "186"
         },
         "_activeDate": "2024-03-15T14:42:44.562Z",
-        "lastModified": "2024-09-19T01:55:31.827Z"
+        "lastModified": "2025-11-25T18:37:34.771Z"
     },
     "song2": {
         "track": {
@@ -5590,6 +5598,7 @@
     },
     "lovinonme": {
         "track": {
+            "mmo": 13,
             "trackTitle": "Lovin On Me",
             "releaseYear": 2023,
             "duration": 143,
@@ -5600,6 +5609,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 4,
@@ -5617,7 +5627,7 @@
             "trackIndex": "223"
         },
         "_activeDate": "2024-03-29T19:37:50.167Z",
-        "lastModified": "2024-09-19T05:52:34.980Z"
+        "lastModified": "2025-11-25T18:22:41.918Z"
     },
     "starships": {
         "track": {
@@ -5667,6 +5677,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 4,
                 "proDrums": 4,
                 "vocals": 2,
@@ -5684,7 +5695,7 @@
             "trackIndex": "206"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:29:47.193Z"
+        "lastModified": "2025-11-25T18:24:20.538Z"
     },
     "hailtotheking": {
         "track": {
@@ -7114,6 +7125,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 4,
@@ -7131,7 +7143,7 @@
             "trackIndex": "70"
         },
         "_activeDate": "2024-06-27T13:30:00.000Z",
-        "lastModified": "2024-09-19T07:05:34.754Z"
+        "lastModified": "2025-12-02T20:26:10.701Z"
     },
     "dakiti": {
         "track": {
@@ -7623,6 +7635,7 @@
             "key": "F",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 0,
                 "proDrums": 3,
                 "vocals": 5,
@@ -7640,7 +7653,7 @@
             "trackIndex": "268"
         },
         "_activeDate": "2024-07-18T13:30:00.000Z",
-        "lastModified": "2024-09-20T01:36:28.639Z"
+        "lastModified": "2025-12-02T19:31:36.300Z"
     },
     "infernoisland": {
         "track": {
@@ -8770,6 +8783,7 @@
             "key": "Eb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 0,
                 "vocals": 4,
@@ -8787,7 +8801,7 @@
             "trackIndex": "284"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T18:59:09.666Z"
+        "lastModified": "2025-12-02T21:27:49.712Z"
     },
     "wheneverwherever": {
         "track": {
@@ -10591,6 +10605,7 @@
             "key": "Db",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 5,
@@ -10608,7 +10623,7 @@
             "trackIndex": "384"
         },
         "_activeDate": "2024-11-02T06:00:00.000Z",
-        "lastModified": "2024-11-02T12:17:23.434Z"
+        "lastModified": "2025-11-25T14:50:59.506Z"
     },
     "milliondollarbaby": {
         "track": {
@@ -13186,6 +13201,7 @@
             "key": "A",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 6,
@@ -13203,7 +13219,7 @@
             "trackIndex": "495"
         },
         "_activeDate": "2025-02-13T14:30:00.000Z",
-        "lastModified": "2025-02-11T14:37:38.809Z"
+        "lastModified": "2025-12-02T19:25:07.341Z"
     },
     "lastresort": {
         "track": {
@@ -13758,6 +13774,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 5,
                 "proDrums": 6,
                 "vocals": 2,
@@ -13775,7 +13792,7 @@
             "trackIndex": "546"
         },
         "_activeDate": "2025-03-16T08:00:00.000Z",
-        "lastModified": "2025-03-14T17:36:10.470Z"
+        "lastModified": "2025-11-25T14:52:47.578Z"
     },
     "aintitfun": {
         "track": {
