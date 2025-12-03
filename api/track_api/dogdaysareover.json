@@ -12,6 +12,7 @@
         "majorMinor": "Major",
         "albumName": "Florence + The Machine",
         "intensities": {
+            "bd": 4,
             "proBass": 0,
             "proDrums": 3,
             "vocals": 3,
@@ -29,5 +30,5 @@
         "trackIndex": "102"
     },
     "_activeDate": "2025-03-11T08:00:00.000Z",
-    "lastModified": "2025-03-05T19:09:12.566Z"
+    "lastModified": "2025-12-02T19:29:58.849Z"
 }
