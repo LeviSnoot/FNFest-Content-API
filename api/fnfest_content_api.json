@@ -18747,5 +18747,36 @@
         },
         "_activeDate": "2025-11-29T20:00:00.000Z",
         "lastModified": "2025-11-29T19:51:53.438Z"
+    },
+    "killbill": {
+        "track": {
+            "trackTitle": "Kill Bill",
+            "releaseYear": 2022,
+            "duration": 156,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Guitar",
+            "iconVocals": "Vocals",
+            "key": "Ab",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 5,
+                "proBass": 2,
+                "proDrums": 2,
+                "vocals": 4,
+                "proGuitar": 3,
+                "guitar": 3,
+                "drums": 2,
+                "bass": 2
+            },
+            "BPM": 89,
+            "artistName": "SZA",
+            "ageRating": "T",
+            "albumArtFilename": "tiiu57vx5cxzqhf0-512x512-e4a55a57e68a.jpg",
+            "songUUID": "f38a3d10-7115-418a-820e-89146414bfad",
+            "trackIndex": "720"
+        },
+        "_activeDate": "2025-11-21T18:27:25.619Z",
+        "lastModified": "2025-12-03T14:25:10.743Z"
     }
 }
