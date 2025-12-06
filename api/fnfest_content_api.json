@@ -178,6 +178,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 2,
                 "proBass": 2,
                 "proDrums": 5,
                 "vocals": 4,
@@ -194,7 +195,7 @@
             "trackIndex": "60"
         },
         "_activeDate": "2023-10-24T13:46:21.189Z",
-        "lastModified": "2024-09-13T07:19:45.300Z"
+        "lastModified": "2025-12-05T18:53:10.584Z"
     },
     "runit": {
         "track": {
@@ -1175,6 +1176,7 @@
             "majorMinor": "Minor",
             "albumName": "The Search",
             "intensities": {
+                "bd": 0,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 5,
@@ -1192,7 +1194,7 @@
             "trackIndex": "56"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:27:54.640Z"
+        "lastModified": "2025-12-05T14:09:12.395Z"
     },
     "thunder": {
         "track": {
@@ -3981,6 +3983,7 @@
             "majorMinor": "Minor",
             "albumName": "Happiness Begins",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 3,
@@ -3998,7 +4001,7 @@
             "trackIndex": "41"
         },
         "_activeDate": "2023-10-10T15:21:51.674Z",
-        "lastModified": "2024-09-18T08:23:54.748Z"
+        "lastModified": "2025-12-05T18:04:02.492Z"
     },
     "themiddle": {
         "track": {
@@ -4748,6 +4751,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 4,
                 "proDrums": 3,
                 "vocals": 3,
@@ -4765,7 +4769,7 @@
             "trackIndex": "188"
         },
         "_activeDate": "2024-03-28T14:05:31.190Z",
-        "lastModified": "2024-09-19T02:10:52.830Z"
+        "lastModified": "2025-12-05T18:05:37.979Z"
     },
     "woman": {
         "track": {
@@ -4811,6 +4815,7 @@
             "key": "B",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 4,
@@ -4828,7 +4833,7 @@
             "trackIndex": "184"
         },
         "_activeDate": "2024-03-14T14:27:33.678Z",
-        "lastModified": "2025-03-18T20:34:22.911Z"
+        "lastModified": "2025-12-05T18:07:19.805Z"
     },
     "allthegoodgirls": {
         "track": {
@@ -5321,6 +5326,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 0,
                 "proBass": 4,
                 "proDrums": 5,
                 "vocals": 4,
@@ -5338,7 +5344,7 @@
             "trackIndex": "202"
         },
         "_activeDate": "2024-04-04T14:11:28.799Z",
-        "lastModified": "2024-09-19T03:53:16.234Z"
+        "lastModified": "2025-12-05T18:54:43.325Z"
     },
     "creaturesinheaven": {
         "track": {
@@ -5388,6 +5394,7 @@
             "majorMinor": "Minor",
             "albumName": "This Is Acting",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 4,
@@ -5405,7 +5412,7 @@
             "trackIndex": "27"
         },
         "_activeDate": "2023-10-10T13:58:13.311Z",
-        "lastModified": "2025-11-12T17:56:00.923Z"
+        "lastModified": "2025-12-05T18:08:46.285Z"
     },
     "breed": {
         "track": {
@@ -5514,6 +5521,7 @@
             "majorMinor": "Minor",
             "albumName": "Fallen ",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 4,
                 "vocals": 3,
@@ -5531,7 +5539,7 @@
             "trackIndex": "12"
         },
         "_activeDate": "2023-10-09T20:54:45.424Z",
-        "lastModified": "2024-09-19T03:57:04.748Z"
+        "lastModified": "2025-12-05T14:06:20.731Z"
     },
     "changes": {
         "track": {
@@ -6004,6 +6012,7 @@
             "key": "C",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 2,
                 "proDrums": 3,
                 "vocals": 2,
@@ -6021,7 +6030,7 @@
             "trackIndex": "207"
         },
         "_activeDate": "2024-05-23T13:30:00.000Z",
-        "lastModified": "2024-09-19T06:03:02.376Z"
+        "lastModified": "2025-12-05T18:02:41.032Z"
     },
     "fuel": {
         "track": {
@@ -6870,6 +6879,7 @@
             "key": "Ab",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 1,
                 "proBass": 0,
                 "proDrums": 4,
                 "vocals": 4,
@@ -6886,7 +6896,7 @@
             "trackIndex": "252"
         },
         "_activeDate": "2024-06-13T08:00:00.000Z",
-        "lastModified": "2025-02-21T15:58:42.973Z"
+        "lastModified": "2025-12-05T18:10:16.797Z"
     },
     "seekanddestroy": {
         "track": {
@@ -6997,6 +7007,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 2,
@@ -7014,7 +7025,7 @@
             "trackIndex": "235"
         },
         "_activeDate": "2024-08-16T05:00:00.000Z",
-        "lastModified": "2024-09-19T06:46:06.789Z"
+        "lastModified": "2025-12-05T18:27:17.858Z"
     },
     "blueberryfaygo": {
         "track": {
@@ -7540,6 +7551,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 0,
                 "proDrums": 1,
                 "vocals": 2,
@@ -7557,7 +7569,7 @@
             "trackIndex": "63"
         },
         "_activeDate": "2024-07-18T13:30:00.000Z",
-        "lastModified": "2024-09-19T08:36:38.395Z"
+        "lastModified": "2025-12-05T18:25:36.218Z"
     },
     "walkemdown": {
         "track": {
@@ -9139,6 +9151,7 @@
             "key": "E",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 2,
                 "proDrums": 1,
                 "vocals": 5,
@@ -9156,7 +9169,7 @@
             "trackIndex": "314"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:55:23.043Z"
+        "lastModified": "2025-12-05T18:01:05.217Z"
     },
     "notoriousthugs": {
         "track": {
@@ -11090,6 +11103,7 @@
             "key": "Ab",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 4,
@@ -11107,7 +11121,7 @@
             "trackIndex": "431"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:33:20.613Z"
+        "lastModified": "2025-12-05T18:12:16.179Z"
     },
     "backstreetsback": {
         "track": {
@@ -18684,7 +18698,7 @@
             "trackIndex": "719"
         },
         "_activeDate": "2025-11-29T20:00:00.000Z",
-        "lastModified": "2025-12-04T19:06:17.047Z"
+        "lastModified": "2025-12-05T13:36:06.272Z"
     },
     "enemy": {
         "track": {
