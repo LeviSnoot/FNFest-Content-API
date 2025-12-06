@@ -11,6 +11,7 @@
         "majorMinor": "Minor",
         "albumName": "Fallen ",
         "intensities": {
+            "bd": 3,
             "proBass": 3,
             "proDrums": 4,
             "vocals": 3,
@@ -28,5 +29,5 @@
         "trackIndex": "12"
     },
     "_activeDate": "2023-10-09T20:54:45.424Z",
-    "lastModified": "2024-09-19T03:57:04.748Z"
+    "lastModified": "2025-12-05T14:06:20.731Z"
 }
