@@ -1,5 +1,6 @@
 {
     "track": {
+        "mmo": 20,
         "trackTitle": "Before I Forget",
         "releaseYear": 2005,
         "duration": 268,
@@ -10,6 +11,7 @@
         "key": "Db",
         "majorMinor": "Minor",
         "intensities": {
+            "bd": 2,
             "proBass": 5,
             "proDrums": 5,
             "vocals": 2,
@@ -26,6 +28,6 @@
         "songUUID": "f61c437c-71fd-4c7d-a8bf-2285ecceff46",
         "trackIndex": "210"
     },
-    "_activeDate": "2024-04-04T14:28:59.180Z",
-    "lastModified": "2024-09-19T04:02:54.055Z"
+    "_activeDate": "2025-03-11T08:00:00.000Z",
+    "lastModified": "2025-12-09T15:16:41.662Z"
 }

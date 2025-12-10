@@ -1,5 +1,6 @@
 {
     "track": {
+        "mmo": 54,
         "trackTitle": "Seven Nation Army",
         "releaseYear": 2003,
         "duration": 235,
@@ -14,6 +15,7 @@
         "majorMinor": "Minor",
         "albumName": "Elephant",
         "intensities": {
+            "bd": 1,
             "proBass": 1,
             "proDrums": 0,
             "vocals": 2,
@@ -30,6 +32,6 @@
         "songUUID": "1fcee9b4-dc49-41b1-8e7d-add244f556a2",
         "trackIndex": "36"
     },
-    "_activeDate": "2023-12-19T23:59:00.000Z",
-    "lastModified": "2024-09-13T07:13:58.266Z"
+    "_activeDate": "2025-03-11T08:00:00.000Z",
+    "lastModified": "2025-12-09T19:13:57.332Z"
 }

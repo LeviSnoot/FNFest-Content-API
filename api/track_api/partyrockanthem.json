@@ -14,6 +14,7 @@
         "majorMinor": "Minor",
         "albumName": "Sorry for Party Rocking",
         "intensities": {
+            "bd": 1,
             "proBass": 1,
             "proDrums": 3,
             "vocals": 4,
@@ -31,5 +32,5 @@
         "trackIndex": "10"
     },
     "_activeDate": "2023-12-19T23:59:00.000Z",
-    "lastModified": "2024-09-14T00:36:23.075Z"
+    "lastModified": "2025-12-09T19:12:26.192Z"
 }
