@@ -328,6 +328,8 @@
   url: api/track_api/espresso.json
 - name: track_api/everlong.json
   url: api/track_api/everlong.json
+- name: track_api/eviljordan.json
+  url: api/track_api/eviljordan.json
 - name: track_api/eyeofthestorm.json
   url: api/track_api/eyeofthestorm.json
 - name: track_api/fadetoblack.json
@@ -694,6 +696,8 @@
   url: api/track_api/nodoubt.json
 - name: track_api/nonsense.json
   url: api/track_api/nonsense.json
+- name: track_api/noonenoticed.json
+  url: api/track_api/noonenoticed.json
 - name: track_api/noscrubs.json
   url: api/track_api/noscrubs.json
 - name: track_api/nothingelsematters.json
@@ -880,6 +884,8 @@
   url: api/track_api/singlesoon.json
 - name: track_api/sizzlinsunshine.json
   url: api/track_api/sizzlinsunshine.json
+- name: track_api/sky.json
+  url: api/track_api/sky.json
 - name: track_api/skysurfer.json
   url: api/track_api/skysurfer.json
 - name: track_api/slay.json
