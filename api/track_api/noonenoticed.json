@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "No One Noticed",
+        "releaseYear": 2024,
+        "duration": 238,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "G",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 0,
+            "proDrums": 2,
+            "vocals": 2,
+            "proGuitar": 2,
+            "guitar": 2,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 98,
+        "artistName": "The Mar\u00edas",
+        "ageRating": "E",
+        "albumArtFilename": "kb1tf7gizfyszwj3-512x512-eed64907b8b1.jpg",
+        "recordingCode": "USAT22307579",
+        "songUUID": "f12a346f-e3a2-4579-8992-3b297e4af2af",
+        "trackIndex": "725"
+    },
+    "_activeDate": "2025-12-11T23:57:00.000Z",
+    "lastModified": "2025-12-09T15:30:17.353Z"
+}

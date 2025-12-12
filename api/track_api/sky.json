@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "Sky",
+        "releaseYear": 2020,
+        "duration": 197,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Guitar",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 3,
+            "proBass": 0,
+            "proDrums": 3,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 2,
+            "bass": 0
+        },
+        "BPM": 140,
+        "artistName": "Playboi Carti",
+        "ageRating": "T",
+        "albumArtFilename": "0aaulvj4fy9gs9me-512x512-77d6d5c485c0.jpg",
+        "recordingCode": "USUM72024699",
+        "songUUID": "3aac8cbb-59b1-4a55-8a47-13447b20d591",
+        "trackIndex": "708"
+    },
+    "_activeDate": "2025-12-11T16:00:00.000Z",
+    "lastModified": "2025-12-11T16:30:44.358Z"
+}

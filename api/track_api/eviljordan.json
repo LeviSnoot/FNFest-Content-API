@@ -1,0 +1,32 @@
+{
+    "track": {
+        "trackTitle": "EVIL J0RDAN",
+        "releaseYear": 2025,
+        "duration": 117,
+        "iconBass": "Keyboard",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "Db",
+        "majorMinor": "Minor",
+        "intensities": {
+            "bd": 0,
+            "proBass": 0,
+            "proDrums": 4,
+            "vocals": 4,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 4,
+            "bass": 1
+        },
+        "BPM": 154,
+        "artistName": "Playboi Carti",
+        "ageRating": "T",
+        "albumArtFilename": "ptrttvrwgvmhhoeb-512x512-374ea9ee589a.jpg",
+        "recordingCode": "USUM72504938",
+        "songUUID": "4eef1dfe-0116-4f5f-901c-07c1747d8068",
+        "trackIndex": "706"
+    },
+    "_activeDate": "2025-12-11T16:00:00.000Z",
+    "lastModified": "2025-12-11T16:30:07.474Z"
+}
