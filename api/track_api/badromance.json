@@ -14,6 +14,7 @@
         "majorMinor": "Minor",
         "albumName": "The Fame Monster",
         "intensities": {
+            "bd": 3,
             "proBass": 3,
             "proDrums": 1,
             "vocals": 3,
@@ -31,5 +32,5 @@
         "trackIndex": "24"
     },
     "_activeDate": "2023-12-15T00:00:00.000Z",
-    "lastModified": "2024-09-13T07:10:32.705Z"
+    "lastModified": "2025-12-12T18:06:16.874Z"
 }

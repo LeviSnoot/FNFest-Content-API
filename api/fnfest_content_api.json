@@ -115,6 +115,7 @@
             "key": "G",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 2,
                 "proDrums": 4,
                 "vocals": 4,
@@ -129,7 +130,7 @@
             "trackIndex": "58"
         },
         "_activeDate": "2023-10-24T13:43:23.646Z",
-        "lastModified": "2024-09-13T02:32:34.694Z"
+        "lastModified": "2025-12-12T18:07:52.341Z"
     },
     "takemehigher": {
         "track": {
@@ -278,6 +279,7 @@
             "majorMinor": "Minor",
             "albumName": "The Fame Monster",
             "intensities": {
+                "bd": 3,
                 "proBass": 3,
                 "proDrums": 1,
                 "vocals": 3,
@@ -295,7 +297,7 @@
             "trackIndex": "24"
         },
         "_activeDate": "2023-12-15T00:00:00.000Z",
-        "lastModified": "2024-09-13T07:10:32.705Z"
+        "lastModified": "2025-12-12T18:06:16.874Z"
     },
     "blindinglights": {
         "track": {
@@ -1143,6 +1145,7 @@
             "majorMinor": "Minor",
             "albumName": "Beauty Behind the Madness",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 4,
                 "vocals": 2,
@@ -1160,7 +1163,7 @@
             "trackIndex": "06"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T21:26:27.580Z"
+        "lastModified": "2025-12-12T18:02:45.296Z"
     },
     "thesearch": {
         "track": {
@@ -1652,6 +1655,7 @@
             "key": "D",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 6,
                 "proDrums": 6,
                 "vocals": 2,
@@ -1669,7 +1673,7 @@
             "trackIndex": "103"
         },
         "_activeDate": "2023-11-08T22:17:09.798Z",
-        "lastModified": "2024-09-14T02:53:03.456Z"
+        "lastModified": "2025-12-12T18:09:24.318Z"
     },
     "lessthan": {
         "track": {
@@ -2392,6 +2396,7 @@
             "key": "Gb",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 4,
                 "proBass": 3,
                 "proDrums": 3,
                 "vocals": 3,
@@ -2409,7 +2414,7 @@
             "trackIndex": "126"
         },
         "_activeDate": "2023-12-11T13:54:38.596Z",
-        "lastModified": "2024-09-18T03:27:05.653Z"
+        "lastModified": "2025-12-12T18:04:10.978Z"
     },
     "justdance": {
         "track": {
@@ -2423,6 +2428,7 @@
             "key": "Db",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 0,
                 "proDrums": 0,
                 "vocals": 4,
@@ -2440,7 +2446,7 @@
             "trackIndex": "80"
         },
         "_activeDate": "2023-10-30T15:04:25.699Z",
-        "lastModified": "2024-09-18T03:19:27.378Z"
+        "lastModified": "2025-12-12T18:27:21.722Z"
     },
     "pokerface": {
         "track": {
@@ -4025,6 +4031,7 @@
             "majorMinor": "Major",
             "albumName": "The Middle",
             "intensities": {
+                "bd": 5,
                 "proBass": 1,
                 "proDrums": 3,
                 "vocals": 4,
@@ -4042,7 +4049,7 @@
             "trackIndex": "43"
         },
         "_activeDate": "2023-10-10T15:25:36.420Z",
-        "lastModified": "2024-09-18T08:26:52.090Z"
+        "lastModified": "2025-12-12T19:22:57.538Z"
     },
     "bustamove": {
         "track": {
@@ -4057,6 +4064,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 1,
                 "proBass": 4,
                 "proDrums": 3,
                 "vocals": 5,
@@ -4074,7 +4082,7 @@
             "trackIndex": "164"
         },
         "_activeDate": "2025-03-11T08:00:00.000Z",
-        "lastModified": "2025-03-05T19:04:34.816Z"
+        "lastModified": "2025-12-12T18:25:41.399Z"
     },
     "mood": {
         "track": {
@@ -4884,6 +4892,7 @@
             "key": "C",
             "majorMinor": "Major",
             "intensities": {
+                "bd": 2,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 3,
@@ -4901,7 +4910,7 @@
             "trackIndex": "171"
         },
         "_activeDate": "2024-04-23T08:00:00.000Z",
-        "lastModified": "2024-09-19T02:26:28.594Z"
+        "lastModified": "2025-12-12T18:00:40.010Z"
     },
     "maps": {
         "track": {
@@ -6404,6 +6413,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 3,
                 "proBass": 1,
                 "proDrums": 2,
                 "vocals": 4,
@@ -6421,7 +6431,7 @@
             "trackIndex": "217"
         },
         "_activeDate": "2024-05-30T13:30:00.000Z",
-        "lastModified": "2024-09-19T06:17:57.049Z"
+        "lastModified": "2025-12-12T18:24:19.215Z"
     },
     "circles": {
         "track": {
@@ -6439,6 +6449,7 @@
             "majorMinor": "Major",
             "albumName": "Hollywood's Bleeding",
             "intensities": {
+                "bd": 2,
                 "proBass": 2,
                 "proDrums": 1,
                 "vocals": 1,
@@ -6456,7 +6467,7 @@
             "trackIndex": "205"
         },
         "_activeDate": "2024-06-06T13:30:00.000Z",
-        "lastModified": "2025-11-12T17:59:11.160Z"
+        "lastModified": "2025-12-12T19:18:36.218Z"
     },
     "masterofpuppets": {
         "track": {
@@ -7405,6 +7416,7 @@
             "key": "D",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 4,
                 "proBass": 1,
                 "proDrums": 1,
                 "vocals": 5,
@@ -7422,7 +7434,7 @@
             "trackIndex": "262"
         },
         "_activeDate": "2024-07-11T13:30:00.000Z",
-        "lastModified": "2024-09-19T08:33:38.894Z"
+        "lastModified": "2025-12-12T19:21:23.668Z"
     },
     "heybrother": {
         "track": {
@@ -9355,6 +9367,7 @@
             "key": "E",
             "majorMinor": "Minor",
             "intensities": {
+                "bd": 6,
                 "proBass": 2,
                 "proDrums": 2,
                 "vocals": 4,
@@ -9372,7 +9385,7 @@
             "trackIndex": "341"
         },
         "_activeDate": "2024-09-26T13:30:00.000Z",
-        "lastModified": "2024-09-24T19:17:55.687Z"
+        "lastModified": "2025-12-12T19:20:04.353Z"
     },
     "toxic": {
         "track": {
@@ -18902,5 +18915,36 @@
         },
         "_activeDate": "2025-12-11T23:57:00.000Z",
         "lastModified": "2025-12-09T15:30:17.353Z"
+    },
+    "onemoretime": {
+        "track": {
+            "trackTitle": "One More Time",
+            "releaseYear": 2001,
+            "duration": 327,
+            "iconBass": "Bass",
+            "iconDrum": "Drum",
+            "iconGuitar": "Keyboard",
+            "iconVocals": "Vocals",
+            "key": "D",
+            "majorMinor": "Major",
+            "intensities": {
+                "bd": 2,
+                "proBass": 1,
+                "proDrums": 3,
+                "vocals": 2,
+                "proGuitar": 0,
+                "guitar": 0,
+                "drums": 3,
+                "bass": 1
+            },
+            "BPM": 123,
+            "artistName": "Daft Punk",
+            "ageRating": "E",
+            "albumArtFilename": "zuihigheyyfyueer-512x509-b4d8d857ad3f.jpg",
+            "songUUID": "da932a7e-73de-4e41-9714-e765e776c8ef",
+            "trackIndex": "713"
+        },
+        "_activeDate": "2025-12-15T18:00:00.000Z",
+        "lastModified": "2025-12-15T18:05:22.352Z"
     }
 }

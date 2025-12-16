@@ -14,6 +14,7 @@
         "majorMinor": "Major",
         "albumName": "The Middle",
         "intensities": {
+            "bd": 5,
             "proBass": 1,
             "proDrums": 3,
             "vocals": 4,
@@ -31,5 +32,5 @@
         "trackIndex": "43"
     },
     "_activeDate": "2023-10-10T15:25:36.420Z",
-    "lastModified": "2024-09-18T08:26:52.090Z"
+    "lastModified": "2025-12-12T19:22:57.538Z"
 }

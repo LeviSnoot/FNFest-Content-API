@@ -1,0 +1,31 @@
+{
+    "track": {
+        "trackTitle": "One More Time",
+        "releaseYear": 2001,
+        "duration": 327,
+        "iconBass": "Bass",
+        "iconDrum": "Drum",
+        "iconGuitar": "Keyboard",
+        "iconVocals": "Vocals",
+        "key": "D",
+        "majorMinor": "Major",
+        "intensities": {
+            "bd": 2,
+            "proBass": 1,
+            "proDrums": 3,
+            "vocals": 2,
+            "proGuitar": 0,
+            "guitar": 0,
+            "drums": 3,
+            "bass": 1
+        },
+        "BPM": 123,
+        "artistName": "Daft Punk",
+        "ageRating": "E",
+        "albumArtFilename": "zuihigheyyfyueer-512x509-b4d8d857ad3f.jpg",
+        "songUUID": "da932a7e-73de-4e41-9714-e765e776c8ef",
+        "trackIndex": "713"
+    },
+    "_activeDate": "2025-12-15T18:00:00.000Z",
+    "lastModified": "2025-12-15T18:05:22.352Z"
+}
